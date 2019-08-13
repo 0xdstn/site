@@ -7,7 +7,7 @@ function route() {
     window.history.pushState("", "", '/' + hash);
   }
 
-  var  pathname = window.location.pathname;
+  var  pathname = window.location.pathname.replace('\/\~dustin\/','');
   if (pathname.charAt(pathname.length - 1) == '/') {
       pathname = pathname.substr(0, pathname.length - 1);
   }

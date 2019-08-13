@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700|PT+Sans:400,400i,700,700i&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="/assets/styles/main.css" />
+    <title>Dustin</title>
+  </head>
+  <body>
+    <div class="container">
+
+      <header>
+        <a class="logo" href="/" onclick="return linkClick(event);">D</a>
+        <nav>
+          <a href="/about" onclick="return linkClick(event);">About</a> <a href="/projects" onclick="return linkClick(event);">Projects</a> <a href="/thoughts" onclick="return linkClick(event);">Thoughts</a>
+        </nav>
+      </header>
+
+      <div id="content"><h1 class="title"><strong>Tilde tools</strong> is a list of projects related to <a href="http://tilde.town" target="_blank">tilde.town</a></h1><h3>@towniebot</h3><p>A mastodon bot that features a random ~town user each morning. You can follow it at <a href="https://tiny.tilde.website/@towniebot" target="_blank">@towniebot@tiny.tilde.website</a>.</p><p>If you are a ~town user and would like to opt out as an option for this bot, simply create an empty file in your home directory called <strong>.towniebot</strong>. If the bot selects you and finds this file, it will skip you and move on to someone else.</p><p>If you were featured before you were able to opt out, please reach out to me and I can manually delete the toot.</p><h3>Tildebrowser</h3><p>This project was an idea by <a href="http://tilde.town/~equa" target="_blank">~equa</a>.</p><p>Every night at 12AM server time, a list of users will be scraped from the <strong>/home</strong> directory.</p><p>If a user has not changed their <strong>index.html</strong> from the default, they are not included in the list.</p><p>The page defaults the first user in the list, and provides links to the next and previous users, alphabetically. The page loads the currently selected user's page in an iframe. </p><p>If you are a member of ~town and would like to be excluded from the list, you can create a <strong>.tildebrowser</strong> file in your home directory. When the data is refreshed at 12AM, it will not include you. If you need it refreshed sooner, reach out to me and will manually run the script as soon as I can.</p><p>The tildebrowser can be <a href="http://tilde.town/~dustin/tildebrowser" target="_blank">viewed here</a>.</p><h3>Twtxt scraper</h3><p>A script that gathers a list of <a href="https://github.com/buckket/twtxt" target="_blank">twtxt</a> feeds of ~town users. It searches for an actual <strong>twtxt.txt</strong> file, and also parses the user's <strong>index.html</strong> file for a link if a file wasn't found. It is run nightly, and the output can be <a href="http://tilde.town/~dustin/twtxt.html" target="_blank">viewed here</a>.</p><h3>Social scraper</h3><p>A script that gathers a list of social accounts from ~town user's <strong>index.html</strong> file. It finds mastodon, github, instagram, and twitter. It is run nightly, and the output can be <a href="http://tilde.town/~dustin/social.html" target="_blank">viewed here</a>.</p><h3>Namelen</h3><p>A script that gathers statistics on the username length of ~town users. It is run nightly, and the output can be <a href="http://tilde.town/~dustin/namelen.html" target="_blank">viewed here</a>.</p></div>
+    </div>
+      <footer>
+        <p class="thanks">Thanks for reading!</p>
+        <p>
+         <a href="/about">About</a> <a href="/projects">Projects</a> <a href="/thoughts">Thoughts</a>
+        </p>
+        <p>
+        <a href="https://github.com/0xdustin" target="_blank">Github</a> <a href="mailto:0xdustin@protonmail.com">Email</a>
+        </p>
+      </footer>
+    <script type="text/javascript" src="/assets/scripts/lib/lukin.js"></script>
+    <script type="text/javascript" src="/assets/scripts/lib/lipu.js"></script>
+    <script type="text/javascript" src="/assets/scripts/mi.js"></script>
+    <script type="text/javascript" src="/assets/scripts/main.js"></script>
+  </body>
+</html>

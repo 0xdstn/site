@@ -1,0 +1,331 @@
+@import url("reset.css");
+
+/*
+ * Variables
+ */
+:root {
+  --primary: #00aaee;
+  --black: #000;
+  --grey: #999;
+  --white: #efefef;
+}
+
+/*
+ * Global
+ */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+body {
+  background: var(--white);
+  color: var(--black);
+  font-family: "PT Sans", monospace;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+@media (max-width:900px) {
+  body {
+    font-size: 15px;
+  }
+}
+
+a {
+  color: var(--primary);
+  cursor: pointer;
+  display: inline-block;
+  font-weight: bold;
+  position: relative;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+a:before {
+  background: var(--primary);
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 0px;
+  height: 2px;
+  width: 0px;
+  transition: all 0.3s;
+}
+
+a:hover {
+  color: var(--black);
+}
+
+a:hover:before {
+  width: 100%;
+}
+
+img {
+  display: block;
+  max-width: 800px;
+  margin-bottom: 2em;
+  width: 100%;
+}
+
+a.img {
+  display: block;
+  margin-bottom: 2em;
+  max-width: 800px;
+  width: 100%;
+}
+
+a.img:before {
+  bottom: 2px;
+}
+
+a.img img {
+  margin-bottom: 0;
+}
+
+.container {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 1300px;
+  padding: 1em 20px;
+  width: 100%;
+}
+
+/*
+ * Typography
+ */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Lora", serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0 0 1em;
+  font-weight: 400;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.8em;
+}
+
+h3 {
+  font-size: 1.6em;
+}
+
+h4 {
+  font-size: 1.4em;
+}
+
+h5 {
+  font-size: 1.2em;
+}
+
+h6 {
+  font-size: 1em;
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 1.8em;
+  margin-bottom: 1.5em;
+}
+
+ul,
+ol {
+  margin-bottom: 2em;
+  padding: 0;
+}
+
+ul li,
+ol li {
+  color: var(--black);
+  line-height: 1.8em;
+  padding-bottom: 0.25em;
+}
+
+ul li {
+  list-style: disc;
+  margin-left: 1.2em;
+  padding-left: 0.5em;
+}
+
+ol li {
+  list-style: decimal-leading-zero;
+  margin-left: 1.75em;
+}
+
+strong {
+  font-weight: 700;
+}
+
+blockquote {
+  border-left: solid 3px var(--primary);
+  font-size: 1.3em;
+  padding: 1em 0 1em 1em;
+  margin: 0 0 1.5em;
+}
+blockquote p {
+  margin: 0;
+  padding: 0;
+}
+
+code {
+  background: var(--black);
+  border-radius: 4px;
+  color: #fff;
+  padding: 0.15em 0.5em;
+}
+
+pre {
+  background: #ddd;
+  border-bottom: solid 3px var(--primary);
+  margin-bottom: 1.5em;
+  padding: 1em;
+  line-height: 1.5em;
+  overflow-x: auto;
+}
+
+h1.title,
+h2.title,
+h3.title,
+h4.title,
+h5.title,
+h6.title {
+  font-weight: 400;
+  margin-bottom: 2em;
+}
+
+/*
+ * Header
+ */
+
+header {
+  display: flex;
+  font-family: "Lora", serif;
+  justify-content: space-between;
+  position: relative;
+  margin-bottom: 4em;
+}
+
+.logo {
+  background: var(--primary);
+  border-radius: 100%;
+  color: var(--white);
+  display: block;
+  font-size: 1.5em;
+  font-weight: 700;
+  height: 1.5em;
+  line-height: 1.5em;
+  margin-right: 1em;
+  padding-left: 2px;
+  text-align: center;
+  transition: all .3s;
+  width: 1.5em;
+}
+
+.logo:hover {
+  background: var(--black);
+  color: var(--white);
+}
+
+.logo:hover:before {
+  display: none;
+}
+
+header nav {
+  background: var(--white);
+  line-height: 2em;
+  margin-left: .5em;
+}
+
+header nav a {
+  margin-left: .5em;
+}
+
+header nav a:hover:before {
+  
+}
+
+
+/*
+ * Footer
+ */
+footer {
+  font-family: "Lora", serif;
+  text-align: center;
+  padding-bottom: 3em;
+}
+
+footer p {
+  margin-bottom: .5em;
+}
+
+.thanks {
+  color: var(--grey);
+  font-size: 1.25em;
+  font-style: italic;
+  margin-bottom: 2em;
+}
+
+footer a {
+  font-weight: 400;
+  margin-right: .5em;
+}
+
+/*
+ * Post list
+ */
+
+.post-columns {
+  display: flex;
+}
+
+.post-column {
+  flex-grow: 1;
+  flex-basis: 0;
+}
+
+@media(max-width: 600px) {
+  .post-columns {
+    display: block;
+  }
+
+  .post-column {
+    margin-bottom: 3em;
+  }
+}
+
+.post {
+  font-family: "Lora", serif;
+  font-size: 1.25em;
+  margin-bottom: 1em;
+}
+
+.post .sub {
+  color: var(--grey);
+  font-size: .7em;
+  font-style: italic;
+}
+
+.post a:before {
+  bottom: -3px;
+}

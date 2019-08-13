@@ -1,0 +1,72 @@
+/*
+ * Force the body and HTML to be  height and width 100% so they take up the entire screen.
+ */
+ 
+    body, html {
+        height: 100%;
+        width:  100%;
+    }
+
+/*
+ * Remove margin and padding so they can be set manually on these select elements.
+ */
+ 
+    html, body, p, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, hr, pre, code, form, fieldset, legend, input, button, textarea, blockquote, th, td {
+      margin:   0;
+      padding:  0;
+    }
+
+/*
+ * Required for HTML5 elements to display correctly in older browsers. 
+ * Add any other elements you will be using.
+ */
+ 
+    div, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time {
+        display: block;
+    }
+    
+/*
+ * Resets the ul and ol elements to not contain list-style.
+ * These will need to be reset however you see fit for your content areas that will contain lists.
+ */
+ 
+    ul, ol {
+        list-style: none;
+    }
+
+/*
+ * Taken from Eric Meyer's CSS Reset (http://meyerweb.com/eric/tools/css/reset/).
+ * It prevents some browsers from inserting quotes on "q" and "p" ("p" in blockquotes).
+ */
+ 
+    blockquote, q {
+        quotes: none;
+    }
+    
+    blockquote:before, blockquote:after, q:before, q:after {
+        content: '';
+        content: none;
+    }
+    
+    table {
+        border-collapse:    collapse;
+        border-spacing:     0;
+    }
+
+/*
+ * Prevents the border from showing on images in a tags.
+ */
+ 
+    a img {
+        border: 0;
+    }
+
+/*
+ * Prevents the dotted border from showing up in Firefox on links.
+ */
+ 
+    a:hover, a:active, a:focus, a:active {
+        outline:            none;
+        -moz-outline-style: none;
+    }
+

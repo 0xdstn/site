@@ -86,11 +86,12 @@ const MI = `
 - [l:https://getrocketbook.com/collections/all-products/products/rocketbook-everlast-mini|Rocketbook Everlast Mini]
 - [l:https://www.amazon.com/dp/B009QYH644|Pilot FriXion Pens (.7mm), Assorted Color 7-pk]
 2 Select sketches from my notebooks
-@ assets/img/sketch_001_th.jpg|assets/img/sketch_001.jpg
+@ assets/img/sketch_006_th.jpg|assets/img/sketch_006.jpg
+@ assets/img/sketch_005_th.jpg|assets/img/sketch_005.jpg
 @ assets/img/sketch_002_th.jpg|assets/img/sketch_002.jpg
+@ assets/img/sketch_001_th.jpg|assets/img/sketch_001.jpg
 @ assets/img/sketch_003_th.jpg|assets/img/sketch_003.jpg
 @ assets/img/sketch_004_th.jpg|assets/img/sketch_004.jpg
-@ assets/img/sketch_005_th.jpg|assets/img/sketch_005.jpg
 
 ~projects/tilde-social : Tilde Social : A flat-file social network
 ^ [b:Tilde Social] is a flat-file social network

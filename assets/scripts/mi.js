@@ -72,27 +72,6 @@ const MI = `
 - [l:https://www.amazon.com/dp/0307887448|Ready Player One] by Ernest Cline
 - [l:http://www.galactanet.com/oneoff/lacero.html|Lacero] by Andy Weir
 
-~projects/sketchbook : Sketchbook : A list of sketching tools and select sketches
-^ [b:Sketchbook] is a list of sketching tools and select sketches
-2 Sketching tools I use
-- [l:https://us.moleskine.com/en/classic-notebook-black/p0460|Moleskine Classic Notebook, Soft Cover, XL (7.5 x 9.75 in), Blank, Black]
-- [l:https://www.amazon.com/dp/8883704975/|Moleskine Cahier Journal, Soft Cover, Large (5 x 8.25 in), Blank, Black]
-- [l:https://sakuraofamerica.com/watercolors-set|Sakura Koi Water Color Field Sketch Travel Kit]
-- [l:https://www.amazon.com/dp/B0722Y98KS|Mincho Black Fineliner Pens]
-- [l:https://www.amazon.com/dp/B0027IQ3MW|Derwent Graphic Pencil 3H]
-- [l:https://www.tombowusa.com/fudenosuke-brush-pen-broad-tip-black.html|Tombow Fudenosuke Brush Pen, Soft Tip, Black]
-- [l:https://www.amazon.com/dp/B00006IE7L|BIC Round Stic Ballpoint Pen, Medium (1.0mm), Blue]
-- [l:https://www.amazon.com/dp/B00006IEEE|BIC Mechanical Pencil, 0.5mm]
-- [l:https://getrocketbook.com/collections/all-products/products/rocketbook-everlast-mini|Rocketbook Everlast Mini]
-- [l:https://www.amazon.com/dp/B009QYH644|Pilot FriXion Pens (.7mm), Assorted Color 7-pk]
-2 Select sketches from my notebooks
-@ assets/img/sketch_006_th.jpg|assets/img/sketch_006.jpg
-@ assets/img/sketch_005_th.jpg|assets/img/sketch_005.jpg
-@ assets/img/sketch_002_th.jpg|assets/img/sketch_002.jpg
-@ assets/img/sketch_001_th.jpg|assets/img/sketch_001.jpg
-@ assets/img/sketch_003_th.jpg|assets/img/sketch_003.jpg
-@ assets/img/sketch_004_th.jpg|assets/img/sketch_004.jpg
-
 ~projects/tilde-social : Tilde Social : A flat-file social network
 ^ [b:Tilde Social] is a flat-file social network
 & Tilde Social is intended to be used on shared tilde servers (like [l:http://tilde.town|tilde.town]).

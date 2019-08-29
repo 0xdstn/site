@@ -41,6 +41,7 @@ const MI = `
 # [l:https://www.amazon.com/dp/0399581626|The New Rules of Coffee] by Jordan Michelman and Zachary Carlsen
 # [l:https://www.amazon.com/dp/0553512706|The Halloween Tree] by Ray Bradbury
 # [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors <code>READING</code>
+# [l:https://www.amazon.com/dp/B077S21HX6|Scary Stories to Tell in the Dark] by Alvin Schwartz <code>READING</code>
 # [l:https://www.amazon.com/dp/0060512806|Cryptonomicon] by Neal Stephenson <code>LISTENING</code>
 & [b:Books read prior to 2019]
 - [l:https://www.amazon.com/dp/0545162076|Harry Potter 1-7] by J.K. Rowling

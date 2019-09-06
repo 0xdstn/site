@@ -7,6 +7,7 @@ const MI = `
 & I study and follow the teachings of [b:secular buddhism], and apply it to every aspect of my life as best I can.
 & I tend to have many interests, so you will find a lot of various things I have dabbled in here on this site.
 3 Contact &amp; social
+- [b:Mastodon:] [l:https://merveilles.town/@0xdstn|@0xdstn@merveilles.town]
 - [b:Github:] [l:https://github.com/0xdstn|github.com/0xdstn]
 - [b:Email:] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
 
@@ -147,6 +148,23 @@ const MI = `
 & A script that gathers a list of social accounts from ~town user's [b:index.html] file. It finds mastodon, github, instagram, and twitter. It is run nightly, and the output can be [l:http://tilde.town/~dustin/social.html|viewed here].
 3 Namelen
 & A script that gathers statistics on the username length of ~town users. It is run nightly, and the output can be [l:http://tilde.town/~dustin/namelen.html|viewed here].
+
+~projects/analog-art-tools : Analog art tools : A list of tools I use for creating art
+^ [b:Analog art tools] is a list of tools for creating art
+2 Notebooks
+- [l:https://us.moleskine.com/en/classic-notebook-black/p0460|Moleskine Classic Notebook, Soft Cover, XL (7.5 x 9.75 in), Blank, Black]
+- [l:https://www.amazon.com/dp/8883704975/|Moleskine Cahier Journal, Soft Cover, Large (5 x 8.25 in), Blank, Black]
+- [l:https://getrocketbook.com/collections/all-products/products/rocketbook-everlast-mini|Rocketbook Everlast Mini]
+2 Pens
+- [l:https://www.amazon.com/dp/B0722Y98KS|Mincho Black Fineliner Pens]
+- [l:https://www.tombowusa.com/fudenosuke-brush-pen-broad-tip-black.html|Tombow Fudenosuke Brush Pen, Soft Tip, Black]
+- [l:https://www.amazon.com/dp/B00006IE7L|BIC Round Stic Ballpoint Pen, Medium (1.0mm), Blue]
+- [l:https://www.amazon.com/dp/B009QYH644|Pilot FriXion Pens (.7mm), Assorted Color 7-pk]
+2 Pencils
+- [l:https://www.amazon.com/dp/B0027IQ3MW|Derwent Graphic Pencil 3H]
+- [l:https://www.amazon.com/dp/B00006IEEE|BIC Mechanical Pencil, 0.5mm]
+2 Paint
+- [l:https://sakuraofamerica.com/watercolors-set|Sakura Koi Water Color Field Sketch Travel Kit]
 
 ~projects/camera-glitch : Camera glitch : A collection of photos taken with a broken digital camera
 ^ [b:Camera glitch] is a collection of photos taken with a broken digital camera

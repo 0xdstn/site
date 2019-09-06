@@ -171,6 +171,7 @@ ul li {
 ol li {
   list-style: decimal-leading-zero;
   margin-left: 1.75em;
+  padding-left: .5em;
 }
 
 strong {

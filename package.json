@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xdustin/site.git"
+    "url": "git+https://github.com/0xdstn/site.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/0xdustin/site/issues"
+    "url": "https://github.com/0xdstn/site/issues"
   },
-  "homepage": "https://github.com/0xdustin/site#readme",
+  "homepage": "https://github.com/0xdstn/site#readme",
   "dependencies": {
     "rimraf": "^2.6.3"
   }

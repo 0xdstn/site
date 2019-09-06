@@ -36,7 +36,7 @@ var footer = `</div>
          <a href="/~dustin/about" onclick="return linkClick(event);">About</a> <a href="/~dustin/projects" onclick="return linkClick(event);">Projects</a> <a href="/~dustin/thoughts" onclick="return linkClick(event);">Thoughts</a>
         </p>
         <p>
-        <a href="https://github.com/0xdustin" target="_blank">Github</a> <a href="mailto:0xdustin@protonmail.com">Email</a>
+        <a href="https://github.com/0xdstn" target="_blank">Github</a> <a href="mailto:0xdstn@protonmail.com">Email</a>
         </p>
       </footer>
     <script type="text/javascript" src="/~dustin/assets/scripts/lib/lukin.js"></script>

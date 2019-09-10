@@ -276,6 +276,11 @@ footer {
   padding-bottom: 3em;
 }
 
+footer .webring {
+	height: 40px;
+	width: 40px;
+}
+
 footer p {
   margin-bottom: .5em;
 }

@@ -80,6 +80,28 @@ const MI = `
 - [l:https://www.amazon.com/dp/0307887448|Ready Player One] by Ernest Cline
 - [l:http://www.galactanet.com/oneoff/lacero.html|Lacero] by Andy Weir
 
+~wiki/tenpo : Tenpo : A personal date format
+^ [b:Tenpo] is a date format.
+& Tenpo is the custom date format that is used on this wiki. It is written in the format [b:YYMDD].
+3 Years
+& Years are an incremental count of years since [b:1988], the year I was born, with the first year being year [b:00]. For years lower than 10, a leading zero is added.
+& Here are some examples for reference:
+- [b:31] 2019
+- [b:20] 2008
+- [b:12] 2000
+- [b:02] 1990
+- [b:00] 1988
+3 Months and Days
+& There are [b:5 months] lasting exctly [b:73 days each]. The months are single letters, [b:A-E]. Days are just the number of days within each month from [b:01 to 73].
+& Here are the dates that fall within each month:
+- [b:A] 01/01 - 03/14
+- [b:B] 03/15 - 05/26
+- [b:C] 05/27 - 08/07
+- [b:D] 08/08 - 10/19
+- [b:E] 10/20 - 12/31
+3 Leap year
+& Whenever there is a leap year, that day is annexed and written as [b:A00], so in [b:2020] the leap year day of [b:2/29] will be [b:32A00].
+
 ~wiki/analog-art-tools : Analog art tools : A list of tools I use for creating art
 ^ [b:Analog art tools] is a list of tools for creating art
 2 Notebooks

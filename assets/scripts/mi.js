@@ -102,6 +102,44 @@ const MI = `
 3 Leap year
 & Whenever there is a leap year, that day is annexed and written as [b:A00], so in [b:2020] the leap year day of [b:2/29] will be [b:32A00].
 
+~wiki/inventory : Inventory : A list of personal devices
+^ The [b:Inventory] is a list of devices
+2 [b:ZEN] is an [l:https://www.asus.com/us/Laptops/ASUS-ZenBook-Pro-UX501VW/|Asus Zenbook UX501VW] and my primary work station.
+& [b:Specifications]
+- [b:Operating systems:] Windows 10, Arch Linux
+- [b:Processor:] Intel Core i7 6700HQ Processor
+- [b:Memory:] 16GB DDR4 2133 MHz SDRAM
+- [b:Display:] 15.6}1" 16:9 (3840 x 2160) touchscreen
+- [b:Graphics:] NVIDIA GeForce GTX 960M with 2G/4G GDDR5 VRAM
+- [b:Storage:] 1TB HDD 5400 RPM
+- [b:Weight:] 2.06 lbs
+2 [b:SRV] is a [l:https://www.raspberrypi.org/products/raspberry-pi-3-model-b/|Raspberry Pi 3 Model B] used as a personal server.
+& This device is set up to either be in a central location, connected to the internet and accessible via SSH, or carried on the go. When it boots up, it emits a wifi network called [b:NULLNET] so it can be SSHed into without needing to connect it to another network.
+& [b:Specifications]
+- [b:Operating system:] Raspbian
+- [b:Processor:] Quad Core 1.2GHz Broadcom BCM2837 64bit CPU
+- [b:Memory:] 1GB RAM
+- [b:Storage:] 16GB Micro SD Card
+2 [b:CRO] is a [l:https://www.samsung.com/us/business/products/computing/chrome-devices/chromebook-2/chromebook-2-11-6-xe500c12-k02us/|Samsung Chromebook 2] used as an on-the-go laptop.
+& It is set to developer mode, and has linux installed within Chrome OS via crouton. It is often used to connect to [b:SRV].
+& [b:Specifications]
+- [b:Operating Systems:] Chrome OS, Ubuntu
+- [b:Processor:] Intel Celeron Processor N2840 2.16GHz
+- [b:Display:] 11.6" 16:9 LCD (1366 x 768)
+- [b:Memory:] 4GB DDR3L RAM
+- [b:Storage:] 16GB
+- [b:Graphics:] Intel HD Graphics
+- [b:Weight:] 2.60 lbs
+2 [b:PIX] is a [l:https://www.amazon.com/dp/B0766GHWM6|Google Pixel 2] and is my primary phone.
+& [b:Specifications]
+- [b:Operating system:] Android 9
+- [b:Processor:] Octa core (2.45 GHz, Quad core, Kryo 280 + 1.9 GHz, Quad core, Kryo 280)
+- [b:Display:] 5" 16:9 (1080 x 1920) touchscreen
+- [b:Memory:] 4GB RAM
+- [b:Storage:] 64GB
+- [b:Graphics:] Adreno 540
+- [b:Weight:] 6.25 lbs
+
 ~wiki/analog-art-tools : Analog art tools : A list of tools I use for creating art
 ^ [b:Analog art tools] is a list of tools for creating art
 2 Notebooks

@@ -1,5 +1,26 @@
 const MI = `
-~about/index : About : More information about Dustin
+~index/index : Home
+^ [l:wiki/about|Dustin] is a software engineer living in Spokane, Wa.
+! <div class="post-columns">
+! <div class="post-column">
+3 Wiki
+? [d:wiki]
+! </div>
+! <div class="post-column">
+3 Projects
+? [d:projects]
+! </div>
+! <div class="post-column">
+3 Thoughts
+? [d:thoughts]
+! </div>
+! </div>
+
+~wiki/index : Wiki
+^ [b:Wiki] is a collection of personal documents
+? [d:wiki]
+
+~wiki/about : About : More information about me
 ^ [b:Dustin] is the owner and maintainer of this website
 & I have been browsing the internet under many pseudonyms over the years, and decided to no longer hide in a [l:#thoughts/dark-forest|dark forest] on the internet.
 & I am married to an amazing woman and have two beautiful children. My family is my top priority in life.
@@ -11,24 +32,7 @@ const MI = `
 - [b:Github:] [l:https://github.com/0xdstn|github.com/0xdstn]
 - [b:Email:] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
 
-~index/index : Home
-^ [l:about|Dustin] is a software engineer living in Spokane, Wa.
-! <div class="post-columns">
-! <div class="post-column">
-3 Projects
-? [d:projects]
-! </div>
-! <div class="post-column">
-3 Thoughts
-? [d:thoughts]
-! </div>
-! </div>
-
-~projects/index : Projects
-^ [b:Projects] is a collection of various things I've worked on
-? [d:projects]
-
-~projects/library : Library : A list of books I've read
+~wiki/library : Library : A list of books I've read
 / [l:https://www.amazon.com/dp/0060512806|Cryptonomicon] by Neal Stephenson <code>LISTENING</code>
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
 ^ The [b:Library] is a list of books  
@@ -75,6 +79,27 @@ const MI = `
 - [l:https://www.amazon.com/dp/1597499579|Violent Python] by T.J. O'Connor
 - [l:https://www.amazon.com/dp/0307887448|Ready Player One] by Ernest Cline
 - [l:http://www.galactanet.com/oneoff/lacero.html|Lacero] by Andy Weir
+
+~wiki/analog-art-tools : Analog art tools : A list of tools I use for creating art
+^ [b:Analog art tools] is a list of tools for creating art
+2 Notebooks
+- [l:https://us.moleskine.com/en/classic-notebook-black/p0460|Moleskine Classic Notebook, Soft Cover, XL (7.5 x 9.75 in), Blank, Black]
+- [l:https://www.amazon.com/dp/8883704975/|Moleskine Cahier Journal, Soft Cover, Large (5 x 8.25 in), Blank, Black]
+- [l:https://getrocketbook.com/collections/all-products/products/rocketbook-everlast-mini|Rocketbook Everlast Mini]
+2 Pens
+- [l:https://www.amazon.com/dp/B0722Y98KS|Mincho Black Fineliner Pens]
+- [l:https://www.tombowusa.com/fudenosuke-brush-pen-broad-tip-black.html|Tombow Fudenosuke Brush Pen, Soft Tip, Black]
+- [l:https://www.amazon.com/dp/B00006IE7L|BIC Round Stic Ballpoint Pen, Medium (1.0mm), Blue]
+- [l:https://www.amazon.com/dp/B009QYH644|Pilot FriXion Pens (.7mm), Assorted Color 7-pk]
+2 Pencils
+- [l:https://www.amazon.com/dp/B0027IQ3MW|Derwent Graphic Pencil 3H]
+- [l:https://www.amazon.com/dp/B00006IEEE|BIC Mechanical Pencil, 0.5mm]
+2 Paint
+- [l:https://sakuraofamerica.com/watercolors-set|Sakura Koi Water Color Field Sketch Travel Kit]
+
+~projects/index : Projects
+^ [b:Projects] is a collection of various things I've worked on
+? [d:projects]
 
 ~projects/tilde-social : Tilde Social : A flat-file social network
 ^ [b:Tilde Social] is a flat-file social network
@@ -149,23 +174,6 @@ const MI = `
 3 Namelen
 & A script that gathers statistics on the username length of ~town users. It is run nightly, and the output can be [l:http://tilde.town/~dustin/namelen.html|viewed here].
 
-~projects/analog-art-tools : Analog art tools : A list of tools I use for creating art
-^ [b:Analog art tools] is a list of tools for creating art
-2 Notebooks
-- [l:https://us.moleskine.com/en/classic-notebook-black/p0460|Moleskine Classic Notebook, Soft Cover, XL (7.5 x 9.75 in), Blank, Black]
-- [l:https://www.amazon.com/dp/8883704975/|Moleskine Cahier Journal, Soft Cover, Large (5 x 8.25 in), Blank, Black]
-- [l:https://getrocketbook.com/collections/all-products/products/rocketbook-everlast-mini|Rocketbook Everlast Mini]
-2 Pens
-- [l:https://www.amazon.com/dp/B0722Y98KS|Mincho Black Fineliner Pens]
-- [l:https://www.tombowusa.com/fudenosuke-brush-pen-broad-tip-black.html|Tombow Fudenosuke Brush Pen, Soft Tip, Black]
-- [l:https://www.amazon.com/dp/B00006IE7L|BIC Round Stic Ballpoint Pen, Medium (1.0mm), Blue]
-- [l:https://www.amazon.com/dp/B009QYH644|Pilot FriXion Pens (.7mm), Assorted Color 7-pk]
-2 Pencils
-- [l:https://www.amazon.com/dp/B0027IQ3MW|Derwent Graphic Pencil 3H]
-- [l:https://www.amazon.com/dp/B00006IEEE|BIC Mechanical Pencil, 0.5mm]
-2 Paint
-- [l:https://sakuraofamerica.com/watercolors-set|Sakura Koi Water Color Field Sketch Travel Kit]
-
 ~projects/camera-glitch : Camera glitch : A collection of photos taken with a broken digital camera
 ^ [b:Camera glitch] is a collection of photos taken with a broken digital camera
 & A while back I had a digital camera with a broken lens that functioned enough to take some glitched photos. I tried to glitch it further and just ended up breaking the camera, but these were the images that I got out of it. Completely unmodified, taken straight from the camera.
@@ -220,7 +228,7 @@ _ [p:DESC]
 & I feel like running around on the internet under a pseudonym doesn't provide much. Privacy isn't about hiding who I am, it's about being selective about what I share. I don't need to blast out photos of my familiy and my every whereabouts publicly, that is a good use for a dark forest such as my private Facebook or Instagram.
 & I have been fighting against technology instead of allowing it to make my life better. Allowing it to make me more connected to the outside world. This connectivity to other humans is the true power of the internet, once you push through all of the noise. The excessive bits of the internet are new, the conversation and personal connections have always been there.
 & I want to be more open, in a careful way, online. The things that I have added to this site are really a true representation of my thoughts and interests. I don't need to hide those behind a moniker.
-& My name is [l:about|Dustin] and this is my personal site for sharing my life.
+& My name is [l:wiki/about|Dustin] and this is my personal wiki for sharing my life.
 
 ~thoughts/to-log-or-not-to-log : To log or not to log : July 19th, 2019
 2 [p:NAME]

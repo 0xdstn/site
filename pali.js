@@ -1,3 +1,5 @@
+const basePath = '/~dustin/';
+
 // Imports
 var fs = require('fs');
 var rimraf = require('rimraf');
@@ -13,16 +15,16 @@ var header = `<!DOCTYPE html>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <link href="https://fonts.googleapis.com/css?family=Lora:400,700|PT+Sans:400,400i,700,700i&display=swap" rel="stylesheet"> 
-    <link rel="stylesheet" href="/~dustin/assets/styles/main.css" />
+    <link rel="stylesheet" href="${basePath}assets/styles/main.css" />
     <title>Dustin</title>
   </head>
   <body>
     <div class="container">
 
       <header>
-        <a class="logo" href="/~dustin/" onclick="return linkClick(event);">D</a>
+        <a class="logo" href="${basePath}" onclick="return linkClick(event);">D</a>
         <nav>
-          <a href="/~dustin/wiki/about" onclick="return linkClick(event);">About</a> <a href="/~dustin/projects" onclick="return linkClick(event);">Projects</a> <a href="/~dustin/thoughts" onclick="return linkClick(event);">Thoughts</a>
+          <a href="${basePath}wiki/about" onclick="return linkClick(event);">About</a> <a href="${basePath}projects" onclick="return linkClick(event);">Projects</a> <a href="${basePath}thoughts" onclick="return linkClick(event);">Thoughts</a>
         </nav>
       </header>
 
@@ -33,10 +35,10 @@ var footer = `</div>
       <footer>
         <p class="thanks">Thanks for reading!</p>
         <p>
-         <a href="/~dustin/wiki/about" onclick="return linkClick(event);">About</a> <a href="/~dustin/projects" onclick="return linkClick(event);">Projects</a> <a href="/~dustin/thoughts" onclick="return linkClick(event);">Thoughts</a>
+         <a href="${basePath}wiki/about" onclick="return linkClick(event);">About</a> <a href="${basePath}projects" onclick="return linkClick(event);">Projects</a> <a href="${basePath}thoughts" onclick="return linkClick(event);">Thoughts</a>
         </p>
         <p>
-        <a href="https://merveilles.town/@0xdstn" rel="me" target="_blank">Mastodon</a> <a href="https://github.com/0xdstn" target="_blank">Github</a> <a href="mailto:0xdstn@protonmail.com">Email</a>
+        <a href="https://github.com/0xdstn" target="_blank">Github</a> <a href="mailto:0xdstn@protonmail.com">Email</a>
         </p>
 				<p>
 					<a href="https://webring.xxiivv.com/#random" target="_blank" class="webring">
@@ -44,10 +46,11 @@ var footer = `</div>
 					</a>
 				</p>
       </footer>
-    <script type="text/javascript" src="/~dustin/assets/scripts/lib/lukin.js"></script>
-    <script type="text/javascript" src="/~dustin/assets/scripts/lib/lipu.js"></script>
-    <script type="text/javascript" src="/~dustin/assets/scripts/mi.js"></script>
-    <script type="text/javascript" src="/~dustin/assets/scripts/main.js"></script>
+    <script type="text/javascript">const basePath = "${basePath}";</script>
+    <script type="text/javascript" src="${basePath}assets/scripts/lib/lukin.js"></script>
+    <script type="text/javascript" src="${basePath}assets/scripts/lib/lipu.js"></script>
+    <script type="text/javascript" src="${basePath}assets/scripts/mi.js"></script>
+    <script type="text/javascript" src="${basePath}assets/scripts/main.js"></script>
   </body>
 </html>`;
 
@@ -78,11 +81,11 @@ for (var section in data) {
       // Create the html file
       if (section === 'index') {
         console.log(`    Creating file: ${page}.html`);
-        fs.writeFile(`${page}.html`,header + lipu(data, section, page) + footer, () => {});
+        fs.writeFile(`${page}.html`,header + lipu(data, section, page, basePath) + footer, () => {});
       }
       else {
         console.log(`    Creating file: ${section}/${page}.html`);
-        fs.writeFile(`${section}/${page}.html`,header + lipu(data, section, page) + footer, () => {});
+        fs.writeFile(`${section}/${page}.html`,header + lipu(data, section, page, basePath) + footer, () => {});
       }
     } 
     // Sub page
@@ -94,7 +97,7 @@ for (var section in data) {
 
       // Create the html file
       console.log(`    Creating file: ${section}/${page}/index.html`);
-      fs.writeFile(`${section}/${page}/index.html`,header + lipu(data, section, page) + footer, () => {});
+      fs.writeFile(`${section}/${page}/index.html`,header + lipu(data, section, page, basePath) + footer, () => {});
     }
 
     console.log('');

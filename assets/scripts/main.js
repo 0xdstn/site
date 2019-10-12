@@ -7,7 +7,7 @@ function route() {
     window.history.pushState("", "", '/' + hash);
   }
 
-  var  pathname = window.location.pathname.replace('\/\~dustin\/','');
+  var  pathname = window.location.pathname.replace(basePath.replace('/','\/').replace('~','\~'),'');
   if (pathname.charAt(pathname.length - 1) == '/') {
       pathname = pathname.substr(0, pathname.length - 1);
   }
@@ -24,7 +24,7 @@ function route() {
   if (loc.length !== 2 || mi[loc[0]][loc[1]] === undefined) {
     html = '404';
   } else {
-    html = lipu(mi,loc[0],loc[1]);
+    html = lipu(mi,loc[0],loc[1],basePath);
   }
 
   document.getElementById("content").innerHTML = html;

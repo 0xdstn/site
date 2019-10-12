@@ -1,6 +1,6 @@
 "use strict";
 
-function lipu(mi,section,pg) {
+function lipu(mi,section,pg,basePath) {
   const page = mi[section][pg];
   const lines = page.BODY;
   const key = {
@@ -62,7 +62,7 @@ function lipu(mi,section,pg) {
           line = line.replace(m[0], `<a href="${url}"${target}>${txt}</a>`);
         }
         else {
-          line = line.replace(m[0], `<a href="/~dustin/${url}" onclick="return linkClick(event);">${txt}</a>`);
+          line = line.replace(m[0], `<a href="${basePath}${url}" onclick="return linkClick(event);">${txt}</a>`);
         }
       } else if (k === "p" && page[m[2]]) {
         line = line.replace(m[0], page[m[2]]);
@@ -75,7 +75,7 @@ function lipu(mi,section,pg) {
             list += `
               <div class="post">
                 <span>
-                  <a href="/~dustin/${page.LINK}" onclick="return linkClick(event);">${page.NAME}</a><br>
+                  <a href="${basePath}${page.LINK}" onclick="return linkClick(event);">${page.NAME}</a><br>
                   <span class="sub">${page.DESC}</span>
                 </span>
               </div>`;
@@ -124,10 +124,10 @@ function lipu(mi,section,pg) {
           output += `<a class="img" href="${link}"${target}>`;
         }
         else {
-          output += `<a class="img" href="/~dustin/${link}">`;
+          output += `<a class="img" href="${basePath}${link}">`;
         }
       }
-      output += `<img src="/~dustin/${text}">`;
+      output += `<img src="${basePath}${text}">`;
       if (hasLink) output += "</a>";
     } else {
       if (inList) {

@@ -52,6 +52,7 @@ const MI = `
 # [l:https://www.amazon.com/dp/B00VE3J1QG|The Nightmare Collective] by Multiple authors
 # [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh <code>READING</code>
 # [l:https://www.gutenberg.org/ebooks/21|Aesop's Fables] by Aesop <code>READING</code>
+# [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell <code>READING</code>
 & [b:Books read prior to 2019]
 - [l:https://www.amazon.com/dp/0545162076|Harry Potter 1-7] by J.K. Rowling
 - [l:https://www.amazon.com/dp/B002BA83RO|The Dead Zone] by Stephen King

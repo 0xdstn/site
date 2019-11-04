@@ -33,6 +33,7 @@ const MI = `
 
 ~wiki/library : Library : A list of books I've read
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
+/ [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell <code>READING</code>
 ^ The [b:Library] is a list of books  
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 & [b:Books read in 2019]
@@ -52,7 +53,7 @@ const MI = `
 # [l:https://www.amazon.com/dp/B00VE3J1QG|The Nightmare Collective] by Multiple authors
 # [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh <code>READING</code>
 # [l:https://www.gutenberg.org/ebooks/21|Aesop's Fables] by Aesop <code>READING</code>
-# [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell <code>READING</code>
+# [l:https://www.gutenberg.org/ebooks/7256|The Gift of the Magi] by O. Henry <code>READING</code>
 & [b:Books read prior to 2019]
 - [l:https://www.amazon.com/dp/0545162076|Harry Potter 1-7] by J.K. Rowling
 - [l:https://www.amazon.com/dp/B002BA83RO|The Dead Zone] by Stephen King

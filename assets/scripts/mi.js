@@ -51,9 +51,10 @@ const MI = `
 # [l:https://www.amazon.com/dp/B0006ASEJS|Halloween through twenty centuries] by Ralph Linton
 # [l:https://www.amazon.com/dp/0060835249|Scary Stories 3: More Tales to Chill Your Bones] by Alvin Schwartz
 # [l:https://www.amazon.com/dp/B00VE3J1QG|The Nightmare Collective] by Multiple authors
+# [l:https://www.gutenberg.org/ebooks/7256|The Gift of the Magi] by O. Henry
 # [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh <code>READING</code>
 # [l:https://www.gutenberg.org/ebooks/21|Aesop's Fables] by Aesop <code>READING</code>
-# [l:https://www.gutenberg.org/ebooks/7256|The Gift of the Magi] by O. Henry <code>READING</code>
+# [l:https://www.amazon.com/dp/B00JS59ZK4|Watch Dogs: Dark Clouds] by John Shirley <code>READING</code>
 & [b:Books read prior to 2019]
 - [l:https://www.amazon.com/dp/0545162076|Harry Potter 1-7] by J.K. Rowling
 - [l:https://www.amazon.com/dp/B002BA83RO|The Dead Zone] by Stephen King

@@ -173,6 +173,7 @@ const MI = `
 & You can use the following commands (example: <code>lon.py list</code>):
 - <code>init</code> - Initialize your bookmarks
 - <code>list</code> - View a list of all your bookmarks
+- <code>tags</code> - View a list of all your tags
 - <code>search &lt;term&gt;</code> - Search for bookmarks containing the provided term
 - <code>tagged &lt;tag&gt;</code> - Search for bookmarks tagged with the provided tag
 - <code>add &lt;url&gt; "&lt;title&gt;" &lt;tag1&gt;,&lt;tag2&gt;</code> - Add a bookmark with the provided details
@@ -183,6 +184,7 @@ const MI = `
 - Add ability to delete a bookmark
 - Add check to prevent duplicate bookmarks
 3 Release notes
+- <code>v1.0.1</code> Added ability to get a list of tags
 - <code>v1.0.0</code> Initial release with base functionality
 
 ~projects/tilde-social : Tilde Social : A flat-file social network

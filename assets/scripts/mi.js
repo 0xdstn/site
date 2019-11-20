@@ -166,6 +166,25 @@ const MI = `
 ^ [b:Projects] is a collection of various things I've worked on
 ? [d:projects]
 
+~projects/lon : Lon : A flat-file CLI bookmark manager
+^ [b:Lon] is a CLI bookmark manager
+& Lon is a simple bookmark manager for storing and searching/tagging things online.
+& All data is stored in a single <code>~/.lon</code> file.
+& You can use the following commands (example: <code>lon.py list</code>):
+- <code>init</code> - Initialize your bookmarks
+- <code>list</code> - View a list of all your bookmarks
+- <code>search &lt;term&gt;</code> - Search for bookmarks containing the provided term
+- <code>tagged &lt;tag&gt;</code> - Search for bookmarks tagged with the provided tag
+- <code>add &lt;url&gt; "&lt;title&gt;" &lt;tag1&gt;,&lt;tag2&gt;</code> - Add a bookmark with the provided details
+3 Future plans
+& Here are some features I'd like to add in the future:
+- Add generator to output a site for viewing bookmarks
+- Add ability to edit a bookmark
+- Add ability to delete a bookmark
+- Add check to prevent duplicate bookmarks
+3 Release notes
+- <code>v1.0.0</code> Initial release with base functionality
+
 ~projects/tilde-social : Tilde Social : A flat-file social network
 ^ [b:Tilde Social] is a flat-file social network
 & Tilde Social is intended to be used on shared tilde servers (like [l:http://tilde.town|tilde.town]).
@@ -238,6 +257,10 @@ const MI = `
 & A script that gathers a list of social accounts from ~town user's [b:index.html] file. It finds mastodon, github, instagram, and twitter. It is run nightly, and the output can be [l:http://tilde.town/~dustin/social.html|viewed here].
 3 Namelen
 & A script that gathers statistics on the username length of ~town users. It is run nightly, and the output can be [l:http://tilde.town/~dustin/namelen.html|viewed here].
+3 Linkbot
+& An IRC bot that finds URLs, images, and youtube videos, and compiles a list of them. 
+& You are automatically opted out of your links being shared. If you want to opt in so all links you post are shared, you can add an empty [b:.linkbot] file to your home directory. If the bot finds a link you posted and you have this dotfile, your link will be added. You can still opt a specific link out by starting your message with [b:!nolinkbot], [b:!nolink], or [b:!nolb]. If you are not opted in, you can still add a link explicitly by starting your message with [b:!linkbot], [b:!link], or [b:!lb].
+& The output can be [l:http://tilde.town/~dustin/linkbot/|viewed here].
 
 ~projects/camera-glitch : Camera glitch : A collection of photos taken with a broken digital camera
 ^ [b:Camera glitch] is a collection of photos taken with a broken digital camera

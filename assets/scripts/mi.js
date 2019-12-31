@@ -169,6 +169,18 @@ const MI = `
 2 Paint
 - [l:https://sakuraofamerica.com/watercolors-set|Sakura Koi Water Color Field Sketch Travel Kit]
 
+~wiki/parenting : Parenting : A collection of notes on parenting
+^ [b:Parenting] is a collection of notes related to parenting
+- If your child offers you a hand to hold, take it. You need to appreciate these little moments, because some day they won't want you to hold their hand anymore, and you will miss it. You may be tired of holding their hand, or the other things they ask for a million times, but do it anyway. Cherish the time you have with your child, because you never know when it is going to end. You won't notice that it's the last time you do something until after you never do it again.
+- To a kid, anything can be special and fun. They have a wonderful sense of presentness, where they can find joy in whatever they are doing. As we get older, we phase ourselves out of this behavior, or it is phased out of us by societal expectations. We need to encourage this in children, and don't crush it with suble corrections and insistence on the "right" way to do things. Let them explore and enjoy things the way they perceive them. Let them live their life how they want.
+- All time with your kids is created equal. What you do with it is what makes it special. There is no such thing as "quality time", just time. You choose if you find it fulfilling or not.
+- Make sure you don't punish out of emotion or fear. Take a minute, and come up with a punishment that makes them a better person.
+- Resist the urge to hurry. It's not really time to go, you're exactly where you - and they - need to be. Whenever possible, give them the time to do things at their own pace.
+- Sometimes you just have to accept that you cannot control everything.
+- Let them make their own decisions, so they go through life with that ability. Don't choose everything for them. Ask if they want to go to the park or play in the yard. Ask them what we should cook for dinner. Let them pick their clothes to wear. Don't micro-manage every decision in their lives. They already don't crontrol nearly anything in their lives. Let them control what they can.
+- "You'll be amazed how incredible it is to simply be present with your children, and marvel at the fact that they exist."
+- The best way to teach your children is to never be seen doing the things you tell them not to do.
+
 ~projects/index : Projects
 ^ [b:Projects] is a collection of various things I've worked on
 ? [d:projects]

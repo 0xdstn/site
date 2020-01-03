@@ -323,7 +323,11 @@ footer a {
 .post {
   font-family: "Lora", serif;
   font-size: 1.25em;
-  margin-bottom: 1em;
+  margin-bottom: .6em;
+}
+
+.post a {
+  font-size: .9em;
 }
 
 .post .sub {

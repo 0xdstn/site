@@ -42,7 +42,6 @@ const MI = `
 # [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh <code>READING</code>
 # [l:https://www.gutenberg.org/ebooks/21|Aesop's Fables] by Aesop <code>READING</code>
 # [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays <code>READING</code>
-# [l:https://www.amazon.com/dp/B01JMJLPM6|City of Weird] by Gigi Little <code>READING</code>
 # [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday <code>READING</code>
 & [b:Books read in 2019]
 & [i:Goal: 17 of 12] &#x2705;

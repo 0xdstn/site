@@ -173,6 +173,10 @@ const MI = `
 2 Paint
 - [l:https://sakuraofamerica.com/watercolors-set|Sakura Koi Water Color Field Sketch Travel Kit]
 
+~notes/index : Notes
+^ [b:Notes] is a collection of notes on various books or topics
+? [s:notes]
+
 ~notes/parenting : Parenting : A collection of notes on parenting
 ^ [b:Parenting] is a collection of notes related to parenting
 - If your child offers you a hand to hold, take it. You need to appreciate these little moments, because some day they won't want you to hold their hand anymore, and you will miss it. You may be tired of holding their hand, or the other things they ask for a million times, but do it anyway. Cherish the time you have with your child, because you never know when it is going to end. You won't notice that it's the last time you do something until after you never do it again.
@@ -186,9 +190,9 @@ const MI = `
 - The best way to teach your children is to never be seen doing the things you tell them not to do.
 - Your job is not to make them rich, or smarter than everyone else, or anything else. Your real job is to give them a childhood they don't need therapy to get over.
 
-~notes/index : Notes
-^ [b:Notes] is a collection of notes on various books or topics
-? [s:notes]
+~notes/stoicism : Stoicism : A collection of notes on stoicism
+^ [b:Stoicism] is a collection of notes related to stoicism
+> "That's why the philosophers warn us not to be satisfied with mere learning, but to add practice and then training. For as time passes we forget what we learned and end up doing the opposite, and hold opinions the opposite of what we should."<br>[i:- Epictetus]
 
 ~notes/meditations : Meditations : Reading notes from Meditations by Marcus Aurelius
 ^ A collection of quotes and notes taken while reading [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius

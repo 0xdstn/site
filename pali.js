@@ -24,7 +24,7 @@ var header = `<!DOCTYPE html>
       <header>
         <a class="logo" href="${basePath}" onclick="return linkClick(event);">D</a>
         <nav>
-          <a href="${basePath}wiki/about" onclick="return linkClick(event);">About</a> <a href="${basePath}wiki" onclick="return linkClick(event);">Wiki</a> <a href="${basePath}projects" onclick="return linkClick(event);">Projects</a> <a href="${basePath}thoughts" onclick="return linkClick(event);">Thoughts</a>
+          <a href="${basePath}wiki" onclick="return linkClick(event);">Wiki</a> <a href="${basePath}projects" onclick="return linkClick(event);">Projects</a> <a href="${basePath}notes" onclick="return linkClick(event);">Notes</a> <a href="${basePath}thoughts" onclick="return linkClick(event);">Thoughts</a>
         </nav>
       </header>
 
@@ -35,7 +35,7 @@ var footer = `</div>
       <footer>
         <p class="thanks">Thanks for reading!</p>
         <p>
-         <a href="${basePath}wiki/about" onclick="return linkClick(event);">About</a> <a href="${basePath}wiki" onclick="return linkClick(event);">Wiki</a> <a href="${basePath}projects" onclick="return linkClick(event);">Projects</a> <a href="${basePath}thoughts" onclick="return linkClick(event);">Thoughts</a>
+         <a href="${basePath}wiki" onclick="return linkClick(event);">Wiki</a> <a href="${basePath}projects" onclick="return linkClick(event);">Projects</a> <a href="${basePath}notes" onclick="return linkClick(event);">Notes</a> <a href="${basePath}thoughts" onclick="return linkClick(event);">Thoughts</a>
         </p>
         <p>
         <a href="https://github.com/0xdstn" target="_blank">Github</a> <a href="mailto:0xdstn@protonmail.com">Email</a>

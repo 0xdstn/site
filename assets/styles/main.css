@@ -310,9 +310,17 @@ footer a {
   flex-basis: 0;
 }
 
-@media(max-width: 600px) {
+.post-column .post > span {
+  padding-right: 1em;
+  display: inline-block;
+}
+
+@media(max-width: 900px) {
   .post-columns {
-    display: block;
+    flex-wrap: wrap;
+  }
+  .post-column {
+    flex: 0 50%;
   }
 
   .post-column {
@@ -320,17 +328,24 @@ footer a {
   }
 }
 
+@media(max-width: 600px) {
+  .post-columns {
+    display: block;
+  }
+}
+
 .post {
   font-family: "Lora", serif;
   font-size: 1.25em;
-  margin-bottom: .6em;
+  margin-bottom: 1em;
 }
 
 .post a {
   font-size: .9em;
 }
 
-.post .sub {
+.post .sub,
+.post .sep{
   color: var(--grey);
   font-size: .7em;
   font-style: italic;
@@ -338,4 +353,15 @@ footer a {
 
 .post a:before {
   bottom: -3px;
+}
+
+@media(max-width: 600px) {
+  .post .sub {
+    display: block;
+    padding-top: .4em;
+  }
+
+  .post .sep {
+    display: none;
+  }
 }

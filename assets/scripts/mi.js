@@ -11,6 +11,10 @@ const MI = `
 ? [d:projects]
 ! </div>
 ! <div class="post-column">
+3 Notes 
+? [d:notes]
+! </div>
+! <div class="post-column">
 3 Thoughts
 ? [d:thoughts]
 ! </div>
@@ -18,7 +22,7 @@ const MI = `
 
 ~wiki/index : Wiki
 ^ [b:Wiki] is a collection of personal documents
-? [d:wiki]
+? [s:wiki]
 
 ~wiki/about : About : More information about me
 ^ [b:Dustin] is the owner and maintainer of this website
@@ -38,11 +42,11 @@ const MI = `
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 & [b:Books read in 2020]
 & [i:Goal: 1 of 15]
-# [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
+# [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays ([l:notes/meditations|reading notes]) 
 # [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh <code>READING</code>
 # [l:https://www.gutenberg.org/ebooks/21|Aesop's Fables] by Aesop <code>READING</code>
 # [l:https://www.amazon.com/dp/B07MJ3TDCZ|Stillness is the Key] by Ryan Holiday <code>READING</code>
-# [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday <code>READING</code>
+# [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday ([l:notes/daily-stoic|reading notes]) <code>READING</code>
 & [b:Books read in 2019]
 & [i:Goal: 17 of 12] &#x2705;
 # [l:https://www.amazon.com/dp/1607747308|The Life-Changing Magic of Tidying Up] by Marie Kondō
@@ -169,7 +173,7 @@ const MI = `
 2 Paint
 - [l:https://sakuraofamerica.com/watercolors-set|Sakura Koi Water Color Field Sketch Travel Kit]
 
-~wiki/parenting : Parenting : A collection of notes on parenting
+~notes/parenting : Parenting : A collection of notes on parenting
 ^ [b:Parenting] is a collection of notes related to parenting
 - If your child offers you a hand to hold, take it. You need to appreciate these little moments, because some day they won't want you to hold their hand anymore, and you will miss it. You may be tired of holding their hand, or the other things they ask for a million times, but do it anyway. Cherish the time you have with your child, because you never know when it is going to end. You won't notice that it's the last time you do something until after you never do it again.
 - To a kid, anything can be special and fun. They have a wonderful sense of presentness, where they can find joy in whatever they are doing. As we get older, we phase ourselves out of this behavior, or it is phased out of us by societal expectations. We need to encourage this in children, and don't crush it with suble corrections and insistence on the "right" way to do things. Let them explore and enjoy things the way they perceive them. Let them live their life how they want.
@@ -180,10 +184,47 @@ const MI = `
 - Let them make their own decisions, so they go through life with that ability. Don't choose everything for them. Ask if they want to go to the park or play in the yard. Ask them what we should cook for dinner. Let them pick their clothes to wear. Don't micro-manage every decision in their lives. They already don't crontrol nearly anything in their lives. Let them control what they can.
 - "You'll be amazed how incredible it is to simply be present with your children, and marvel at the fact that they exist."
 - The best way to teach your children is to never be seen doing the things you tell them not to do.
+- Your job is not to make them rich, or smarter than everyone else, or anything else. Your real job is to give them a childhood they don't need therapy to get over.
 
+~notes/index : Notes
+^ [b:Notes] is a collection of notes on various books or topics
+? [s:notes]
+
+~notes/meditations : Meditations : Reading notes from Meditations by Marcus Aurelius
+^ A collection of quotes and notes taken while reading [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius
+> [b:1.13:] Not to shrug off a friends resentmenteven unjustified resentment but try to put things right.
+> [b:2.5:] Concentrate every minute like a Roman - like a man - on doing whats in front of you with precise and genuine seriousness, tenderly, willingly, with justice.
+> [b:2.7:] Do external things distract you? Then make time for yourself to learn something worthwhile; stop letting yourself be pulled in all directions.
+& This really hits home with my struggles surrounding what it is I "do". I tend to pick up a lot of different things, absorb myself in it, stress myself out, and ignore the important things around me. I need to stop letting the concepts of who I am as defined by what I do lead my life. I need to find good hobbies that don't cause all of these negetive side effects, and make sure I'm still staying present, not getting so absorbed with it.
+> [b:2.11:] You could leave life right now. Let that determine what you do and say and think.
+& I've been getting better about occasionally thinking this throught the day. I've been considering getting a [l:https://dailystoic.com/memento-mori/|momento mori] tattoo on my arm to serve as a constant reminder, or maybe just get a [l:https://prints.dailystoic.com/products/memento-mori|coin].
+> [b:4.24:] Because most of what we say and do is not essential. If you can eliminate it, you'll have more time, and more tranquility. Ask yourself at every moment, "Is this necessary"?
+> [b:5.33:] Be tolerant with others and strict with yourself.
+& I've definitely flipped these two things, and I don't want to do that anymore.
+> [b:6.53:] Practice really hearing what people say. Do your best to get inside their minds.
+> [b:7.4:] Focus on what is said when you speak and on what results from each action. Know what the one aims at, and what the other means.
+> [b:7.67:] Its quite possible to be a good man without anyone realizing it. Remember that.
+> [b:10.3:] If its endurable, then endure it. Stop complaining. If its unendurable, then stop complaining.
+> [b:10.16:] To stop talking about what the good man is like, and just be one.
+> [b:11.16:] Learn to be indifferent to what makes no difference.
+> [b:11.18 vii:] Be willing to give up thinking of this as a catastrophe - and your anger is gone.
+> [b:11.18 viii:] How much more damage anger and grief do than the things that cause them.
+> [b:11.18:] When you start to lose your temper, remember: Theres nothing manly about rage. Its courtesy and kindness that define a human being - and a man. Thats who possesses strength and nerves and guts, not the angry whiners.
+& Anger problems are very difficult to overcome, specially if you've let it grow deep inside you, always ready to come out and strike whenever provoked. There is nothing manly or powerful about rage. It's a weakness pretending to be tough.
+
+~notes/daily-stoic : Daily Stoic : Reading notes from Daily Stoic by Ryan Holiday
+^ A collection of quotes and notes taken while reading [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday 
+> Stoic disciplines:<br><br>[b:The Discipline of Perception] (how we see and perceive the world around us)<br>[b:The Discipline of Action] (the decisions and actions we take and to what end)<br>[b:The Discipline of Will] (how we deal with the things we cannot change, attain clear and convincing judgment, and come to a true understanding of our place in the world)
+> [b:Jan 1:] If we can focus on making clear what parts of our day are within our control and what parts are not, we will not only be happier, we will have a distinct advantage over other people who fail to realize they are fighting an unwinnable battle.
+> [b:Jan 2:] Remember that imperative on the days you start to feel distracted, when watching television or having a snack seems like a better use of your time than reading or studying philosophy. Knowledge self-knowledge in particular is freedom.
+> [b:Jan 5:] "Let all your efforts be directed to something, let it keep that end in view. Its not activity that disturbs people, but false conceptions of things that drive them mad." - SENECA, ON TRANQUILITY OF MIND, 12.5
+> [b:Jan 6:] Have you taken the time to get clarity about who you are and what you stand for? Or are you too busy chasing unimportant things, mimicking the wrong influences, and following disappointing or unfulfilling or nonexistent paths?
+> [b:Jan 8:] You must reclaim the ability to abstain because within it is your clarity and self-control.
+> [b:Jan 10:] If you want to be steady, if you want clarity, proper judgement is the best way.
+> [b:Jan 11:] Serenity and stability are results of your choices and judgment, not your environment.
 ~projects/index : Projects
 ^ [b:Projects] is a collection of various things I've worked on
-? [d:projects]
+? [s:projects]
 
 ~projects/lon : Lon : A flat-file CLI bookmark manager
 ^ [b:Lon] is a CLI bookmark manager
@@ -314,7 +355,7 @@ const MI = `
 
 ~thoughts/index : Thoughts
 ^ [b:Thoughts] is a collection of written ideas and concepts
-? [d:thoughts]
+? [s:thoughts]
 
 ~thoughts/social-media : Social Media : August 13th, 2019
 2 [p:NAME]
@@ -362,7 +403,7 @@ _ [p:DESC]
 
 ~devnull/index : /dev/null
 ^ [b:/dev/null] is a list of pages that are not yet complete
-? [d:devnull]
+? [s:devnull]
 
 ~devnull/todo : TODO : ?????
 ^ [b:TODO] is a list of things I'd like to do on this site

@@ -226,6 +226,9 @@ const MI = `
 > [b:Jan 8:] You must reclaim the ability to abstain because within it is your clarity and self-control.
 > [b:Jan 10:] If you want to be steady, if you want clarity, proper judgement is the best way.
 > [b:Jan 11:] Serenity and stability are results of your choices and judgment, not your environment.
+> [b:Jan 13:] A wise person knows what's inside their circle of control and what is outside of it.<br>...<br>According to the Stoics, the circle of control contains just one thing: YOUR MIND.<br>...<br>You've got just one thing to manage: your choices, your will, your mind.
+& It's not easy for me to recognize things as outside of my control. I struggle with trying to control everything. I've had a couple of moments recently where recognized situations where I should let go, knowing there was nothing I could do to change it. I'm going to keep working on finding more of these moments every day. 
+
 ~projects/index : Projects
 ^ [b:Projects] is a collection of various things I've worked on
 ? [s:projects]

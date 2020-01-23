@@ -32,6 +32,7 @@ const MI = `
 & I study and follow the teachings of [b:secular buddhism], and apply it to every aspect of my life as best I can.
 & I tend to have many interests, so you will find a lot of various things I have dabbled in here on this site.
 3 Contact &amp; social
+- [b:Mastodon:] [l:https://tiny.tilde.website/@0xdstn|tiny.tilde.website/@0xdstn]
 - [b:Github:] [l:https://github.com/0xdstn|github.com/0xdstn]
 - [b:Email:] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
 

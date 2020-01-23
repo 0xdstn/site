@@ -38,7 +38,7 @@ var footer = `</div>
          <a href="${basePath}wiki" onclick="return linkClick(event);">Wiki</a> <a href="${basePath}projects" onclick="return linkClick(event);">Projects</a> <a href="${basePath}notes" onclick="return linkClick(event);">Notes</a> <a href="${basePath}thoughts" onclick="return linkClick(event);">Thoughts</a>
         </p>
         <p>
-        <a href="https://github.com/0xdstn" target="_blank">Github</a> <a href="mailto:0xdstn@protonmail.com">Email</a>
+        <a href="https://tiny.tilde.website/@0xdstn" rel="me" target="_blank">Mastodon</a> <a href="https://github.com/0xdstn" target="_blank">Github</a> <a href="mailto:0xdstn@protonmail.com">Email</a>
         </p>
 				<p>
 					<a href="https://webring.xxiivv.com/#random" target="_blank" class="webring">

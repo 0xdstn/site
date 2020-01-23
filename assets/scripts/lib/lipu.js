@@ -27,7 +27,8 @@ function lipu(mi,section,pg,basePath) {
     l: "a",
     d: "directory",
     s: "section",
-    p: "page"
+    p: "page",
+    t: "tenpo"
   };
 
   function findMatches(line) {
@@ -46,6 +47,28 @@ function lipu(mi,section,pg,basePath) {
     }
 
     return matches;
+  }
+
+  function tenpo(cur) {
+    var year = cur.getFullYear();
+    var month = cur.getMonth()+1;
+    var day = cur.getDate();
+
+    var isLeap = (year % 100 === 0) ? (year % 400 === 0) : (year % 4 === 0);
+
+    var dayOfYear = (Math.ceil((cur.getTime()) / 86400000)) - Math.floor(new Date().setFullYear(year, 0, 1) / 86400000);
+    if( isLeap && dayOfYear >= 60 ) dayOfYear--
+
+    var tenpoYear = year - 1988;
+    var tenpoMonth = ['A','B','C','D','E'][Math.ceil(dayOfYear/73)-1];
+    var tenpoDay = (dayOfYear % 73) || 73;
+
+    tenpoDay = (tenpoDay < 10 ? '0' : '') + tenpoDay;
+    tenpoYear = (tenpoYear < 10 ? '0' : '') + tenpoYear;
+
+    if( month == 2 && day == 29 ) tenpoDay = '00';
+
+    return `${tenpoYear}${tenpoMonth}${tenpoDay}`;
   }
 
   function tpl(line) {
@@ -67,17 +90,28 @@ function lipu(mi,section,pg,basePath) {
         }
       } else if (k === "p" && page[m[2]]) {
         line = line.replace(m[0], page[m[2]]);
+      } else if (k === "t" && m[2]) {
+        if( page[m[2]] !== undefined ) {
+          line = line.replace(m[0],tenpo(new Date(page[m[2]])));
+        }
+        else if (m[2] === "now") {
+          line = line.replace(m[0],tenpo(new Date()));
+        }
+        else {
+          line = line.replace(m[0],tenpo(new Date(m[2])));
+        }
       } else if (k === "d") {
         let list = `<div class="posts">`;
         for (let x in mi[m[2]]) {
           const page = mi[m[2]][x];
           if (x !== "index") {
             let subtext = (m[2] === 'thoughts' ? page.DATE : page.DESC);
+            let desc = (m[2] === 'thoughts' ? `${tenpo(new Date(page.DESC))} (${page.DESC})` : page.DESC);
             list += `
               <div class="post">
                 <span>
                   <a href="${basePath}${page.LINK}" onclick="return linkClick(event);">${page.NAME}</a><br>
-                  <span class="sub">${page.DESC}</span>
+                  <span class="sub">${desc}</span>
                 </span>
               </div>`;
           }

@@ -100,6 +100,7 @@ const MI = `
 ~wiki/tenpo : Tenpo : A personal date format
 ^ [b:Tenpo] is a date format.
 & Tenpo is the custom date format that is used on this wiki. It is written in the format [b:YYMDD].
+& The current tenpo date is [t:now].
 3 Years
 & Years are an incremental count of years since [b:1988], the year I was born, with the first year being year [b:00]. For years lower than 10, a leading zero is added.
 & Here are some examples for reference:
@@ -365,9 +366,19 @@ const MI = `
 ^ [b:Thoughts] is a collection of written ideas and concepts
 ? [s:thoughts]
 
-~thoughts/social-media : Social Media : August 13th, 2019
+~thoughts/social-media-update : Social Media Update : January 23, 2020
 2 [p:NAME]
-_ [p:DESC]
+_ [t:DESC] ([p:DESC])
+& I wrote a while back about [l:thoughts/social-media|social media] and the negative effect it's had on me. My reasons were around not chasing validation of others, and spending too much time obsessing about it.
+& I've decided to rejoin the fediverse over at [l:https://tiny.tilde.website/@0xdstn]. I realized that anything negative coming out of the usage of any digital service is really just caused by my own state of mind. I let it consume me. I wasn't viewing it in the right way.
+& Instead of using it how I always have, I'm going to make a few changes around intent and perspective.
+& I will mostly be using it as a way to consume, not as a way of making myself heard. Yes I will jump into conversations, and probably post about things I've made, but I'm there to get inspired by what others are doing.
+& I will also not have a Mastodon app installed on my phone and will only log on occasionally, not constantly checking my feed like I previously used to. I need to also allow myself to miss things in the feed, if I get really behind on posts. I don't need to sit and sift through my home feed for hours.
+& I had been viewing social media as a problem, when really it was just how I was processing it internally.
+
+~thoughts/social-media : Social Media : August 13, 2019
+2 [p:NAME]
+_ [t:DESC] ([p:DESC])
 & Over the last year or so, I've noticed a pattern with myself, related to my social media usage.
 & When I say social media, I'm mostly referring to Twitter and Mastodon. I actually don't seem to have much of a problem with Instagram or Facebook.
 & I tend to get addicted to microblogging services. This causes me to be constantly absorbed in my phone, ignoring everyone and everything around me. I find it hard to go a few minutes without checking if I'm not busy doing something else that requires my attention.
@@ -376,9 +387,9 @@ _ [p:DESC]
 & I've thought a lot about the audience I'm trying to reach with accounts like these, and I don't really have one. I don't need anyone to see anything I would post on there. It doesn't improve my quality of life. I am much better off hanging out in little places on the internet such as [l:http://tilde.town|tilde.town] and using the chat and [l:projects/tilde-social|Tilde Social] functionality to connect with others.
 & I'm going to do my best to stay away from large social media platforms from now on. It keeps my head clear and keeps me present, and that's what I really need.
 
-~thoughts/dark-forest : Dark forest : June 6th, 2019
+~thoughts/dark-forest : Dark forest : June 6, 2019
 2 [p:NAME]
-_ [p:DESC]
+_ [t:DESC] ([p:DESC])
 & I just read through a two part article about [l:https://onezero.medium.com/the-dark-forest-theory-of-the-internet-7dc3e68a7cb1|The Dark Forest Theory of the Internet], which really resonated with me.
 & In my original days of using the internet over a decade ago, I used to post anything I wanted, without filter, under my own name. I didn't care about the likes (originaly this wasn't even a concept that existed) or the fact that I might be shouting into the void. I just shared because that is what the platform was for. That is what I wanted to do - share.
 & I have struggled with the last 5 or so years with my online identity. I have created countless pseudonyms, and even paraded as myself with my real name. I have gone in and out of mindsets where I feel privacy is the aboslute most important thing to be concerned with online, and being completely open.
@@ -388,9 +399,9 @@ _ [p:DESC]
 & I want to be more open, in a careful way, online. The things that I have added to this site are really a true representation of my thoughts and interests. I don't need to hide those behind a moniker.
 & My name is [l:wiki/about|Dustin] and this is my personal wiki for sharing my life.
 
-~thoughts/to-log-or-not-to-log : To log or not to log : July 19th, 2019
+~thoughts/to-log-or-not-to-log : To log or not to log : July 19, 2019
 2 [p:NAME]
-_ [p:DESC]
+_ [t:DESC] ([p:DESC])
 & I have spent a lot of time attempting to digitally log various things over the years. Majority of this has been health related - steps, calories, water consumption, walks/runs, meditation, etc.
 & I started looking into tracking other things, such as how I spend my time. I tried doing this for just a single day, and it felt very daunting on top of all of the other things I have going on in my life.
 & While I feel these kind of statistics can be useful, I needed to take a step back and look at how I would be using them. In the end, I decided I was trying to log for the sake of logging, since other people are doing it, and didn't have any real reason to be doing so, or any plan to utilize the data.
@@ -400,9 +411,9 @@ _ [p:DESC]
 & I want to work with technology to make my life simple and mindful, not complicate it for no reason.
 & I understand that tracking data like this is helpful for others, but it just isn't useful for me, personally.
 
-~thoughts/write-something : Write something : June 16th, 2018
+~thoughts/write-something : Write something : June 16, 2018
 2 [p:NAME]
-_ [p:DESC]
+_ [t:DESC] ([p:DESC])
 & I was listening to a [l:https://open.spotify.com/user/spotify/playlist/37i9dQZF1DX6ziVCJnEm59|playlist on Spotify] the other day, and Bees by [l:https://open.spotify.com/track/21vNMGKtXBA2a8PaVdIgrM|The Ballroom Thieves] came on. This song contains a quote from Benjamin Franklin, which resonated with me:
 > Either write something worth reading or do something worth writing.
 & I've considered setting up a blog many times, but have never pulled the trigger. Maybe I just felt I didn't have anything worthwhile to write. Maybe the daunting task of creating a design got in the way. Maybe I was afraid of what others would think about what I wrote, or maybe that nobody would read it.
@@ -423,6 +434,7 @@ _ [p:DESC]
 ! &#9744; Add functionality to test page content directly on site<br>
 ! &#9744; Write VOID page<br>
 ! &#9744; Write Glitchcam v0 page<br>
+! &#9744; Bugfix: Scroll to top of page when transitioning internally<br>
 `;
 
 if (typeof module !== 'undefined') module.exports = MI;

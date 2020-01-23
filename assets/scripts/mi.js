@@ -32,7 +32,6 @@ const MI = `
 & I study and follow the teachings of [b:secular buddhism], and apply it to every aspect of my life as best I can.
 & I tend to have many interests, so you will find a lot of various things I have dabbled in here on this site.
 3 Contact &amp; social
-- [b:Mastodon:] [l:https://tiny.tilde.website/@0xdstn|tiny.tilde.website/@0xdstn]
 - [b:Github:] [l:https://github.com/0xdstn|github.com/0xdstn]
 - [b:Email:] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
 
@@ -365,16 +364,6 @@ const MI = `
 ~thoughts/index : Thoughts
 ^ [b:Thoughts] is a collection of written ideas and concepts
 ? [s:thoughts]
-
-~thoughts/social-media-update : Social Media Update : January 23, 2020
-2 [p:NAME]
-_ [t:DESC] ([p:DESC])
-& I wrote a while back about [l:thoughts/social-media|social media] and the negative effect it's had on me. My reasons were around not chasing validation of others, and spending too much time obsessing about it.
-& I've decided to rejoin the fediverse over at [l:https://tiny.tilde.website/@0xdstn]. I realized that anything negative coming out of the usage of any digital service is really just caused by my own state of mind. I let it consume me. I wasn't viewing it in the right way.
-& Instead of using it how I always have, I'm going to make a few changes around intent and perspective.
-& I will mostly be using it as a way to consume, not as a way of making myself heard. Yes I will jump into conversations, and probably post about things I've made, but I'm there to get inspired by what others are doing.
-& I will also not have a Mastodon app installed on my phone and will only log on occasionally, not constantly checking my feed like I previously used to. I need to also allow myself to miss things in the feed, if I get really behind on posts. I don't need to sit and sift through my home feed for hours.
-& I had been viewing social media as a problem, when really it was just how I was processing it internally.
 
 ~thoughts/social-media : Social Media : August 13, 2019
 2 [p:NAME]

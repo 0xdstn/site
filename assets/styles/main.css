@@ -6,7 +6,6 @@
 :root {
   --primary: #00aaee;
   --black: #000;
-  --grey: #999;
   --white: #efefef;
 }
 
@@ -24,7 +23,7 @@ body {
 body {
   background: var(--white);
   color: var(--black);
-  font-family: "PT Sans", monospace;
+  font-family: "Roboto Mono", monospace;
   font-size: 16px;
   font-weight: 400;
   letter-spacing: 1px;
@@ -104,15 +103,6 @@ h2,
 h3,
 h4,
 h5,
-h6 {
-  font-family: "Lora", serif;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
 h6,
 p {
   margin: 0 0 1em;
@@ -155,23 +145,26 @@ ol {
   padding: 0;
 }
 
+ol {
+  margin-left: 1em;
+}
+
 ul li,
 ol li {
   color: var(--black);
   line-height: 1.8em;
   padding-bottom: 0.25em;
+  padding-left: 0.5em;
 }
 
 ul li {
   list-style: disc;
   margin-left: 1.2em;
-  padding-left: 0.5em;
 }
 
 ol li {
   list-style: decimal-leading-zero;
   margin-left: 1.75em;
-  padding-left: .5em;
 }
 
 strong {
@@ -221,52 +214,15 @@ h6.title {
 
 header {
   display: flex;
-  font-family: "Lora", serif;
   justify-content: space-between;
   position: relative;
   margin-bottom: 4em;
-}
-
-.logo {
-  background: var(--primary);
-  border-radius: 100%;
-  color: var(--white);
-  display: block;
-  font-size: 1.5em;
-  font-weight: 700;
-  height: 1.5em;
-  line-height: 1.5em;
-  margin-right: 1em;
-  padding-left: 2px;
-  text-align: center;
-  transition: all .3s;
-  width: 1.5em;
-}
-
-.logo:hover {
-  background: var(--black);
-  color: var(--white);
-}
-
-.logo:hover:before {
-  display: none;
-}
-
-header nav {
-  background: var(--white);
-  line-height: 2em;
-  margin-left: .5em;
-}
-
-header nav a {
-  margin-left: .5em;
 }
 
 /*
  * Footer
  */
 footer {
-  font-family: "Lora", serif;
   text-align: center;
   padding-bottom: 3em;
 }
@@ -280,17 +236,6 @@ footer p {
   margin-bottom: .5em;
 }
 
-.thanks {
-  color: var(--grey);
-  font-size: 1.25em;
-  font-style: italic;
-  margin-bottom: 2em;
-}
-
-footer a {
-  font-weight: 400;
-  margin-right: .5em;
-}
 
 /*
  * Post list
@@ -303,22 +248,16 @@ footer a {
 
 .post {
   box-sizing: border-box;
-  font-family: "Lora", serif;
-  font-size: 1.25em;
   margin-bottom: 2em;
   padding-right: 1em;
   width: 25%;
 }
 
-.post a {
-  font-size: .9em;
-}
-
 .post .sub,
 .post .sep{
-  color: var(--grey);
-  font-size: .7em;
+  display: inline-block;
   font-style: italic;
+  padding-top: .5em;
 }
 
 .post a:before {

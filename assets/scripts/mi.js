@@ -8,14 +8,10 @@ const MI = `
 
 ~wiki/about : About : More information about me
 ^ [b:Dustin] is the owner and maintainer of this website
-& I have been browsing the internet under many pseudonyms over the years, and decided to no longer hide in a [l:#thoughts/dark-forest|dark forest] on the internet.
 & I am married to an amazing woman and have two beautiful children. My family is my top priority in life.
 & I am currently working as a [b:software engineer] and have been creating websites and applications professionally since [b:2009].
-& I study and follow the teachings of [b:secular buddhism], and apply it to every aspect of my life as best I can.
+& I study and follow the teachings of [b:secular buddhism] and [b:stoicism], and apply it to every aspect of my life as best I can.
 & I tend to have many interests, so you will find a lot of various things I have dabbled in here on this site.
-3 Contact &amp; social
-- [b:Github:] [l:https://github.com/0xdstn|github.com/0xdstn]
-- [b:Email:] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
 
 ~wiki/library : Library : A list of books I've read
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors

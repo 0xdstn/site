@@ -14,7 +14,7 @@ var header = `<!DOCTYPE html>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <link href="https://fonts.googleapis.com/css?family=Lora:400,700|PT+Sans:400,400i,700,700i&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700,700i&display=swap" rel="stylesheet"> 
     <link rel="stylesheet" href="${basePath}assets/styles/main.css" />
     <title>Dustin</title>
   </head>
@@ -22,10 +22,8 @@ var header = `<!DOCTYPE html>
     <div class="container">
 
       <header>
-        <a class="logo" href="${basePath}" onclick="return linkClick(event);">D</a>
-        <nav>
-          <a href="https://github.com/0xdstn" target="_blank">Github</a> <a href="mailto:0xdstn@protonmail.com">Email</a>
-        </nav>
+        <a href="${basePath}" onclick="return linkClick(event);">~dustin</a>
+        <a href="https://github.com/0xdstn" target="_blank">github</a>
       </header>
 
       <div id="content">`;

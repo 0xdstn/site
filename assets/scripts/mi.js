@@ -5,6 +5,9 @@ const MI = `
 ? [d:wiki]
 3 Projects
 ? [d:projects]
+! <div style="text-align:center">
+? [t:now]
+! </div>
 
 ~wiki/about : About : More information about me
 ^ [b:Dustin] is the owner and maintainer of this website

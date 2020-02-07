@@ -23,7 +23,10 @@ var header = `<!DOCTYPE html>
 
       <header>
         <a href="${basePath}" onclick="return linkClick(event);">~dustin</a>
-        <a href="https://github.com/0xdstn" target="_blank">github</a>
+        <div>
+          <a href="https://github.com/0xdstn" target="_blank">github</a>
+          <a href="https://tilde.zone/@dustin" rel="me" target="_blank">mastodon</a>
+        </div>
       </header>
 
       <div id="content">`;

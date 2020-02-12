@@ -1,6 +1,8 @@
 const MI = `
 ~index/index : Home
 ^ [l:wiki/about|Dustin] is a software engineer living in Spokane, Wa.
+& [b:32A43 (2020-02-12):]<br>This site is no longer actively updated, and exists for historical purposes.
+_ SEE YOU SPACE COWBOY...
 3 Wiki
 ? [d:wiki]
 3 Projects

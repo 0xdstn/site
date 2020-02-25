@@ -1,8 +1,6 @@
 const MI = `
 ~index/index : Home
 ^ [l:wiki/about|Dustin] is a software engineer living in Spokane, Wa.
-& [b:32A43 (2020-02-12):]<br>This site is no longer actively updated, and exists for historical purposes.
-_ SEE YOU SPACE COWBOY...
 3 Wiki
 ? [d:wiki]
 3 Projects
@@ -21,14 +19,14 @@ _ SEE YOU SPACE COWBOY...
 ~wiki/library : Library : A list of books I've read
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
 / [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell <code>READING</code>
+/ [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh <code>READING</code>
+/ [l:https://www.gutenberg.org/ebooks/21|Aesop's Fables] by Aesop <code>READING</code>
 ^ The [b:Library] is a list of books  
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 & [b:Books read in 2020]
 & [i:Goal: 2 of 15]
 # [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 # [l:https://www.amazon.com/dp/B01EI7LFPY|Fight Club 2] by Chuck Palahniuk
-# [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh <code>READING</code>
-# [l:https://www.gutenberg.org/ebooks/21|Aesop's Fables] by Aesop <code>READING</code>
 # [l:https://www.amazon.com/dp/B07MJ3TDCZ|Stillness is the Key] by Ryan Holiday <code>READING</code>
 # [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser <code>READING</code>
 # [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday <code>READING</code>

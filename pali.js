@@ -25,7 +25,6 @@ var header = `<!DOCTYPE html>
         <a href="${basePath}" onclick="return linkClick(event);">~dustin</a>
         <div>
           <a href="https://github.com/0xdstn" target="_blank">github</a>
-          <a href="https://tilde.zone/@dustin" rel="me" target="_blank">mastodon</a>
         </div>
       </header>
 
@@ -36,7 +35,7 @@ var footer = `</div>
       <footer>
 				<p>
 					<a href="https://webring.xxiivv.com/#random" target="_blank" class="webring">
-						<img src="https://webring.xxiivv.com/icon.black.svg"/>
+						<img src="https://webring.xxiivv.com/icon.white.svg"/>
 					</a>
 				</p>
       </footer>

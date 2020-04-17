@@ -35,7 +35,7 @@ var footer = `</div>
       <footer>
 				<p>
 					<a href="https://webring.xxiivv.com/#random" target="_blank" class="webring">
-						<img src="https://webring.xxiivv.com/icon.white.svg"/>
+						<img src="https://webring.xxiivv.com/icon.black.svg"/>
 					</a>
 				</p>
       </footer>

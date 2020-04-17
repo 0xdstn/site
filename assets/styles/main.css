@@ -5,7 +5,7 @@
  */
 :root {
   --primary: #00aaee;
-  --black: #1c1c1c;
+  --black: #000;
   --white: #efefef;
 }
 
@@ -21,8 +21,8 @@ body {
 }
 
 body {
-  background: var(--black);
-  color: var(--white);
+  background: var(--white);
+  color: var(--black);
   font-family: "Roboto Mono", monospace;
   font-size: 16px;
   font-weight: 400;
@@ -57,7 +57,7 @@ a:before {
 }
 
 a:hover {
-  color: var(--white);
+  color: var(--black);
 }
 
 a:hover:before {
@@ -151,7 +151,7 @@ ol {
 
 ul li,
 ol li {
-  color: var(--white);
+  color: var(--black);
   line-height: 1.8em;
   padding-bottom: 0.25em;
   padding-left: 0.5em;
@@ -183,9 +183,9 @@ blockquote p {
 }
 
 code {
-  background: var(--white);
+  background: var(--black);
   border-radius: 4px;
-  color: var(--black);
+  color: #fff;
   padding: 0.15em 0.5em;
 }
 

@@ -16,6 +16,73 @@ const MI = `
 & I study and follow the teachings of [b:secular buddhism] and [b:stoicism], and apply it to every aspect of my life as best I can.
 & I tend to have many interests, so you will find a lot of various things I have dabbled in here on this site.
 
+~wiki/library : Library : A list of books I've read
+/ [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
+/ [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell <code>READING</code>
+/ [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh <code>READING</code>
+/ [l:https://www.gutenberg.org/ebooks/21|Aesop's Fables] by Aesop <code>READING</code>
+^ The [b:Library] is a list of books  
+& Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
+& [b:Books read in 2020]
+& [i:Goal: 5 of 15]
+# [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
+# [l:https://www.amazon.com/dp/B01EI7LFPY|Fight Club 2] by Chuck Palahniuk
+# [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser
+# [l:https://www.amazon.com/dp/1506712320|Stranger Things: SIX] by Jody Houser
+# [l:https://www.amazon.com/dp/B07MJ3TDCZ|Stillness is the Key] by Ryan Holiday
+# [l:https://www.amazon.com/dp/1521777268|On Anger: De Ira] by Seneca <code>READING</code>
+# [l:https://www.amazon.com/dp/1591847818|Ego is the Enemy] by Ryan Holiday <code>READING</code>
+# [l:http://www.hpmor.com|Harry Potter and the Methods of Rationality] by Eliezer Yudkowsky <code>READING</code>
+# [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday <code>READING</code>
+& [b:Books read in 2019]
+& [i:Goal: 17 of 12] &#x2705;
+# [l:https://www.amazon.com/dp/1607747308|The Life-Changing Magic of Tidying Up] by Marie Kondō
+# [l:https://www.amazon.com/dp/B07C31XJGP|No-Nonsense Buddhism for Beginners] by Noah Rasheta
+# [l:https://www.amazon.com/dp/0857834916|Ikigai] by Yukari Mitsuhashi
+# [l:https://www.amazon.com/dp/038574126X|We Were Liars] by E. Lockhart
+# [l:https://www.amazon.com/dp/0143130722|Ikigai] by Héctor García & Francesc Miralles
+# [l:https://www.amazon.com/dp/B003VIWRM2|My Spiritual Journey] by The 14th Dalai Lama
+# [l:https://www.amazon.com/dp/0399581294|Draw Your Day] by Samantha Dion Baker
+# [l:https://www.amazon.com/dp/0399581626|The New Rules of Coffee] by Jordan Michelman and Zachary Carlsen
+# [l:https://www.amazon.com/dp/0553512706|The Halloween Tree] by Ray Bradbury
+# [l:https://www.amazon.com/dp/B077S21HX6|Scary Stories to Tell in the Dark] by Alvin Schwartz
+# [l:https://www.amazon.com/dp/0060835222|More Scary Stories to Tell in the Dark] by Alvin Schwartz
+# [l:https://www.amazon.com/dp/B0006ASEJS|Halloween through twenty centuries] by Ralph Linton
+# [l:https://www.amazon.com/dp/0060835249|Scary Stories 3: More Tales to Chill Your Bones] by Alvin Schwartz
+# [l:https://www.amazon.com/dp/B00VE3J1QG|The Nightmare Collective] by Multiple authors
+# [l:https://www.gutenberg.org/ebooks/7256|The Gift of the Magi] by O. Henry
+# [l:https://www.amazon.com/dp/B00JS59ZK4|Watch Dogs: Dark Clouds] by John Shirley
+# [l:https://www.gutenberg.org/ebooks/46|A Christmas Carol] by Charles Dickens
+& [b:Books read prior to 2019]
+- [l:https://www.amazon.com/dp/0545162076|Harry Potter 1-7] by J.K. Rowling
+- [l:https://www.amazon.com/dp/B002BA83RO|The Dead Zone] by Stephen King
+- [l:https://www.amazon.com/dp/1403991960|Lord of the Flies] by William Golding
+- [l:https://www.amazon.com/dp/039333807X|Survivor] by Chuck Palahniuk
+- [l:https://www.amazon.com/dp/0393327345|Fight Club] by Chuck Palahniuk
+- [l:https://www.amazon.com/dp/0385720920|Choke] by Chuck Palahniuk
+- [l:https://www.amazon.com/dp/1400049628|The Zombie Survival Guide] by Max Brooks
+- [l:https://www.amazon.com/dp/0307346617|World War Z] by Max Brooks
+- [l:https://www.gutenberg.org/ebooks/19002|Alices Adventures Underground] by Lewis Carroll
+- [l:https://www.amazon.com/dp/0307275833|Rant] by Chuck Palahniuk
+- [l:https://www.amazon.com/dp/1595145168|The Future of Us] by Jay Asher
+- [l:https://www.amazon.com/dp/1582342733|The Dark Fields] by Alan Glynn
+- [l:https://www.amazon.com/dp/0439023483|The Hunger Games] by Suzanne Collins
+- [l:https://www.amazon.com/dp/0545586178|Catching Fire] by Suzanne Collins
+- [l:https://www.amazon.com/dp/0545663261|Mockingjay] by Suzanne Collins
+- [l:https://www.amazon.com/dp/0385736002|The Alchemyst] by Michael Scott
+- [l:https://www.amazon.com/dp/0385737289|The Magician] by Michael Scott
+- [l:https://www.amazon.com/dp/0385735308|The Sorceress] by Michael Scott
+- [l:https://www.amazon.com/dp/0385735324|The Necromancer] by Michael Scott
+- [l:https://www.amazon.com/dp/0062191497|Reamde] by Neal Stephenson
+- [l:https://www.amazon.com/dp/0316037729|Ghost in the Wires] by Kevin Mitnick
+- [l:https://craphound.com/littlebrother/download|Little Brother] by Cory Doctorow
+- [l:https://craphound.com/littlebrother/download|Homeland] by Cory Doctorow
+- [l:https://www.tor.com/2013/08/28/lawful-interception/|Lawful Interception] by Cory Doctorow
+- [l:https://www.amazon.com/dp/0307588378|Gone Girl] by Gillian Flynn
+- [l:https://www.amazon.com/dp/1597499579|Violent Python] by T.J. O'Connor
+- [l:https://www.amazon.com/dp/0307887448|Ready Player One] by Ernest Cline
+- [l:http://www.galactanet.com/oneoff/lacero.html|Lacero] by Andy Weir
+
 ~wiki/tenpo : Tenpo : A personal date format
 ^ [b:Tenpo] is a date format.
 & Tenpo is the custom date format that is used on this wiki. It is written in the format [b:YYMDD].

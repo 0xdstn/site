@@ -33,7 +33,7 @@ const MI = `
 # [l:https://www.amazon.com/dp/1732441901|Belonging at Work] by Rhodes Perry MPA
 # [l:https://www.amazon.com/dp/0978292308|Toki Pona: The Language of Good] by Sonja Lang
 & [b:Books read in 2020]
-& [i:Goal: 7 of 15]
+& [i:Goal: 8 of 15]
 # [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 # [l:https://www.amazon.com/dp/B01EI7LFPY|Fight Club 2] by Chuck Palahniuk
 # [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser
@@ -41,6 +41,7 @@ const MI = `
 # [l:https://www.amazon.com/dp/B07MJ3TDCZ|Stillness is the Key] by Ryan Holiday
 # [l:https://www.amazon.com/dp/1338125680|The Tales of Beedle the Bard] by J.K. Rowling
 # [l:https://www.amazon.com/dp/B00C0EJF8W|Lectures and Sayings] by Musonius Rufus, Cynthia King
+# [l:https://archive.org/details/fp_Banksy-Banging_Your_Head_Against_A_Brick_Wall|Banging Your Head Against A Brick Wall] by Banksy
 & [b:Books read in 2019]
 & [i:Goal: 17 of 12] &#x2705;
 # [l:https://www.amazon.com/dp/1607747308|The Life-Changing Magic of Tidying Up] by Marie Kondō

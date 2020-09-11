@@ -24,16 +24,18 @@ const MI = `
 / [l:https://www.amazon.com/dp/1521777268|On Anger: De Ira] by Seneca <code>READING</code>
 / [l:https://www.amazon.com/dp/1591847818|Ego is the Enemy] by Ryan Holiday <code>READING</code>
 / [l:http://www.hpmor.com|Harry Potter and the Methods of Rationality] by Eliezer Yudkowsky <code>READING</code>
+/ [l:https://www.amazon.com/dp/B078XHJL5Y|H.P. Lovecraft: The Complete Collection] by H.P. Lovecraft
+/ [l:http://www.scpwiki.com/ebooks|SCP: Foundation Tomes] by Various Authors
 ^ The [b:Library] is a list of books  
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 & [b:Currently reading]
 # [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday
 # [l:https://www.amazon.com/dp/1592537251|The Art of Urban Sketching] by Gabriel Campanario
 # [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
-# [l:https://www.amazon.com/dp/1732441901|Belonging at Work] by Rhodes Perry MPA
-# [l:https://www.amazon.com/dp/0978292308|Toki Pona: The Language of Good] by Sonja Lang
+# [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
+# [l:https://www.amazon.com/dp/B07MPYX96Y|Better Allies] by Karen Catlin
 & [b:Books read in 2020]
-& [i:Goal: 8 of 15]
+& [i:Goal: 24 of 15] &#x2705;
 # [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 # [l:https://www.amazon.com/dp/B01EI7LFPY|Fight Club 2] by Chuck Palahniuk
 # [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser
@@ -42,6 +44,22 @@ const MI = `
 # [l:https://www.amazon.com/dp/1338125680|The Tales of Beedle the Bard] by J.K. Rowling
 # [l:https://www.amazon.com/dp/B00C0EJF8W|Lectures and Sayings] by Musonius Rufus, Cynthia King
 # [l:https://archive.org/details/fp_Banksy-Banging_Your_Head_Against_A_Brick_Wall|Banging Your Head Against A Brick Wall] by Banksy
+# [l:https://www.amazon.com/dp/1732441901|Belonging at Work] by Rhodes Perry MPA
+# [l:https://www.amazon.com/dp/0525467564|Winnie-the-Pooh] by A.A. Milne
+# [l:https://www.amazon.com/dp/B07XZNNGFH|The Boston Rob Rulebook] by Robert C. Mariano
+# [l:https://www.amazon.com/dp/B07B7C4F9C|The Bullet Journal Method] by Ryder Carroll
+# [l:https://www.amazon.com/dp/B08DFHBWKV|No Longer Human] by Osamu Dazai
+# [l:https://archive.org/details/fp_Banksy-Existencilism|Existencilism] by Banksy
+# [l:https://www.amazon.com/dp/B002ZODPOC|The House at Pooh Corner] by A.A. Milne
+# [l:https://www.amazon.com/dp/0525444459|When We Were Very Young] by A.A. Milne
+# [l:https://www.amazon.com/dp/B0013TPY3A|Now We Are Six] by A.A. Milne
+# [l:https://www.amazon.com/dp/B01B8X8ALI|Wabi-Sabi Wisdom] by Andrea Jacques
+# [l:https://www.amazon.com/dp/B01L9ZV9UE|The Hogwarts Collection] by J.K. Rowling
+# [l:https://www.amazon.com/dp/B07DBRBP7G|Digital Minimalism] by Cal Newport
+# [l:https://www.amazon.com/dp/1632365375|Cardcaptor Sakura: Clear Card Vol. 1] by CLAMP
+# [l:https://www.amazon.com/dp/1632365383|Cardcaptor Sakura: Clear Card Vol. 2] by CLAMP
+# [l:https://www.amazon.com/dp/1632365391|Cardcaptor Sakura: Clear Card Vol. 3] by CLAMP
+# [l:https://www.amazon.com/dp/1632366193|Cardcaptor Sakura: Clear Card Vol. 4] by CLAMP
 & [b:Books read in 2019]
 & [i:Goal: 17 of 12] &#x2705;
 # [l:https://www.amazon.com/dp/1607747308|The Life-Changing Magic of Tidying Up] by Marie Kondō
@@ -176,6 +194,7 @@ const MI = `
 - Statically generated html files for use in the browser?
 - Remote following users on other tildes?
 3 Release notes
+- <code>v1.0.11</code> Added UTC to timestamp, added readme
 - <code>v1.0.10</code> Fixed bug where feed was backward
 - <code>v1.0.9</code> Fixed bug where specific user posts over 20 weren't loading
 - <code>v1.0.8</code> Resetting colors at the end of each line in a post, cleaned up whitespace between posts

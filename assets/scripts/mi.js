@@ -9,14 +9,14 @@ const MI = `
 ? [t:now]
 ! </div>
 
-~wiki/about : About : More information about me
+~wiki/about : &#128187; About : More information about me
 ^ [b:Dustin] is the owner and maintainer of this website
 & I am married to an amazing woman and have two beautiful children. My family is my top priority in life.
 & I am currently working as a [b:software engineer] and have been creating websites and applications professionally since [b:2009].
 & I study and follow the teachings of [b:secular buddhism] and [b:stoicism], and apply it to every aspect of my life as best I can.
 & I tend to have many interests, so you will find a lot of various things I have dabbled in here on this site.
 
-~wiki/library : Library : A list of books I've read
+~wiki/library : &#128216; Library : A list of books I've read
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
 / [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell <code>READING</code>
 / [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh <code>READING</code>
@@ -114,7 +114,7 @@ const MI = `
 - &#128216; [l:https://www.amazon.com/dp/0307887448|Ready Player One] by Ernest Cline
 - &#128216; [l:http://www.galactanet.com/oneoff/lacero.html|Lacero] by Andy Weir
 
-~wiki/tenpo : Tenpo : A personal date format
+~wiki/tenpo : &#128197; Tenpo : A personal date format
 ^ [b:Tenpo] is a date format.
 & Tenpo is the custom date format that is used on this wiki. It is written in the format [b:YYMDD].
 & The current tenpo date is [t:now].
@@ -137,7 +137,7 @@ const MI = `
 3 Leap year
 & Whenever there is a leap year, that day is annexed and written as [b:A00], so in [b:2020] the leap year day of [b:2/29] will be [b:32A00].
 
-~projects/lon : Lon : A flat-file CLI bookmark manager
+~projects/lon : &#128278; Lon : A flat-file CLI bookmark manager
 ^ [b:Lon] is a CLI bookmark manager
 & Lon is a simple bookmark manager for storing and searching/tagging things online.
 & All data is stored in a single <code>~/.lon</code> file.
@@ -158,7 +158,7 @@ const MI = `
 - <code>v1.0.1</code> Added ability to get a list of tags
 - <code>v1.0.0</code> Initial release with base functionality
 
-~projects/tilde-social : Tilde Social : A flat-file social network
+~projects/tilde-social : &#128172; Tilde Social : A flat-file social network
 ^ [b:Tilde Social] is a flat-file social network
 & Tilde Social is intended to be used on shared tilde servers (like [l:http://tilde.town|tilde.town]).
 & All of your data is contained in your home directory, and others read your files to display information.
@@ -212,7 +212,7 @@ const MI = `
 - <code>v1.0.1</code> Updated timeline to include your own posts
 - <code>v1.0.0</code> Initial release with base functionality
 
-~projects/tilde-tools : Tilde tools : A list of tilde.town related projects
+~projects/tilde-tools : &#128295; Tilde tools : A list of tilde.town related projects
 ^ [b:Tilde tools] is a list of projects related to [l:http://tilde.town|tilde.town]
 3 @towniebot
 & A mastodon bot that features a random ~town user each morning. You can follow it at [l:https://tiny.tilde.website/@towniebot|@towniebot@tiny.tilde.website].
@@ -236,7 +236,7 @@ const MI = `
 & You are automatically opted out of your links being shared. If you want to opt in so all links you post are shared, you can add an empty [b:.linkbot] file to your home directory. If the bot finds a link you posted and you have this dotfile, your link will be added. You can still opt a specific link out by starting your message with [b:!nolinkbot], [b:!nolink], or [b:!nolb]. If you are not opted in, you can still add a link explicitly by starting your message with [b:!linkbot], [b:!link], or [b:!lb].
 & The output can be [l:http://tilde.town/~dustin/linkbot/|viewed here].
 
-~projects/camera-glitch : Camera glitch : A collection of photos taken with a broken digital camera
+~projects/camera-glitch : &#128247; Camera glitch : A collection of photos taken with a broken digital camera
 ^ [b:Camera glitch] is a collection of photos taken with a broken digital camera
 & A while back I had a digital camera with a broken lens that functioned enough to take some glitched photos. I tried to glitch it further and just ended up breaking the camera, but these were the images that I got out of it. Completely unmodified, taken straight from the camera.
 @ assets/img/DSC00023_th.jpg|assets/img/DSC00023.jpg
@@ -253,7 +253,7 @@ const MI = `
 @ assets/img/DSC00038_th.jpg|assets/img/DSC00038.jpg
 @ assets/img/DSC00041_th.jpg|assets/img/DSC00041.jpg
 
-~projects/nullctrl : NULLCTRL : A collection of glitch art
+~projects/nullctrl : &#127912; NULLCTRL : A collection of glitch art
 ^ [b:NULLCTRL] is a collection of glitch art created between [b:2014] and [b:2015]
 & They were created using various techniques, including databending and the Decim8 app.
 @ assets/img/1_th.jpg|assets/img/1.jpg

@@ -1,5 +1,5 @@
 const MI = `
-~index/index : Home
+~index/index : &#127968;
 ^ [l:wiki/about|Dustin] is a software engineer living in Spokane, Wa.
 & You can find out more about what I'm up to on my [l:now|now page].
 3 Wiki
@@ -10,7 +10,7 @@ const MI = `
 ? [t:now]
 ! </div>
 
-~now/index : Now
+~now/index : &#127381; Now
 ^ [b:Now] is a [l:https://nownownow.com/about|now page]
 & &#127758; [b:Living] in Spokane, WA
 & &#128187; [b:Working] as a full time as a Software Engineer

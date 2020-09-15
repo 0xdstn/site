@@ -16,7 +16,7 @@ var header = `<!DOCTYPE html>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700,700i&display=swap" rel="stylesheet"> 
     <link rel="stylesheet" href="${basePath}assets/styles/main.css" />
-    <title>Dustin</title>
+    <title>[TITLE] | Dustin</title>
   </head>
   <body>
     <div class="container">
@@ -75,11 +75,11 @@ for (var section in data) {
       // Create the html file
       if (section === 'index') {
         console.log(`    Creating file: ${page}.html`);
-        fs.writeFile(`${page}.html`,header + lipu(data, section, page, basePath) + footer, () => {});
+        fs.writeFile(`${page}.html`,header.replace('[TITLE]',data[section][page].NAME) + lipu(data, section, page, basePath) + footer, () => {});
       }
       else {
         console.log(`    Creating file: ${section}/${page}.html`);
-        fs.writeFile(`${section}/${page}.html`,header + lipu(data, section, page, basePath) + footer, () => {});
+        fs.writeFile(`${section}/${page}.html`,header.replace('[TITLE]',data[section][page].NAME) + lipu(data, section, page, basePath) + footer, () => {});
       }
     } 
     // Sub page
@@ -91,7 +91,7 @@ for (var section in data) {
 
       // Create the html file
       console.log(`    Creating file: ${section}/${page}/index.html`);
-      fs.writeFile(`${section}/${page}/index.html`,header + lipu(data, section, page, basePath) + footer, () => {});
+      fs.writeFile(`${section}/${page}/index.html`,header.replace('[TITLE]',data[section][page].NAME) + lipu(data, section, page, basePath) + footer, () => {});
     }
 
     console.log('');

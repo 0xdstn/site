@@ -23,8 +23,10 @@ function route() {
 
   if (loc.length !== 2 || mi[loc[0]][loc[1]] === undefined) {
     html = '404';
+    document.title = "404 | Dustin";
   } else {
     html = lipu(mi,loc[0],loc[1],basePath);
+    document.getElementsByTagName('title')[0].innerHTML = mi[loc[0]][loc[1]].NAME + " | Dustin";
   }
 
   document.getElementById("content").innerHTML = html;

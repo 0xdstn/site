@@ -1,6 +1,7 @@
 const MI = `
 ~index/index : Home
 ^ [l:wiki/about|Dustin] is a software engineer living in Spokane, Wa.
+& You can find out more about what I'm up to on my [l:now|now page].
 3 Wiki
 ? [d:wiki]
 3 Projects
@@ -8,6 +9,15 @@ const MI = `
 ! <div style="text-align:center">
 ? [t:now]
 ! </div>
+
+~now/index : Now
+^ [b:Now] is a [l:https://nownownow.com/about|now page]
+& &#127758; [b:Living] in Spokane, WA
+& &#128187; [b:Working] as a full time as a Software Engineer
+& &#129496; [b:Practicing] stoicism and secular buddhism
+& &#128218; [b:Studying] managerial skills and diversity &amp; inclusion in the workplace
+& &#128216; [b:Reading] [l:https://www.amazon.com/dp/B07MPYX96Y|Better Allies] and [l:https://www.amazon.com/dp/1619493918|Walden]
+& &#127911; [b:Listening] to [l:https://www.amazon.com/dp/1250237238|Permanent Record]
 
 ~wiki/about : &#128187; About : More information about me
 ^ [b:Dustin] is the owner and maintainer of this website

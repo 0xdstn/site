@@ -15,8 +15,8 @@ const MI = `
 & &#127758; [b:Living] in Spokane, WA
 & &#128187; [b:Working] as a full time as a Software Engineer
 & &#129496; [b:Practicing] stoicism and secular buddhism
-& &#128218; [b:Studying] managerial skills and diversity &amp; inclusion in the workplace
-& &#128216; [b:Reading] [l:https://www.amazon.com/dp/B07MPYX96Y|Better Allies] and [l:https://www.amazon.com/dp/1619493918|Walden]
+& &#128218; [b:Studying] diversity &amp; inclusion in the workplace, history of witches
+& &#128216; [b:Reading] [l:https://www.amazon.com/dp/1619493918|Walden]
 & &#127911; [b:Listening] to [l:https://www.amazon.com/dp/1250237238|Permanent Record]
 
 ~wiki/about : &#128187; About : More information about me
@@ -44,13 +44,12 @@ const MI = `
 - &#128172; Comic 
 
 & [b:Currently reading]
-# &#128216; [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday
-# &#128216; [l:https://www.amazon.com/dp/1592537251|The Art of Urban Sketching] by Gabriel Campanario
-# &#127911; [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
-# &#128216; [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
-# &#128216; [l:https://www.amazon.com/dp/B07MPYX96Y|Better Allies] by Karen Catlin
+- &#128216; [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday
+- &#128216; [l:https://www.amazon.com/dp/1592537251|The Art of Urban Sketching] by Gabriel Campanario
+- &#127911; [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
+- &#128216; [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
 & [b:Books read in 2020]
-& [i:Goal: 24 of 15] &#x2705;
+& [i:Goal: 25 of 15] &#x2705;
 # &#128216; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 # &#128172; [l:https://www.amazon.com/dp/B01EI7LFPY|Fight Club 2] by Chuck Palahniuk
 # &#128172; [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser
@@ -75,6 +74,7 @@ const MI = `
 # &#128172; [l:https://www.amazon.com/dp/1632365383|Cardcaptor Sakura: Clear Card Vol. 2] by CLAMP
 # &#128172; [l:https://www.amazon.com/dp/1632365391|Cardcaptor Sakura: Clear Card Vol. 3] by CLAMP
 # &#128172; [l:https://www.amazon.com/dp/1632366193|Cardcaptor Sakura: Clear Card Vol. 4] by CLAMP
+# &#128216; [l:https://www.amazon.com/dp/B07MPYX96Y|Better Allies] by Karen Catlin
 & [b:Books read in 2019]
 & [i:Goal: 17 of 12] &#x2705;
 # &#128216; [l:https://www.amazon.com/dp/1607747308|The Life-Changing Magic of Tidying Up] by Marie Kondō

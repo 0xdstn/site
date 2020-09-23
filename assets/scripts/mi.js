@@ -124,6 +124,66 @@ const MI = `
 - &#128216; [l:https://www.amazon.com/dp/0307887448|Ready Player One] by Ernest Cline
 - &#128216; [l:http://www.galactanet.com/oneoff/lacero.html|Lacero] by Andy Weir
 
+~wiki/coffee : &#9749; Cafe : Coffee recipes and equipment
+^ The [b:Cafe] is a list of coffee recipes and equipment
+& I am very interested in experimenting with various methods of brewing coffee. Most days I have a 12oz or 16oz cup of black coffee brewed with a [b:Kalita Wave 185].
+3 My equipment
+# [l:http://www.kalita.us.com/products/mill/3364|Kalita Coffee Mill KKC-25 (SB)]
+# [l:https://www.amazon.com/dp/B000X1AM0Y|Kalita Wave 185, stainless steel]
+# [l:https://www.amazon.com/dp/B004R0RHLO|Kalita 300ml carafe]
+# [l:https://aeropress.com/|Aeropress]
+# [l:https://puckpuck.me/|Puck Puck]
+# [l:https://fellowproducts.com/products/prismo/|Prismo]
+# [l:https://www.bialetti.us/coffee/stovetop/moka-express-c-1_7_22.html|Bialetti Moka Pot]
+# [l:https://fellowproducts.com/collections/bestsellers/products/carter-everywhere-mug?variant=30318825799795|Carter Everywhere Mug]
+3 Kalita Wave 185
+- [b:Coffee:] 15g, medium-fine grind
+- [b:Water:] Slightly boiling
+# Add coffee
+# Saturate grounds with [b:~90g] of water
+# Pour [b:~110g] of water until [b:200g] total, in a spiral motion
+# Occasionally pour [b:25-50g] of water, in spiral motion, until [b:375g] total
+# Wait until coffee reaches [b:300ml], remove and discard the rest
+3 Aeropress
+- [b:Coffee:] 15g (1 scoop, not leveled), medium-fine grind
+- [b:Water:] Slightly boiling
+# Add coffee
+# Start timer
+# Fill to the [b:4] with water, or [b:~240g]
+# Stir
+# Place plunger, pull up slightly
+# Wait until [b:1:15]
+# Push down plunger, gently
+3 Prismo 
+- [b:Coffee:] 20g, fine grind
+- [b:Water:] 75ml, Slightly boiling
+# Add coffee
+# Add water
+# Start timer
+# Stir until [b:0:10]
+# Wait until [b:1:10]
+# Place plunger and push down quickly
+
+~wiki/edc : &#128188; EDC : A list of items I carry around
+^ [b:EDC] is a list of items I carry around with me most days
+3 Utility
+- A small rock with [l:https://dailystoic.com/amor-fati-love-of-fate/|Amor Fati] written on it
+- Moleskine wallet
+- [l:https://www.amazon.com/dp/B000GAWSHM|Casio Men's MQ24-1E Black Resin Watch]
+- [l:https://www.mykeyport.com/pages/pivot-key-organizer|Keyport pivot, blac]
+- [l:https://www.mykeyport.com/products/moca-10-in-1-multi-tool|MOCA Multi-Tool]
+- [l:https://www.mykeyport.com/collections/modules/products/neba-jackknife|NEBA Knife Module]
+- YubiKey
+- YubiKey 4
+3 Technology
+- [l:https://www.amazon.com/dp/B07978J597|Kindle, black, 10th generation]
+- [l:https://www.amazon.com/dp/B07HGL3J31|JLab JBuds Air]
+- iPhone 6s
+3 Sketching
+- A small sketchbook
+- [l:https://www.tombowusa.com/markers/fudenosuke/fudenosuke-brush-pen-broad-tip-black.html|Tombow Fudenosuke Brush Pen, Soft Tip, Black]
+- [l:https://www.amazon.com/dp/B07CGM7V6R|Ipienlee Multicolor Ballpoint Pen, 0.7mm]
+
 ~wiki/tenpo : &#128197; Tenpo : A personal date format
 ^ [b:Tenpo] is a date format.
 & Tenpo is the custom date format that is used on this wiki. It is written in the format [b:YYMDD].

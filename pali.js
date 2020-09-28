@@ -1,4 +1,4 @@
-const basePath = '/';
+const basePath = '/~dustin/';
 
 // Imports
 var fs = require('fs');

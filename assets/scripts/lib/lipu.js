@@ -26,7 +26,6 @@ function lipu(mi,section,pg,basePath) {
     i: "em",
     l: "a",
     d: "directory",
-    s: "section",
     p: "page",
     t: "tenpo"
   };
@@ -101,38 +100,19 @@ function lipu(mi,section,pg,basePath) {
           line = line.replace(m[0],tenpo(new Date(m[2])));
         }
       } else if (k === "d") {
-        let list = `<div class="posts">`;
+        let list = "<ul>";
         for (let x in mi[m[2]]) {
           const page = mi[m[2]][x];
           if (x !== "index") {
             let subtext = (m[2] === 'thoughts' ? page.DATE : page.DESC);
             let desc = (m[2] === 'thoughts' ? `${tenpo(new Date(page.DESC))} (${page.DESC})` : page.DESC);
             list += `
-              <div class="post">
-                <span>
-                  <a href="${basePath}${page.LINK}" onclick="return linkClick(event);">${page.NAME}</a><br>
-                  <span class="sub">${desc}</span>
-                </span>
-              </div>`;
+              <li>
+                <a href="${basePath}${page.LINK}" onclick="return linkClick(event);">${page.NAME}</a> ${desc}
+              </li>`;
           }
         }
-        list += "</div>";
-        line = line.replace(m[0], list);
-      } else if (k === "s") {
-        let list = `<div class="section">`;
-        for (let x in mi[m[2]]) {
-          const page = mi[m[2]][x];
-          if (x !== "index") {
-            let subtext = (m[2] === 'thoughts' ? page.DATE : page.DESC);
-            list += `
-              <div class="post">
-                <span>
-                  <a href="${basePath}${page.LINK}" onclick="return linkClick(event);">${page.NAME}</a><span class="sep"> - </span><span class="sub">${page.DESC}</span>
-                </span>
-              </div>`;
-          }
-        }
-        list += "</div>";
+        list += "</ul>";
         line = line.replace(m[0], list);
       } else {
         line = line.replace(m[0], `<${tplKey[k]}>${m[2]}</${tplKey[k]}>`);

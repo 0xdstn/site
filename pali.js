@@ -1,4 +1,4 @@
-const basePath = '/~dustin/';
+const basePath = '/';
 
 // Imports
 var fs = require('fs');
@@ -23,10 +23,8 @@ var header = `<!DOCTYPE html>
 
       <header>
         <a href="${basePath}" onclick="return linkClick(event);">~dustin</a>
-        <div>
-          <a href="https://merveilles.town/@dstn" rel="me" target="_blank">mastodon</a>
-          <a href="https://github.com/0xdstn" target="_blank">github</a>
-        </div>
+        <a href="https://merveilles.town/@dstn" rel="me" target="_blank">mastodon</a>
+        <a href="https://github.com/0xdstn" target="_blank">github</a>
       </header>
 
       <div id="content">`;

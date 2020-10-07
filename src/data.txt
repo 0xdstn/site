@@ -1,14 +1,12 @@
-const MI = `
-~index/index : &#127968;
+~index/index : &#127968; : Home
 ^ [l:wiki/about|Dustin] is a software engineer living in Spokane, Wa.
 & You can find out more about what I'm up to on my [l:now|now page].
 3 Wiki
 ? [d:wiki]
 3 Projects
 ? [d:projects]
-? [t:now]
 
-~now/index : &#127381; Now
+~now/index : &#127381; Now : Now page
 ^ [b:Now] is a [l:https://nownownow.com/about|now page]
 - &#127758; [b:Living] in Spokane, WA
 - &#128187; [b:Working] as a full time as a Software Engineer
@@ -185,7 +183,6 @@ const MI = `
 ~wiki/tenpo : &#128197; Tenpo : A personal date format
 ^ [b:Tenpo] is a date format.
 & Tenpo is the custom date format that is used on this wiki. It is written in the format [b:YYMDD].
-& The current tenpo date is [t:now].
 3 Years
 & Years are an incremental count of years since [b:1988], the year I was born, with the first year being year [b:00]. For years lower than 10, a leading zero is added.
 & Here are some examples for reference:
@@ -344,6 +341,3 @@ const MI = `
 ! &#9744; Write VOID page<br>
 ! &#9744; Write Glitchcam v0 page<br>
 ! &#9744; Bugfix: Scroll to top of page when transitioning internally<br>
-`;
-
-if (typeof module !== 'undefined') module.exports = MI;

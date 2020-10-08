@@ -2,7 +2,7 @@ html, body { height: 100%; margin: 0; padding: 0; width: 100%; }
 body { background: #efefef; font-family: monospace; font-size: 17px; }
 body { box-sizing: border-box; padding: 1em; }
 
-
+h1 { font-weight: 400; }
 a { color: #00aaee; padding-bottom: 2px; display: inline-block; font-weight: bold; position: relative; text-decoration: none; transition: color 0.3s; }
 a:before { background: #00aaee; content: ""; display: block; position: absolute; bottom: 0px; height: 2px; width: 0px; transition: all 0.3s; }
 a:hover { color: #000; }

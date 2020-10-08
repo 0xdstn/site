@@ -15,7 +15,7 @@
 - &#128216; [b:Reading] [l:https://www.amazon.com/dp/B00IV351R0|Parenting With Love and Logic] 
 - &#127911; [b:Listening] to [l:https://www.amazon.com/dp/1250237238|Permanent Record]
 
-~wiki/about : &#128187; About : More information about me
+~wiki/about : &#128128; About : More information about me
 ^ [b:Dustin] is the owner and maintainer of this website
 & I am married to an amazing woman and have two beautiful children. My family is my top priority in life.
 & I am currently working as a [b:software engineer] and have been creating websites and applications professionally since [b:2009].
@@ -203,6 +203,35 @@
 - [b:E] 10/20 - 12/31
 3 Leap year
 & Whenever there is a leap year, that day is annexed and written as [b:A00], so in [b:2020] the leap year day of [b:2/29] will be [b:32A00].
+
+~wiki/inventory : &#128187; Inventory : A list of personal devices
+^ The [b:Inventory] is a list of devices
+2 [b:ZEN] is an [l:https://www.asus.com/us/Laptops/ASUS-ZenBook-Pro-UX501VW/|Asus Zenbook UX501VW] and my primary work station.
+& [b:Specifications]
+- [b:Operating systems:] Windows 10, Arch Linux
+- [b:Processor:] Intel Core i7 6700HQ Processor
+- [b:Memory:] 16GB DDR4 2133 MHz SDRAM
+- [b:Display:] 15.6" 16:9 (3840 x 2160) touchscreen
+- [b:Graphics:] NVIDIA GeForce GTX 960M with 2G/4G GDDR5 VRAM
+- [b:Storage:] 1TB HDD 5400 RPM
+- [b:Weight:] 2.06 lbs
+2 [b:SRV] is a [l:https://www.raspberrypi.org/products/raspberry-pi-3-model-b/|Raspberry Pi 3 Model B] used as a personal server.
+& This device is used as a personal server for hosting custom tools.
+& [b:Specifications]
+- [b:Operating system:] Raspbian
+- [b:Processor:] Quad Core 1.2GHz Broadcom BCM2837 64bit CPU
+- [b:Memory:] 1GB RAM
+- [b:Storage:] 16GB Micro SD Card
+2 [b:CRO] is a [l:https://www.samsung.com/us/business/products/computing/chrome-devices/chromebook-2/chromebook-2-11-6-xe500c12-k02us/|Samsung Chromebook 2] used as an on-the-go laptop.
+& It is set to developer mode, and has linux installed within Chrome OS via crouton. It is often used to connect to [b:SRV].
+& [b:Specifications]
+- [b:Operating Systems:] Chrome OS, Ubuntu
+- [b:Processor:] Intel Celeron Processor N2840 2.16GHz
+- [b:Display:] 11.6" 16:9 LCD (1366 x 768)
+- [b:Memory:] 4GB DDR3L RAM
+- [b:Storage:] 16GB
+- [b:Graphics:] Intel HD Graphics
+- [b:Weight:] 2.60 lbs
 
 ~projects/lon : &#128278; Lon : A flat-file CLI bookmark manager
 ^ [b:Lon] is a CLI bookmark manager

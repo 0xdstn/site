@@ -11,8 +11,8 @@
 - &#127758; [b:Living] in Spokane, WA
 - &#128187; [b:Working] as a full time as a Software Engineer
 - &#129496; [b:Practicing] stoicism and secular buddhism
-- &#128218; [b:Studying] diversity &amp; inclusion in the workplace, history of witches
-- &#128216; [b:Reading] [l:https://www.amazon.com/dp/1619493918|Walden]
+- &#128218; [b:Studying] parenting
+- &#128216; [b:Reading] [l:https://www.amazon.com/dp/B00IV351R0|Parenting With Love and Logic] 
 - &#127911; [b:Listening] to [l:https://www.amazon.com/dp/1250237238|Permanent Record]
 
 ~wiki/about : &#128187; About : More information about me
@@ -44,6 +44,8 @@
 - &#128216; [l:https://www.amazon.com/dp/1592537251|The Art of Urban Sketching] by Gabriel Campanario
 - &#127911; [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
 - &#128216; [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
+- &#128216; [l:https://www.amazon.com/dp/B00IV351R0|Parenting With Love and Logic] by Foster Cline, Jim Fay
+- &#128216; [l:https://www.amazon.com/dp/1602863024|The Haunting of Sunshine Girl] by Paige McKenzie
 & [b:Books read in 2020]
 & [i:Goal: 25 of 15] &#x2705;
 # &#128216; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
@@ -332,12 +334,7 @@
 
 ~devnull/todo : TODO : ?????
 ^ [b:TODO] is a list of things I'd like to do on this site
-! &#9744; Add search functionality<br>
 ! &#9744; Write about site page<br>
 ! &#9744; Write dotfiles page<br>
-! &#9744; Implement caching<br>
-! &#9744; Add page transitions<br>
-! &#9744; Add functionality to test page content directly on site<br>
 ! &#9744; Write VOID page<br>
 ! &#9744; Write Glitchcam v0 page<br>
-! &#9744; Bugfix: Scroll to top of page when transitioning internally<br>

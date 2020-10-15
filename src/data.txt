@@ -135,7 +135,7 @@
 # [l:https://www.bialetti.us/coffee/stovetop/moka-express-c-1_7_22.html|Bialetti Moka Pot]
 # [l:https://fellowproducts.com/collections/bestsellers/products/carter-everywhere-mug?variant=30318825799795|Carter Everywhere Mug]
 3 Kalita Wave 185
-- [b:Coffee:] 15g, medium-fine grind
+- [b:Coffee:] 15g, medium roast, medium-fine grind
 - [b:Water:] Slightly boiling
 # Add coffee
 # Saturate grounds with [b:~90g] of water
@@ -143,7 +143,7 @@
 # Occasionally pour [b:25-50g] of water, in spiral motion, until [b:375g] total
 # Wait until coffee reaches [b:300ml], remove and discard the rest
 3 Aeropress
-- [b:Coffee:] 15g (1 scoop, not leveled), medium-fine grind
+- [b:Coffee:] 15g (1 scoop, not leveled), medium roast, medium-fine grind
 - [b:Water:] Slightly boiling
 # Add coffee
 # Start timer
@@ -153,7 +153,7 @@
 # Wait until [b:1:15]
 # Push down plunger, gently
 3 Prismo 
-- [b:Coffee:] 20g, fine grind
+- [b:Coffee:] 20g, espresso roast, fine grind
 - [b:Water:] 75ml, Slightly boiling
 # Add coffee
 # Add water

@@ -127,7 +127,10 @@ def createPage(fileName, section, pg):
             if hasLink: output += "</a>"
         # All other tags
         else:
-            val = "<{}>{}</{}>".format(key[char], tpl(text), key[char])
+            if char == "3":
+                val = '<{} id="{}">{}</{}>'.format(key[char], tpl(text), tpl(text), key[char])
+            else:
+                val = "<{}>{}</{}>".format(key[char], tpl(text), key[char])
             if char in ["*","_"]: val = "<p>%s</p>" % val
             output += val
                             

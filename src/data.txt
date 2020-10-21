@@ -3,6 +3,8 @@
 & You can find out more about what I'm up to on my [l:now|now page].
 3 Wiki
 ? [d:wiki]
+3 Recipes
+? [d:recipes]
 3 Projects
 ? [d:projects]
 
@@ -11,8 +13,8 @@
 - &#127758; [b:Living] in Spokane, WA
 - &#128187; [b:Working] as a full time as a Software Engineer
 - &#129496; [b:Practicing] stoicism and secular buddhism
-- &#128218; [b:Studying] parenting
-- &#128216; [b:Reading] [l:https://www.amazon.com/dp/B00IV351R0|Parenting With Love and Logic] 
+- &#128218; [b:Studying] nothing in particular 
+- &#128216; [b:Reading] [l:https://www.amazon.com/dp/1602863121|The Awakening of Sunshine Girl] 
 - &#127911; [b:Listening] to [l:https://www.amazon.com/dp/1250237238|Permanent Record]
 
 ~wiki/about : &#128128; About : More information about me
@@ -32,6 +34,8 @@
 / [l:http://www.hpmor.com|Harry Potter and the Methods of Rationality] by Eliezer Yudkowsky <code>READING</code>
 / [l:https://www.amazon.com/dp/B078XHJL5Y|H.P. Lovecraft: The Complete Collection] by H.P. Lovecraft
 / [l:http://www.scpwiki.com/ebooks|SCP: Foundation Tomes] by Various Authors
+/ &#128216; [l:https://www.amazon.com/dp/B00IV351R0|Parenting With Love and Logic] by Foster Cline, Jim Fay
+/ &#128216; [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
 ^ The [b:Library] is a list of books  
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 & [b:Key]
@@ -43,11 +47,9 @@
 - &#128216; [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday
 - &#128216; [l:https://www.amazon.com/dp/1592537251|The Art of Urban Sketching] by Gabriel Campanario
 - &#127911; [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
-- &#128216; [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
-- &#128216; [l:https://www.amazon.com/dp/B00IV351R0|Parenting With Love and Logic] by Foster Cline, Jim Fay
-- &#128216; [l:https://www.amazon.com/dp/1602863024|The Haunting of Sunshine Girl] by Paige McKenzie
+- &#128216; [l:https://www.amazon.com/dp/1602863121|The Awakening of Sunshine Girl] by Paige McKenzie
 & [b:Books read in 2020]
-& [i:Goal: 25 of 15] &#x2705;
+& [i:Goal: 26 of 15] &#x2705;
 # &#128216; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 # &#128172; [l:https://www.amazon.com/dp/B01EI7LFPY|Fight Club 2] by Chuck Palahniuk
 # &#128172; [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser
@@ -73,6 +75,7 @@
 # &#128172; [l:https://www.amazon.com/dp/1632365391|Cardcaptor Sakura: Clear Card Vol. 3] by CLAMP
 # &#128172; [l:https://www.amazon.com/dp/1632366193|Cardcaptor Sakura: Clear Card Vol. 4] by CLAMP
 # &#128216; [l:https://www.amazon.com/dp/B07MPYX96Y|Better Allies] by Karen Catlin
+# &#128216; [l:https://www.amazon.com/dp/1602863024|The Haunting of Sunshine Girl] by Paige McKenzie
 & [b:Books read in 2019]
 & [i:Goal: 17 of 12] &#x2705;
 # &#128216; [l:https://www.amazon.com/dp/1607747308|The Life-Changing Magic of Tidying Up] by Marie Kondō
@@ -126,14 +129,14 @@
 ^ The [b:Cafe] is a list of coffee recipes and equipment
 & I am very interested in experimenting with various methods of brewing coffee. Most days I have a 12oz or 16oz cup of black coffee brewed with a [b:Kalita Wave 185].
 3 My equipment
-# [l:http://www.kalita.us.com/products/mill/3364|Kalita Coffee Mill KKC-25 (SB)]
-# [l:https://www.amazon.com/dp/B000X1AM0Y|Kalita Wave 185, stainless steel]
-# [l:https://www.amazon.com/dp/B004R0RHLO|Kalita 300ml carafe]
-# [l:https://aeropress.com/|Aeropress]
-# [l:https://puckpuck.me/|Puck Puck]
-# [l:https://fellowproducts.com/products/prismo/|Prismo]
-# [l:https://www.bialetti.us/coffee/stovetop/moka-express-c-1_7_22.html|Bialetti Moka Pot]
-# [l:https://fellowproducts.com/collections/bestsellers/products/carter-everywhere-mug?variant=30318825799795|Carter Everywhere Mug]
+- [l:http://www.kalita.us.com/products/mill/3364|Kalita Coffee Mill KKC-25 (SB)]
+- [l:https://www.amazon.com/dp/B000X1AM0Y|Kalita Wave 185, stainless steel]
+- [l:https://www.amazon.com/dp/B004R0RHLO|Kalita 300ml carafe]
+- [l:https://aeropress.com/|Aeropress]
+- [l:https://puckpuck.me/|Puck Puck]
+- [l:https://fellowproducts.com/products/prismo/|Prismo]
+- [l:https://www.bialetti.us/coffee/stovetop/moka-express-c-1_7_22.html|Bialetti Moka Pot]
+- [l:https://fellowproducts.com/collections/bestsellers/products/carter-everywhere-mug?variant=30318825799795|Carter Everywhere Mug]
 3 Kalita Wave 185
 - [b:Coffee:] 15g, medium roast, medium-fine grind
 - [b:Water:] Slightly boiling
@@ -232,6 +235,32 @@
 - [b:Storage:] 16GB
 - [b:Graphics:] Intel HD Graphics
 - [b:Weight:] 2.60 lbs
+
+~wiki/snippets : &#128203; Snippets : A list of snippets I find I often need
+^ [b:Snippets] is a list of code or other snippets
+3 Show all errors in PHP
+! <pre>ini_set('display_errors', 1);<br>ini_set('display_startup_errors', 1);<br>error_reporting(E_ALL);</pre>
+
+~recipes/fall-oats : &#127810; Fall Oats : Sweet pumpkin oats
+^ [b:Fall oats]
+& This recipe is a slightly modified version of [l:http://ritualdust.com/food/fall-oats/|this recipe by ritualdust].
+3 Ingredients
+- 1/2 cup steel-cut oats
+- 1 cup water
+- 2 tbsp plant-based milk
+- 1 tbsp dark chocolate chips
+- 1/4 cup pumpkin seeds
+- 1/4 cup pumpkin puree
+- 1 tsp brown sugar
+- 1/2 tsp cinnamon
+- 1/4 tsp powdered ginger
+- 1/4 tsp nutmeg
+3 Directions
+# In a [b:small pot], combine the [b:oats] and [b:water]
+# Cook on [b:medium] until boiled ([b:~7 minutes]), constantly stirring
+# Turn off the heat and stir in the [b:plant-based milk]
+# In a [b:bowl], combine all other ingredients
+# Add the [b:oats] to the bowl and mix well
 
 ~projects/lon : &#128278; Lon : A flat-file CLI bookmark manager
 ^ [b:Lon] is a CLI bookmark manager

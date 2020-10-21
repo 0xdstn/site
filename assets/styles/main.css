@@ -20,3 +20,13 @@ code { background: #000; border-radius: 4px; color: #fff; padding: 0.15em 0.5em;
 pre { background: #ddd; border-bottom: solid 3px #00aaee; margin-bottom: 1.5em; padding: 1em; line-height: 1.5em; overflow-x: auto; }
 
 footer .webring { height: 40px; width: 40px; }
+footer .webring #black { display: none; }
+
+@media (prefers-color-scheme: dark) {
+    body { background: #1a1a1a; color: #efefef; }
+    a:hover { color: #fff; }
+    code { background: #444; color: #fff; }
+    pre { background: #333; color: #fff; }
+    footer .webring #black { display: none; }
+    footer .webring #white { display: block; }
+}

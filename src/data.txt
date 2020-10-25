@@ -430,10 +430,3 @@
 @ assets/img/6_th.jpg|assets/img/6.jpg
 @ assets/img/7_th.jpg|assets/img/7.jpg
 @ assets/img/8_th.jpg|assets/img/8.jpg
-
-~devnull/todo : TODO : ?????
-^ [b:TODO] is a list of things I'd like to do on this site
-! &#9744; Write about site page<br>
-! &#9744; Write dotfiles page<br>
-! &#9744; Write VOID page<br>
-! &#9744; Write Glitchcam v0 page<br>

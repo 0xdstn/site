@@ -32,12 +32,6 @@ tplKey = {
     "d": "directory"
 }
 
-dataFile = open("data.txt", "r")
-
-data = {}
-curSection = ""
-curPage = ""
-
 # Read the header
 with open("templates/header.html", "r") as headerFile:
 	header = headerFile.read()
@@ -69,7 +63,7 @@ def tpl(line):
             for x in data[m[1]]:
                 page = data[m[1]][x]
                 if x != "index":
-                    ul += '<li><a href="{}">{}</a> {}'.format(page["LINK"],page["NAME"],page["DESC"])
+                    ul += '<li><a href="{}">{}</a> {}'.format(basePath + page["LINK"],page["NAME"],page["DESC"])
             ul += "</ul>"
             line = line.replace(tag,ul)
         else:
@@ -143,30 +137,43 @@ def createPage(fileName, section, pg):
     f.write(output)
     f.close()
 
-for line in dataFile:
-    line = line.strip()
-    if line == "":
-        continue
-
-    if line[0] == "~":
-        pg = line[1:len(line)].split(" : ")
-        url = pg[0].split("/");
-        curSection = url[0];
-        curPage = url[1] if len(url) > 1 else "index"
-
-        if curSection not in data: 
-            data[curSection] = {}
-
-        data[curSection][curPage] = {
-            "NAME": pg[1],
-            "DESC": pg[2],
-            "LINK" : pg[0],
-            "BODY" : []
-        }
-    else:
-        if curPage == "" or curSection == "":
+def parseData(df):
+    for line in df:
+        line = line.strip()
+        if line == "":
             continue
-        data[curSection][curPage]["BODY"].append(line)
+
+        if line[0] == "~":
+            pg = line[1:len(line)].split(" : ")
+            url = pg[0].split("/");
+            curSection = url[0];
+            curPage = url[1] if len(url) > 1 else "index"
+
+            if curSection not in data: 
+                data[curSection] = {}
+
+            data[curSection][curPage] = {
+                "NAME": pg[1],
+                "DESC": pg[2],
+                "LINK" : pg[0],
+                "BODY" : []
+            }
+        else:
+            if curPage == "" or curSection == "":
+                continue
+            data[curSection][curPage]["BODY"].append(line)
+
+data = {}
+curSection = ""
+curPage = ""
+
+dataFile = open("data.txt", "r")
+parseData(dataFile)
+dataFile.close()
+
+devnull= open("devnull.txt", "r")
+parseData(devnull)
+devnull.close()
 
 # Loop through each section
 for section in data:
@@ -206,4 +213,3 @@ for section in data:
     print("---");
     print("");
 
-dataFile.close()

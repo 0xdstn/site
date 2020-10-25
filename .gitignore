@@ -10,3 +10,5 @@ tildebrowser
 package-lock.json
 share
 linkbot*
+devnull
+src/devnull.txt

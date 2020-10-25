@@ -10,10 +10,10 @@
 
 ~now/index : &#127381; Now : Now page
 ^ [b:Now] is a [l:https://nownownow.com/about|now page]
+/ &#128218; [b:Studying] nothing in particular
 - &#127758; [b:Living] in Spokane, WA
 - &#128187; [b:Working] as a full time as a Software Engineer
 - &#129496; [b:Practicing] stoicism and secular buddhism
-- &#128218; [b:Studying] nothing in particular 
 - &#128216; [b:Reading] [l:https://www.amazon.com/dp/1602863121|The Awakening of Sunshine Girl] 
 - &#127911; [b:Listening] to [l:https://www.amazon.com/dp/1250237238|Permanent Record]
 
@@ -23,6 +23,47 @@
 & I am currently working as a [b:software engineer] and have been creating websites and applications professionally since [b:2009].
 & I study and follow the teachings of [b:secular buddhism] and [b:stoicism], and apply it to every aspect of my life as best I can.
 & I tend to have many interests, so you will find a lot of various things I have dabbled in here on this site.
+
+~wiki/philosophy : &#128217; Philosophy : My personal philosophy
+^ [b:Philosophy] rules that I try to live my life by
+3 General
+- Live intentionally
+- Live minimally
+- Be present in the current moment
+- Embrace every moment (amor fati)
+- Live within your means, don't desire more
+- External validation is not to be desired
+- Hold yourself accountable for your actions
+3 Food
+- Eat to live, don't live to eat
+- Do a 16 hour fast as often as possible
+- Minimize meat consumption
+- Eat sugar only occasionally, and make sure the quality is worth it
+3 Communication
+- Avoid causing harm with your words
+- Consider why you're saying something as much as what you say
+- Be aware of how what you say might affect the other person
+- Be aware and mindful of your privilege
+3 Technology
+- Use technology to achive soething that aligns with your values or goals
+- Use technology with intentionality
+- Create strict personal usage rules and follow them
+- Don't accept something as-is, use it however works best for you
+- If you have a need that can be met with technology, create it
+- Minimal technology is best
+- No screens at night
+3 Parenting
+- Physical aggression is never allowed
+- Lead by example
+- Don't yell, remain calm even when disciplining
+- Let them live, don't try to control everything
+- Provide an open environment to speak their mind
+- Don't do everything for them, let them learn
+3 Mortality
+- Suffering is inevitable
+- You will die, and could at any moment (momento mori)
+- On a long enough timeline, everyone is forgotten
+- Everything is impermanent
 
 ~wiki/library : &#128216; Library : A list of books I've read
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors

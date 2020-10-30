@@ -10,11 +10,11 @@
 
 ~now/index : &#127381; Now : Now page
 ^ [b:Now] is a [l:https://nownownow.com/about|now page]
-/ &#128218; [b:Studying] nothing in particular
 - &#127758; [b:Living] in Spokane, WA
 - &#128187; [b:Working] as a full time as a Software Engineer
 - &#129496; [b:Practicing] stoicism and secular buddhism
-- &#128216; [b:Reading] [l:https://www.amazon.com/dp/1602863121|The Awakening of Sunshine Girl] 
+- &#128218; [b:Studying] 日本語
+- &#128216; [b:Reading] [l:https://www.amazon.com/dp/B00IV351R0|Parenting With Love and Logic]
 - &#127911; [b:Listening] to [l:https://www.amazon.com/dp/1250237238|Permanent Record]
 
 ~wiki/about : &#128128; About : More information about me
@@ -75,7 +75,6 @@
 / [l:http://www.hpmor.com|Harry Potter and the Methods of Rationality] by Eliezer Yudkowsky <code>READING</code>
 / [l:https://www.amazon.com/dp/B078XHJL5Y|H.P. Lovecraft: The Complete Collection] by H.P. Lovecraft
 / [l:http://www.scpwiki.com/ebooks|SCP: Foundation Tomes] by Various Authors
-/ &#128216; [l:https://www.amazon.com/dp/B00IV351R0|Parenting With Love and Logic] by Foster Cline, Jim Fay
 / &#128216; [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
 ^ The [b:Library] is a list of books  
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
@@ -88,9 +87,9 @@
 - &#128216; [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday
 - &#128216; [l:https://www.amazon.com/dp/1592537251|The Art of Urban Sketching] by Gabriel Campanario
 - &#127911; [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
-- &#128216; [l:https://www.amazon.com/dp/1602863121|The Awakening of Sunshine Girl] by Paige McKenzie
+- &#128216; [l:https://www.amazon.com/dp/B00IV351R0|Parenting With Love and Logic] by Foster Cline, Jim Fay
 & [b:Books read in 2020]
-& [i:Goal: 26 of 15] &#x2705;
+& [i:Goal: 28 of 15] &#x2705;
 # &#128216; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 # &#128172; [l:https://www.amazon.com/dp/B01EI7LFPY|Fight Club 2] by Chuck Palahniuk
 # &#128172; [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser
@@ -117,6 +116,8 @@
 # &#128172; [l:https://www.amazon.com/dp/1632366193|Cardcaptor Sakura: Clear Card Vol. 4] by CLAMP
 # &#128216; [l:https://www.amazon.com/dp/B07MPYX96Y|Better Allies] by Karen Catlin
 # &#128216; [l:https://www.amazon.com/dp/1602863024|The Haunting of Sunshine Girl] by Paige McKenzie
+# &#128216; [l:https://www.amazon.com/dp/1602863121|The Awakening of Sunshine Girl] by Paige McKenzie
+# &#128216; [l:https://www.amazon.com/dp/B00INIYHJQ|The Witches] by Roald Dahl
 & [b:Books read in 2019]
 & [i:Goal: 17 of 12] &#x2705;
 # &#128216; [l:https://www.amazon.com/dp/1607747308|The Life-Changing Magic of Tidying Up] by Marie Kondō
@@ -302,6 +303,26 @@
 # Turn off the heat and stir in the [b:plant-based milk]
 # In a [b:bowl], combine all other ingredients
 # Add the [b:oats] to the bowl and mix well
+
+~recipes/pumpkin-seeds : &#127875; Roasted Pumpkin Seeds : Sweet or savory seeds
+^ [b:Roasted Pumpkin Seeds]
+3 Ingredients
+- Pumpkin seeds
+- Olive oil
+- Spices
+3 Spice ideas
+- Salt &amp; pepper
+- Pumpkin pie spice
+- Garlic powder
+3 Directions
+# Remove [b:pumpkin seeds] from pumpkin, rinse
+# Spread out somewhere to dry out
+# Pre-heat oven to [b:200 &deg;]
+# In a [b:bowl] combine [b:seeds], [b:oil], and [b:spices]
+# Spread seeds on a [b:baking sheet]
+# Bake for [b:45 minutes]
+# Turn the heat up to [b:325&deg;]
+# Bake for [b:5 minutes] or until crisp (they will start popping when about done)
 
 ~projects/lon : &#128278; Lon : A flat-file CLI bookmark manager
 ^ [b:Lon] is a CLI bookmark manager

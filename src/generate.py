@@ -29,6 +29,7 @@ tplKey = {
     "b": "strong",
     "i": "em",
     "l": "a",
+    "c": "code",
     "d": "directory"
 }
 

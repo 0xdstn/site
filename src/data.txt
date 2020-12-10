@@ -1,23 +1,24 @@
 ~index/index : &#127968; : Home
 ^ [l:wiki/about|Dustin] is a software engineer living in Spokane, Wa.
 & You can find out more about what I'm up to on my [l:now|now page].
-3 Wiki
+2 Wiki
 ? [d:wiki]
-3 Recipes
+2 Recipes
 ? [d:recipes]
-3 Projects
+2 Projects
 ? [d:projects]
 
 ~now/index : &#127381; Now : Now page
+/ &#128218; [b:Studying] 日本語
 ^ [b:Now] is a [l:https://nownownow.com/about|now page]
 - &#127758; [b:Living] in Spokane, WA
 - &#128187; [b:Working] as a full time as a Software Engineer
 - &#129496; [b:Practicing] stoicism and secular buddhism
-- &#128218; [b:Studying] 日本語
-- &#128216; [b:Reading] [l:https://www.amazon.com/dp/B07C6H6FNN|A Monk's Guide to a Clean House and Mind]  
+- &#128216; [b:Reading] [l:https://www.gutenberg.org/ebooks/520|The Life and Adventures of Santa Claus]
+- &#128216; [b:Reading] [l:https://www.amazon.com/dp/B084G8ZBM2|Calm Christmas and a Happy New Year]
 - &#127911; [b:Listening] to [l:https://www.amazon.com/dp/1250237238|Permanent Record]
 
-~wiki/about : &#128128; About : More information about me
+~wiki/about : &#128172; About : More information about me
 ^ [b:Dustin] is the owner and maintainer of this website
 & I am married to an amazing woman and have two beautiful children. My family is my top priority in life.
 & I am currently working as a [b:software engineer] and have been creating websites and applications professionally since [b:2009].
@@ -26,7 +27,13 @@
 
 ~wiki/philosophy : &#128217; Philosophy : My personal philosophy
 ^ [b:Philosophy] rules that I try to live my life by
-3 General
+# [l:#General|General]
+# [l:#Food|Food]
+# [l:#Communication|Communication]
+# [l:#Technology|Technology]
+# [l:#Parenting|Parenting]
+# [l:#Mortality|Mortality]
+2 General
 - Live intentionally
 - Live minimally
 - Be present in the current moment
@@ -34,17 +41,17 @@
 - Live within your means, don't desire more
 - External validation is not to be desired
 - Hold yourself accountable for your actions
-3 Food
+2 Food
 - Eat to live, don't live to eat
 - Do a 16 hour fast as often as possible
 - Minimize meat consumption
 - Eat sugar only occasionally, and make sure the quality is worth it
-3 Communication
+2 Communication
 - Avoid causing harm with your words
 - Consider why you're saying something as much as what you say
 - Be aware of how what you say might affect the other person
 - Be aware and mindful of your privilege
-3 Technology
+2 Technology
 - Use technology to achive soething that aligns with your values or goals
 - Use technology with intentionality
 - Create strict personal usage rules and follow them
@@ -52,14 +59,14 @@
 - If you have a need that can be met with technology, create it
 - Minimal technology is best
 - No screens at night
-3 Parenting
+2 Parenting
 - Physical aggression is never allowed
 - Lead by example
 - Don't yell, remain calm even when disciplining
 - Let them live, don't try to control everything
 - Provide an open environment to speak their mind
 - Don't do everything for them, let them learn
-3 Mortality
+2 Mortality
 - Suffering is inevitable
 - You will die, and could at any moment (momento mori)
 - On a long enough timeline, everyone is forgotten
@@ -83,13 +90,19 @@
 - &#127911; Listened
 - &#128172; Comic 
 
-& [b:Currently reading]
+# [l:#Currently reading|Currently reading]
+# [l:#Books read in 2020|Books read in 2020]
+# [l:#Books read in 2019|Books read in 2019]
+# [l:#Books read prior to 2019|Books read prior to 2019]
+
+2 Currently reading
 - &#128216; [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday
 - &#128216; [l:https://www.amazon.com/dp/1592537251|The Art of Urban Sketching] by Gabriel Campanario
 - &#127911; [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
-- &#128216; [l:https://www.amazon.com/dp/B07C6H6FNN|A Monk's Guide to a Clean House and Mind] by Shoukei Matsumoto
-& [b:Books read in 2020]
-& [i:Goal: 31 of 15] &#x2705;
+- &#128216; [l:https://www.gutenberg.org/ebooks/520|The Life and Adventures of Santa Claus] by L. Frank Baum
+- &#128216; [l:https://www.amazon.com/dp/B084G8ZBM2|Calm Christmas and a Happy New Year] by Beth Kempton
+2 Books read in 2020
+& [i:Goal: 34 of 15] &#x2705;
 # &#128216; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 # &#128172; [l:https://www.amazon.com/dp/B01EI7LFPY|Fight Club 2] by Chuck Palahniuk
 # &#128172; [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser
@@ -121,7 +134,10 @@
 # &#128216; [l:https://www.amazon.com/dp/B00INIYHJQ|The Witches] by Roald Dahl
 # &#128216; [l:https://www.amazon.com/dp/B00IV351R0|Parenting With Love and Logic] by Foster Cline, Jim Fay
 # &#128216; [l:https://www.amazon.com/dp/B01JZ2QLMO|The Sacrifice of Sunshine Girl] by Paige McKenzie
-& [b:Books read in 2019]
+# &#128216; [l:https://www.amazon.com/dp/B07C6H6FNN|A Monk's Guide to a Clean House and Mind] by Shoukei Matsumoto
+# &#128216; [l:https://www.amazon.com/dp/B075F6XVM8|A Journey Through A History of Magic] by The British Library
+# &#128216; [l:https://www.amazon.com/dp/B07CMMHGNN|Thanks A Thousand: A Gratitude Journey] by A.J. Jacobs
+2 Books read in 2019
 & [i:Goal: 17 of 12] &#x2705;
 # &#128216; [l:https://www.amazon.com/dp/1607747308|The Life-Changing Magic of Tidying Up] by Marie Kondō
 # &#128216; [l:https://www.amazon.com/dp/B07C31XJGP|No-Nonsense Buddhism for Beginners] by Noah Rasheta
@@ -140,7 +156,7 @@
 # &#128216; [l:https://www.gutenberg.org/ebooks/7256|The Gift of the Magi] by O. Henry
 # &#128216; [l:https://www.amazon.com/dp/B00JS59ZK4|Watch Dogs: Dark Clouds] by John Shirley
 # &#128216; [l:https://www.gutenberg.org/ebooks/46|A Christmas Carol] by Charles Dickens
-& [b:Books read prior to 2019]
+2 Books read prior to 2019
 - &#128216; [l:https://www.amazon.com/dp/0545162076|Harry Potter 1-7] by J.K. Rowling
 - &#128216; [l:https://www.amazon.com/dp/B002BA83RO|The Dead Zone] by Stephen King
 - &#128216; [l:https://www.amazon.com/dp/1403991960|Lord of the Flies] by William Golding
@@ -173,7 +189,11 @@
 ~wiki/coffee : &#9749; Cafe : Coffee recipes and equipment
 ^ The [b:Cafe] is a list of coffee recipes and equipment
 & I am very interested in experimenting with various methods of brewing coffee. Most days I have a 12oz or 16oz cup of black coffee brewed with a [b:Kalita Wave 185].
-3 My equipment
+# [l:#My equipment|My equipment]
+# [l:#Kalita Wave 185|Kalita Wave 185]
+# [l:#Aeropress|Aeropress]
+# [l:#Prismo|Prismo]
+2 My equipment
 - [l:http://www.kalita.us.com/products/mill/3364|Kalita Coffee Mill KKC-25 (SB)]
 - [l:https://www.amazon.com/dp/B000X1AM0Y|Kalita Wave 185, stainless steel]
 - [l:https://www.amazon.com/dp/B004R0RHLO|Kalita 300ml carafe]
@@ -182,7 +202,7 @@
 - [l:https://fellowproducts.com/products/prismo/|Prismo]
 - [l:https://www.bialetti.us/coffee/stovetop/moka-express-c-1_7_22.html|Bialetti Moka Pot]
 - [l:https://fellowproducts.com/collections/bestsellers/products/carter-everywhere-mug?variant=30318825799795|Carter Everywhere Mug]
-3 Kalita Wave 185
+2 Kalita Wave 185
 - [b:Coffee:] 15g, medium roast, medium-fine grind
 - [b:Water:] Slightly boiling
 # Add coffee
@@ -190,7 +210,7 @@
 # Pour [b:~110g] of water until [b:200g] total, in a spiral motion
 # Occasionally pour [b:25-50g] of water, in spiral motion, until [b:375g] total
 # Wait until coffee reaches [b:300ml], remove and discard the rest
-3 Aeropress
+2 Aeropress
 - [b:Coffee:] 15g (1 scoop, not leveled), medium roast, medium-fine grind
 - [b:Water:] Slightly boiling
 # Add coffee
@@ -200,7 +220,7 @@
 # Place plunger, pull up slightly
 # Wait until [b:1:15]
 # Push down plunger, gently
-3 Prismo 
+2 Prismo 
 - [b:Coffee:] 20g, espresso roast, fine grind
 - [b:Water:] 75ml, Slightly boiling
 # Add coffee
@@ -210,30 +230,13 @@
 # Wait until [b:1:10]
 # Place plunger and push down quickly
 
-~wiki/edc : &#128188; EDC : A list of items I carry around
-^ [b:EDC] is a list of items I carry around with me most days
-3 Utility
-- A small rock with [l:https://dailystoic.com/amor-fati-love-of-fate/|Amor Fati] written on it
-- Moleskine wallet
-- [l:https://www.amazon.com/dp/B000GAWSHM|Casio Men's MQ24-1E Black Resin Watch]
-- [l:https://www.mykeyport.com/pages/pivot-key-organizer|Keyport pivot, blac]
-- [l:https://www.mykeyport.com/products/moca-10-in-1-multi-tool|MOCA Multi-Tool]
-- [l:https://www.mykeyport.com/collections/modules/products/neba-jackknife|NEBA Knife Module]
-- YubiKey
-- YubiKey 4
-3 Technology
-- [l:https://www.amazon.com/dp/B07978J597|Kindle, black, 10th generation]
-- [l:https://www.amazon.com/dp/B07HGL3J31|JLab JBuds Air]
-- iPhone 6s
-3 Sketching
-- A small sketchbook
-- [l:https://www.tombowusa.com/markers/fudenosuke/fudenosuke-brush-pen-broad-tip-black.html|Tombow Fudenosuke Brush Pen, Soft Tip, Black]
-- [l:https://www.amazon.com/dp/B07CGM7V6R|Ipienlee Multicolor Ballpoint Pen, 0.7mm]
-
 ~wiki/tenpo : &#128197; Tenpo : A personal date format
 ^ [b:Tenpo] is a date format.
 & Tenpo is the custom date format that is used on this wiki. It is written in the format [b:YYMDD].
-3 Years
+# [l:#Years|Years]
+# [l:#Months and Days|Months and Days]
+# [l:#Leap year|Leap year]
+2 Years
 & Years are an incremental count of years since [b:1988], the year I was born, with the first year being year [b:00]. For years lower than 10, a leading zero is added.
 & Here are some examples for reference:
 - [b:31] 2019
@@ -241,7 +244,7 @@
 - [b:12] 2000
 - [b:02] 1990
 - [b:00] 1988
-3 Months and Days
+2 Months and Days
 & There are [b:5 months] lasting exctly [b:73 days each]. The months are single letters, [b:A-E]. Days are just the number of days within each month from [b:01 to 73].
 & Here are the dates that fall within each month:
 - [b:A] 01/01 - 03/14
@@ -249,47 +252,22 @@
 - [b:C] 05/27 - 08/07
 - [b:D] 08/08 - 10/19
 - [b:E] 10/20 - 12/31
-3 Leap year
+2 Leap year
 & Whenever there is a leap year, that day is annexed and written as [b:A00], so in [b:2020] the leap year day of [b:2/29] will be [b:32A00].
-
-~wiki/inventory : &#128187; Inventory : A list of personal devices
-^ The [b:Inventory] is a list of devices
-2 [b:ZEN] is an [l:https://www.asus.com/us/Laptops/ASUS-ZenBook-Pro-UX501VW/|Asus Zenbook UX501VW] and my primary work station.
-& [b:Specifications]
-- [b:Operating systems:] Windows 10, Arch Linux
-- [b:Processor:] Intel Core i7 6700HQ Processor
-- [b:Memory:] 16GB DDR4 2133 MHz SDRAM
-- [b:Display:] 15.6" 16:9 (3840 x 2160) touchscreen
-- [b:Graphics:] NVIDIA GeForce GTX 960M with 2G/4G GDDR5 VRAM
-- [b:Storage:] 1TB HDD 5400 RPM
-- [b:Weight:] 2.06 lbs
-2 [b:SRV] is a [l:https://www.raspberrypi.org/products/raspberry-pi-3-model-b/|Raspberry Pi 3 Model B] used as a personal server.
-& This device is used as a personal server for hosting custom tools.
-& [b:Specifications]
-- [b:Operating system:] Raspbian
-- [b:Processor:] Quad Core 1.2GHz Broadcom BCM2837 64bit CPU
-- [b:Memory:] 1GB RAM
-- [b:Storage:] 16GB Micro SD Card
-2 [b:CRO] is a [l:https://www.samsung.com/us/business/products/computing/chrome-devices/chromebook-2/chromebook-2-11-6-xe500c12-k02us/|Samsung Chromebook 2] used as an on-the-go laptop.
-& It is set to developer mode, and has linux installed within Chrome OS via crouton. It is often used to connect to [b:SRV].
-& [b:Specifications]
-- [b:Operating Systems:] Chrome OS, Ubuntu
-- [b:Processor:] Intel Celeron Processor N2840 2.16GHz
-- [b:Display:] 11.6" 16:9 LCD (1366 x 768)
-- [b:Memory:] 4GB DDR3L RAM
-- [b:Storage:] 16GB
-- [b:Graphics:] Intel HD Graphics
-- [b:Weight:] 2.60 lbs
 
 ~wiki/snippets : &#128203; Snippets : A list of snippets I find I often need
 ^ [b:Snippets] is a list of code or other snippets
-3 Show all errors in PHP
+2 Show all errors in PHP
 ! <pre>ini_set('display_errors', 1);<br>ini_set('display_startup_errors', 1);<br>error_reporting(E_ALL);</pre>
 
 ~recipes/fall-oats : &#127810; Fall Oats : Sweet pumpkin oats
 ^ [b:Fall oats]
+# [l:#Description|Description]
+# [l:#Ingredients|Ingredients]
+# [l:#Directions|Directions]
+2 Description
 & This recipe is a slightly modified version of [l:http://ritualdust.com/food/fall-oats/|this recipe by ritualdust].
-3 Ingredients
+2 Ingredients
 - 1/2 cup steel-cut oats
 - 1 cup water
 - 2 tbsp plant-based milk
@@ -300,7 +278,7 @@
 - 1/2 tsp cinnamon
 - 1/4 tsp powdered ginger
 - 1/4 tsp nutmeg
-3 Directions
+2 Directions
 # In a [b:small pot], combine the [b:oats] and [b:water]
 # Cook on [b:medium] until boiled ([b:~7 minutes]), constantly stirring
 # Turn off the heat and stir in the [b:plant-based milk]
@@ -309,15 +287,18 @@
 
 ~recipes/pumpkin-seeds : &#127875; Roasted Pumpkin Seeds : Sweet or savory seeds
 ^ [b:Roasted Pumpkin Seeds]
-3 Ingredients
+# [l:#Ingredients|Ingredients]
+# [l:#Spice ideas|Spice ideas]
+# [l:#Directions|Directions]
+2 Ingredients
 - Pumpkin seeds
 - Olive oil
 - Spices
-3 Spice ideas
+2 Spice ideas
 - Salt &amp; pepper
 - Pumpkin pie spice
 - Garlic powder
-3 Directions
+2 Directions
 # Remove [b:pumpkin seeds] from pumpkin, rinse
 # Spread out somewhere to dry out
 # Pre-heat oven to [b:200 &deg;]
@@ -329,6 +310,11 @@
 
 ~projects/lon : &#128278; Lon : A flat-file CLI bookmark manager
 ^ [b:Lon] is a CLI bookmark manager
+
+# [l:#Description|Description]
+# [l:#Future plans|Future plans]
+# [l:#Release notes|Release notes]
+2 Description
 & Lon is a simple bookmark manager for storing and searching/tagging things online.
 & All data is stored in a single <code>~/.lon</code> file.
 & You can use the following commands (example: <code>lon.py list</code>):
@@ -338,26 +324,31 @@
 - <code>search &lt;term&gt;</code> - Search for bookmarks containing the provided term
 - <code>tagged &lt;tag&gt;</code> - Search for bookmarks tagged with the provided tag
 - <code>add &lt;url&gt; "&lt;title&gt;" &lt;tag1&gt;,&lt;tag2&gt;</code> - Add a bookmark with the provided details
-3 Future plans
+2 Future plans
 & Here are some features I'd like to add in the future:
 - Add generator to output a site for viewing bookmarks
 - Add ability to edit a bookmark
 - Add ability to delete a bookmark
 - Add check to prevent duplicate bookmarks
-3 Release notes
+2 Release notes
 - <code>v1.0.1</code> Added ability to get a list of tags
 - <code>v1.0.0</code> Initial release with base functionality
 
 ~projects/tilde-social : &#128172; Tilde Social : A flat-file social network
 ^ [b:Tilde Social] is a flat-file social network
+# [l:#Description|Description]
+# [l:#CLI utility|CLI utility]
+# [l:#Future plans|Future plans]
+# [l:#Release notes|Release notes]
+2 Description
 & Tilde Social is intended to be used on shared tilde servers (like [l:http://tilde.town|tilde.town]).
 & All of your data is contained in your home directory, and others read your files to display information.
-3 User file system
+2 User file system
 & When you initialize an account, you will have the following in your [b:~/.social] directory:
 - [b:config] - profile information
 - [b:following] - list of users you are following
 - [b:posts] - list of posts you've published
-3 CLI utility
+2 CLI utility
 & The network is interacted with via a single python script. On [l:http://tilde.town|tilde.town] it is globally linked as <code>timeline</code>.
 & You can use the following commands (example: <code>timeline feed</code>):
 - <code>init</code> - To create a new profile, it will ask you a few questions and generate files for you
@@ -373,7 +364,7 @@
 - <code>unfollow username</code> - Unfollow a user
 - <code>following username</code> - View a list of users another uesr is following
 - <code>followers username</code> - View a list of users who follow a user
-3 Future plans
+2 Future plans
 & Here are some features I'd like to add in the future if there is enough people using it:
 - Require posts to be in quotes
 - Allow commands with usernames to have tildes
@@ -388,7 +379,7 @@
 - A more interactive tui application
 - Statically generated html files for use in the browser?
 - Remote following users on other tildes?
-3 Release notes
+2 Release notes
 - <code>v1.0.11</code> Added UTC to timestamp, added readme
 - <code>v1.0.10</code> Fixed bug where feed was backward
 - <code>v1.0.9</code> Fixed bug where specific user posts over 20 weren't loading
@@ -404,24 +395,30 @@
 
 ~projects/tilde-tools : &#128295; Tilde tools : A list of tilde.town related projects
 ^ [b:Tilde tools] is a list of projects related to [l:http://tilde.town|tilde.town]
-3 @towniebot
+# [l:#@towniebot|@towniebot]
+# [l:#Tildebrowser|Tildebrowser]
+# [l:#Twtxt scraper|Twtxt scraper]
+# [l:#Social scraper|Social scraper]
+# [l:#Namelen|Namelen]
+# [l:#Linkbot|Linkbot]
+2 @towniebot
 & A mastodon bot that features a random ~town user each morning. You can follow it at [l:https://tiny.tilde.website/@towniebot|@towniebot@tiny.tilde.website].
 & If you are a ~town user and would like to opt out as an option for this bot, simply create an empty file in your home directory called [b:.towniebot]. If the bot selects you and finds this file, it will skip you and move on to someone else.
 & If you were featured before you were able to opt out, please reach out to me and I can manually delete the toot.
-3 Tildebrowser
+2 Tildebrowser
 & This project was an idea by [l:http://tilde.town/~equa|~equa].
 & Every night at 12AM server time, a list of users will be scraped from the [b:/home] directory.
 & If a user has not changed their [b:index.html] from the default, they are not included in the list.
 & The page defaults the first user in the list, and provides links to the next and previous users, alphabetically. The page loads the currently selected user's page in an iframe. 
 & If you are a member of ~town and would like to be excluded from the list, you can create a [b:.tildebrowser] file in your home directory. When the data is refreshed at 12AM, it will not include you. If you need it refreshed sooner, reach out to me and will manually run the script as soon as I can.
 & The tildebrowser can be [l:http://tilde.town/~dustin/tildebrowser|viewed here].
-3 Twtxt scraper
+2 Twtxt scraper
 & A script that gathers a list of [l:https://github.com/buckket/twtxt|twtxt] feeds of ~town users. It searches for an actual [b:twtxt.txt] file, and also parses the user's [b:index.html] file for a link if a file wasn't found. It is run nightly, and the output can be [l:http://tilde.town/~dustin/twtxt.html|viewed here].
-3 Social scraper
+2 Social scraper
 & A script that gathers a list of social accounts from ~town user's [b:index.html] file. It finds mastodon, github, instagram, and twitter. It is run nightly, and the output can be [l:http://tilde.town/~dustin/social.html|viewed here].
-3 Namelen
+2 Namelen
 & A script that gathers statistics on the username length of ~town users. It is run nightly, and the output can be [l:http://tilde.town/~dustin/namelen.html|viewed here].
-3 Linkbot
+2 Linkbot
 & An IRC bot that finds URLs, images, and youtube videos, and compiles a list of them. 
 & You are automatically opted out of your links being shared. If you want to opt in so all links you post are shared, you can add an empty [b:.linkbot] file to your home directory. If the bot finds a link you posted and you have this dotfile, your link will be added. You can still opt a specific link out by starting your message with [b:!nolinkbot], [b:!nolink], or [b:!nolb]. If you are not opted in, you can still add a link explicitly by starting your message with [b:!linkbot], [b:!link], or [b:!lb].
 & The output can be [l:http://tilde.town/~dustin/linkbot/|viewed here].

@@ -1,12 +1,11 @@
 html, body { height: 100%; margin: 0; padding: 0; width: 100%; }
-body { background: #efefef; font-family: monospace; font-size: 17px; }
-body { box-sizing: border-box; padding: 1em; }
+body { font-family: monospace; font-size: 16px; box-sizing: border-box; padding: 2em; }
 
-h1 { font-weight: 400; }
-a { color: #00aaee; padding-bottom: 2px; display: inline-block; font-weight: bold; position: relative; text-decoration: none; transition: color 0.3s; }
-a:before { background: #00aaee; content: ""; display: block; position: absolute; bottom: 0px; height: 2px; width: 0px; transition: all 0.3s; }
-a:hover { color: #000; }
-a:hover:before { width: 100%; }
+h1 { font-weight: 300; }
+a { color: #000; padding-bottom: 1px; display: inline-block; font-weight: bold; position: relative; text-decoration: none; transition: color 0.3s; }
+a:before { background: #888; content: ""; display: block; position: absolute; right: 0; bottom: 0; height: 2px; width: 100%; transition: all 0.3s; }
+a:hover { color: #00aaee; }
+a:hover:before { width: 0px; }
 img { display: block; max-width: 800px; margin-bottom: 2em; width: 100%; }
 p, li { line-height: 1.5em; }
 ul, ol { margin-bottom: 2em; padding: 0; }
@@ -17,6 +16,6 @@ ol li { list-style: decimal-leading-zero; margin-left: 1.75em; }
 
 blockquote { border-left: solid 3px #00aaee; font-size: 1.3em; padding: 1em 0 1em 1em; margin: 0 0 1.5em; }
 code { background: #000; border-radius: 4px; color: #fff; padding: 0.15em 0.5em; }
-pre { background: #ddd; border-bottom: solid 3px #00aaee; margin-bottom: 1.5em; padding: 1em; line-height: 1.5em; overflow-x: auto; }
+pre { background: #eee; border-bottom: solid 3px #00aaee; margin-bottom: 1.5em; padding: 1em; line-height: 1.5em; overflow-x: auto; }
 
-.webring { height: 40px; width: 40px; }
+.webring { height: 30px; width: 30px; }

@@ -57,6 +57,8 @@ def tpl(line):
             txt = link[1] if len(link) > 1 else link[0]
             if len(target):
                 line = line.replace(tag,'<a href="{}"{}>{}</a>'.format(url,target,txt))
+            elif url.startswith("#"):
+                line = line.replace(tag,'<a href="{}">{}</a>'.format(url,txt))
             else:
                 line = line.replace(tag,'<a href="{}">{}</a>'.format(basePath+url,txt))
         elif k == "d":
@@ -122,7 +124,7 @@ def createPage(fileName, section, pg):
             if hasLink: output += "</a>"
         # All other tags
         else:
-            if char == "3":
+            if char in ["1","2","3","4","5","6"]:
                 val = '<{} id="{}">{}</{}>'.format(key[char], tpl(text), tpl(text), key[char])
             else:
                 val = "<{}>{}</{}>".format(key[char], tpl(text), key[char])

@@ -14,8 +14,7 @@
 - &#127758; [b:Living] in Spokane, WA
 - &#128187; [b:Working] as a full time as a Software Engineer
 - &#129496; [b:Practicing] stoicism and secular buddhism
-- &#128216; [b:Reading] [l:https://www.gutenberg.org/ebooks/520|The Life and Adventures of Santa Claus]
-- &#128216; [b:Reading] [l:https://www.amazon.com/dp/B084G8ZBM2|Calm Christmas and a Happy New Year]
+- &#128216; [b:Reading] [l:https://www.amazon.com/dp/0618512659|Letters From Father Christmas]
 - &#127911; [b:Listening] to [l:https://www.amazon.com/dp/1250237238|Permanent Record]
 
 ~wiki/about : &#128172; About : More information about me
@@ -99,10 +98,9 @@
 - &#128216; [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday
 - &#128216; [l:https://www.amazon.com/dp/1592537251|The Art of Urban Sketching] by Gabriel Campanario
 - &#127911; [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
-- &#128216; [l:https://www.gutenberg.org/ebooks/520|The Life and Adventures of Santa Claus] by L. Frank Baum
-- &#128216; [l:https://www.amazon.com/dp/B084G8ZBM2|Calm Christmas and a Happy New Year] by Beth Kempton
+- &#128216; [l:https://www.amazon.com/dp/0618512659|Letters From Father Christmas] by J.R.R. Tolkien
 2 Books read in 2020
-& [i:Goal: 34 of 15] &#x2705;
+& [i:Goal: 36 of 15] &#x2705;
 # &#128216; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 # &#128172; [l:https://www.amazon.com/dp/B01EI7LFPY|Fight Club 2] by Chuck Palahniuk
 # &#128172; [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser
@@ -137,6 +135,8 @@
 # &#128216; [l:https://www.amazon.com/dp/B07C6H6FNN|A Monk's Guide to a Clean House and Mind] by Shoukei Matsumoto
 # &#128216; [l:https://www.amazon.com/dp/B075F6XVM8|A Journey Through A History of Magic] by The British Library
 # &#128216; [l:https://www.amazon.com/dp/B07CMMHGNN|Thanks A Thousand: A Gratitude Journey] by A.J. Jacobs
+# &#128216; [l:https://www.amazon.com/dp/B084G8ZBM2|Calm Christmas and a Happy New Year] by Beth Kempton
+# &#128216; [l:https://www.gutenberg.org/ebooks/520|The Life and Adventures of Santa Claus] by L. Frank Baum
 2 Books read in 2019
 & [i:Goal: 17 of 12] &#x2705;
 # &#128216; [l:https://www.amazon.com/dp/1607747308|The Life-Changing Magic of Tidying Up] by Marie Kondō

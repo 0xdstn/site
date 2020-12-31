@@ -5,6 +5,8 @@
 & You can find additional information on my [l:wiki/about|about page].
 2 Wiki
 ? [d:wiki]
+2 Writing
+? [d:writing]
 2 Recipes
 ? [d:recipes]
 2 Projects
@@ -23,7 +25,7 @@
 ~wiki/about : About : More information about me
 1 About
 & I'm Dustin, the owner and maintainer of this website.
-& I am married to an amazing woman and have two beautiful children. My family is my top priority in life.
+& I am married to an amazing woman and have four beautiful children. My family is my top priority in life.
 & I am currently working as a [b:software engineer] and have been creating websites and applications professionally since [b:2009].
 & I study and follow the teachings of [b:secular buddhism] and [b:stoicism], and apply it to every aspect of my life as best I can.
 & I tend to have many interests, so you will find a lot of various things I have dabbled in here on this site.
@@ -450,3 +452,53 @@
 @ assets/img/6_th.jpg|assets/img/6.jpg
 @ assets/img/7_th.jpg|assets/img/7.jpg
 @ assets/img/8_th.jpg|assets/img/8.jpg
+
+~writing/2020 : 2020 : 2020.12.31
+1 2020
+& As we all know, this has been a crazy year. I figured I'd write down some reflections on it as we move into 2021.
+# [l:#Challenges|Challenges]
+# [l:#Personal growth|Personal growth]
+# [l:#Gratitude|Gratitude]
+# [l:#Changes|Changes]
+# [l:#Reading|Reading]
+# [l:#2021|2021]
+2 Challenges
+& Aside from the [b:COVID-19 pandemic], I faced additional challenges that I was not prepared for. In January, we ended up unexpectedly taking in two more children, bringing our total up to four. It was intended to be a temporary thing, 90 days max. They are still with us today, with no real end in sight.
+& Learning to parent children you didn't bring into this world, coming in with their own issues and traumas is challenging. This has tested me as a parent like nothing else. I never realized how much more difficult it could be.
+& On top of that, we all ended up doing school and work at home for a long time. I'm still working from home since March, and in-person schooling just started back up. You really grow together and simultaneously clash in an environemnt like this. It takes some getting used to, but it lends itself to much personal growth.
+2 Personal growth
+& Due to the unique challenges I've faced this year, I feel I have made a ton of personal growth. I was forced into situations that made it necessary to look inward, and learn.
+& Since summer, I have been doing counselling, which I avoided for years, always using some excuse. This was one of the best decisions I have ever made. It has really allowed me to learn about myself, work on myself, and be more self aware.
+& Through all of this, I have become closer to my wife than we have ever been, and I feel like I'm learning to be a better parent (though I have a lot more to learn).
+& Even with all of the difficulties, I feel happier with myself than I've felt in a long time.
+2 Gratitude
+& It may be odd, but I am grateful for the pandemic. It pushed me to be a better version of myself. I had no choice but to grow, or it would have been incredibly more difficult.
+& I am also very grateful that it did not impact my job, as it has for so many. I can continue working from home, and I don't have to worry about our financial state.
+& I'm grateful for my wife for pushing me to seek help in the form of counselling. Without her encouragement, I wouldn't be who I am today. Who I am today is not who I was at the beginning of the year.
+2 Changes
+& I made some changes in my life this year, primarily rules I put on myself, allowing me to be less stressed and overall better.
+- Self imposed [b:digital minimalism] restrictions
+- Utilizing the [b:Love and Logic] parenting style
+- Learned a lot of about [b:diversity and inclusion], and becoming aware of my own privilege
+- Started [b:self reflecting] in my bullet journal
+2 Reading
+& I set out with a goul of reading 15 books this year, and I ended up reading 38. That was highly unexpected for myself.
+& Even if you don't include the comics or very short books, I still surpassed my goal. I'm proud of myself for this, as I never used to be much of a reader prior to 2019.
+& My goal for next year is going to be 20 books, as I'll probably read more normal length books.
+& I want to primarily focus on nature and philosphy books, with a few fiction books here and there.
+& While I've set this goal, I'm also going to try to not obsess over the number, as I've done that before. If I don't hit it, or I surpass it, what really matters is what I get out of the books.
+& My favorite books this year were:
+- [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
+- [l:https://www.amazon.com/dp/B07DBRBP7G|Digital Minimalism] by Cal Newport
+- [l:https://www.amazon.com/dp/B00IV351R0|Parenting With Love and Logic] by Foster Cline, Jim Fay
+- [l:https://www.amazon.com/dp/B07MPYX96Y|Better Allies] by Karen Catlin
+- [l:https://www.amazon.com/dp/B08DFHBWKV|No Longer Human] by Osamu Dazai
+- [l:https://www.gutenberg.org/ebooks/520|The Life and Adventures of Santa Claus] by L. Frank Baum
+2 2021
+& Moving into [b:2021] I'd like to work on the following:
+- Create a solid [b:morning routine] 
+- Start and stick to a [b:daily meditation] habit
+- [b:Write/reflect] nearly every day
+- Be [b:less strict] with myself and others
+- Take the time to [b:paint/sketch] more
+- Use my [b:phone] for [b:less than an hour a day]

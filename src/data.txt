@@ -1,6 +1,8 @@
-~index/index : &#127968; : Home
-^ [l:wiki/about|Dustin] is a software engineer living in Spokane, Wa.
+~index/index : Home : Home
+1 Dustin
+& I'm a [b:software engineer] living in [b:Spokane, Wa].
 & You can find out more about what I'm up to on my [l:now|now page].
+& You can find additional information on my [l:wiki/about|about page].
 2 Wiki
 ? [d:wiki]
 2 Recipes
@@ -8,24 +10,27 @@
 2 Projects
 ? [d:projects]
 
-~now/index : &#127381; Now : Now page
-/ &#128218; [b:Studying] 日本語
-^ [b:Now] is a [l:https://nownownow.com/about|now page]
-- &#127758; [b:Living] in Spokane, WA
-- &#128187; [b:Working] as a full time as a Software Engineer
-- &#129496; [b:Practicing] stoicism and secular buddhism
-- &#128216; [b:Reading] [l:https://www.amazon.com/dp/0618512659|Letters From Father Christmas]
-- &#127911; [b:Listening] to [l:https://www.amazon.com/dp/1250237238|Permanent Record]
+~now/index : Now : Now page
+1 Now
+& This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
+- [b:Living] in Spokane, WA
+- [b:Working] as a full time as a Software Engineer
+- [b:Practicing] stoicism and secular buddhism
+- [b:Studying] 日本語
+- [b:Reading] [l:https://www.amazon.com/dp/0807069205|A Mind of Winter]
+- [b:Listening] to [l:https://www.amazon.com/dp/1250237238|Permanent Record]
 
-~wiki/about : &#128172; About : More information about me
-^ [b:Dustin] is the owner and maintainer of this website
+~wiki/about : About : More information about me
+1 About
+& I'm Dustin, the owner and maintainer of this website.
 & I am married to an amazing woman and have two beautiful children. My family is my top priority in life.
 & I am currently working as a [b:software engineer] and have been creating websites and applications professionally since [b:2009].
 & I study and follow the teachings of [b:secular buddhism] and [b:stoicism], and apply it to every aspect of my life as best I can.
 & I tend to have many interests, so you will find a lot of various things I have dabbled in here on this site.
 
-~wiki/philosophy : &#128217; Philosophy : My personal philosophy
-^ [b:Philosophy] rules that I try to live my life by
+~wiki/philosophy : Philosophy : My personal philosophy
+1 Philosophy
+& Rules that I try to live my life by.
 # [l:#General|General]
 # [l:#Food|Food]
 # [l:#Communication|Communication]
@@ -71,123 +76,118 @@
 - On a long enough timeline, everyone is forgotten
 - Everything is impermanent
 
-~wiki/library : &#128216; Library : A list of books I've read
+~wiki/library : Library : A list of books I've read
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
-/ [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell <code>READING</code>
-/ [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh <code>READING</code>
-/ [l:https://www.gutenberg.org/ebooks/21|Aesop's Fables] by Aesop <code>READING</code>
-/ [l:https://www.amazon.com/dp/1521777268|On Anger: De Ira] by Seneca <code>READING</code>
-/ [l:https://www.amazon.com/dp/1591847818|Ego is the Enemy] by Ryan Holiday <code>READING</code>
-/ [l:http://www.hpmor.com|Harry Potter and the Methods of Rationality] by Eliezer Yudkowsky <code>READING</code>
+/ [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell [c:READING]
+/ [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh [c:READING]
+/ [l:https://www.gutenberg.org/ebooks/21|Aesop's Fables] by Aesop [c:READING]
+/ [l:https://www.amazon.com/dp/1521777268|On Anger: De Ira] by Seneca [c:READING]
+/ [l:https://www.amazon.com/dp/1591847818|Ego is the Enemy] by Ryan Holiday [c:READING]
+/ [l:http://www.hpmor.com|Harry Potter and the Methods of Rationality] by Eliezer Yudkowsky [c:READING]
 / [l:https://www.amazon.com/dp/B078XHJL5Y|H.P. Lovecraft: The Complete Collection] by H.P. Lovecraft
 / [l:http://www.scpwiki.com/ebooks|SCP: Foundation Tomes] by Various Authors
-/ &#128216; [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
-^ The [b:Library] is a list of books  
+/ [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
+1 Library
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
-& [b:Key]
-- &#128216; Read
-- &#127911; Listened
-- &#128172; Comic 
-
 # [l:#Currently reading|Currently reading]
 # [l:#Books read in 2020|Books read in 2020]
 # [l:#Books read in 2019|Books read in 2019]
 # [l:#Books read prior to 2019|Books read prior to 2019]
-
 2 Currently reading
-- &#128216; [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday
-- &#128216; [l:https://www.amazon.com/dp/1592537251|The Art of Urban Sketching] by Gabriel Campanario
-- &#127911; [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
-- &#128216; [l:https://www.amazon.com/dp/0618512659|Letters From Father Christmas] by J.R.R. Tolkien
+- [l:https://www.amazon.com/dp/1592537251|The Art of Urban Sketching] by Gabriel Campanario
+- [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
 2 Books read in 2020
-& [i:Goal: 36 of 15] &#x2705;
-# &#128216; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
-# &#128172; [l:https://www.amazon.com/dp/B01EI7LFPY|Fight Club 2] by Chuck Palahniuk
-# &#128172; [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser
-# &#128172; [l:https://www.amazon.com/dp/1506712320|Stranger Things: SIX] by Jody Houser
-# &#128216; [l:https://www.amazon.com/dp/B07MJ3TDCZ|Stillness is the Key] by Ryan Holiday
-# &#127911; [l:https://www.amazon.com/dp/1338125680|The Tales of Beedle the Bard] by J.K. Rowling
-# &#128216; [l:https://www.amazon.com/dp/B00C0EJF8W|Lectures and Sayings] by Musonius Rufus, Cynthia King
-# &#128216; [l:https://archive.org/details/fp_Banksy-Banging_Your_Head_Against_A_Brick_Wall|Banging Your Head Against A Brick Wall] by Banksy
-# &#128216; [l:https://www.amazon.com/dp/1732441901|Belonging at Work] by Rhodes Perry MPA
-# &#127911; [l:https://www.amazon.com/dp/0525467564|Winnie-the-Pooh] by A.A. Milne
-# &#128216; [l:https://www.amazon.com/dp/B07XZNNGFH|The Boston Rob Rulebook] by Robert C. Mariano
-# &#128216; [l:https://www.amazon.com/dp/B07B7C4F9C|The Bullet Journal Method] by Ryder Carroll
-# &#128216; [l:https://www.amazon.com/dp/B08DFHBWKV|No Longer Human] by Osamu Dazai
-# &#128216; [l:https://archive.org/details/fp_Banksy-Existencilism|Existencilism] by Banksy
-# &#127911; [l:https://www.amazon.com/dp/B002ZODPOC|The House at Pooh Corner] by A.A. Milne
-# &#127911; [l:https://www.amazon.com/dp/0525444459|When We Were Very Young] by A.A. Milne
-# &#127911; [l:https://www.amazon.com/dp/B0013TPY3A|Now We Are Six] by A.A. Milne
-# &#128216; [l:https://www.amazon.com/dp/B01B8X8ALI|Wabi-Sabi Wisdom] by Andrea Jacques
-# &#128216; [l:https://www.amazon.com/dp/B01L9ZV9UE|The Hogwarts Collection] by J.K. Rowling
-# &#128216; [l:https://www.amazon.com/dp/B07DBRBP7G|Digital Minimalism] by Cal Newport
-# &#128172; [l:https://www.amazon.com/dp/1632365375|Cardcaptor Sakura: Clear Card Vol. 1] by CLAMP
-# &#128172; [l:https://www.amazon.com/dp/1632365383|Cardcaptor Sakura: Clear Card Vol. 2] by CLAMP
-# &#128172; [l:https://www.amazon.com/dp/1632365391|Cardcaptor Sakura: Clear Card Vol. 3] by CLAMP
-# &#128172; [l:https://www.amazon.com/dp/1632366193|Cardcaptor Sakura: Clear Card Vol. 4] by CLAMP
-# &#128216; [l:https://www.amazon.com/dp/B07MPYX96Y|Better Allies] by Karen Catlin
-# &#127911; [l:https://pluralistic.net/2020/04/28/force-multiplier/#force-multiplier|Force Multiplier] by Cory Doctorow
-# &#128216; [l:https://www.amazon.com/dp/1602863024|The Haunting of Sunshine Girl] by Paige McKenzie
-# &#128216; [l:https://www.amazon.com/dp/1602863121|The Awakening of Sunshine Girl] by Paige McKenzie
-# &#128216; [l:https://www.amazon.com/dp/B00INIYHJQ|The Witches] by Roald Dahl
-# &#128216; [l:https://www.amazon.com/dp/B00IV351R0|Parenting With Love and Logic] by Foster Cline, Jim Fay
-# &#128216; [l:https://www.amazon.com/dp/B01JZ2QLMO|The Sacrifice of Sunshine Girl] by Paige McKenzie
-# &#128216; [l:https://www.amazon.com/dp/B07C6H6FNN|A Monk's Guide to a Clean House and Mind] by Shoukei Matsumoto
-# &#128216; [l:https://www.amazon.com/dp/B075F6XVM8|A Journey Through A History of Magic] by The British Library
-# &#128216; [l:https://www.amazon.com/dp/B07CMMHGNN|Thanks A Thousand: A Gratitude Journey] by A.J. Jacobs
-# &#128216; [l:https://www.amazon.com/dp/B084G8ZBM2|Calm Christmas and a Happy New Year] by Beth Kempton
-# &#128216; [l:https://www.gutenberg.org/ebooks/520|The Life and Adventures of Santa Claus] by L. Frank Baum
+& [b:Goal: 38 of 15]
+# [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
+# [l:https://www.amazon.com/dp/B01EI7LFPY|Fight Club 2] by Chuck Palahniuk
+# [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser
+# [l:https://www.amazon.com/dp/1506712320|Stranger Things: SIX] by Jody Houser
+# [l:https://www.amazon.com/dp/B07MJ3TDCZ|Stillness is the Key] by Ryan Holiday
+# [l:https://www.amazon.com/dp/1338125680|The Tales of Beedle the Bard] by J.K. Rowling
+# [l:https://www.amazon.com/dp/B00C0EJF8W|Lectures and Sayings] by Musonius Rufus, Cynthia King
+# [l:https://archive.org/details/fp_Banksy-Banging_Your_Head_Against_A_Brick_Wall|Banging Your Head Against A Brick Wall] by Banksy
+# [l:https://www.amazon.com/dp/1732441901|Belonging at Work] by Rhodes Perry MPA
+# [l:https://www.amazon.com/dp/0525467564|Winnie-the-Pooh] by A.A. Milne
+# [l:https://www.amazon.com/dp/B07XZNNGFH|The Boston Rob Rulebook] by Robert C. Mariano
+# [l:https://www.amazon.com/dp/B07B7C4F9C|The Bullet Journal Method] by Ryder Carroll
+# [l:https://www.amazon.com/dp/B08DFHBWKV|No Longer Human] by Osamu Dazai
+# [l:https://archive.org/details/fp_Banksy-Existencilism|Existencilism] by Banksy
+# [l:https://www.amazon.com/dp/B002ZODPOC|The House at Pooh Corner] by A.A. Milne
+# [l:https://www.amazon.com/dp/0525444459|When We Were Very Young] by A.A. Milne
+# [l:https://www.amazon.com/dp/B0013TPY3A|Now We Are Six] by A.A. Milne
+# [l:https://www.amazon.com/dp/B01B8X8ALI|Wabi-Sabi Wisdom] by Andrea Jacques
+# [l:https://www.amazon.com/dp/B01L9ZV9UE|The Hogwarts Collection] by J.K. Rowling
+# [l:https://www.amazon.com/dp/B07DBRBP7G|Digital Minimalism] by Cal Newport
+# [l:https://www.amazon.com/dp/1632365375|Cardcaptor Sakura: Clear Card Vol. 1] by CLAMP
+# [l:https://www.amazon.com/dp/1632365383|Cardcaptor Sakura: Clear Card Vol. 2] by CLAMP
+# [l:https://www.amazon.com/dp/1632365391|Cardcaptor Sakura: Clear Card Vol. 3] by CLAMP
+# [l:https://www.amazon.com/dp/1632366193|Cardcaptor Sakura: Clear Card Vol. 4] by CLAMP
+# [l:https://www.amazon.com/dp/B07MPYX96Y|Better Allies] by Karen Catlin
+# [l:https://pluralistic.net/2020/04/28/force-multiplier/#force-multiplier|Force Multiplier] by Cory Doctorow
+# [l:https://www.amazon.com/dp/1602863024|The Haunting of Sunshine Girl] by Paige McKenzie
+# [l:https://www.amazon.com/dp/1602863121|The Awakening of Sunshine Girl] by Paige McKenzie
+# [l:https://www.amazon.com/dp/B00INIYHJQ|The Witches] by Roald Dahl
+# [l:https://www.amazon.com/dp/B00IV351R0|Parenting With Love and Logic] by Foster Cline, Jim Fay
+# [l:https://www.amazon.com/dp/B01JZ2QLMO|The Sacrifice of Sunshine Girl] by Paige McKenzie
+# [l:https://www.amazon.com/dp/B07C6H6FNN|A Monk's Guide to a Clean House and Mind] by Shoukei Matsumoto
+# [l:https://www.amazon.com/dp/B075F6XVM8|A Journey Through A History of Magic] by The British Library
+# [l:https://www.amazon.com/dp/B07CMMHGNN|Thanks A Thousand: A Gratitude Journey] by A.J. Jacobs
+# [l:https://www.amazon.com/dp/B084G8ZBM2|Calm Christmas and a Happy New Year] by Beth Kempton
+# [l:https://www.gutenberg.org/ebooks/520|The Life and Adventures of Santa Claus] by L. Frank Baum
+# [l:https://www.amazon.com/dp/0618512659|Letters From Father Christmas] by J.R.R. Tolkien
+# [l:https://www.amazon.com/dp/0807069205|A Mind of Winter] by Robert Atwan
+# [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday
 2 Books read in 2019
-& [i:Goal: 17 of 12] &#x2705;
-# &#128216; [l:https://www.amazon.com/dp/1607747308|The Life-Changing Magic of Tidying Up] by Marie Kondō
-# &#128216; [l:https://www.amazon.com/dp/B07C31XJGP|No-Nonsense Buddhism for Beginners] by Noah Rasheta
-# &#128216; [l:https://www.amazon.com/dp/0857834916|Ikigai] by Yukari Mitsuhashi
-# &#127911; [l:https://www.amazon.com/dp/038574126X|We Were Liars] by E. Lockhart
-# &#128216; [l:https://www.amazon.com/dp/0143130722|Ikigai] by Héctor García & Francesc Miralles
-# &#128216; [l:https://www.amazon.com/dp/B003VIWRM2|My Spiritual Journey] by The 14th Dalai Lama
-# &#128216; [l:https://www.amazon.com/dp/0399581294|Draw Your Day] by Samantha Dion Baker
-# &#128216; [l:https://www.amazon.com/dp/0399581626|The New Rules of Coffee] by Jordan Michelman and Zachary Carlsen
-# &#128216; [l:https://www.amazon.com/dp/0553512706|The Halloween Tree] by Ray Bradbury
-# &#128216; [l:https://www.amazon.com/dp/B077S21HX6|Scary Stories to Tell in the Dark] by Alvin Schwartz
-# &#128216; [l:https://www.amazon.com/dp/0060835222|More Scary Stories to Tell in the Dark] by Alvin Schwartz
-# &#128216; [l:https://www.amazon.com/dp/B0006ASEJS|Halloween through twenty centuries] by Ralph Linton
-# &#128216; [l:https://www.amazon.com/dp/0060835249|Scary Stories 3: More Tales to Chill Your Bones] by Alvin Schwartz
-# &#128216; [l:https://www.amazon.com/dp/B00VE3J1QG|The Nightmare Collective] by Multiple authors
-# &#128216; [l:https://www.gutenberg.org/ebooks/7256|The Gift of the Magi] by O. Henry
-# &#128216; [l:https://www.amazon.com/dp/B00JS59ZK4|Watch Dogs: Dark Clouds] by John Shirley
-# &#128216; [l:https://www.gutenberg.org/ebooks/46|A Christmas Carol] by Charles Dickens
+& [b:Goal: 17 of 12]
+# [l:https://www.amazon.com/dp/1607747308|The Life-Changing Magic of Tidying Up] by Marie Kondō
+# [l:https://www.amazon.com/dp/B07C31XJGP|No-Nonsense Buddhism for Beginners] by Noah Rasheta
+# [l:https://www.amazon.com/dp/0857834916|Ikigai] by Yukari Mitsuhashi
+# [l:https://www.amazon.com/dp/038574126X|We Were Liars] by E. Lockhart
+# [l:https://www.amazon.com/dp/0143130722|Ikigai] by Héctor García & Francesc Miralles
+# [l:https://www.amazon.com/dp/B003VIWRM2|My Spiritual Journey] by The 14th Dalai Lama
+# [l:https://www.amazon.com/dp/0399581294|Draw Your Day] by Samantha Dion Baker
+# [l:https://www.amazon.com/dp/0399581626|The New Rules of Coffee] by Jordan Michelman and Zachary Carlsen
+# [l:https://www.amazon.com/dp/0553512706|The Halloween Tree] by Ray Bradbury
+# [l:https://www.amazon.com/dp/B077S21HX6|Scary Stories to Tell in the Dark] by Alvin Schwartz
+# [l:https://www.amazon.com/dp/0060835222|More Scary Stories to Tell in the Dark] by Alvin Schwartz
+# [l:https://www.amazon.com/dp/B0006ASEJS|Halloween through twenty centuries] by Ralph Linton
+# [l:https://www.amazon.com/dp/0060835249|Scary Stories 3: More Tales to Chill Your Bones] by Alvin Schwartz
+# [l:https://www.amazon.com/dp/B00VE3J1QG|The Nightmare Collective] by Multiple authors
+# [l:https://www.gutenberg.org/ebooks/7256|The Gift of the Magi] by O. Henry
+# [l:https://www.amazon.com/dp/B00JS59ZK4|Watch Dogs: Dark Clouds] by John Shirley
+# [l:https://www.gutenberg.org/ebooks/46|A Christmas Carol] by Charles Dickens
 2 Books read prior to 2019
-- &#128216; [l:https://www.amazon.com/dp/0545162076|Harry Potter 1-7] by J.K. Rowling
-- &#128216; [l:https://www.amazon.com/dp/B002BA83RO|The Dead Zone] by Stephen King
-- &#128216; [l:https://www.amazon.com/dp/1403991960|Lord of the Flies] by William Golding
-- &#128216; [l:https://www.amazon.com/dp/039333807X|Survivor] by Chuck Palahniuk
-- &#128216; [l:https://www.amazon.com/dp/0393327345|Fight Club] by Chuck Palahniuk
-- &#128216; [l:https://www.amazon.com/dp/0385720920|Choke] by Chuck Palahniuk
-- &#128216; [l:https://www.amazon.com/dp/1400049628|The Zombie Survival Guide] by Max Brooks
-- &#128216; [l:https://www.amazon.com/dp/0307346617|World War Z] by Max Brooks
-- &#128216; [l:https://www.gutenberg.org/ebooks/19002|Alices Adventures Underground] by Lewis Carroll
-- &#128216; [l:https://www.amazon.com/dp/0307275833|Rant] by Chuck Palahniuk
-- &#128216; [l:https://www.amazon.com/dp/1595145168|The Future of Us] by Jay Asher
-- &#128216; [l:https://www.amazon.com/dp/1582342733|The Dark Fields] by Alan Glynn
-- &#128216; [l:https://www.amazon.com/dp/0439023483|The Hunger Games] by Suzanne Collins
-- &#128216; [l:https://www.amazon.com/dp/0545586178|Catching Fire] by Suzanne Collins
-- &#128216; [l:https://www.amazon.com/dp/0545663261|Mockingjay] by Suzanne Collins
-- &#128216; [l:https://www.amazon.com/dp/0385736002|The Alchemyst] by Michael Scott
-- &#128216; [l:https://www.amazon.com/dp/0385737289|The Magician] by Michael Scott
-- &#128216; [l:https://www.amazon.com/dp/0385735308|The Sorceress] by Michael Scott
-- &#128216; [l:https://www.amazon.com/dp/0385735324|The Necromancer] by Michael Scott
-- &#128216; [l:https://www.amazon.com/dp/0062191497|Reamde] by Neal Stephenson
-- &#128216; [l:https://www.amazon.com/dp/0316037729|Ghost in the Wires] by Kevin Mitnick
-- &#128216; [l:https://craphound.com/littlebrother/download|Little Brother] by Cory Doctorow
-- &#128216; [l:https://craphound.com/littlebrother/download|Homeland] by Cory Doctorow
-- &#128216; [l:https://www.tor.com/2013/08/28/lawful-interception/|Lawful Interception] by Cory Doctorow
-- &#128216; [l:https://www.amazon.com/dp/0307588378|Gone Girl] by Gillian Flynn
-- &#128216; [l:https://www.amazon.com/dp/1597499579|Violent Python] by T.J. O'Connor
-- &#128216; [l:https://www.amazon.com/dp/0307887448|Ready Player One] by Ernest Cline
-- &#128216; [l:http://www.galactanet.com/oneoff/lacero.html|Lacero] by Andy Weir
+- [l:https://www.amazon.com/dp/0545162076|Harry Potter 1-7] by J.K. Rowling
+- [l:https://www.amazon.com/dp/B002BA83RO|The Dead Zone] by Stephen King
+- [l:https://www.amazon.com/dp/1403991960|Lord of the Flies] by William Golding
+- [l:https://www.amazon.com/dp/039333807X|Survivor] by Chuck Palahniuk
+- [l:https://www.amazon.com/dp/0393327345|Fight Club] by Chuck Palahniuk
+- [l:https://www.amazon.com/dp/0385720920|Choke] by Chuck Palahniuk
+- [l:https://www.amazon.com/dp/1400049628|The Zombie Survival Guide] by Max Brooks
+- [l:https://www.amazon.com/dp/0307346617|World War Z] by Max Brooks
+- [l:https://www.gutenberg.org/ebooks/19002|Alices Adventures Underground] by Lewis Carroll
+- [l:https://www.amazon.com/dp/0307275833|Rant] by Chuck Palahniuk
+- [l:https://www.amazon.com/dp/1595145168|The Future of Us] by Jay Asher
+- [l:https://www.amazon.com/dp/1582342733|The Dark Fields] by Alan Glynn
+- [l:https://www.amazon.com/dp/0439023483|The Hunger Games] by Suzanne Collins
+- [l:https://www.amazon.com/dp/0545586178|Catching Fire] by Suzanne Collins
+- [l:https://www.amazon.com/dp/0545663261|Mockingjay] by Suzanne Collins
+- [l:https://www.amazon.com/dp/0385736002|The Alchemyst] by Michael Scott
+- [l:https://www.amazon.com/dp/0385737289|The Magician] by Michael Scott
+- [l:https://www.amazon.com/dp/0385735308|The Sorceress] by Michael Scott
+- [l:https://www.amazon.com/dp/0385735324|The Necromancer] by Michael Scott
+- [l:https://www.amazon.com/dp/0062191497|Reamde] by Neal Stephenson
+- [l:https://www.amazon.com/dp/0316037729|Ghost in the Wires] by Kevin Mitnick
+- [l:https://craphound.com/littlebrother/download|Little Brother] by Cory Doctorow
+- [l:https://craphound.com/littlebrother/download|Homeland] by Cory Doctorow
+- [l:https://www.tor.com/2013/08/28/lawful-interception/|Lawful Interception] by Cory Doctorow
+- [l:https://www.amazon.com/dp/0307588378|Gone Girl] by Gillian Flynn
+- [l:https://www.amazon.com/dp/1597499579|Violent Python] by T.J. O'Connor
+- [l:https://www.amazon.com/dp/0307887448|Ready Player One] by Ernest Cline
+- [l:http://www.galactanet.com/oneoff/lacero.html|Lacero] by Andy Weir
 
-~wiki/coffee : &#9749; Cafe : Coffee recipes and equipment
-^ The [b:Cafe] is a list of coffee recipes and equipment
+~wiki/coffee : Cafe : Coffee recipes and equipment
+1 Cafe
 & I am very interested in experimenting with various methods of brewing coffee. Most days I have a 12oz or 16oz cup of black coffee brewed with a [b:Kalita Wave 185].
 # [l:#My equipment|My equipment]
 # [l:#Kalita Wave 185|Kalita Wave 185]
@@ -230,8 +230,8 @@
 # Wait until [b:1:10]
 # Place plunger and push down quickly
 
-~wiki/tenpo : &#128197; Tenpo : A personal date format
-^ [b:Tenpo] is a date format.
+~wiki/tenpo : Tenpo : A personal date format
+1 Tenpo
 & Tenpo is the custom date format that is used on this wiki. It is written in the format [b:YYMDD].
 # [l:#Years|Years]
 # [l:#Months and Days|Months and Days]
@@ -255,13 +255,8 @@
 2 Leap year
 & Whenever there is a leap year, that day is annexed and written as [b:A00], so in [b:2020] the leap year day of [b:2/29] will be [b:32A00].
 
-~wiki/snippets : &#128203; Snippets : A list of snippets I find I often need
-^ [b:Snippets] is a list of code or other snippets
-2 Show all errors in PHP
-! <pre>ini_set('display_errors', 1);<br>ini_set('display_startup_errors', 1);<br>error_reporting(E_ALL);</pre>
-
-~recipes/fall-oats : &#127810; Fall Oats : Sweet pumpkin oats
-^ [b:Fall oats]
+~recipes/fall-oats : Fall Oats : Sweet pumpkin oats
+1 Fall oats
 # [l:#Description|Description]
 # [l:#Ingredients|Ingredients]
 # [l:#Directions|Directions]
@@ -285,8 +280,8 @@
 # In a [b:bowl], combine all other ingredients
 # Add the [b:oats] to the bowl and mix well
 
-~recipes/pumpkin-seeds : &#127875; Roasted Pumpkin Seeds : Sweet or savory seeds
-^ [b:Roasted Pumpkin Seeds]
+~recipes/pumpkin-seeds : Roasted Pumpkin Seeds : Sweet or savory seeds
+1 Roasted Pumpkin Seeds
 # [l:#Ingredients|Ingredients]
 # [l:#Spice ideas|Spice ideas]
 # [l:#Directions|Directions]
@@ -308,22 +303,22 @@
 # Turn the heat up to [b:325&deg;]
 # Bake for [b:5 minutes] or until crisp (they will start popping when about done)
 
-~projects/lon : &#128278; Lon : A flat-file CLI bookmark manager
-^ [b:Lon] is a CLI bookmark manager
-
+~projects/lon : Lon : A flat-file CLI bookmark manager
+1 Lon
+& A CLI bookmark manager.
 # [l:#Description|Description]
 # [l:#Future plans|Future plans]
 # [l:#Release notes|Release notes]
 2 Description
 & Lon is a simple bookmark manager for storing and searching/tagging things online.
-& All data is stored in a single <code>~/.lon</code> file.
-& You can use the following commands (example: <code>lon.py list</code>):
-- <code>init</code> - Initialize your bookmarks
-- <code>list</code> - View a list of all your bookmarks
-- <code>tags</code> - View a list of all your tags
-- <code>search &lt;term&gt;</code> - Search for bookmarks containing the provided term
-- <code>tagged &lt;tag&gt;</code> - Search for bookmarks tagged with the provided tag
-- <code>add &lt;url&gt; "&lt;title&gt;" &lt;tag1&gt;,&lt;tag2&gt;</code> - Add a bookmark with the provided details
+& All data is stored in a single [b:~/.lon] file.
+& You can use the following commands (example: [c:lon.py list]):
+- [c:init] - Initialize your bookmarks
+- [c:list] - View a list of all your bookmarks
+- [c:tags] - View a list of all your tags
+- [c:search &lt;term&gt;] - Search for bookmarks containing the provided term
+- [c:tagged &lt;tag&gt;] - Search for bookmarks tagged with the provided tag
+- [c:add &lt;url&gt; "&lt;title&gt;" &lt;tag1&gt;,&lt;tag2&gt;] - Add a bookmark with the provided details
 2 Future plans
 & Here are some features I'd like to add in the future:
 - Add generator to output a site for viewing bookmarks
@@ -331,11 +326,12 @@
 - Add ability to delete a bookmark
 - Add check to prevent duplicate bookmarks
 2 Release notes
-- <code>v1.0.1</code> Added ability to get a list of tags
-- <code>v1.0.0</code> Initial release with base functionality
+- [c:v1.0.1] Added ability to get a list of tags
+- [c:v1.0.0] Initial release with base functionality
 
-~projects/tilde-social : &#128172; Tilde Social : A flat-file social network
-^ [b:Tilde Social] is a flat-file social network
+~projects/tilde-social : Tilde Social : A flat-file social network
+1 Tilde Social
+& A flat-file social network.
 # [l:#Description|Description]
 # [l:#CLI utility|CLI utility]
 # [l:#Future plans|Future plans]
@@ -349,21 +345,21 @@
 - [b:following] - list of users you are following
 - [b:posts] - list of posts you've published
 2 CLI utility
-& The network is interacted with via a single python script. On [l:http://tilde.town|tilde.town] it is globally linked as <code>timeline</code>.
-& You can use the following commands (example: <code>timeline feed</code>):
-- <code>init</code> - To create a new profile, it will ask you a few questions and generate files for you
-- <code>users</code> - View a list of users who have a profile
-- <code>feed</code> - View a feed of users you follow
-- <code>local</code> - View a feed of all users
-- <code>me</code> - View your profile
-- <code>following</code> - View a list of users you follow
-- <code>followers</code> - View a list of users who follow you
-- <code>mentions</code> - View a list of posts you're mentioned in
-- <code>post Message to post</code> - Post a new message, everything in the quotes will be posted
-- <code>follow username</code> - Follow a user
-- <code>unfollow username</code> - Unfollow a user
-- <code>following username</code> - View a list of users another uesr is following
-- <code>followers username</code> - View a list of users who follow a user
+& The network is interacted with via a single python script. On [l:http://tilde.town|tilde.town] it is globally linked as [c:timeline].
+& You can use the following commands (example: [c:timeline feed]):
+- [c:init] - To create a new profile, it will ask you a few questions and generate files for you
+- [c:users] - View a list of users who have a profile
+- [c:feed] - View a feed of users you follow
+- [c:local] - View a feed of all users
+- [c:me] - View your profile
+- [c:following] - View a list of users you follow
+- [c:followers] - View a list of users who follow you
+- [c:mentions] - View a list of posts you're mentioned in
+- [c:post Message to post] - Post a new message, everything in the quotes will be posted
+- [c:follow username] - Follow a user
+- [c:unfollow username] - Unfollow a user
+- [c:following username] - View a list of users another uesr is following
+- [c:followers username] - View a list of users who follow a user
 2 Future plans
 & Here are some features I'd like to add in the future if there is enough people using it:
 - Require posts to be in quotes
@@ -380,21 +376,22 @@
 - Statically generated html files for use in the browser?
 - Remote following users on other tildes?
 2 Release notes
-- <code>v1.0.11</code> Added UTC to timestamp, added readme
-- <code>v1.0.10</code> Fixed bug where feed was backward
-- <code>v1.0.9</code> Fixed bug where specific user posts over 20 weren't loading
-- <code>v1.0.8</code> Resetting colors at the end of each line in a post, cleaned up whitespace between posts
-- <code>v1.0.7</code> Added following/follows you indicators on user list
-- <code>v1.0.6</code> Preventing future posts from displaying
-- <code>v1.0.5</code> Added support for multi-line posts, fixed bug where malformed posts are included in count limit
-- <code>v1.0.4</code> Updated to handle malformed posts
-- <code>v1.0.3</code> Added ability to post without wrapping your message in quotes
-- <code>v1.0.2</code> Added local timeline for all user posts
-- <code>v1.0.1</code> Updated timeline to include your own posts
-- <code>v1.0.0</code> Initial release with base functionality
+- [c:v1.0.11] Added UTC to timestamp, added readme
+- [c:v1.0.10] Fixed bug where feed was backward
+- [c:v1.0.9] Fixed bug where specific user posts over 20 weren't loading
+- [c:v1.0.8] Resetting colors at the end of each line in a post, cleaned up whitespace between posts
+- [c:v1.0.7] Added following/follows you indicators on user list
+- [c:v1.0.6] Preventing future posts from displaying
+- [c:v1.0.5] Added support for multi-line posts, fixed bug where malformed posts are included in count limit
+- [c:v1.0.4] Updated to handle malformed posts
+- [c:v1.0.3] Added ability to post without wrapping your message in quotes
+- [c:v1.0.2] Added local timeline for all user posts
+- [c:v1.0.1] Updated timeline to include your own posts
+- [c:v1.0.0] Initial release with base functionality
 
-~projects/tilde-tools : &#128295; Tilde tools : A list of tilde.town related projects
-^ [b:Tilde tools] is a list of projects related to [l:http://tilde.town|tilde.town]
+~projects/tilde-tools : Tilde tools : A list of tilde.town related projects
+1 Tilde tools
+& A list of projects related to [l:http://tilde.town|tilde.town].
 # [l:#@towniebot|@towniebot]
 # [l:#Tildebrowser|Tildebrowser]
 # [l:#Twtxt scraper|Twtxt scraper]
@@ -423,8 +420,9 @@
 & You are automatically opted out of your links being shared. If you want to opt in so all links you post are shared, you can add an empty [b:.linkbot] file to your home directory. If the bot finds a link you posted and you have this dotfile, your link will be added. You can still opt a specific link out by starting your message with [b:!nolinkbot], [b:!nolink], or [b:!nolb]. If you are not opted in, you can still add a link explicitly by starting your message with [b:!linkbot], [b:!link], or [b:!lb].
 & The output can be [l:http://tilde.town/~dustin/linkbot/|viewed here].
 
-~projects/camera-glitch : &#128247; Camera glitch : A collection of photos taken with a broken digital camera
-^ [b:Camera glitch] is a collection of photos taken with a broken digital camera
+~projects/camera-glitch : Camera glitch : A collection of photos taken with a broken digital camera
+1 Camera glitch
+& A collection of photos taken with a broken digital camera.
 & A while back I had a digital camera with a broken lens that functioned enough to take some glitched photos. I tried to glitch it further and just ended up breaking the camera, but these were the images that I got out of it. Completely unmodified, taken straight from the camera.
 @ assets/img/DSC00023_th.jpg|assets/img/DSC00023.jpg
 @ assets/img/DSC00026_th.jpg|assets/img/DSC00026.jpg
@@ -440,8 +438,9 @@
 @ assets/img/DSC00038_th.jpg|assets/img/DSC00038.jpg
 @ assets/img/DSC00041_th.jpg|assets/img/DSC00041.jpg
 
-~projects/nullctrl : &#127912; NULLCTRL : A collection of glitch art
-^ [b:NULLCTRL] is a collection of glitch art created between [b:2014] and [b:2015]
+~projects/nullctrl : NULLCTRL : A collection of glitch art
+1 NULLCTRL
+& A collection of glitch art created between [b:2014] and [b:2015].
 & They were created using various techniques, including databending and the Decim8 app.
 @ assets/img/1_th.jpg|assets/img/1.jpg
 @ assets/img/2_th.jpg|assets/img/2.jpg

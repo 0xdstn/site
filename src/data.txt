@@ -18,9 +18,8 @@
 - [b:Living] in Spokane, WA
 - [b:Working] as a full time as a Software Engineer
 - [b:Practicing] stoicism and secular buddhism
-- [b:Studying] 日本語
-- [b:Reading] [l:https://www.amazon.com/dp/0807069205|A Mind of Winter]
-- [b:Listening] to [l:https://www.amazon.com/dp/1250237238|Permanent Record]
+- [b:Reading] [l:https://www.amazon.com/dp/1619493918|Walden] and [l:https://www.amazon.com/dp/B00LDYFHX2|How to Eat]
+- [b:Listening] to [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow]
 
 ~wiki/about : About : More information about me
 1 About
@@ -88,18 +87,27 @@
 / [l:http://www.hpmor.com|Harry Potter and the Methods of Rationality] by Eliezer Yudkowsky [c:READING]
 / [l:https://www.amazon.com/dp/B078XHJL5Y|H.P. Lovecraft: The Complete Collection] by H.P. Lovecraft
 / [l:http://www.scpwiki.com/ebooks|SCP: Foundation Tomes] by Various Authors
-/ [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
+/ [l:https://www.amazon.com/dp/1592537251|The Art of Urban Sketching] by Gabriel Campanario
+/ [l:https://www.amazon.com/dp/B082RS7N3X|Attack Surface] by Cory Doctorow
 1 Library
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 # [l:#Currently reading|Currently reading]
+# [l:#Books read in 2021|Books read in 2021]
 # [l:#Books read in 2020|Books read in 2020]
 # [l:#Books read in 2019|Books read in 2019]
 # [l:#Books read prior to 2019|Books read prior to 2019]
 2 Currently reading
-- [l:https://www.amazon.com/dp/1592537251|The Art of Urban Sketching] by Gabriel Campanario
-- [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
+- [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow] by Joseph Menn
+- [l:https://www.amazon.com/dp/B00LDYFHX2|How to Eat] by Thich Nhat Hanh
+- [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
+2 Books read in 2021
+& [b:Goal: 4 of 20]
+# [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
+# [l:https://www.amazon.com/dp/B00IQY3L1M|How to Sit] by Thich Nhat Hanh
+# [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
+# [l:https://www.amazon.com/dp/0008264376|Morning] by Allan Jenkins
 2 Books read in 2020
-& [b:Goal: 38 of 15]
+& [b:Goal: 39 of 15]
 # [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 # [l:https://www.amazon.com/dp/B01EI7LFPY|Fight Club 2] by Chuck Palahniuk
 # [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser
@@ -234,7 +242,7 @@
 
 ~wiki/tenpo : Tenpo : A personal date format
 1 Tenpo
-& Tenpo is the custom date format that is used on this wiki. It is written in the format [b:YYMDD].
+& Tenpo is the custom date format. It is written in the format [b:YYMDD].
 # [l:#Years|Years]
 # [l:#Months and Days|Months and Days]
 # [l:#Leap year|Leap year]
@@ -255,7 +263,7 @@
 - [b:D] 08/08 - 10/19
 - [b:E] 10/20 - 12/31
 2 Leap year
-& Whenever there is a leap year, that day is annexed and written as [b:A00], so in [b:2020] the leap year day of [b:2/29] will be [b:32A00].
+& Whenever there is a leap year, that day is annexed and written as [b:A00], so in [b:2020] the leap year day of [b:2/29] was [b:32A00].
 
 ~recipes/fall-oats : Fall Oats : Sweet pumpkin oats
 1 Fall oats
@@ -453,8 +461,11 @@
 @ assets/img/7_th.jpg|assets/img/7.jpg
 @ assets/img/8_th.jpg|assets/img/8.jpg
 
-~writing/2020 : 2020 : 2020.12.31
-1 2020
+~writing/2020 : 2020 Review : 2020.12.31
+1 2020 Review
+! <div style="text-align:center">
+_ 2020.12.31
+! </div>
 & As we all know, this has been a crazy year. I figured I'd write down some reflections on it as we move into 2021.
 # [l:#Challenges|Challenges]
 # [l:#Personal growth|Personal growth]
@@ -482,7 +493,7 @@
 - Learned a lot of about [b:diversity and inclusion], and becoming aware of my own privilege
 - Started [b:self reflecting] in my bullet journal
 2 Reading
-& I set out with a goul of reading 15 books this year, and I ended up reading 38. That was highly unexpected for myself.
+& I set out with a goal of reading 15 books this year, and I ended up reading 38. That was highly unexpected for myself.
 & Even if you don't include the comics or very short books, I still surpassed my goal. I'm proud of myself for this, as I never used to be much of a reader prior to 2019.
 & My goal for next year is going to be 20 books, as I'll probably read more normal length books.
 & I want to primarily focus on nature and philosphy books, with a few fiction books here and there.

@@ -13,12 +13,14 @@
 ? [d:projects]
 
 ~now/index : Now : Now page
+/ [b:Studying] 日本語
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
 - [b:Living] in Spokane, WA
 - [b:Working] as a full time as a Software Engineer
 - [b:Practicing] stoicism and secular buddhism
-- [b:Reading] [l:https://www.amazon.com/dp/1619493918|Walden], [l:https://hundredrabbits.itch.io/busy-doing-nothing|Busy Doing Nothing], and [l:https://www.amazon.com/dp/B00LDYFHX2|How to Eat]
+- [b:Studying] Toki Pona
+- [b:Reading] [l:https://www.amazon.com/dp/1619493918|Walden], [l:https://www.amazon.com/dp/0765318415|Boneshaker], and [l:https://www.amazon.com/dp/B00LDYFHX2|How to Eat]
 - [b:Listening] to [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow]
 
 ~wiki/about : About : More information about me
@@ -89,6 +91,7 @@
 / [l:http://www.scpwiki.com/ebooks|SCP: Foundation Tomes] by Various Authors
 / [l:https://www.amazon.com/dp/1592537251|The Art of Urban Sketching] by Gabriel Campanario
 / [l:https://www.amazon.com/dp/B082RS7N3X|Attack Surface] by Cory Doctorow
+/ [l:https://hundredrabbits.itch.io/busy-doing-nothing|Busy Doing Nothing] by Hundred Rabbits
 1 Library
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 # [l:#Currently reading|Currently reading]
@@ -100,14 +103,15 @@
 - [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow] by Joseph Menn
 - [l:https://www.amazon.com/dp/B00LDYFHX2|How to Eat] by Thich Nhat Hanh
 - [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
-- [l:https://hundredrabbits.itch.io/busy-doing-nothing|Busy Doing Nothing] by Hundred Rabbits
+- [l:https://www.amazon.com/dp/0765318415|Boneshaker] by Cherie Priest
+- [l:https://www.amazon.com/dp/B0064BV2LK|No 44, The Mysterious Stranger] by Mark Twain
 2 Books read in 2021
 & [b:Goal: 6 of 20]
 # [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
 # [l:https://www.amazon.com/dp/B00IQY3L1M|How to Sit] by Thich Nhat Hanh
 # [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
 # [l:https://www.amazon.com/dp/0008264376|Morning] by Allan Jenkins
-# [l:https://www.amazon.com/dp/B00YAPGP1E|The Mysterious Stranger] by Mark Twain
+# [l:https://www.amazon.com/dp/B00846RM6W|The Mysterious Stranger] by Mark Twain (Paine-Duneka version)
 # [l:https://www.amazon.com/dp/B004TS1JMC|Poems, Series One] by Emily Dickinson
 2 Books read in 2020
 & [b:Goal: 39 of 15]
@@ -315,6 +319,12 @@
 # Bake for [b:45 minutes]
 # Turn the heat up to [b:325&deg;]
 # Bake for [b:5 minutes] or until crisp (they will start popping when about done)
+
+~projects/ilo : ilo : A Toki Pona translation tool
+1 ilo
+& This is a simple tool that allows you to input Toki Pona, and it will provide you the definition of each word. It does not understand sentence structure and doesn't give you an actual translation, but provides you information so you can translate yourself.
+- Source code: [l:https://github.com/0xdstn/ilo].
+- Live version: [l:http://tilde.town/~dustin/ilo/]
 
 ~projects/lon : Lon : A flat-file CLI bookmark manager
 1 Lon

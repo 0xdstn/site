@@ -324,6 +324,7 @@
 1 Tilde world
 & Tilde world (~world) is a flat-file, community powered, text adventure game intended to be run on tilde servers.
 & [b:Source code:] [l:https://github.com/0xdstn/tilde-world]
+& [b:~town map:] [l:http://tilde.town/~dustin/world/]
 # [l:#Description|Description]
 # [l:#Creating rooms|Creating rooms]
 # [l:#Objects|Objects]

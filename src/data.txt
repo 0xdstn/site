@@ -394,6 +394,7 @@
 - Add ability to wall off exits
 - Add ability to make an exit teleport
 2 Release notes
+- [c:v1.0.2] Added TELEPORT action instruction
 - [c:v1.0.1] Added help and about commands
 - [c:v1.0.0] Initial release with base functionality
 

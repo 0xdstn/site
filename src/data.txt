@@ -375,6 +375,7 @@
 - [c:ELSE] - Placed between an [b:IF] and [b:ENDIF]. If the IF statement is false, all following instructions until an [b:ENDIF] will be run
 - [c:ECHO message] - Prints out the provided message
 - [c:GRAB object] - Adds the provided object key to the inventory (must also be in the same room, hidden or not)
+- [c:TELEPORT x y] - Teleports to provided x,y coordinates
 2 Game commands
 & As a user of the game you can run the following commands:
 - [c:look] - View the room along with it's objects and exits

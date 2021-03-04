@@ -339,8 +339,8 @@
 & Your name and description is saved in [b:~/.world/config].
 & When the game is looking for a room at a coordinate, it will loop through all of the users on the server and check for that coordinate in their [b:.world/rooms] directory. The first one found is used, if there are duplicates (try not to step on each other's toes please).
 & Your current position is saved in [b:~/.world/loc] in the format [b:x,y].
-& Your inventory is saved in [b:~/.world/inventory]. Each item goes on one line in the format [b:key : Name : Description].
-& The state for props are saved in `~/.world/state`. It saves in the format [b:x_y_object_prop.txt]. As props change via user interaction, these files are updated. They are created upon entering a room with an object that has a prop.
+& Your inventory is saved in [b:~/.world/inventory]. Each item goes on one line in the format [b:key : x,y]. The x,y is the room the object came from so we can reference it's data again.
+& The state for props are saved in `~/.world/state`. It saves in the format [b:object_prop.txt]. As props change via user interaction, these files are updated. They are created upon entering a room with an object that has a prop.
 2 Creating rooms
 & You can create your own rooms by placing files in the [b:~/.world/rooms] directory.
 & The files are named for their coordinates in the format [b:x_y]. Negative coordinates use an "n" instead of "-". So a room at coordinate [b:-1 0] would be a file named [b:n1_0].

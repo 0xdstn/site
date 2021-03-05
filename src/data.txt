@@ -350,6 +350,7 @@
 - [c:NAME] - The name of the room
 - [c:DESC] - A description of the room. This is displayed with the [b:look] command
 - [c:KEY] - Optional. An ID and name of an item required to enter this room from any direction in this format: [b:west-key|West room key]
+- [c:TELEPORT] - Optional. x,y coordinates to redirect the user to if they teleport here (such as the start of a dungeon).
 2 Objects
 & A room can contain multiple objects. A room with objects would look like this:
 ! <pre>NAME : Landing room<br>DESC : An ordinary room<br>OBJECTS<br>  -<br>    ID : sword<br>    NAME : wooden sword<br>    GRAB : true<br>    DESC : A wooden sword in good condition<br>  -<br>    ID : shield<br>    NAME : wooden shield<br>    GRAB : true<br>    DESC : A wooden shield in good condition</pre>
@@ -392,6 +393,7 @@
 2 Future plans
 - Add more action logic
 2 Release notes
+- [c:v1.1.1] Added TELEPORT prop to rooms  to provide x,y coordinates to redirect the user to if they teleport to the room (such as the start of a dungeon)
 - [c:v1.1.0] Changed inventory system so you can use item actions after grabbing them
 - [c:v1.0.2] Added TELEPORT action instruction
 - [c:v1.0.1] Added help and about commands

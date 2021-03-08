@@ -371,12 +371,13 @@
 & When the user runs [b:turn lamp] it will either turn the power prop on or off depending on if it is currently set to on or off.
 2 Action instructions
 & Actions currently support the following:
-- [c:IF prop_name=value] - If prop of the item is the provided value, all following instructions until an [b:ELSE] or [b:ENDIF] will be run
-- [c:IF INVENTORY=item1,item2] - If the inventory contains the provided item(s), all following instructions until an [b:ELSE] or [b:ENDIF] will be run
+- [c:IF (prop)=(value)] - If prop of the item is the provided value, all following instructions until an [b:ELSE] or [b:ENDIF] will be run
+- [c:IF INVENTORY=(item1,item2)] - If the inventory contains the provided item(s), all following instructions until an [b:ELSE] or [b:ENDIF] will be run
 - [c:ELSE] - Placed between an [b:IF] and [b:ENDIF]. If the IF statement is false, all following instructions until an [b:ENDIF] will be run
-- [c:ECHO message] - Prints out the provided message
-- [c:GRAB object] - Adds the provided object key to the inventory (must also be in the same room, hidden or not)
-- [c:TELEPORT x y] - Teleports to provided x,y coordinates
+- [c:ECHO (message)] - Prints out the provided message. Props will be replaced with their value in the format [prop]
+- [c:GRAB (object)] - Adds the provided object key to the inventory (must also be in the same room, hidden or not)
+- [c:TELEPORT (x) (y)] - Teleports to provided x,y coordinates
+- [c:PROMPT (prop)|(message)] - Prompts the user with the message. Their input is stored in the provided prop
 2 Game commands
 & As a user of the game you can run the following commands:
 - [c:look] - View the room along with it's objects and exits
@@ -393,6 +394,7 @@
 2 Future plans
 - Add more action logic
 2 Release notes
+- [c:v1.1.2] Added PROMPT action instruction. Updated ECHO to support displaying props
 - [c:v1.1.1] Added TELEPORT prop to rooms  to provide x,y coordinates to redirect the user to if they teleport to the room (such as the start of a dungeon)
 - [c:v1.1.0] Changed inventory system so you can use item actions after grabbing them
 - [c:v1.0.2] Added TELEPORT action instruction

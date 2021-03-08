@@ -16,11 +16,13 @@
 / [b:Studying] 日本語
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
+_ Last updated: 2021.03.08
 - [b:Living] in Spokane, WA
 - [b:Working] as a full time as a Software Engineer
 - [b:Practicing] stoicism and secular buddhism
+- [b:Building] [l:projects/tilde-world|Tilde world]
 - [b:Studying] Toki Pona
-- [b:Reading] [l:https://www.amazon.com/dp/1619493918|Walden], [l:https://www.amazon.com/dp/0765318415|Boneshaker], and [l:https://www.amazon.com/dp/B00LDYFHX2|How to Eat]
+- [b:Reading] [l:https://www.amazon.com/dp/1619493918|Walden], [l:https://www.amazon.com/dp/0765318415|Boneshaker], [l:https://www.amazon.com/dp/B000FC1JAI|Meditations], and [l:https://www.amazon.com/dp/B012M1RLXS|Toki Pona]
 - [b:Listening] to [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow]
 
 ~wiki/about : About : More information about me
@@ -101,18 +103,20 @@
 # [l:#Books read prior to 2019|Books read prior to 2019]
 2 Currently reading
 - [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow] by Joseph Menn
-- [l:https://www.amazon.com/dp/B00LDYFHX2|How to Eat] by Thich Nhat Hanh
 - [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
 - [l:https://www.amazon.com/dp/0765318415|Boneshaker] by Cherie Priest
 - [l:https://www.amazon.com/dp/B0064BV2LK|No 44, The Mysterious Stranger] by Mark Twain
+- [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
+- [l:https://www.amazon.com/dp/B012M1RLXS|Toki Pona] by Sonja Lang
 2 Books read in 2021
-& [b:Goal: 6 of 20]
+& [b:Goal: 7 of 20]
 # [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
 # [l:https://www.amazon.com/dp/B00IQY3L1M|How to Sit] by Thich Nhat Hanh
 # [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
 # [l:https://www.amazon.com/dp/0008264376|Morning] by Allan Jenkins
 # [l:https://www.amazon.com/dp/B00846RM6W|The Mysterious Stranger] by Mark Twain (Paine-Duneka version)
 # [l:https://www.amazon.com/dp/B004TS1JMC|Poems, Series One] by Emily Dickinson
+# [l:https://www.amazon.com/dp/B00LDYFHX2|How to Eat] by Thich Nhat Hanh
 2 Books read in 2020
 & [b:Goal: 39 of 15]
 # [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays

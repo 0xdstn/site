@@ -561,9 +561,7 @@ _ Last updated: 2021.03.08
 
 ~writing/2020 : 2020 Review : 2020.12.31
 1 2020 Review
-! <div style="text-align:center">
 _ 2020.12.31
-! </div>
 & As we all know, this has been a crazy year. I figured I'd write down some reflections on it as we move into 2021.
 # [l:#Challenges|Challenges]
 # [l:#Personal growth|Personal growth]

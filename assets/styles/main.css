@@ -1,11 +1,12 @@
 html, body { height: 100%; margin: 0; padding: 0; width: 100%; }
-body { background: #1c1c1c; color: #fff; font-family: Courier, monospace; font-size: 17px; box-sizing: border-box; padding: 2em; }
+body { background: #222; color: #c8c8c8; font-family: Courier, monospace; font-size: 17px; box-sizing: border-box; padding: 2em; }
 header { padding-bottom: 1em; }
 header a { margin-right: .25em; }
 
-a { padding-bottom: 1px; color: #00aaee; text-decoration: none; font-weight: bold; }
+a { padding-bottom: 1px; color: #00ffaa; text-decoration: none; font-weight: bold; }
 a:hover { text-decoration: underline; }
 
+strong { color: #fff; }
 p,li { font-size: 1em; }
 img { display: block; width: 100%; max-width: 800px; margin-bottom: 2em; width: 100%; }
 p, li { line-height: 1.5em; }
@@ -14,6 +15,7 @@ li{ margin-bottom: .5em; }
 ol { margin-left: 1em; }
 ul li { list-style: disc; margin-left: 1.2em; }
 ol li { list-style: decimal-leading-zero; margin-left: 1.75em; }
+h1,h2,h3,h4,h5,h6 { color: #fff; }
 
 blockquote { padding: 1em 0 1em 1em; margin: 0 0 1.5em; }
 code { background: #ddd; border-radius: 4px; color: #000; padding: 0.15em 0.5em; }

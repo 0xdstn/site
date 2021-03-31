@@ -2,36 +2,24 @@
 1 Dustin
 & I'm a [b:software engineer] living in [b:Spokane, Wa].
 & You can find out more about what I'm up to on my [l:now|now page].
-& You can find additional information on my [l:wiki/about|about page].
-2 Wiki
-? [d:wiki]
-2 Writing
-? [d:writing]
-2 Recipes
-? [d:recipes]
 2 Projects
 ? [d:projects]
+2 Writing
+? [d:writing]
+2 Wiki
+? [d:wiki]
+2 Recipes
+? [d:recipes]
 
 ~now/index : Now : Now page
-/ [b:Studying] 日本語
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
-_ Last updated: 2021.03.08
+_ Last updated: 2021.03.31
 - [b:Living] in Spokane, WA
 - [b:Working] as a full time as a Software Engineer
 - [b:Practicing] stoicism and secular buddhism
-- [b:Building] [l:projects/tilde-world|Tilde world]
-- [b:Studying] Toki Pona
-- [b:Reading] [l:https://www.amazon.com/dp/1619493918|Walden], [l:https://www.amazon.com/dp/0765318415|Boneshaker], [l:https://www.amazon.com/dp/B000FC1JAI|Meditations], and [l:https://www.amazon.com/dp/B012M1RLXS|Toki Pona]
+- [b:Reading] [l:https://www.amazon.com/dp/1619493918|Walden] and [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
 - [b:Listening] to [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow]
-
-~wiki/about : About : More information about me
-1 About
-& I'm Dustin, the owner and maintainer of this website.
-& I am married to an amazing woman and have four beautiful children. My family is my top priority in life.
-& I am currently working as a [b:software engineer] and have been creating websites and applications professionally since [b:2009].
-& I study and follow the teachings of [b:secular buddhism] and [b:stoicism], and apply it to every aspect of my life as best I can.
-& I tend to have many interests, so you will find a lot of various things I have dabbled in here on this site.
 
 ~wiki/philosophy : Philosophy : My personal philosophy
 1 Philosophy
@@ -61,7 +49,7 @@ _ Last updated: 2021.03.08
 - Be aware of how what you say might affect the other person
 - Be aware and mindful of your privilege
 2 Technology
-- Use technology to achive soething that aligns with your values or goals
+- Use technology to achive something that aligns with your values or goals
 - Use technology with intentionality
 - Create strict personal usage rules and follow them
 - Don't accept something as-is, use it however works best for you
@@ -104,12 +92,9 @@ _ Last updated: 2021.03.08
 2 Currently reading
 - [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow] by Joseph Menn
 - [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
-- [l:https://www.amazon.com/dp/0765318415|Boneshaker] by Cherie Priest
-- [l:https://www.amazon.com/dp/B0064BV2LK|No 44, The Mysterious Stranger] by Mark Twain
 - [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
-- [l:https://www.amazon.com/dp/B012M1RLXS|Toki Pona] by Sonja Lang
 2 Books read in 2021
-& [b:Goal: 7 of 20]
+& [b:Goal: 9 of 20]
 # [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
 # [l:https://www.amazon.com/dp/B00IQY3L1M|How to Sit] by Thich Nhat Hanh
 # [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
@@ -117,6 +102,8 @@ _ Last updated: 2021.03.08
 # [l:https://www.amazon.com/dp/B00846RM6W|The Mysterious Stranger] by Mark Twain (Paine-Duneka version)
 # [l:https://www.amazon.com/dp/B004TS1JMC|Poems, Series One] by Emily Dickinson
 # [l:https://www.amazon.com/dp/B00LDYFHX2|How to Eat] by Thich Nhat Hanh
+# [l:https://www.amazon.com/dp/B0064BV2LK|No 44, The Mysterious Stranger] by Mark Twain
+# [l:https://www.amazon.com/dp/1421530546|Pokemon Adventures, Vol. 1] by Hidenori Kusaka
 2 Books read in 2020
 & [b:Goal: 39 of 15]
 # [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays

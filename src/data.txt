@@ -93,8 +93,11 @@ _ Last updated: 2021.03.31
 - [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow] by Joseph Menn
 - [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
 - [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
+- [l:https://www.amazon.com/dp/B0827351DF|The Adoptive Parents' Handbook] by Barbara Tantrum
+- [l:https://www.amazon.com/dp/B01N8YBW81|Attitudes of Gratitude] by M. J. Ryan
+- [l:https://www.amazon.com/dp/B06W552NS8|Moxie] by Jennifer Mathieu
 2 Books read in 2021
-& [b:Goal: 9 of 20]
+& [b:Goal: 11 of 20]
 # [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
 # [l:https://www.amazon.com/dp/B00IQY3L1M|How to Sit] by Thich Nhat Hanh
 # [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
@@ -104,6 +107,8 @@ _ Last updated: 2021.03.31
 # [l:https://www.amazon.com/dp/B00LDYFHX2|How to Eat] by Thich Nhat Hanh
 # [l:https://www.amazon.com/dp/B0064BV2LK|No 44, The Mysterious Stranger] by Mark Twain
 # [l:https://www.amazon.com/dp/1421530546|Pokemon Adventures, Vol. 1] by Hidenori Kusaka
+# [l:https://alltheworldtome.com/|All the World to Me] by Josh Castle
+# [l:https://www.amazon.com/dp/B07R2L2SNN|The Boy, the Mole, the Fox and the Horse] by Charlie Mackesy 
 2 Books read in 2020
 & [b:Goal: 39 of 15]
 # [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
@@ -193,6 +198,148 @@ _ Last updated: 2021.03.31
 - [l:https://www.amazon.com/dp/1597499579|Violent Python] by T.J. O'Connor
 - [l:https://www.amazon.com/dp/0307887448|Ready Player One] by Ernest Cline
 - [l:http://www.galactanet.com/oneoff/lacero.html|Lacero] by Andy Weir
+
+~wiki/buddhism : Buddhism : Notes on secular Buddhism
+1 Buddhism
+& These are my notes from studying and practicing [b:secular Buddhism]. Most of this was gathered while reading [l:https://www.amazon.com/dp/B07C31XJGP|No-Nonsense Buddhism for Beginners] by Noah Rasheta.
+# [l:#The Four Noble Truths|The Four Noble Truths]
+# [l:#The Eightfold Path|The Eightfold Path]
+# [l:#The Five Aggregates|The Five Aggregates]
+# [l:#The Five Precepts|The Five Precepts]
+# [l:#The Three Marks of Existence|The Three Marks of Existence]
+# [l:#The Three Poisons|The Three Poisons]
+2 The Four Noble Truths
+# [l:#Truth of Suffering|Truth of Suffering]
+# [l:#Truth of the Cause of Suffering|Truth of the Cause of Suffering]
+# [l:#Truth of the End of Suffering|Truth of the End of Suffering]
+# [l:#Truth of the Path That Leads to the End of Suffering|Truth of the Path That Leads to the End of Suffering]
+3 Truth of Suffering
+& Difficulties arise and we suffer.
+& Examples include sickness, old age, death, losing a job, and breaking your phone.
+& Accept that suffering is part of life for everyone. There is no way around it.
+3 Truth of Cause of Suffering
+& The main cause of suffering is habitual reactivity.
+& Suffering emerges when we want life to be different than it is.
+& Our reaction causes the suffering, not the thing itself.
+3 Truth of the End of Suffering
+& The cessation of suffering.
+& The suffering doesn't cease, but rather our craving not to suffer does.
+3 Truth of the Path That Leads to the End of Suffering
+& The Eightfold Path.
+& The path of liberation.
+& The path to the cessation of suffering.
+2 The Eightfold Path
+& Ways to live that lead to the end of suffering.
+& There are three sections that the various points of the Eightfold Path are grouped under:
+- 1-2 [b:Wisdom] (understanding, intent)
+- 3-5 [b:Ethical Conduct] (speech, action, livelihood)
+- 6-8 [b:Mental Discipline] (effort, mindfulness, concentration)
+# [l:#Right Understanding|Right Understanding]
+# [l:#Right Intent|Right Intent]
+# [l:#Right Speech|Right Speech]
+# [l:#Right Action|Right Action]
+# [l:#Right Livelihood|Right Livelihood]
+# [l:#Right Effort|Right Effort]
+# [l:#Right Mindfulness|Right Mindfulness]
+# [l:#Right Concentration|Right Concentration]
+3 Right Understanding
+& What we are seeing might not actually be what it appears to be.
+& Uncertain concepts and ideas that prevent us from seeing reality as it is.
+3 Right Intent
+& Be aware of our intentions regarding the things we say and do.
+& Intentions from anger or hatred are more likely to cause harm than intentions from happiness and gratitude.
+& Behaving reactively makes it difficult to be mindful of our intentions.
+3 Right Speech
+& Communicating with others in a way that doesn't cause harm.
+& Lying, gossiping, or insulting are not right speech.
+& With right speech, you consider why you say something as much as what you say.
+3 Right Action
+& Doing what is proper and necessary for your situation.
+& While this sometimes includes "doing the right thing" morally, it more closely resembles behaving appropriately in any situation.
+3 Right Livelihood
+& Livelihood is how we make a living and how we interact with others on the job.
+& We need to determine if what we do is doing more harm or good for ourselves and others.
+3 Right Effort
+& What it takes to put into practice the other parts of the path.
+& It takes effort if we want any kind of positive change in our lives.
+3 Right Mindfulness
+& Paying attention at all times.
+& Being mindful helps us stay anchored in the present moment, which keeps us in touch with reality as it is.
+3 Right Concentration
+& The practice of focusing on only one thing, whatever it is we are doing.
+& The opposite is distraction.
+2 The Five Aggregates
+& Suffering arrises when one identifies with or clings to one of the aggregates.
+# [l:#Form or Materiality|Form or Materiality]
+# [l:#Sensation or Feeling Tone|Sensation or Feeling Tone]
+# [l:#Perception|Perception]
+# [l:#Mental Formation or Thought Process|Mental Formation or Thought Process]
+# [l:#Consciousness or Awareness|Consciousness or Awareness]
+3 Form or Materiality
+& Something material that can be sensed with sight, sound, taste or touch.
+3 Sensation or Feeling Tone
+& The feeling state that arises when we sense something pleasant or unpleasant.
+& Feeling tones can be understood as pleasure, pain, or neutrality.
+3 Perception
+& Recognition of a sensation we have experienced.
+& Perception is giving names to something, like "scary".
+3 Mental Formation or Thought Process
+& Likes, dislikes, biases, and prejudices.
+& Mental formations alter perception.
+3 Consciousness or Awareness
+& General awareness of other aggregates that make the entire experience possible.
+2 The Five Precepts
+& There are no moral absolutes in Buddhism, so the precepts are left to interpretation.
+& These are general rules of things that are best to abstain from.
+# [l:#Abstain From Taking Life|Abstain From Taking Life]
+# [l:#Abstain From Taking What is Not Given|Abstain From Taking What is Not Given]
+# [l:#Abstain From Sexual Misconduct|Abstain From Sexual Misconduct]
+# [l:#Abstain From Incorrect Speech|Abstain From Incorrect Speech]
+# [l:#Abstain From Intoxicants That Cloud The Mind|Abstain From Intoxicants That Cloud The Mind]
+3 Abstain From Taking Life
+& Could relate to abortion, death penalty, or killing insects.
+& In order to weigh consequences of our actions, it's helpful to examine if it's motivated by greed, hatred, and delusion, or by kindness, wisdom, and compassion.
+& Intent plays a key role.
+3 Abstain From Taking What is Not Given
+& Goes beyond stealing and includes evaluating your motivations and understanding how your actions will affect others.
+3 Abstain From Sexual Misconduct
+& What is considered misconduct is determined by the inherited culture and societal views.
+& Non-consensual sex and sexual exploitation are misconduct.
+& Examine how your actions make you feel and how it will impact others.
+3 Abstain From Incorrect Speech
+& Goes beyond not telling lies.
+& It means speaking honestly and communicating in a way that is beneficial to others.
+& Incorrect speech is rooted in the three poisons of greed, hatred, and ignorance.
+& Misleading others, saying intentionally hurtful things, and gossiping are incorrect speech.
+3 Abstain From Intoxicants That Cloud The Mind
+& Could be alcohol, drugs, or anything that clouds the mind, or alters perception.
+& Media we consume or addictive habits.
+& Be cautious of distractions from reality.
+2 The Three Marks of Existence
+# [l:#Suffering|Suffering]
+# [l:#Impermanence|Impermanence]
+# [l:#Non-self|Non-self]
+3 Suffering
+& There are 3 types of suffering
+# [b:Suffering of Suffering]<br> Natural suffering like pain.
+# [b:Suffering of Loss]<br> Lose a job, a loved one, our youth. Circumstantial.
+# [b:All-pervasive Suffering]<br> Self-inflicted. Arises out of an ignorant or delusional understanding of reality. Has to do with how we perceive and interpret circumstances. We self-inflict based on a belief or concept. If we didn't hold the false belief, the suffering wouldn't exist.
+3 Impermanence
+& All things are constantly changing. Jobs, relationships, thoughts, feelings, loved ones, ourselves, everything we know and perceive will pass out of existence.
+& We know this, but we cling to things and perceive them as permanent.
+& Two types of impermanence - gross and subtle.
+# [b:Gross]<br> Matter decays, empires rise and fall, societal norms change and evolve.
+# [b:Subtle]<br> Moment-to-moment, cells in your body die and regenerate, you are never exactly the same. We are collections of impermanent, momentary experiences.
+& Loss is a natural part of life, not something we need to fight against.
+3 Non-self
+& You are not what you think you are, because there is no inherent essence in anything.
+& Things are because of, and in relation to, other things, but do not exist on their own as permanent or separate entities.
+& Everything has causes and conditions, nothing stands alone.
+& There is no permanent or fixed you, just a complex web of inseparable, impermanent, causes and effects.
+2 The Three Poisons
+# Greed
+# Hatred
+# Ignorance
 
 ~wiki/coffee : Cafe : Coffee recipes and equipment
 1 Cafe

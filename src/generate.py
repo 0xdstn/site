@@ -31,7 +31,22 @@ tplKey = {
     "i": "em",
     "l": "a",
     "c": "code",
-    "d": "directory"
+    "d": "directory",
+    "e": "emoji"
+}
+
+emoji = {
+	"wave": "128075",
+	"computer": "128187",
+	"lock": "128274",
+	"globe": "127760",
+	"clock": "128338",
+	"earth": "127758",
+	"pray": "128591",
+	"books": "128218",
+	"book": "128216",
+	"headphones": "127911",
+	"speech": "128172"
 }
 
 # Read the header
@@ -70,6 +85,9 @@ def tpl(line):
                     ul += '<li><a href="{}">{}</a> {}'.format(basePath + page["LINK"],page["NAME"],page["DESC"])
             ul += "</ul>"
             line = line.replace(tag,ul)
+        elif k == "e":
+            if m[1] in emoji:
+                line = line.replace(tag, ' <span class="emoji">&#{};</span>'.format(emoji[m[1]]))
         else:
             line = line.replace(tag, "<{}>{}</{}>".format(tplKey[k],m[1],tplKey[k]))
 

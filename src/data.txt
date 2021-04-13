@@ -1,7 +1,8 @@
 ~index/index : Home : Home
 1 Dustin
-& I'm a [b:software engineer] living in [b:Spokane, Wa].
-& You can find out more about what I'm up to on my [l:now|now page].
+& [e:wave] Hello friend. I'm [b:Dustin].
+& [e:computer] I'm currently working as a [b:Software Engineer] in [b:Spokane, Wa].
+& [e:clock] You can find out more about what I'm up to on my [l:now|now page].
 2 Projects
 ? [d:projects]
 2 Writing
@@ -14,12 +15,13 @@
 ~now/index : Now : Now page
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
-_ Last updated: 2021.03.31
-- [b:Living] in Spokane, WA
-- [b:Working] as a full time as a Software Engineer
-- [b:Practicing] stoicism and secular buddhism
-- [b:Reading] [l:https://www.amazon.com/dp/1619493918|Walden] and [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
-- [b:Listening] to [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow]
+_ Last updated: 2021.04.13
+& [e:earth] [b:Living] in Spokane, WA
+& [e:computer] [b:Working] as a Software Engineer
+& [e:pray] [b:Practicing] stoicism and secular buddhism
+& [e:lock] [b:Studying] appsec and osint
+& [e:books] [b:Reading] [l:https://www.amazon.com/dp/1619493918|Walden] and [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
+& [e:headphones] [b:Listening] to [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow]
 
 ~wiki/philosophy : Philosophy : My personal philosophy
 1 Philosophy
@@ -89,115 +91,119 @@ _ Last updated: 2021.03.31
 # [l:#Books read in 2020|Books read in 2020]
 # [l:#Books read in 2019|Books read in 2019]
 # [l:#Books read prior to 2019|Books read prior to 2019]
+* Emoji Key
+- [e:book] Read
+- [e:headphones] Listened
+- [e:speech] Comic book
 2 Currently reading
-- [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow] by Joseph Menn
-- [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
-- [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
-- [l:https://www.amazon.com/dp/B0827351DF|The Adoptive Parents' Handbook] by Barbara Tantrum
-- [l:https://www.amazon.com/dp/B01N8YBW81|Attitudes of Gratitude] by M. J. Ryan
-- [l:https://www.amazon.com/dp/B06W552NS8|Moxie] by Jennifer Mathieu
+- [e:headphones] [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow] by Joseph Menn
+- [e:book] [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
+- [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
+- [e:book] [l:https://www.amazon.com/dp/B0827351DF|The Adoptive Parents' Handbook] by Barbara Tantrum
+- [e:book] [l:https://www.amazon.com/dp/B01N8YBW81|Attitudes of Gratitude] by M. J. Ryan
+- [e:book] [l:https://www.amazon.com/dp/B06W552NS8|Moxie] by Jennifer Mathieu
 2 Books read in 2021
 & [b:Goal: 11 of 20]
-# [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
-# [l:https://www.amazon.com/dp/B00IQY3L1M|How to Sit] by Thich Nhat Hanh
-# [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
-# [l:https://www.amazon.com/dp/0008264376|Morning] by Allan Jenkins
-# [l:https://www.amazon.com/dp/B00846RM6W|The Mysterious Stranger] by Mark Twain (Paine-Duneka version)
-# [l:https://www.amazon.com/dp/B004TS1JMC|Poems, Series One] by Emily Dickinson
-# [l:https://www.amazon.com/dp/B00LDYFHX2|How to Eat] by Thich Nhat Hanh
-# [l:https://www.amazon.com/dp/B0064BV2LK|No 44, The Mysterious Stranger] by Mark Twain
-# [l:https://www.amazon.com/dp/1421530546|Pokemon Adventures, Vol. 1] by Hidenori Kusaka
-# [l:https://alltheworldtome.com/|All the World to Me] by Josh Castle
-# [l:https://www.amazon.com/dp/B07R2L2SNN|The Boy, the Mole, the Fox and the Horse] by Charlie Mackesy 
+# [e:book] [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
+# [e:book] [l:https://www.amazon.com/dp/B00IQY3L1M|How to Sit] by Thich Nhat Hanh
+# [e:headphones] [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
+# [e:book] [l:https://www.amazon.com/dp/0008264376|Morning] by Allan Jenkins
+# [e:book] [l:https://www.amazon.com/dp/B00846RM6W|The Mysterious Stranger] by Mark Twain (Paine-Duneka version)
+# [e:book] [l:https://www.amazon.com/dp/B004TS1JMC|Poems, Series One] by Emily Dickinson
+# [e:book] [l:https://www.amazon.com/dp/B00LDYFHX2|How to Eat] by Thich Nhat Hanh
+# [e:book] [l:https://www.amazon.com/dp/B0064BV2LK|No 44, The Mysterious Stranger] by Mark Twain
+# [e:speech] [l:https://www.amazon.com/dp/1421530546|Pokemon Adventures, Vol. 1] by Hidenori Kusaka
+# [e:book] [l:https://alltheworldtome.com/|All the World to Me] by Josh Castle
+# [e:book] [l:https://www.amazon.com/dp/B07R2L2SNN|The Boy, the Mole, the Fox and the Horse] by Charlie Mackesy 
 2 Books read in 2020
 & [b:Goal: 39 of 15]
-# [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
-# [l:https://www.amazon.com/dp/B01EI7LFPY|Fight Club 2] by Chuck Palahniuk
-# [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser
-# [l:https://www.amazon.com/dp/1506712320|Stranger Things: SIX] by Jody Houser
-# [l:https://www.amazon.com/dp/B07MJ3TDCZ|Stillness is the Key] by Ryan Holiday
-# [l:https://www.amazon.com/dp/1338125680|The Tales of Beedle the Bard] by J.K. Rowling
-# [l:https://www.amazon.com/dp/B00C0EJF8W|Lectures and Sayings] by Musonius Rufus, Cynthia King
-# [l:https://archive.org/details/fp_Banksy-Banging_Your_Head_Against_A_Brick_Wall|Banging Your Head Against A Brick Wall] by Banksy
-# [l:https://www.amazon.com/dp/1732441901|Belonging at Work] by Rhodes Perry MPA
-# [l:https://www.amazon.com/dp/0525467564|Winnie-the-Pooh] by A.A. Milne
-# [l:https://www.amazon.com/dp/B07XZNNGFH|The Boston Rob Rulebook] by Robert C. Mariano
-# [l:https://www.amazon.com/dp/B07B7C4F9C|The Bullet Journal Method] by Ryder Carroll
-# [l:https://www.amazon.com/dp/B08DFHBWKV|No Longer Human] by Osamu Dazai
-# [l:https://archive.org/details/fp_Banksy-Existencilism|Existencilism] by Banksy
-# [l:https://www.amazon.com/dp/B002ZODPOC|The House at Pooh Corner] by A.A. Milne
-# [l:https://www.amazon.com/dp/0525444459|When We Were Very Young] by A.A. Milne
-# [l:https://www.amazon.com/dp/B0013TPY3A|Now We Are Six] by A.A. Milne
-# [l:https://www.amazon.com/dp/B01B8X8ALI|Wabi-Sabi Wisdom] by Andrea Jacques
-# [l:https://www.amazon.com/dp/B01L9ZV9UE|The Hogwarts Collection] by J.K. Rowling
-# [l:https://www.amazon.com/dp/B07DBRBP7G|Digital Minimalism] by Cal Newport
-# [l:https://www.amazon.com/dp/1632365375|Cardcaptor Sakura: Clear Card Vol. 1] by CLAMP
-# [l:https://www.amazon.com/dp/1632365383|Cardcaptor Sakura: Clear Card Vol. 2] by CLAMP
-# [l:https://www.amazon.com/dp/1632365391|Cardcaptor Sakura: Clear Card Vol. 3] by CLAMP
-# [l:https://www.amazon.com/dp/1632366193|Cardcaptor Sakura: Clear Card Vol. 4] by CLAMP
-# [l:https://www.amazon.com/dp/B07MPYX96Y|Better Allies] by Karen Catlin
-# [l:https://pluralistic.net/2020/04/28/force-multiplier/#force-multiplier|Force Multiplier] by Cory Doctorow
-# [l:https://www.amazon.com/dp/1602863024|The Haunting of Sunshine Girl] by Paige McKenzie
-# [l:https://www.amazon.com/dp/1602863121|The Awakening of Sunshine Girl] by Paige McKenzie
-# [l:https://www.amazon.com/dp/B00INIYHJQ|The Witches] by Roald Dahl
-# [l:https://www.amazon.com/dp/B00IV351R0|Parenting With Love and Logic] by Foster Cline, Jim Fay
-# [l:https://www.amazon.com/dp/B01JZ2QLMO|The Sacrifice of Sunshine Girl] by Paige McKenzie
-# [l:https://www.amazon.com/dp/B07C6H6FNN|A Monk's Guide to a Clean House and Mind] by Shoukei Matsumoto
-# [l:https://www.amazon.com/dp/B075F6XVM8|A Journey Through A History of Magic] by The British Library
-# [l:https://www.amazon.com/dp/B07CMMHGNN|Thanks A Thousand: A Gratitude Journey] by A.J. Jacobs
-# [l:https://www.amazon.com/dp/B084G8ZBM2|Calm Christmas and a Happy New Year] by Beth Kempton
-# [l:https://www.gutenberg.org/ebooks/520|The Life and Adventures of Santa Claus] by L. Frank Baum
-# [l:https://www.amazon.com/dp/0618512659|Letters From Father Christmas] by J.R.R. Tolkien
-# [l:https://www.amazon.com/dp/0807069205|A Mind of Winter] by Robert Atwan
-# [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday
+# [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
+# [e:speech] [l:https://www.amazon.com/dp/B01EI7LFPY|Fight Club 2] by Chuck Palahniuk
+# [e:speech] [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser
+# [e:speech] [l:https://www.amazon.com/dp/1506712320|Stranger Things: SIX] by Jody Houser
+# [e:book] [l:https://www.amazon.com/dp/B07MJ3TDCZ|Stillness is the Key] by Ryan Holiday
+# [e:book] [l:https://www.amazon.com/dp/1338125680|The Tales of Beedle the Bard] by J.K. Rowling
+# [e:book] [l:https://www.amazon.com/dp/B00C0EJF8W|Lectures and Sayings] by Musonius Rufus, Cynthia King
+# [e:book] [l:https://archive.org/details/fp_Banksy-Banging_Your_Head_Against_A_Brick_Wall|Banging Your Head Against A Brick Wall] by Banksy
+# [e:book] [l:https://www.amazon.com/dp/1732441901|Belonging at Work] by Rhodes Perry MPA
+# [e:headphones] [l:https://www.amazon.com/dp/0525467564|Winnie-the-Pooh] by A.A. Milne
+# [e:book] [l:https://www.amazon.com/dp/B07XZNNGFH|The Boston Rob Rulebook] by Robert C. Mariano
+# [e:book] [l:https://www.amazon.com/dp/B07B7C4F9C|The Bullet Journal Method] by Ryder Carroll
+# [e:book] [l:https://www.amazon.com/dp/B08DFHBWKV|No Longer Human] by Osamu Dazai
+# [e:book] [l:https://archive.org/details/fp_Banksy-Existencilism|Existencilism] by Banksy
+# [e:headphones] [l:https://www.amazon.com/dp/B002ZODPOC|The House at Pooh Corner] by A.A. Milne
+# [e:headphones] [l:https://www.amazon.com/dp/0525444459|When We Were Very Young] by A.A. Milne
+# [e:headphones] [l:https://www.amazon.com/dp/B0013TPY3A|Now We Are Six] by A.A. Milne
+# [e:book] [l:https://www.amazon.com/dp/B01B8X8ALI|Wabi-Sabi Wisdom] by Andrea Jacques
+# [e:book] [l:https://www.amazon.com/dp/B01L9ZV9UE|The Hogwarts Collection] by J.K. Rowling
+# [e:book] [l:https://www.amazon.com/dp/B07DBRBP7G|Digital Minimalism] by Cal Newport
+# [e:speech] [l:https://www.amazon.com/dp/1632365375|Cardcaptor Sakura: Clear Card Vol. 1] by CLAMP
+# [e:speech] [l:https://www.amazon.com/dp/1632365383|Cardcaptor Sakura: Clear Card Vol. 2] by CLAMP
+# [e:speech] [l:https://www.amazon.com/dp/1632365391|Cardcaptor Sakura: Clear Card Vol. 3] by CLAMP
+# [e:speech] [l:https://www.amazon.com/dp/1632366193|Cardcaptor Sakura: Clear Card Vol. 4] by CLAMP
+# [e:book] [l:https://www.amazon.com/dp/B07MPYX96Y|Better Allies] by Karen Catlin
+# [e:book] [l:https://pluralistic.net/2020/04/28/force-multiplier/#force-multiplier|Force Multiplier] by Cory Doctorow
+# [e:book] [l:https://www.amazon.com/dp/1602863024|The Haunting of Sunshine Girl] by Paige McKenzie
+# [e:book] [l:https://www.amazon.com/dp/1602863121|The Awakening of Sunshine Girl] by Paige McKenzie
+# [e:book] [l:https://www.amazon.com/dp/B00INIYHJQ|The Witches] by Roald Dahl
+# [e:book] [l:https://www.amazon.com/dp/B00IV351R0|Parenting With Love and Logic] by Foster Cline, Jim Fay
+# [e:book] [l:https://www.amazon.com/dp/B01JZ2QLMO|The Sacrifice of Sunshine Girl] by Paige McKenzie
+# [e:book] [l:https://www.amazon.com/dp/B07C6H6FNN|A Monk's Guide to a Clean House and Mind] by Shoukei Matsumoto
+# [e:book] [l:https://www.amazon.com/dp/B075F6XVM8|A Journey Through A History of Magic] by The British Library
+# [e:book] [l:https://www.amazon.com/dp/B07CMMHGNN|Thanks A Thousand: A Gratitude Journey] by A.J. Jacobs
+# [e:book] [l:https://www.amazon.com/dp/B084G8ZBM2|Calm Christmas and a Happy New Year] by Beth Kempton
+# [e:book] [l:https://www.gutenberg.org/ebooks/520|The Life and Adventures of Santa Claus] by L. Frank Baum
+# [e:book] [l:https://www.amazon.com/dp/0618512659|Letters From Father Christmas] by J.R.R. Tolkien
+# [e:book] [l:https://www.amazon.com/dp/0807069205|A Mind of Winter] by Robert Atwan
+# [e:book] [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday
 2 Books read in 2019
 & [b:Goal: 17 of 12]
-# [l:https://www.amazon.com/dp/1607747308|The Life-Changing Magic of Tidying Up] by Marie Kondō
-# [l:https://www.amazon.com/dp/B07C31XJGP|No-Nonsense Buddhism for Beginners] by Noah Rasheta
-# [l:https://www.amazon.com/dp/0857834916|Ikigai] by Yukari Mitsuhashi
-# [l:https://www.amazon.com/dp/038574126X|We Were Liars] by E. Lockhart
-# [l:https://www.amazon.com/dp/0143130722|Ikigai] by Héctor García & Francesc Miralles
-# [l:https://www.amazon.com/dp/B003VIWRM2|My Spiritual Journey] by The 14th Dalai Lama
-# [l:https://www.amazon.com/dp/0399581294|Draw Your Day] by Samantha Dion Baker
-# [l:https://www.amazon.com/dp/0399581626|The New Rules of Coffee] by Jordan Michelman and Zachary Carlsen
-# [l:https://www.amazon.com/dp/0553512706|The Halloween Tree] by Ray Bradbury
-# [l:https://www.amazon.com/dp/B077S21HX6|Scary Stories to Tell in the Dark] by Alvin Schwartz
-# [l:https://www.amazon.com/dp/0060835222|More Scary Stories to Tell in the Dark] by Alvin Schwartz
-# [l:https://www.amazon.com/dp/B0006ASEJS|Halloween through twenty centuries] by Ralph Linton
-# [l:https://www.amazon.com/dp/0060835249|Scary Stories 3: More Tales to Chill Your Bones] by Alvin Schwartz
-# [l:https://www.amazon.com/dp/B00VE3J1QG|The Nightmare Collective] by Multiple authors
-# [l:https://www.gutenberg.org/ebooks/7256|The Gift of the Magi] by O. Henry
-# [l:https://www.amazon.com/dp/B00JS59ZK4|Watch Dogs: Dark Clouds] by John Shirley
-# [l:https://www.gutenberg.org/ebooks/46|A Christmas Carol] by Charles Dickens
+# [e:book] [l:https://www.amazon.com/dp/1607747308|The Life-Changing Magic of Tidying Up] by Marie Kondō
+# [e:book] [l:https://www.amazon.com/dp/B07C31XJGP|No-Nonsense Buddhism for Beginners] by Noah Rasheta
+# [e:book] [l:https://www.amazon.com/dp/0857834916|Ikigai] by Yukari Mitsuhashi
+# [e:headphones] [l:https://www.amazon.com/dp/038574126X|We Were Liars] by E. Lockhart
+# [e:book] [l:https://www.amazon.com/dp/0143130722|Ikigai] by Héctor García & Francesc Miralles
+# [e:book] [l:https://www.amazon.com/dp/B003VIWRM2|My Spiritual Journey] by The 14th Dalai Lama
+# [e:book] [l:https://www.amazon.com/dp/0399581294|Draw Your Day] by Samantha Dion Baker
+# [e:book] [l:https://www.amazon.com/dp/0399581626|The New Rules of Coffee] by Jordan Michelman and Zachary Carlsen
+# [e:book] [l:https://www.amazon.com/dp/0553512706|The Halloween Tree] by Ray Bradbury
+# [e:book] [l:https://www.amazon.com/dp/B077S21HX6|Scary Stories to Tell in the Dark] by Alvin Schwartz
+# [e:book] [l:https://www.amazon.com/dp/0060835222|More Scary Stories to Tell in the Dark] by Alvin Schwartz
+# [e:book] [l:https://www.amazon.com/dp/B0006ASEJS|Halloween through twenty centuries] by Ralph Linton
+# [e:book] [l:https://www.amazon.com/dp/0060835249|Scary Stories 3: More Tales to Chill Your Bones] by Alvin Schwartz
+# [e:book] [l:https://www.amazon.com/dp/B00VE3J1QG|The Nightmare Collective] by Multiple authors
+# [e:book] [l:https://www.gutenberg.org/ebooks/7256|The Gift of the Magi] by O. Henry
+# [e:book] [l:https://www.amazon.com/dp/B00JS59ZK4|Watch Dogs: Dark Clouds] by John Shirley
+# [e:book] [l:https://www.gutenberg.org/ebooks/46|A Christmas Carol] by Charles Dickens
 2 Books read prior to 2019
-- [l:https://www.amazon.com/dp/0545162076|Harry Potter 1-7] by J.K. Rowling
-- [l:https://www.amazon.com/dp/B002BA83RO|The Dead Zone] by Stephen King
-- [l:https://www.amazon.com/dp/1403991960|Lord of the Flies] by William Golding
-- [l:https://www.amazon.com/dp/039333807X|Survivor] by Chuck Palahniuk
-- [l:https://www.amazon.com/dp/0393327345|Fight Club] by Chuck Palahniuk
-- [l:https://www.amazon.com/dp/0385720920|Choke] by Chuck Palahniuk
-- [l:https://www.amazon.com/dp/1400049628|The Zombie Survival Guide] by Max Brooks
-- [l:https://www.amazon.com/dp/0307346617|World War Z] by Max Brooks
-- [l:https://www.gutenberg.org/ebooks/19002|Alices Adventures Underground] by Lewis Carroll
-- [l:https://www.amazon.com/dp/0307275833|Rant] by Chuck Palahniuk
-- [l:https://www.amazon.com/dp/1595145168|The Future of Us] by Jay Asher
-- [l:https://www.amazon.com/dp/1582342733|The Dark Fields] by Alan Glynn
-- [l:https://www.amazon.com/dp/0439023483|The Hunger Games] by Suzanne Collins
-- [l:https://www.amazon.com/dp/0545586178|Catching Fire] by Suzanne Collins
-- [l:https://www.amazon.com/dp/0545663261|Mockingjay] by Suzanne Collins
-- [l:https://www.amazon.com/dp/0385736002|The Alchemyst] by Michael Scott
-- [l:https://www.amazon.com/dp/0385737289|The Magician] by Michael Scott
-- [l:https://www.amazon.com/dp/0385735308|The Sorceress] by Michael Scott
-- [l:https://www.amazon.com/dp/0385735324|The Necromancer] by Michael Scott
-- [l:https://www.amazon.com/dp/0062191497|Reamde] by Neal Stephenson
-- [l:https://www.amazon.com/dp/0316037729|Ghost in the Wires] by Kevin Mitnick
-- [l:https://craphound.com/littlebrother/download|Little Brother] by Cory Doctorow
-- [l:https://craphound.com/littlebrother/download|Homeland] by Cory Doctorow
-- [l:https://www.tor.com/2013/08/28/lawful-interception/|Lawful Interception] by Cory Doctorow
-- [l:https://www.amazon.com/dp/0307588378|Gone Girl] by Gillian Flynn
-- [l:https://www.amazon.com/dp/1597499579|Violent Python] by T.J. O'Connor
-- [l:https://www.amazon.com/dp/0307887448|Ready Player One] by Ernest Cline
-- [l:http://www.galactanet.com/oneoff/lacero.html|Lacero] by Andy Weir
+- [e:book] [l:https://www.amazon.com/dp/0545162076|Harry Potter 1-7] by J.K. Rowling
+- [e:book] [l:https://www.amazon.com/dp/B002BA83RO|The Dead Zone] by Stephen King
+- [e:book] [l:https://www.amazon.com/dp/1403991960|Lord of the Flies] by William Golding
+- [e:book] [l:https://www.amazon.com/dp/039333807X|Survivor] by Chuck Palahniuk
+- [e:book] [l:https://www.amazon.com/dp/0393327345|Fight Club] by Chuck Palahniuk
+- [e:book] [l:https://www.amazon.com/dp/0385720920|Choke] by Chuck Palahniuk
+- [e:book] [l:https://www.amazon.com/dp/1400049628|The Zombie Survival Guide] by Max Brooks
+- [e:book] [l:https://www.amazon.com/dp/0307346617|World War Z] by Max Brooks
+- [e:book] [l:https://www.gutenberg.org/ebooks/19002|Alices Adventures Underground] by Lewis Carroll
+- [e:book] [l:https://www.amazon.com/dp/0307275833|Rant] by Chuck Palahniuk
+- [e:book] [l:https://www.amazon.com/dp/1595145168|The Future of Us] by Jay Asher
+- [e:book] [l:https://www.amazon.com/dp/1582342733|The Dark Fields] by Alan Glynn
+- [e:book] [l:https://www.amazon.com/dp/0439023483|The Hunger Games] by Suzanne Collins
+- [e:book] [l:https://www.amazon.com/dp/0545586178|Catching Fire] by Suzanne Collins
+- [e:book] [l:https://www.amazon.com/dp/0545663261|Mockingjay] by Suzanne Collins
+- [e:book] [l:https://www.amazon.com/dp/0385736002|The Alchemyst] by Michael Scott
+- [e:book] [l:https://www.amazon.com/dp/0385737289|The Magician] by Michael Scott
+- [e:book] [l:https://www.amazon.com/dp/0385735308|The Sorceress] by Michael Scott
+- [e:book] [l:https://www.amazon.com/dp/0385735324|The Necromancer] by Michael Scott
+- [e:book] [l:https://www.amazon.com/dp/0062191497|Reamde] by Neal Stephenson
+- [e:book] [l:https://www.amazon.com/dp/0316037729|Ghost in the Wires] by Kevin Mitnick
+- [e:book] [l:https://craphound.com/littlebrother/download|Little Brother] by Cory Doctorow
+- [e:book] [l:https://craphound.com/littlebrother/download|Homeland] by Cory Doctorow
+- [e:book] [l:https://www.tor.com/2013/08/28/lawful-interception/|Lawful Interception] by Cory Doctorow
+- [e:book] [l:https://www.amazon.com/dp/0307588378|Gone Girl] by Gillian Flynn
+- [e:book] [l:https://www.amazon.com/dp/1597499579|Violent Python] by T.J. O'Connor
+- [e:book] [l:https://www.amazon.com/dp/0307887448|Ready Player One] by Ernest Cline
+- [e:book] [l:http://www.galactanet.com/oneoff/lacero.html|Lacero] by Andy Weir
 
 ~wiki/buddhism : Buddhism : Notes on secular Buddhism
 1 Buddhism

@@ -23,3 +23,4 @@ pre { background: #4d5157; color: #fff; font-weight: 700; border-left: solid 10p
 
 footer { padding-bottom: 1em; }
 .webring { display: inline-block; height: 30px; width: 30px; }
+.emoji { display: inline-block; width: 20px; }

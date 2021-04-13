@@ -82,7 +82,10 @@ def tpl(line):
             for x in data[m[1]]:
                 page = data[m[1]][x]
                 if x != "index":
-                    ul += '<li><a href="{}">{}</a> {}'.format(basePath + page["LINK"],page["NAME"],page["DESC"])
+                    if m[1] == 'writing':
+                        ul += '<li><strong>{}</strong> <a href="{}">{}</a>'.format(page["DESC"],basePath + page["LINK"],page["NAME"])
+                    else:
+                        ul += '<li><a href="{}">{}</a> {}'.format(basePath + page["LINK"],page["NAME"],page["DESC"])
             ul += "</ul>"
             line = line.replace(tag,ul)
         elif k == "e":

@@ -727,6 +727,22 @@ _ Last updated: 2021.04.13
 @ assets/img/7_th.jpg|assets/img/7.jpg
 @ assets/img/8_th.jpg|assets/img/8.jpg
 
+~writing/social : On Social Media : 2021.04.13
+1 On Social Media
+_ 2021.04.13
+& I've had a complicated relationship with social media over the years. In the early days, I was actively trying to get an account on [i:every] platform I could find. I loved having a list of every service I had an account for on my personal website. After years of trying to keep up with everything, I'm now moving in the opposite direction.
+& Social media has gotten worse and worse over the last decade, as far as mental impact goes. It's exhasting for most people. We weren't meant to keep up with so much information all of the time. It's just too much for our brains to manage.
+& For me, even simpler, less exhausting social media doesn't do me good. I ditched Twitter and various other big social networks a long time ago, and started using smaller communities through Mastodon.
+& Now that I was consuming a manageable amount of information, and mostly positive at that, I uncovered my new issue.
+& I am easily swayed by the things I consume. If I'm reading posts about things people are doing, I will become obsessed with whatever topic that is for a while, until something new shifts my focus. This means that every day I could be getting pulled in a new direction, which is time consuming and exhausting.
+& Because of all of my failed attempts at using Mastodon and other social media, I'm now shying away from it all. I've deleted my Mastodon account and will not make another one (I've had a lot of accounts on various instances over the years).
+& My choice now is to organically find things that pique my interest. This is a lot more manageable and less likely to cause me to switch what I'm doing constantly.
+& I will be writing my thoughts and documenting my projects on this site, and that will be it. If someone wants to contact me, they can use my [l:mailto:0xdstn@protonmail.com|email]. There is no other way to send me a message. I imagine this will cause me to get nearly nobody reaching out to me, and that's okay. If someone finds it worth their time to click my email link and write something to me, that means to me that they really care about that communication. It will be a nice gesture if it happens, and it will not be missed if it does not.
+& I am also choosing to follow some people who's work I like and want to keep up on via an RSS reader. If someone doesn't have a feed, I won't have a way to follow what they're doing, and that's okay.
+& I will be using an offline RSS reader on my personal laptop, so I can't be tempted to refresh it over and over via my phone or my work computer. I only want to look at my feed when I'm  devoting uninterupted time to it.
+& As per my [l:wiki/philosophy/#Technology|personal philosphy regarding technology] I will be using the internet [i:intentionally].
+& If you are out there reading this and would like to say hi, I'm always available via [l:mailto:0xdstn@protonmail.com|email]. I'd be glad to discuss any shared interest we may have :)
+
 ~writing/2020 : 2020 Review : 2020.12.31
 1 2020 Review
 _ 2020.12.31

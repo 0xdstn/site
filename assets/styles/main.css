@@ -1,12 +1,12 @@
 html, body { height: 100%; margin: 0; padding: 0; width: 100%; }
-body { background: #222; color: #c8c8c8; font-family: Courier, monospace; font-size: 17px; box-sizing: border-box; padding: 2em; }
+body { background: #222; color: #c8c8c8; font-family: "Source Code Pro", Courier, monospace; font-size: 14px; box-sizing: border-box; padding: 2em; }
 header { padding-bottom: 1em; }
 header a { margin-right: .25em; }
 
-a { padding-bottom: 1px; color: #00ffaa; text-decoration: none; font-weight: bold; }
+a { padding-bottom: 1px; color: #00ffaa; text-decoration: none; font-weight: 700; }
 a:hover { text-decoration: underline; }
 
-strong { color: #fff; }
+strong { color: #fff; font-weight: 700; }
 p,li { font-size: 1em; }
 img { display: block; width: 100%; max-width: 800px; margin-bottom: 2em; width: 100%; }
 p, li { line-height: 1.5em; }

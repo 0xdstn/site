@@ -17,9 +17,9 @@ ul li { list-style: disc; margin-left: 1.2em; }
 ol li { list-style: decimal-leading-zero; margin-left: 1.75em; }
 h1,h2,h3,h4,h5,h6 { color: #fff; }
 
-blockquote { padding: 1em 0 1em 1em; margin: 0 0 1.5em; }
-code { background: #ddd; border-radius: 4px; color: #000; padding: 0.15em 0.5em; }
-pre { background: #000; border-radius: 8px; margin-bottom: 1.5em; padding: 1em; line-height: 1.5em; overflow-x: auto; }
+blockquote { color: #fff; border-left: solid 5px #00ffaa; padding: 1em 0 1em 1em; margin: 0 0 1.5em; }
+code { background: #ddd; border-radius: 4px; color: #000; font-weight: 700; padding: 0.15em 0.5em; }
+pre { background: #4d5157; color: #fff; font-weight: 700; border-left: solid 10px #00ffaa; border-radius: 8px; margin-bottom: 1.5em; padding: 1em; line-height: 1.5em; overflow-x: auto; }
 
 footer { padding-bottom: 1em; }
 .webring { display: inline-block; height: 30px; width: 30px; }

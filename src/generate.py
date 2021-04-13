@@ -22,7 +22,8 @@ key = {
     "?": "div",
     "^": "h1",
     "*": "strong",
-    "_": "em"
+    "_": "em",
+    "%": "pre"
 }
 
 tplKey = {
@@ -83,6 +84,7 @@ def createPage(fileName, section, pg):
     lines = page["BODY"];
 
     inList = False
+    inPre = False
     prev = ""
 
     for l in lines:
@@ -102,12 +104,23 @@ def createPage(fileName, section, pg):
             output += "</%s>" % key[last]
             inList = False;
 
+        # Close the pre if we still have one open
+        if char != "%" and inPre:
+            output += "</%s>" % key[last]
+            inPre = False;
+
         # Lists
         if char in ["-","#"]:
             if inList and last != char: output += "</%s>" % key[last]
             if last != char: output += "<%s>" % key[char]
             output += "<li>%s</li>" % tpl(text)
             inList = True
+        # Pre 
+        elif char == "%":
+            if inPre and last != char: output += "</%s>" % key[last]
+            if last != char: output += "<%s>" % key[char]
+            output += tpl(text) + "<br>"
+            inPre = True
         # Image
         elif char == "@":
             hasLink = "|" in text
@@ -131,8 +144,8 @@ def createPage(fileName, section, pg):
             if char in ["*","_"]: val = "<p>%s</p>" % val
             output += val
                             
-    # Close the list if we still have one open
-    if inList:
+    # Close the list or pre if we still have one open
+    if inList or inPre:
         output += "</%s>" % key[last]
     output += footer
 

@@ -3,6 +3,8 @@
 import shutil
 import os
 import re
+import html
+import datetime
 
 basePath = "/~dustin/"
 outPath = "../"
@@ -46,7 +48,9 @@ emoji = {
 	"books": "128218",
 	"book": "128216",
 	"headphones": "127911",
-	"speech": "128172"
+	"speech": "128172",
+    "coffee": "9749",
+    "metal": "129304"
 }
 
 # Read the header
@@ -83,7 +87,7 @@ def tpl(line):
                 page = data[m[1]][x]
                 if x != "index":
                     if m[1] == 'writing':
-                        ul += '<li><strong>{}</strong> <a href="{}">{}</a>'.format(page["DESC"],basePath + page["LINK"],page["NAME"])
+                        ul += '<li><strong>{}</strong> <a href="{}">{}</a>'.format(page["DATE"].replace("-","."),basePath + page["LINK"],page["NAME"])
                     else:
                         ul += '<li><a href="{}">{}</a> {}'.format(basePath + page["LINK"],page["NAME"],page["DESC"])
             ul += "</ul>"
@@ -99,7 +103,7 @@ def tpl(line):
 def createPage(fileName, section, pg):
     print("    Creating file: " + fileName + ".html")
 
-    output = header.replace("[TITLE]",data[section][pg]["NAME"])
+    output = ""
 
     page = data[section][pg];
     lines = page["BODY"];
@@ -168,10 +172,18 @@ def createPage(fileName, section, pg):
     # Close the list or pre if we still have one open
     if inList or inPre:
         output += "</%s>" % key[last]
-    output += footer
+
+    finalOutput = header.replace("[TITLE]",data[section][pg]["NAME"])
+    finalOutput += output
+    finalOutput += footer
+
+    if data[section][pg]["DATE"] != "":
+        data[section][pg]["RENDERED"] = output
+        data[section][pg]["LINK"] = 'https://tilde.town/~dustin/' + section + '/' + pg
+        xmlItems[data[section][pg]["DATE"]+"_"+pg] = data[section][pg]
 
     f = open(outPath + fileName + ".html", "w")
-    f.write(output)
+    f.write(finalOutput)
     f.close()
 
 def parseData(df):
@@ -193,13 +205,15 @@ def parseData(df):
                 "NAME": pg[1],
                 "DESC": pg[2],
                 "LINK" : pg[0],
-                "BODY" : []
+                "BODY" : [],
+				"DATE" : pg[3] if len(pg) > 3  else ""
             }
         else:
             if curPage == "" or curSection == "":
                 continue
             data[curSection][curPage]["BODY"].append(line)
 
+xmlItems = {}
 data = {}
 curSection = ""
 curPage = ""
@@ -250,3 +264,37 @@ for section in data:
     print("---");
     print("");
 
+xmlOutput = ""
+xmlKeys = []
+for i in xmlItems:
+    xmlKeys.append(i)
+
+xmlKeys.sort()
+
+xmlOutput += '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content">\n'
+xmlOutput += '  <channel>\n'
+xmlOutput += '    <title>~dustin</title>\n'
+xmlOutput += '    <link>https://tilde.town/~dustin/</link>\n'
+xmlOutput += '    <description>Dustin, Software Engineer from Spokane, WA</description>\n'
+xmlOutput += '    <language>en-us</language>\n'
+xmlOutput += '    <atom:link href="https://tilde.town/~dustin/index.xml" rel="self" type="application/rss+xml" />\n'
+
+for i in xmlKeys:
+    item = xmlItems[i]
+    d = datetime.datetime.strptime(item["DATE"], '%Y-%m-%d')
+    xmlOutput += '      <item>\n'
+    xmlOutput += '        <title>' + item["NAME"] + '</title>\n'
+    xmlOutput += '        <link>' + item["LINK"] + '</link>\n'
+    xmlOutput += '        <guid>' + item["LINK"] + '</guid>\n'
+    xmlOutput += '        <dc:creator>~dustin</dc:creator>\n'
+    xmlOutput += '        <pubDate>' + d.strftime("%a, %d %b %Y %H:%M:%S %z") + '</pubDate>\n'
+    xmlOutput += '        <description>' + item["DESC"] + '</description>\n'
+    xmlOutput += '        <content:encoded>' + html.escape(item["RENDERED"]) + '</content:encoded>\n'
+    xmlOutput += '      </item>\n'
+
+xmlOutput += '  </channel>\n'
+xmlOutput += '</rss>'
+
+f = open(outPath + "index.xml", "w")
+f.write(xmlOutput)
+f.close()

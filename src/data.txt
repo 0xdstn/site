@@ -2,6 +2,7 @@
 1 Dustin
 & [e:wave] Hello friend. I'm [b:Dustin].
 & [e:computer] I'm currently working as a [b:Software Engineer] in [b:Spokane, Wa].
+& [e:coffee] I like my coffee black just like my metal [e:metal].
 & [e:clock] You can find out more about what I'm up to on my [l:now|now page].
 2 Projects
 ? [d:projects]
@@ -12,7 +13,7 @@
 2 Recipes
 ? [d:recipes]
 
-~now/index : Now : Now page
+~now/index : Now : Now page : 2021-04-13
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
 _ Last updated: 2021.04.13
@@ -23,7 +24,7 @@ _ Last updated: 2021.04.13
 & [e:books] [b:Reading] [l:https://www.amazon.com/dp/1619493918|Walden] and [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
 & [e:headphones] [b:Listening] to [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow]
 
-~wiki/philosophy : Philosophy : My personal philosophy
+~wiki/philosophy : Philosophy : My personal philosophy : 2020-10-25
 1 Philosophy
 & Rules that I try to live my life by.
 # [l:#General|General]
@@ -71,7 +72,7 @@ _ Last updated: 2021.04.13
 - On a long enough timeline, everyone is forgotten
 - Everything is impermanent
 
-~wiki/library : Library : A list of books I've read
+~wiki/library : Library : A list of books I've read : 2021-04-19
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
 / [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell [c:READING]
 / [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh [c:READING]
@@ -101,9 +102,8 @@ _ Last updated: 2021.04.13
 - [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 - [e:book] [l:https://www.amazon.com/dp/B0827351DF|The Adoptive Parents' Handbook] by Barbara Tantrum
 - [e:book] [l:https://www.amazon.com/dp/B01N8YBW81|Attitudes of Gratitude] by M. J. Ryan
-- [e:book] [l:https://www.amazon.com/dp/B06W552NS8|Moxie] by Jennifer Mathieu
 2 Books read in 2021
-& [b:Goal: 11 of 20]
+& [b:Goal: 14 of 20]
 # [e:book] [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
 # [e:book] [l:https://www.amazon.com/dp/B00IQY3L1M|How to Sit] by Thich Nhat Hanh
 # [e:headphones] [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
@@ -115,6 +115,9 @@ _ Last updated: 2021.04.13
 # [e:speech] [l:https://www.amazon.com/dp/1421530546|Pokemon Adventures, Vol. 1] by Hidenori Kusaka
 # [e:book] [l:https://alltheworldtome.com/|All the World to Me] by Josh Castle
 # [e:book] [l:https://www.amazon.com/dp/B07R2L2SNN|The Boy, the Mole, the Fox and the Horse] by Charlie Mackesy 
+# [e:book] [l:https://www.amazon.com/dp/B06W552NS8|Moxie] by Jennifer Mathieu
+# [e:book] [l:https://www.amazon.com/dp/B00L0F01NK|We Should All Be Feminists] by Chimamanda Ngozi Adichie
+# [e:speech] [l:https://www.amazon.com/dp/1506713084|Stranger Things: Into the Fire] by Jody Houser
 2 Books read in 2020
 & [b:Goal: 39 of 15]
 # [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
@@ -122,7 +125,7 @@ _ Last updated: 2021.04.13
 # [e:speech] [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser
 # [e:speech] [l:https://www.amazon.com/dp/1506712320|Stranger Things: SIX] by Jody Houser
 # [e:book] [l:https://www.amazon.com/dp/B07MJ3TDCZ|Stillness is the Key] by Ryan Holiday
-# [e:book] [l:https://www.amazon.com/dp/1338125680|The Tales of Beedle the Bard] by J.K. Rowling
+# [e:headphones] [l:https://www.amazon.com/dp/1338125680|The Tales of Beedle the Bard] by J.K. Rowling
 # [e:book] [l:https://www.amazon.com/dp/B00C0EJF8W|Lectures and Sayings] by Musonius Rufus, Cynthia King
 # [e:book] [l:https://archive.org/details/fp_Banksy-Banging_Your_Head_Against_A_Brick_Wall|Banging Your Head Against A Brick Wall] by Banksy
 # [e:book] [l:https://www.amazon.com/dp/1732441901|Belonging at Work] by Rhodes Perry MPA
@@ -205,7 +208,7 @@ _ Last updated: 2021.04.13
 - [e:book] [l:https://www.amazon.com/dp/0307887448|Ready Player One] by Ernest Cline
 - [e:book] [l:http://www.galactanet.com/oneoff/lacero.html|Lacero] by Andy Weir
 
-~wiki/buddhism : Buddhism : Notes on secular Buddhism
+~wiki/buddhism : Buddhism : Notes on secular Buddhism : 2021-04-12
 1 Buddhism
 & These are my notes from studying and practicing [b:secular Buddhism]. Most of this was gathered while reading [l:https://www.amazon.com/dp/B07C31XJGP|No-Nonsense Buddhism for Beginners] by Noah Rasheta.
 # [l:#The Four Noble Truths|The Four Noble Truths]
@@ -347,7 +350,7 @@ _ Last updated: 2021.04.13
 # Hatred
 # Ignorance
 
-~wiki/coffee : Cafe : Coffee recipes and equipment
+~wiki/coffee : Cafe : Coffee recipes and equipment : 2020-09-23
 1 Cafe
 & I am very interested in experimenting with various methods of brewing coffee. Most days I have a 12oz or 16oz cup of black coffee brewed with a [b:Kalita Wave 185].
 # [l:#My equipment|My equipment]
@@ -391,7 +394,7 @@ _ Last updated: 2021.04.13
 # Wait until [b:1:10]
 # Place plunger and push down quickly
 
-~wiki/tenpo : Tenpo : A personal date format
+~wiki/tenpo : Tenpo : A personal date format : 2019-09-09
 1 Tenpo
 & Tenpo is the custom date format. It is written in the format [b:YYMDD].
 # [l:#Years|Years]
@@ -416,7 +419,7 @@ _ Last updated: 2021.04.13
 2 Leap year
 & Whenever there is a leap year, that day is annexed and written as [b:A00], so in [b:2020] the leap year day of [b:2/29] was [b:32A00].
 
-~recipes/fall-oats : Fall Oats : Sweet pumpkin oats
+~recipes/fall-oats : Fall Oats : Sweet pumpkin oats : 2020-10-21
 1 Fall oats
 # [l:#Description|Description]
 # [l:#Ingredients|Ingredients]
@@ -441,7 +444,7 @@ _ Last updated: 2021.04.13
 # In a [b:bowl], combine all other ingredients
 # Add the [b:oats] to the bowl and mix well
 
-~recipes/pumpkin-seeds : Roasted Pumpkin Seeds : Sweet or savory seeds
+~recipes/pumpkin-seeds : Roasted Pumpkin Seeds : Sweet or savory seeds : 2020-10-30
 1 Roasted Pumpkin Seeds
 # [l:#Ingredients|Ingredients]
 # [l:#Spice ideas|Spice ideas]
@@ -464,7 +467,7 @@ _ Last updated: 2021.04.13
 # Turn the heat up to [b:325&deg;]
 # Bake for [b:5 minutes] or until crisp (they will start popping when about done)
 
-~projects/tilde-world : Tilde world : A tilde server text game
+~projects/tilde-world : Tilde world : A tilde server text game : 2021-03-03
 1 Tilde world
 & Tilde world (~world) is a flat-file, community powered, text adventure game intended to be run on tilde servers.
 & [b:Source code:] [l:https://github.com/0xdstn/tilde-world]
@@ -573,13 +576,13 @@ _ Last updated: 2021.04.13
 - [c:v1.0.1] Added help and about commands
 - [c:v1.0.0] Initial release with base functionality
 
-~projects/ilo : ilo : A Toki Pona translation tool
+~projects/ilo : ilo : A Toki Pona translation tool : 2021-02-24
 1 ilo
 & This is a simple tool that allows you to input Toki Pona, and it will provide you the definition of each word. It does not understand sentence structure and doesn't give you an actual translation, but provides you information so you can translate yourself.
 - Source code: [l:https://github.com/0xdstn/ilo/]
 - Live version: [l:http://tilde.town/~dustin/ilo/]
 
-~projects/lon : Lon : A flat-file CLI bookmark manager
+~projects/lon : Lon : A flat-file CLI bookmark manager : 2019-11-19
 1 Lon
 & A CLI bookmark manager.
 # [l:#Description|Description]
@@ -605,7 +608,7 @@ _ Last updated: 2021.04.13
 - [c:v1.0.1] Added ability to get a list of tags
 - [c:v1.0.0] Initial release with base functionality
 
-~projects/tilde-social : Tilde Social : A flat-file social network
+~projects/tilde-social : Tilde Social : A flat-file social network : 2019-08-13
 1 Tilde Social
 & A flat-file social network.
 # [l:#Description|Description]
@@ -665,7 +668,7 @@ _ Last updated: 2021.04.13
 - [c:v1.0.1] Updated timeline to include your own posts
 - [c:v1.0.0] Initial release with base functionality
 
-~projects/tilde-tools : Tilde tools : A list of tilde.town related projects
+~projects/tilde-tools : Tilde tools : A list of tilde.town related projects : 2020-12-30
 1 Tilde tools
 & A list of projects related to [l:http://tilde.town|tilde.town].
 # [l:#@towniebot|@towniebot]
@@ -696,7 +699,7 @@ _ Last updated: 2021.04.13
 & You are automatically opted out of your links being shared. If you want to opt in so all links you post are shared, you can add an empty [b:.linkbot] file to your home directory. If the bot finds a link you posted and you have this dotfile, your link will be added. You can still opt a specific link out by starting your message with [b:!nolinkbot], [b:!nolink], or [b:!nolb]. If you are not opted in, you can still add a link explicitly by starting your message with [b:!linkbot], [b:!link], or [b:!lb].
 & The output can be [l:http://tilde.town/~dustin/linkbot/|viewed here].
 
-~projects/camera-glitch : Camera glitch : A collection of photos taken with a broken digital camera
+~projects/camera-glitch : Camera glitch : A collection of photos taken with a broken digital camera : 2015-01-01
 1 Camera glitch
 & A collection of photos taken with a broken digital camera.
 & A while back I had a digital camera with a broken lens that functioned enough to take some glitched photos. I tried to glitch it further and just ended up breaking the camera, but these were the images that I got out of it. Completely unmodified, taken straight from the camera.
@@ -714,7 +717,7 @@ _ Last updated: 2021.04.13
 @ assets/img/DSC00038_th.jpg|assets/img/DSC00038.jpg
 @ assets/img/DSC00041_th.jpg|assets/img/DSC00041.jpg
 
-~projects/nullctrl : NULLCTRL : A collection of glitch art
+~projects/nullctrl : NULLCTRL : A collection of glitch art : 2014-01-01
 1 NULLCTRL
 & A collection of glitch art created between [b:2014] and [b:2015].
 & They were created using various techniques, including databending and the Decim8 app.
@@ -727,7 +730,26 @@ _ Last updated: 2021.04.13
 @ assets/img/7_th.jpg|assets/img/7.jpg
 @ assets/img/8_th.jpg|assets/img/8.jpg
 
-~writing/social : On Social Media : 2021.04.13
+~writing/rss : RSS Feed : Notice of an RSS feed added to this site : 2021-04-22
+1 RSS Feed
+_ 2021.04.22
+& I wrote in my [l:writing/social|thoughts on social media] how I am now using RSS feeds to keep up on the work of people I want to follow, and that if they do not have an RSS feed, I won't be keeping up on them, and that's fine.
+& This was somewhat ironic considering I didn't have an RSS feed of my own.
+& I have now added an [l:index.xml|RSS feed] that gets generated with my custom python script that creates the site. It will now update every time I publish something new. It was fun figuring out how to craft the XML for a feed.
+& If you like my work, you can follow me with an RSS reader.
+
+~writing/withdrawal : Social Media Withdrawal : Stream of thought during a social media withdrawal : 2021-04-15
+1 Social Media Withdrawal
+_ 2021.04.15
+& I'm already feeling social media withdrawal. It's only been a couple weeks, if that. I'm used to scrolling through Instagram and Mastodon.
+& It feels like I'm missing out. That I could be interacting with like-minded people and I'm not.
+& The silly thing is I normally don't really interact with people on social media, I just browse, giving me that hit of dopamine my body is craving.
+& Instead of going and making an account somewhere, I'm writing here. Maybe nobody will read this, maybe someone will, who knows. This is more for me.
+& I want to spend time writing, thinking, and creating, not scrolling mindlessly.
+& I often feel like I'm missing out on information. There are [i:things] out there being created that I'm not seeing. The truth is I hardly see anything that I couldn't have lived without.
+& I will probably go read some things from my RSS feeds. That should help. This seems to have helped too.
+
+~writing/social : On Social Media : Thoughts on the dangers of social media : 2021-04-13
 1 On Social Media
 _ 2021.04.13
 & I've had a complicated relationship with social media over the years. In the early days, I was actively trying to get an account on [i:every] platform I could find. I loved having a list of every service I had an account for on my personal website. After years of trying to keep up with everything, I'm now moving in the opposite direction.
@@ -743,7 +765,7 @@ _ 2021.04.13
 & As per my [l:wiki/philosophy/#Technology|personal philosphy regarding technology] I will be using the internet [i:intentionally].
 & If you are out there reading this and would like to say hi, I'm always available via [l:mailto:0xdstn@protonmail.com|email]. I'd be glad to discuss any shared interest we may have :)
 
-~writing/2020 : 2020 Review : 2020.12.31
+~writing/2020 : 2020 Review : A retrospect of the year 2020 : 2020-12-31
 1 2020 Review
 _ 2020.12.31
 & As we all know, this has been a crazy year. I figured I'd write down some reflections on it as we move into 2021.
@@ -794,7 +816,7 @@ _ 2020.12.31
 - Take the time to [b:paint/sketch] more
 - Use my [b:phone] for [b:less than an hour a day]
 
-~writing/graphiqal : Bugcrowd Graphiqal CTF Write-up : 2020.07.21
+~writing/graphiqal : Bugcrowd Graphiqal CTF Write-up : A write-up for finding all the flags in the Bugcrowd Graphiqal CTF : 2020-07-21
 1 2020 Bugcrowd Graphiqal CTF Write-up
 _ 2020.07.21
 * [c:UPDATE 2021.04.13] It seems Bugcrowd has taken down this CTF, so the links will not work any longer. I will leave them as they were, as I don't have anything better to change them to.

@@ -1,7 +1,8 @@
 html, body { height: 100%; margin: 0; padding: 0; width: 100%; }
 body { background: #222; color: #c8c8c8; font-family: "Source Code Pro", Courier, monospace; font-size: 14px; box-sizing: border-box; padding: 2em; }
-header { padding-bottom: 1em; }
+header { padding-bottom: 1em; text-align: center; }
 header a { margin-right: .25em; }
+header, article, footer { margin: 0 auto; max-width: 700px; width: 100%; }
 
 a { padding-bottom: 1px; color: #00ffaa; text-decoration: none; font-weight: 700; }
 a:hover { text-decoration: underline; }
@@ -21,6 +22,6 @@ blockquote { color: #fff; border-left: solid 5px #00ffaa; padding: 1em 0 1em 1em
 code { background: #ddd; border-radius: 4px; color: #000; font-weight: 700; padding: 0.15em 0.5em; }
 pre { background: #4d5157; color: #fff; font-weight: 700; border-left: solid 10px #00ffaa; border-radius: 8px; margin-bottom: 1.5em; padding: 1em; line-height: 1.5em; overflow-x: auto; }
 
-footer { padding-bottom: 1em; }
+footer { padding-bottom: 1em; text-align: center; }
 .webring { display: inline-block; height: 30px; width: 30px; }
 .emoji { display: inline-block; width: 20px; }

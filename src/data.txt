@@ -72,7 +72,7 @@ _ Last updated: 2021.04.13
 - On a long enough timeline, everyone is forgotten
 - Everything is impermanent
 
-~wiki/library : Library : A list of books I've read : 2021-04-19
+~wiki/library : Library : A list of books I've read : 2021-04-25
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
 / [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell [c:READING]
 / [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh [c:READING]
@@ -101,9 +101,8 @@ _ Last updated: 2021.04.13
 - [e:book] [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
 - [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 - [e:book] [l:https://www.amazon.com/dp/B0827351DF|The Adoptive Parents' Handbook] by Barbara Tantrum
-- [e:book] [l:https://www.amazon.com/dp/B01N8YBW81|Attitudes of Gratitude] by M. J. Ryan
 2 Books read in 2021
-& [b:Goal: 14 of 20]
+& [b:Goal: 15 of 20]
 # [e:book] [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
 # [e:book] [l:https://www.amazon.com/dp/B00IQY3L1M|How to Sit] by Thich Nhat Hanh
 # [e:headphones] [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
@@ -118,6 +117,7 @@ _ Last updated: 2021.04.13
 # [e:book] [l:https://www.amazon.com/dp/B06W552NS8|Moxie] by Jennifer Mathieu
 # [e:book] [l:https://www.amazon.com/dp/B00L0F01NK|We Should All Be Feminists] by Chimamanda Ngozi Adichie
 # [e:speech] [l:https://www.amazon.com/dp/1506713084|Stranger Things: Into the Fire] by Jody Houser
+# [e:book] [l:https://www.amazon.com/dp/B01N8YBW81|Attitudes of Gratitude] by M. J. Ryan
 2 Books read in 2020
 & [b:Goal: 39 of 15]
 # [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays

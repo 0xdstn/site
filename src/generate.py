@@ -38,19 +38,20 @@ tplKey = {
 }
 
 emoji = {
-	"wave": "128075",
-	"computer": "128187",
-	"lock": "128274",
-	"globe": "127760",
-	"clock": "128338",
-	"earth": "127758",
-	"pray": "128591",
-	"books": "128218",
-	"book": "128216",
-	"headphones": "127911",
-	"speech": "128172",
+    "wave": "128075",
+    "computer": "128187",
+    "lock": "128274",
+    "globe": "127760",
+    "clock": "128338",
+    "earth": "127758",
+    "pray": "128591",
+    "books": "128218",
+    "book": "128216",
+    "headphones": "127911",
+    "speech": "128172",
     "coffee": "9749",
-    "metal": "129304"
+    "metal": "129304",
+    "plant": "127793"
 }
 
 # Read the header

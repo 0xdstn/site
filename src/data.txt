@@ -12,15 +12,15 @@
 2 Recipes
 ? [d:recipes]
 
-~now/index : Now : Now page : 2021-04-29
+~now/index : Now : Now page : 2021-05-03
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
-_ Last updated: 2021.04.29
+_ Last updated: 2021.05.03
 & [e:earth] [b:Living] in Spokane, WA
 & [e:computer] [b:Working] as a Software Engineer
 & [e:pray] [b:Practicing] stoicism and secular buddhism
 & [e:books] [b:Reading] [l:https://www.amazon.com/dp/1619493918|Walden] and [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
-& [e:headphones] [b:Listening] to [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow]
+& [e:headphones] [b:Listening] to [l:https://www.amazon.com/dp/B000QJLQZI|Alexander Hamilton]
 
 ~wiki/philosophy : Philosophy : My personal philosophy : 2020-10-25
 1 Philosophy
@@ -70,7 +70,7 @@ _ Last updated: 2021.04.29
 - On a long enough timeline, everyone is forgotten
 - Everything is impermanent
 
-~wiki/library : Library : A list of books I've read : 2021-05-03
+~wiki/library : Library : A list of books I've read : 2021-05-25
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
 / [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell [c:READING]
 / [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh [c:READING]
@@ -82,6 +82,9 @@ _ Last updated: 2021.04.29
 / [l:http://www.scpwiki.com/ebooks|SCP: Foundation Tomes] by Various Authors
 / [l:https://www.amazon.com/dp/1592537251|The Art of Urban Sketching] by Gabriel Campanario
 / [l:https://hundredrabbits.itch.io/busy-doing-nothing|Busy Doing Nothing] by Hundred Rabbits
+/ [e:book] [l:https://www.amazon.com/dp/B0827351DF|The Adoptive Parents' Handbook] by Barbara Tantrum
+/ [e:book] [l:https://www.amazon.com/dp/B082RS7N3X|Attack Surface] by Cory Doctorow
+/ [e:book] [l:https://www.amazon.com/dp/B00GT1YES8|The Highly Sensitive Person] by  Elaine N. Aron Phd
 1 Library
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 # [l:#Currently reading|Currently reading]
@@ -94,13 +97,11 @@ _ Last updated: 2021.04.29
 - [e:headphones] Listened
 - [e:speech] Comic book
 2 Currently reading
-- [e:headphones] [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow] by Joseph Menn
+- [e:headphones] [l:https://www.amazon.com/dp/B000QJLQZI|Alexander Hamilton] by Ron Chernow
 - [e:book] [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
 - [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
-- [e:book] [l:https://www.amazon.com/dp/B0827351DF|The Adoptive Parents' Handbook] by Barbara Tantrum
-- [l:https://www.amazon.com/dp/B082RS7N3X|Attack Surface] by Cory Doctorow
 2 Books read in 2021
-& [b:Goal: 15 of 20]
+& [b:Goal: 17 of 20]
 # [e:book] [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
 # [e:book] [l:https://www.amazon.com/dp/B00IQY3L1M|How to Sit] by Thich Nhat Hanh
 # [e:headphones] [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
@@ -116,6 +117,8 @@ _ Last updated: 2021.04.29
 # [e:book] [l:https://www.amazon.com/dp/B00L0F01NK|We Should All Be Feminists] by Chimamanda Ngozi Adichie
 # [e:speech] [l:https://www.amazon.com/dp/1506713084|Stranger Things: Into the Fire] by Jody Houser
 # [e:book] [l:https://www.amazon.com/dp/B01N8YBW81|Attitudes of Gratitude] by M. J. Ryan
+# [e:headphones] [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow] by Joseph Menn
+# [e:speech] [l:https://www.amazon.com/dp/B00U6SVQRC|Hacktivist] by Alyssa Milano, Jackson Lanzing
 2 Books read in 2020
 & [b:Goal: 39 of 15]
 # [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays

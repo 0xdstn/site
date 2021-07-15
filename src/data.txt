@@ -12,15 +12,17 @@
 2 Recipes
 ? [d:recipes]
 
-~now/index : Now : Now page : 2021-07-06
+~now/index : Now : Now page : 2021-07-15
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
 _ Last updated: 2021.07.06
 & [e:earth] [b:Living] in Spokane, WA
 & [e:computer] [b:Working] as a Software Engineer
-& [e:pray] [b:Practicing] stoicism and secular buddhism
-& [e:books] [b:Reading] [l:https://www.amazon.com/dp/1984819658|Rabbits], [l:https://www.amazon.com/dp/1984858203|Draw Your World], and [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
+& [e:pray] [b:Practicing] stoicism &amp; secular buddhism
+& [e:plant] [b:Learning] appsec &amp; osint
+& [e:books] [b:Reading] [l:https://www.amazon.com/dp/1984819658|Rabbits], [l:https://www.amazon.com/dp/1984858203|Draw Your World], &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
 & [e:headphones] [b:Listening] to [l:https://amazon.com/dp/B07RZ1WPK4|Conceal, Don't Feel]
+& [e:mail] [b:Available via] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
 
 ~wiki/philosophy : Philosophy : My personal philosophy : 2020-10-25
 1 Philosophy

@@ -51,7 +51,8 @@ emoji = {
     "speech": "128172",
     "coffee": "9749",
     "metal": "129304",
-    "plant": "127793"
+    "plant": "127793",
+    "mail": "128235"
 }
 
 # Read the header
@@ -78,7 +79,7 @@ def tpl(line):
             txt = link[1] if len(link) > 1 else link[0]
             if len(target):
                 line = line.replace(tag,'<a href="{}"{}>{}</a>'.format(url,target,txt))
-            elif url.startswith("#"):
+            elif url.startswith("#") or url.startswith("mailto:"):
                 line = line.replace(tag,'<a href="{}">{}</a>'.format(url,txt))
             else:
                 line = line.replace(tag,'<a href="{}">{}</a>'.format(basePath+url,txt))

@@ -182,7 +182,8 @@ def createPage(fileName, section, pg):
     if data[section][pg]["DATE"] != "":
         data[section][pg]["RENDERED"] = output
         data[section][pg]["LINK"] = 'https://tilde.town/~dustin/' + section + '/' + pg
-        xmlItems[data[section][pg]["DATE"]+"_"+pg] = data[section][pg]
+        if section != "devnull":
+            xmlItems[data[section][pg]["DATE"]+"_"+pg] = data[section][pg]
 
     f = open(outPath + fileName + ".html", "w")
     f.write(finalOutput)

@@ -52,7 +52,8 @@ emoji = {
     "coffee": "9749",
     "metal": "129304",
     "plant": "127793",
-    "mail": "128235"
+    "mail": "128235",
+    "paint": "127912"
 }
 
 # Read the header

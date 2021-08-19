@@ -20,8 +20,9 @@ _ Last updated: 2021.07.20
 & [e:earth] [b:Living] in Spokane, WA
 & [e:computer] [b:Working] as a Software Engineer
 & [e:pray] [b:Practicing] stoicism &amp; secular buddhism
-& [e:plant] [b:Learning] gardening &amp; how to brew coffee with a [l:https://www.amazon.com/dp/B082P6Q9CM|phin]
-& [e:books] [b:Reading] [l:https://www.amazon.com/dp/0060883286|One Hundred Years of Solitude], [l:https://www.amazon.com/dp/1984858203|Draw Your World], &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
+& [e:paint] [b:Making] daily sketches/paintings
+& [e:books] [b:Reading] [l:https://www.amazon.com/dp/1501154206|Birds Art Life], [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline], [l:https://www.amazon.com/dp/1984858203|Draw Your World], &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
+& [e:headphones] [b:Listening] to the [l:https://www.sneakyartist.com/podcast|SneakyArt Podcast]
 & [e:mail] [b:Available via] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
 
 ~wiki/philosophy : Philosophy : My personal philosophy : 2020-10-25
@@ -102,7 +103,8 @@ _ Last updated: 2021.07.20
 2 Currently reading
 - [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 - [e:book] [l:https://www.amazon.com/dp/1984858203|Draw Your World] by Samantha Dion Baker
-- [e:book] [l:https://www.amazon.com/dp/0060883286|One Hundred Years of Solitude] by Gabriel Garcia Marquez
+- [e:book] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] by Daniel J. Siegel MD &amp; Tina Payne Bryson, PhD
+- [e:book] [l:https://www.amazon.com/dp/1501154206|Birds Art Life] by Kyo Maclear
 2 Books read in 2021
 & [b:Goal: 23 of 20]
 # [e:book] [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
@@ -228,6 +230,7 @@ _ Last updated: 2021.07.20
 - [l:https://www.amazon.com/dp/B07PQ43FDD|Love Poems for People with Children] by John Kenney
 - [l:https://www.amazon.com/dp/B002SKDGT2|Boneshaker] by Cherie Priest
 - [l:https://amazon.com/dp/B07RZ1WPK4|Conceal, Don't Feel] by Jen Calonita
+- [l:https://www.amazon.com/dp/0060883286|One Hundred Years of Solitude] by Gabriel Garcia Marquez
 ~wiki/buddhism : Buddhism : Notes on secular Buddhism : 2021-04-12
 1 Buddhism
 & These are my notes from studying and practicing [b:secular Buddhism]. Most of this was gathered while reading [l:https://www.amazon.com/dp/B07C31XJGP|No-Nonsense Buddhism for Beginners] by Noah Rasheta.
@@ -487,6 +490,30 @@ _ Last updated: 2021.07.20
 # Bake for [b:45 minutes]
 # Turn the heat up to [b:325&deg;]
 # Bake for [b:5 minutes] or until crisp (they will start popping when about done)
+
+~projects/mastofeed : Mastofeed : A scraper+viewer for Mastodon user feeds
+1 Mastofeed
+& Mastofeed is a flat-file, python-based system for scraping and viewing Mastodon user posts via RSS.
+& [b:Source code:] [l:https://github.com/0xdstn/mastofeed/]
+# [l:#Description|Description]
+# [l:#Usage|Usage]
+2 Description
+& Since I left Mastodon a while back in leiu of [b:RSS feeds] and [b:email] for keeping up with others and commnicating, I realized I do miss out on a lot of interesting things I don't get through feeds.
+& Because of this, I wanted to create a system where I could view Mastodon posts of users I care to keep up with, but not have the distraction of being on Mastodon myself. I didn't want to clutter up my RSS feed reader with Mastodon posts, so I opted to create this project instead.
+& This allows me to keep up with what people are doing, but not distract me. If I want to reach out to someone based on a post, I will take the time to email them. This results in less "shallow" conversation, since more effort is required to reach out.
+& This project isn't really set up to be used out of the box, but with minor modifications listed below it can be used by someone else. It was created to serve my needs, and not really meant for anyone else. That being said, if you would like to use it feel free to [l:https://github.com/0xdstn/mastofeed/|fork] it and modify it so it works better for you.
+2 Usage
+& You'll need to update the file paths in [b:archive.py] and [b:view.py], as I had those hard coded to my personal directories so I can alias them and not have to worry about it breaking.
+& You will also need to create the following files in the root directory:
+- archived.txt
+- data.txt
+- following.txt
+& To add a Mastodon user, edit [b:following.txt] and put their account in the following format, one per line:
+% username@domain.tld
+& You can then manually run [c:scrape.py] to fetch posts. I set up a cron job to run it every 15 minutes.
+& When [b:scrape.py] runs, it adds a post per line to the [b:data.txt] file.
+& To view posts in [b:data.txt], you can run [c:view.py], which will format and output them in ascending order.
+& You can either manually move posts from that file over to archive.txt so they no longer appear when running [b:view.py], or you can archive everything in [b:data.txt] by running [c:archive.py].
 
 ~projects/tilde-world : Tilde world : A tilde server text game : 2021-03-03
 1 Tilde world

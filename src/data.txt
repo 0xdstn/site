@@ -13,16 +13,15 @@
 2 Recipes
 ? [d:recipes]
 
-~now/index : Now : Now page : 2021-07-20
+~now/index : Now : Now page : 2021-08-26
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
-_ Last updated: 2021.07.20
+_ Last updated: 2021.08.26
 & [e:earth] [b:Living] in Spokane, WA
 & [e:computer] [b:Working] as a Software Engineer
 & [e:pray] [b:Practicing] stoicism &amp; secular buddhism
 & [e:paint] [b:Making] daily sketches/paintings
-& [e:books] [b:Reading] [l:https://www.amazon.com/dp/1501154206|Birds Art Life], [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline], [l:https://www.amazon.com/dp/1984858203|Draw Your World], &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
-& [e:headphones] [b:Listening] to the [l:https://www.sneakyartist.com/podcast|SneakyArt Podcast]
+& [e:books] [b:Reading] [l:https://www.amazon.com/dp/1501160834|Anxious People], [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline], &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
 & [e:mail] [b:Available via] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
 
 ~wiki/philosophy : Philosophy : My personal philosophy : 2020-10-25
@@ -88,6 +87,8 @@ _ Last updated: 2021.07.20
 / [e:book] [l:https://www.amazon.com/dp/B0827351DF|The Adoptive Parents' Handbook] by Barbara Tantrum
 / [e:book] [l:https://www.amazon.com/dp/B082RS7N3X|Attack Surface] by Cory Doctorow
 / [e:headphones] [l:https://www.amazon.com/dp/B000QJLQZI|Alexander Hamilton] by Ron Chernow
+/ [e:book] [l:https://www.amazon.com/dp/1984858203|Draw Your World] by Samantha Dion Baker
+/ [e:book] [l:https://www.amazon.com/dp/1501154206|Birds Art Life] by Kyo Maclear
 1 Library
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 # [l:#Currently reading|Currently reading]
@@ -102,9 +103,8 @@ _ Last updated: 2021.07.20
 - [e:speech] Comic book
 2 Currently reading
 - [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
-- [e:book] [l:https://www.amazon.com/dp/1984858203|Draw Your World] by Samantha Dion Baker
 - [e:book] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] by Daniel J. Siegel MD &amp; Tina Payne Bryson, PhD
-- [e:book] [l:https://www.amazon.com/dp/1501154206|Birds Art Life] by Kyo Maclear
+- [e:book] [l:https://www.amazon.com/dp/1501160834|Anxious People] by Fredrik Backman
 2 Books read in 2021
 & [b:Goal: 23 of 20]
 # [e:book] [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline

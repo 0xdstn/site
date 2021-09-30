@@ -8,7 +8,7 @@ html, body {
 body {
 	background: #f9f9f9;
 	color: #222;
-	font-family: "Libre Caslon Text", serif;
+	font-family: "Fira Code", monospace;
 	font-size: 15px;
 	box-sizing: border-box;
 	padding: 2em;
@@ -86,7 +86,8 @@ ul, ol {
 	padding: 0;
 }
 
-li{ margin-bottom: .5em;
+li { 
+    margin-bottom: .5em;
 }
 
 ol {
@@ -100,89 +101,87 @@ ul li {
 
 ol li {
 	list-style: decimal-leading-zero;
-	margin-left: 1em;
+	margin-left: 1.75em;
 }
 
 h1,h2,h3,h4,h5,h6 {
 	color: #222;
-	font-family: "Libre Caslon Display";
 	display: flex;
+    font-weight: 700;
 }
 
-h1::after,h2::after,h3::after,h4::after,h5::after,h6::after {
-	height: 1px;
-	background: #999;
-	content: "";
-	flex-grow: 1;
-	margin-top: .75em;
-	margin-left: 15px;
+h2::after {
+    height: 1px;
+    background: #999;
+    content: "";
+    flex-grow: 1;
+    margin-top: .75em;
+    margin-left: 15px;
 }
 
 h1 {
-	font-size: 3em;
+    font-size: 2em;
 }
 
 h2 {
-	font-size: 2.5em;
+    font-size: 1.75em;
 }
 
 h3 {
-	font-size: 2em;
+    font-size: 1.25em;
 }
 
 h4 {
-	font-size: 1.5em;
+    font-size: 1em;
 }
 
 h5 {
-	font-size: 1.25em;
+    font-size: 1em;
 }
 
 h6 {
-	font-size: 1em;
+    font-size: 1em;
 }
 
 blockquote {
-	color: #fff;
-	border-left: solid 5px #00aaee;
-	padding: 1em 0 1em 1em;
-	margin: 0 0 1.5em;
+    color: #fff;
+    border-left: solid 5px #00aaee;
+    padding: 1em 0 1em 1em;
+    margin: 0 0 1.5em;
 }
 
 code {
-	background: #ddd;
-	border-radius: 4px;
-	color: #000;
-	font-weight: 700;
-	padding: 0.15em 0.5em;
-	font-family: Courier, monospace;
+    background: #ddd;
+    border-radius: 4px;
+    color: #000;
+    padding: 0.15em 0.5em 0.15em 0.6em;
+    font-family: "Fira Code", monospace;
 }
 
 pre {
-	background: #4d5157;
-	color: #fff;
-	font-weight: 700;
-	border-left: solid 10px #00aaee;
-	border-radius: 8px;
-	margin-bottom: 1.5em;
-	padding: 1em;
-	line-height: 1.5em;
-	overflow-x: auto;
-	font-family: Courier, monospace;
+    background: #4d5157;
+    color: #fff;
+    border-left: solid 10px #00aaee;
+    border-radius: 8px;
+    margin-bottom: 1.5em;
+    padding: 1em;
+    line-height: 1.5em;
+    overflow-x: auto;
+    font-family: "Fira Code", monospace;
 }
 
 footer {
-	padding-bottom: 1em;
-	text-align: center;
+    padding-bottom: 1em;
+    text-align: center;
 }
 
 .webring {
-	display: inline-block;
-	height: 30px;
-	width: 30px;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
 }
 
 .emoji {
-	display: inline-block;
-	width: 30px;
+    display: inline-block;
+    width: 30px;
 }

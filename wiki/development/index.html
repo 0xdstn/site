@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/~dustin/assets/styles/main.css?v=1" />
+    <title>Development | Dustin</title>
+  </head>
+  <body>
+    <header>
+      <a href="/~dustin/">~dustin</a>
+      <a href="/~dustin/now">now</a>
+      <a href="https://github.com/0xdstn" target="_blank">github</a>
+      <a href="mailto:0xdstn@protonmail.com">email</a>
+      <a href="/~dustin/index.xml" target="_blank">rss</a>
+    </header>
+	<article>
+<h1 id="Development notes">Development notes</h1><p>This page contains any notes I find useful related to software/web development.</p><ol><li><a href="#Snippets">Snippets</a></li><li><a href="#Tricks">Tricks</a></li><li><a href="#Tools">Tools</a></li></ol><h2 id="Snippets">Snippets</h2><h3 id="Display all PHP errors">Display all PHP errors</h3><pre>ini_set('display_errors', 1);<br>ini_set('display_startup_errors', 1);<br>error_reporting(E_ALL);<br></pre><h3 id="PHP Web Server">PHP Web Server</h3><pre>php -S 0.0.0.0:8000<br></pre><h3 id="Python 2 Web Server">Python 2 Web Server</h3><pre>python -m SimpleHTTPServer<br></pre><h3 id="Python 3 Web Server">Python 3 Web Server</h3><pre>python -m http.server<br></pre><h2 id="Tricks">Tricks</h2><h3 id="Github web editor">Github web editor</h3><p>You can edit a github repository by pressing <code>.</code> while viewing it. This will open up a VS Code web editor with the source of the repository.</p><h3 id="Raspberry pi setup">Raspberry pi setup</h3><h4 id="Enable ssh">Enable ssh</h4><p>In <strong>/boot</strong> create a blank file called <strong>ssh</strong></p><h4 id="Enable wifi">Enable wifi</h4><p>In <strong>/boot</strong> create a file called <strong>wpa_supplicant.conf</strong> with the following:</p><h4 id="Setting up apache/php">Setting up apache/php</h4><pre>sudo apt-get install apache2<br>sudo apt-get install php libapache2-mod-php<br>sudo chown -R pi: /var/www/html<br></pre><h3 id="Wttr.in">Wttr.in</h3><p>View the weather forecast via the command line</p><pre>curl "wttr.in/Spokane?0"<br></pre><h2 id="Tools">Tools</h2><h3 id="CLI">CLI</h3><ul><li><a href="https://fishshell.com/" target="_blank">fish</a> Shell alternative with auto complete</li><li><a href="https://github.com/tmux/tmux/wiki" target="_blank">tmux</a> Terminal multiplexer</li><li><a href="https://beyondgrep.com/documentation/" target="_blank">ack</a> File contents search tool</li><li><a href="https://github.com/sharkdp/bat" target="_blank">bat</a> A <code>cat</code> alternative with syntax highlighting</li><li><a href="https://htop.dev/" target="_blank">htop</a> An interactive <code>top</code> alternative</li><li><a href="https://github.com/ogham/exa" target="_blank">exa</a> A <code>ls</code> clone with better syntax and coloring</li><li><a href="https://github.com/aweary/alder" target="_blank">alder</a> A <code>tree</code> alternative</li><li><a href="https://github.com/dbcli/mycli" target="_blank">mycli</a> Alternative interface for working with MySQL</li><li><a href="https://github.com/ranger/ranger" target="_blank">ranger</a> File manager/browser</li><li><a href="https://github.com/tjko/jpegoptim" target="_blank">jpegoptim</a> JPG optimizer</li><li><a href="https://linux.die.net/man/1/optipng" target="_blank">optipng</a> PNG optimizer</li><li><a href="https://github.com/kohler/gifsicle" target="_blank">gifsicle</a> GIF optimizer</li><li><a href="https://github.com/httpie/httpie" target="_blank">HTTPie</a> View source of a website from any device, including mobile</li><li><a href="https://docs.digitalocean.com/products/networking/dns/resources/use-dig/" target="_blank">dig</a> Viewing DNS information for a domain - <code>sudo apt-get install dnsutils</code></li></ul><h3 id="Web">Web</h3><ul><li><a href="https://jakearchibald.github.io/svgomg/" target="_blank">SVGOMG</a> An SVG editor/optimizer</li><li><a href="https://regexr.com/" target="_blank">RegExr</a> A regex playground/debugger</li><li><a href="https://neatnik.net/view-source/" target="_blank">View Source</a> View source of a website from any device, including mobile</li><li><a href="https://preshing.com/20110811/xkcd-password-generator/" target="_blank">xkcd Password Generator</a> Generates 4 random words</li><li><a href="https://passwordsgenerator.net/" target="_blank">Password generator</a> Generates passwords in-browser</li></ul>		</article>
+		<footer>
+			<p>
+			<a href="https://webring.xxiivv.com/#random" target="_blank" class="webring">
+				<img src="https://webring.xxiivv.com/icon.black.svg"/>
+			</a>
+			</p>
+		</footer>
+	</body>
+</html>
+

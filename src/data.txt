@@ -13,15 +13,15 @@
 2 Recipes
 ? [d:recipes]
 
-~now/index : Now : Now page : 2021-08-26
+~now/index : Now : Now page : 2021-09-27
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
-_ Last updated: 2021.08.26
+_ Last updated: 2021.09.27
 & [e:earth] [b:Living] in Spokane, WA
 & [e:computer] [b:Working] as a Software Engineer
 & [e:pray] [b:Practicing] stoicism &amp; secular buddhism
-& [e:paint] [b:Making] daily sketches/paintings
-& [e:books] [b:Reading] [l:https://www.amazon.com/dp/1501160834|Anxious People], [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline], &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
+& [e:paint] [b:Making] sketches/paintings
+& [e:books] [b:Reading] [l:https://www.amazon.com/dp/B00HVF7OJM|Spell or High Water], [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline], &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
 & [e:mail] [b:Available via] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
 
 ~wiki/philosophy : Philosophy : My personal philosophy : 2020-10-25
@@ -72,7 +72,7 @@ _ Last updated: 2021.08.26
 - On a long enough timeline, everyone is forgotten
 - Everything is impermanent
 
-~wiki/library : Library : A list of books I've read : 2021-07-06
+~wiki/library : Library : A list of books I've read : 2021-09-27
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
 / [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell [c:READING]
 / [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh [c:READING]
@@ -104,9 +104,9 @@ _ Last updated: 2021.08.26
 2 Currently reading
 - [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 - [e:book] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] by Daniel J. Siegel MD &amp; Tina Payne Bryson, PhD
-- [e:book] [l:https://www.amazon.com/dp/1501160834|Anxious People] by Fredrik Backman
+- [e:book] [l:https://www.amazon.com/dp/B00HVF7OJM|Spell or High Water] by Scott Meyer
 2 Books read in 2021
-& [b:Goal: 23 of 20]
+& [b:Goal: 28 of 20]
 # [e:book] [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
 # [e:book] [l:https://www.amazon.com/dp/B00IQY3L1M|How to Sit] by Thich Nhat Hanh
 # [e:headphones] [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
@@ -130,6 +130,11 @@ _ Last updated: 2021.08.26
 # [e:book] [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
 # [e:speech] [l:https://www.amazon.com/dp/1506715761|Stranger Things: Science Camp] by Jody Houser
 # [e:book] [l:https://www.amazon.com/dp/1984819658|Rabbits] by Terry Miles
+# [e:speech] [l:https://www.amazon.com/dp/1506721079|Stranger Things and Dungeons &amp; Dragons] by Jody Houser
+# [e:book] [l:https://www.amazon.com/dp/1501160834|Anxious People] by Fredrik Backman
+# [e:book] [l:https://www.amazon.com/dp/B085BVSXS9|The Midnight Library] by Matt Haig
+# [e:book] [l:https://www.amazon.com/dp/B08GS6NJK4|Into the Forest and All the Way Through] by Cynthia Pelayo
+# [e:book] [l:https://www.amazon.com/dp/B00EF8Z32I|Off to Be the Wizard] by Scott Meyer
 2 Books read in 2020
 & [b:Goal: 39 of 15]
 # [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
@@ -224,8 +229,6 @@ _ Last updated: 2021.08.26
 - [l:https://www.amazon.com/dp/B0026772N8|Zen and the Art of Motorcycle Maintenance] by Robert M. Pirsig
 - [l:https://www.amazon.com/dp/B000FC11A6|Cryptonomicon] by Neal Stephenson
 - [l:https://www.amazon.com/dp/B00BT4QRHG|CyberStorm] by Matthew Mather
-- [l:https://www.amazon.com/dp/B00OM9OKEC|(R)evolution] by PJ Manney
-- [l:https://www.amazon.com/dp/B07NHWRL3G|Intercepts] by T.J. Payne
 - [l:https://www.amazon.com/dp/B0082Z66IK|The Chimes] by Charles Dickens
 - [l:https://www.amazon.com/dp/B07PQ43FDD|Love Poems for People with Children] by John Kenney
 - [l:https://www.amazon.com/dp/B002SKDGT2|Boneshaker] by Cherie Priest
@@ -372,6 +375,61 @@ _ Last updated: 2021.08.26
 # Greed
 # Hatred
 # Ignorance
+
+~wiki/development : Development : Notes related to software/web development : 2021-09-30
+1 Development notes 
+& This page contains any notes I find useful related to software/web development.
+# [l:#Snippets|Snippets]
+# [l:#Tricks|Tricks]
+# [l:#Tools|Tools]
+2 Snippets
+3 Display all PHP errors
+% ini_set('display_errors', 1);
+% ini_set('display_startup_errors', 1);
+% error_reporting(E_ALL);
+3 PHP Web Server
+% php -S 0.0.0.0:8000
+3 Python 2 Web Server
+% python -m SimpleHTTPServer
+3 Python 3 Web Server
+% python -m http.server
+2 Tricks
+3 Github web editor
+& You can edit a github repository by pressing [c:.] while viewing it. This will open up a VS Code web editor with the source of the repository.
+3 Raspberry pi setup
+4 Enable ssh
+& In [b:/boot] create a blank file called [b:ssh]
+4 Enable wifi
+& In [b:/boot] create a file called [b:wpa_supplicant.conf] with the following:
+4 Setting up apache/php
+% sudo apt-get install apache2
+% sudo apt-get install php libapache2-mod-php 
+% sudo chown -R pi: /var/www/html
+3 Wttr.in
+& View the weather forecast via the command line
+% curl "wttr.in/Spokane?0"
+2 Tools
+3 CLI
+- [l:https://fishshell.com/|fish] Shell alternative with auto complete
+- [l:https://github.com/tmux/tmux/wiki|tmux] Terminal multiplexer
+- [l:https://beyondgrep.com/documentation/|ack] File contents search tool
+- [l:https://github.com/sharkdp/bat|bat] A [c:cat] alternative with syntax highlighting
+- [l:https://htop.dev/|htop] An interactive [c:top] alternative
+- [l:https://github.com/ogham/exa|exa] A [c:ls] clone with better syntax and coloring
+- [l:https://github.com/aweary/alder|alder] A [c:tree] alternative
+- [l:https://github.com/dbcli/mycli|mycli] Alternative interface for working with MySQL
+- [l:https://github.com/ranger/ranger|ranger] File manager/browser
+- [l:https://github.com/tjko/jpegoptim|jpegoptim] JPG optimizer 
+- [l:https://linux.die.net/man/1/optipng|optipng] PNG optimizer
+- [l:https://github.com/kohler/gifsicle|gifsicle] GIF optimizer
+- [l:https://github.com/httpie/httpie|HTTPie] View source of a website from any device, including mobile
+- [l:https://docs.digitalocean.com/products/networking/dns/resources/use-dig/|dig] Viewing DNS information for a domain - [c:sudo apt-get install dnsutils]
+3 Web
+- [l:https://jakearchibald.github.io/svgomg/|SVGOMG] An SVG editor/optimizer
+- [l:https://regexr.com/|RegExr] A regex playground/debugger
+- [l:https://neatnik.net/view-source/|View Source] View source of a website from any device, including mobile
+- [l:https://preshing.com/20110811/xkcd-password-generator/|xkcd Password Generator] Generates 4 random words
+- [l:https://passwordsgenerator.net/|Password generator] Generates passwords in-browser
 
 ~wiki/coffee : Cafe : Coffee recipes and equipment : 2020-09-23
 1 Cafe

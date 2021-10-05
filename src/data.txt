@@ -13,7 +13,7 @@
 2 Recipes
 ? [d:recipes]
 
-~now/index : Now : Now page : 2021-09-27
+~now/index : Now : Now page : 2021-10-05
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
 _ Last updated: 2021.09.27
@@ -21,7 +21,8 @@ _ Last updated: 2021.09.27
 & [e:computer] [b:Working] as a Software Engineer
 & [e:pray] [b:Practicing] stoicism &amp; secular buddhism
 & [e:paint] [b:Making] sketches/paintings
-& [e:books] [b:Reading] [l:https://www.amazon.com/dp/B00HVF7OJM|Spell or High Water], [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline], &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
+& [e:books] [b:Reading] [l:https://www.amazon.com/dp/B07MB46BSQ|The Southern Book Clubs Guide to Slaying Vampires] &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
+& [e:headphones] [b:Listening] to [l:https://www.amazon.com/dp/B00HVF7OJM|Spell or High Water]
 & [e:mail] [b:Available via] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
 
 ~wiki/philosophy : Philosophy : My personal philosophy : 2020-10-25
@@ -72,7 +73,7 @@ _ Last updated: 2021.09.27
 - On a long enough timeline, everyone is forgotten
 - Everything is impermanent
 
-~wiki/library : Library : A list of books I've read : 2021-09-27
+~wiki/library : Library : A list of books I've read : 2021-10-05
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
 / [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell [c:READING]
 / [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh [c:READING]
@@ -89,6 +90,7 @@ _ Last updated: 2021.09.27
 / [e:headphones] [l:https://www.amazon.com/dp/B000QJLQZI|Alexander Hamilton] by Ron Chernow
 / [e:book] [l:https://www.amazon.com/dp/1984858203|Draw Your World] by Samantha Dion Baker
 / [e:book] [l:https://www.amazon.com/dp/1501154206|Birds Art Life] by Kyo Maclear
+/ [e:book] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] by Daniel J. Siegel MD &amp; Tina Payne Bryson, PhD
 1 Library
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 # [l:#Currently reading|Currently reading]
@@ -103,8 +105,8 @@ _ Last updated: 2021.09.27
 - [e:speech] Comic book
 2 Currently reading
 - [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
-- [e:book] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] by Daniel J. Siegel MD &amp; Tina Payne Bryson, PhD
 - [e:book] [l:https://www.amazon.com/dp/B00HVF7OJM|Spell or High Water] by Scott Meyer
+- [e:book] [l:https://www.amazon.com/dp/B07MB46BSQ|The Southern Book Club's Guide to Slaying Vampires] by Grady Hendrix
 2 Books read in 2021
 & [b:Goal: 28 of 20]
 # [e:book] [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
@@ -134,7 +136,7 @@ _ Last updated: 2021.09.27
 # [e:book] [l:https://www.amazon.com/dp/1501160834|Anxious People] by Fredrik Backman
 # [e:book] [l:https://www.amazon.com/dp/B085BVSXS9|The Midnight Library] by Matt Haig
 # [e:book] [l:https://www.amazon.com/dp/B08GS6NJK4|Into the Forest and All the Way Through] by Cynthia Pelayo
-# [e:book] [l:https://www.amazon.com/dp/B00EF8Z32I|Off to Be the Wizard] by Scott Meyer
+# [e:headphones] [l:https://www.amazon.com/dp/B00EF8Z32I|Off to Be the Wizard] by Scott Meyer
 2 Books read in 2020
 & [b:Goal: 39 of 15]
 # [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays

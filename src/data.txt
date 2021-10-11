@@ -13,16 +13,16 @@
 2 Recipes
 ? [d:recipes]
 
-~now/index : Now : Now page : 2021-10-05
+~now/index : Now : Now page : 2021-10-11
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
-_ Last updated: 2021.09.27
+_ Last updated: 2021.10.11
 & [e:earth] [b:Living] in Spokane, WA
 & [e:computer] [b:Working] as a Software Engineer
 & [e:pray] [b:Practicing] stoicism &amp; secular buddhism
 & [e:paint] [b:Making] sketches/paintings
-& [e:books] [b:Reading] [l:https://www.amazon.com/dp/B07MB46BSQ|The Southern Book Clubs Guide to Slaying Vampires] &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
-& [e:headphones] [b:Listening] to [l:https://www.amazon.com/dp/B00HVF7OJM|Spell or High Water]
+& [e:books] [b:Reading] [l:https://www.barnesandnoble.com/w/the-odyssey-homer/1123741766|The Odyssey], [l:https://www.amazon.com/dp/B00GU2RHCG|The Kaizen Way], &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
+& [e:headphones] [b:Listening] to [l:https://www.amazon.com/dp/B00MRADM1K|An Unwelcome Quest]
 & [e:mail] [b:Available via] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
 
 ~wiki/philosophy : Philosophy : My personal philosophy : 2020-10-25
@@ -73,7 +73,7 @@ _ Last updated: 2021.09.27
 - On a long enough timeline, everyone is forgotten
 - Everything is impermanent
 
-~wiki/library : Library : A list of books I've read : 2021-10-05
+~wiki/library : Library : A list of books I've read : 2021-10-11
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
 / [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell [c:READING]
 / [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh [c:READING]
@@ -105,10 +105,12 @@ _ Last updated: 2021.09.27
 - [e:speech] Comic book
 2 Currently reading
 - [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
-- [e:book] [l:https://www.amazon.com/dp/B00HVF7OJM|Spell or High Water] by Scott Meyer
-- [e:book] [l:https://www.amazon.com/dp/B07MB46BSQ|The Southern Book Club's Guide to Slaying Vampires] by Grady Hendrix
+- [e:headphones] [l:https://www.amazon.com/dp/B00MRADM1K|An Unwelcome Quest] by Scott Meyer
+- [e:book] [l:https://www.amazon.com/dp/B00GU2RHCG|The Kaizen Way] by Robert Maurer
+- [e:book] [l:https://www.barnesandnoble.com/w/the-odyssey-homer/1123741766|The Odyssey] by Homer
+
 2 Books read in 2021
-& [b:Goal: 28 of 20]
+& [b:Goal: 30 of 20]
 # [e:book] [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
 # [e:book] [l:https://www.amazon.com/dp/B00IQY3L1M|How to Sit] by Thich Nhat Hanh
 # [e:headphones] [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
@@ -137,6 +139,8 @@ _ Last updated: 2021.09.27
 # [e:book] [l:https://www.amazon.com/dp/B085BVSXS9|The Midnight Library] by Matt Haig
 # [e:book] [l:https://www.amazon.com/dp/B08GS6NJK4|Into the Forest and All the Way Through] by Cynthia Pelayo
 # [e:headphones] [l:https://www.amazon.com/dp/B00EF8Z32I|Off to Be the Wizard] by Scott Meyer
+# [e:headphones] [l:https://www.amazon.com/dp/B00HVF7OJM|Spell or High Water] by Scott Meyer
+# [e:book] [l:https://www.amazon.com/dp/B07MB46BSQ|The Southern Book Club's Guide to Slaying Vampires] by Grady Hendrix
 2 Books read in 2020
 & [b:Goal: 39 of 15]
 # [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
@@ -432,6 +436,7 @@ _ Last updated: 2021.09.27
 - [l:https://neatnik.net/view-source/|View Source] View source of a website from any device, including mobile
 - [l:https://preshing.com/20110811/xkcd-password-generator/|xkcd Password Generator] Generates 4 random words
 - [l:https://passwordsgenerator.net/|Password generator] Generates passwords in-browser
+- [l:https://gitexplorer.com/|Git explorer] Git command reference
 
 ~wiki/coffee : Cafe : Coffee recipes and equipment : 2020-09-23
 1 Cafe

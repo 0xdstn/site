@@ -13,15 +13,15 @@
 2 Recipes
 ? [d:recipes]
 
-~now/index : Now : Now page : 2021-10-11
+~now/index : Now : Now page : 2021-10-12
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
-_ Last updated: 2021.10.11
+_ Last updated: 2021.10.12
 & [e:earth] [b:Living] in Spokane, WA
 & [e:computer] [b:Working] as a Software Engineer
 & [e:pray] [b:Practicing] stoicism &amp; secular buddhism
 & [e:paint] [b:Making] sketches/paintings
-& [e:books] [b:Reading] [l:https://www.barnesandnoble.com/w/the-odyssey-homer/1123741766|The Odyssey], [l:https://www.amazon.com/dp/B00GU2RHCG|The Kaizen Way], &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
+& [e:books] [b:Reading] [l:https://www.amazon.com/dp/B0056IAXW6|The Lottery and Other Stories], [l:https://www.amazon.com/dp/B00GU2RHCG|The Kaizen Way], &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
 & [e:headphones] [b:Listening] to [l:https://www.amazon.com/dp/B00MRADM1K|An Unwelcome Quest]
 & [e:mail] [b:Available via] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
 
@@ -73,7 +73,7 @@ _ Last updated: 2021.10.11
 - On a long enough timeline, everyone is forgotten
 - Everything is impermanent
 
-~wiki/library : Library : A list of books I've read : 2021-10-11
+~wiki/library : Library : A list of books I've read : 2021-10-12
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
 / [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell [c:READING]
 / [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh [c:READING]
@@ -91,6 +91,7 @@ _ Last updated: 2021.10.11
 / [e:book] [l:https://www.amazon.com/dp/1984858203|Draw Your World] by Samantha Dion Baker
 / [e:book] [l:https://www.amazon.com/dp/1501154206|Birds Art Life] by Kyo Maclear
 / [e:book] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] by Daniel J. Siegel MD &amp; Tina Payne Bryson, PhD
+/ [e:book] [l:https://www.barnesandnoble.com/w/the-odyssey-homer/1123741766|The Odyssey] by Homer
 1 Library
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 # [l:#Currently reading|Currently reading]
@@ -107,7 +108,7 @@ _ Last updated: 2021.10.11
 - [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 - [e:headphones] [l:https://www.amazon.com/dp/B00MRADM1K|An Unwelcome Quest] by Scott Meyer
 - [e:book] [l:https://www.amazon.com/dp/B00GU2RHCG|The Kaizen Way] by Robert Maurer
-- [e:book] [l:https://www.barnesandnoble.com/w/the-odyssey-homer/1123741766|The Odyssey] by Homer
+- [e:book] [l:https://www.amazon.com/dp/B0056IAXW6|The Lottery and Other Stories] by Shirley Jackson
 
 2 Books read in 2021
 & [b:Goal: 30 of 20]
@@ -887,6 +888,19 @@ _ Last updated: 2021.10.11
 @ assets/img/6_th.jpg|assets/img/6.jpg
 @ assets/img/7_th.jpg|assets/img/7.jpg
 @ assets/img/8_th.jpg|assets/img/8.jpg
+
+~writing/reminders : Reminders : How my own words give me future advice : 2021-10-15
+1 Reminders 
+_ 2021.10.15
+& I have written on this website about various personal struggles I've had with staying [l:writing/focus|focused] and [l:writing/social|social media]. The things documented in those articles are recurring issues I can't seem to completely get away from. They always come back.
+& There is one thing that is different now - I have my written thoughts on the matters, when I was in a much better headspace, available to read when I am struggling. This has been hugely beneficial, and I'm glad I have it, and that I am thinking of re-reading them whenever things start to go south.
+& It has prevented me from going down rabbit holes I know will just exhaust me, and going and setting up new identities online. It's like having past me travel to the future and remind me not to mess things up, and I appreciate that I provided this for myself.
+& I'm going to keep doing these things, and I'm going to write them here again as a reminder:
+- Focus on reading and painting as hobbies
+- Stay away from social media as much as possible
+- Be intentional with your use of technology
+- Don't get caught up in the many enticing rabbit holes
+- You've got this :)
 
 ~writing/focus : Focus : Thoughts on what I choose to focus on : 2021-07-28
 1 Focus

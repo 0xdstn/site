@@ -13,16 +13,16 @@
 2 Recipes
 ? [d:recipes]
 
-~now/index : Now : Now page : 2021-10-21
+~now/index : Now : Now page : 2021-11-14
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
-_ Last updated: 2021.10.12
+_ Last updated: 2021.11.14
 & [e:earth] [b:Living] in Spokane, WA
 & [e:computer] [b:Working] as a Software Engineer
 & [e:pray] [b:Practicing] stoicism &amp; secular buddhism
 & [e:paint] [b:Making] sketches/paintings
-& [e:books] [b:Reading] [l:https://www.amazon.com/dp/B0056IAXW6|The Lottery and Other Stories], [l:https://www.amazon.com/dp/B00GU2RHCG|The Kaizen Way], [l:https://www.amazon.com/dp/0374518688|Roald Dahl's Book of Ghost Stories], &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
-& [e:headphones] [b:Listening] to [l:https://www.amazon.com/dp/B00MRADM1K|An Unwelcome Quest]
+& [e:books] [b:Reading] [l:https://www.amazon.com/dp/B0879GPLKD|Under the Whispering Door], [l:https://www.amazon.com/dp/0374518688|Roald Dahl's Book of Ghost Stories], &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
+& [e:headphones] [b:Listening] to [l:https://bethkempton.com/podcast/|The Calm Christmas Podcast]
 & [e:mail] [b:Available via] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
 
 ~wiki/philosophy : Philosophy : My personal philosophy : 2020-10-25
@@ -73,7 +73,7 @@ _ Last updated: 2021.10.12
 - On a long enough timeline, everyone is forgotten
 - Everything is impermanent
 
-~wiki/library : Library : A list of books I've read : 2021-10-21
+~wiki/library : Library : A list of books I've read : 2021-11-14
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
 / [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell [c:READING]
 / [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh [c:READING]
@@ -92,6 +92,7 @@ _ Last updated: 2021.10.12
 / [e:book] [l:https://www.amazon.com/dp/1501154206|Birds Art Life] by Kyo Maclear
 / [e:book] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] by Daniel J. Siegel MD &amp; Tina Payne Bryson, PhD
 / [e:book] [l:https://www.barnesandnoble.com/w/the-odyssey-homer/1123741766|The Odyssey] by Homer
+/ [e:headphones] [l:https://www.amazon.com/dp/B00MRADM1K|An Unwelcome Quest] by Scott Meyer
 1 Library
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 # [l:#Currently reading|Currently reading]
@@ -106,13 +107,11 @@ _ Last updated: 2021.10.12
 - [e:speech] Comic book
 2 Currently reading
 - [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
-- [e:headphones] [l:https://www.amazon.com/dp/B00MRADM1K|An Unwelcome Quest] by Scott Meyer
-- [e:book] [l:https://www.amazon.com/dp/B00GU2RHCG|The Kaizen Way] by Robert Maurer
-- [e:book] [l:https://www.amazon.com/dp/B0056IAXW6|The Lottery and Other Stories] by Shirley Jackson
 - [e:book] [l:https://www.amazon.com/dp/0374518688|Roald Dahl's Book of Ghost Stories] by Various Authors
+- [e:book] [l:https://www.amazon.com/dp/B0879GPLKD|Under the Whispering Door] by TJ Klune
 
 2 Books read in 2021
-& [b:Goal: 30 of 20]
+& [b:Goal: 35 of 20]
 # [e:book] [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
 # [e:book] [l:https://www.amazon.com/dp/B00IQY3L1M|How to Sit] by Thich Nhat Hanh
 # [e:headphones] [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
@@ -143,6 +142,11 @@ _ Last updated: 2021.10.12
 # [e:headphones] [l:https://www.amazon.com/dp/B00EF8Z32I|Off to Be the Wizard] by Scott Meyer
 # [e:headphones] [l:https://www.amazon.com/dp/B00HVF7OJM|Spell or High Water] by Scott Meyer
 # [e:book] [l:https://www.amazon.com/dp/B07MB46BSQ|The Southern Book Club's Guide to Slaying Vampires] by Grady Hendrix
+# [e:book] [l:https://www.amazon.com/dp/0152058109|Mary Poppins] by P.L. Travers
+# [e:book] [l:https://www.amazon.com/dp/B00GU2RHCG|The Kaizen Way] by Robert Maurer
+# [e:book] [l:https://www.amazon.com/dp/B08M968WT1|The Comfort Book] by Matt Haig
+# [e:book] [l:https://www.amazon.com/dp/B07VDJBKNJ|Randomize] by Andy Weir
+# [e:book] [l:https://www.amazon.com/dp/B00408A828|The Sound of a Wild Snail Eating] by Elisabeth Tova Bailey
 2 Books read in 2020
 & [b:Goal: 39 of 15]
 # [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
@@ -237,11 +241,11 @@ _ Last updated: 2021.10.12
 - [l:https://www.amazon.com/dp/B0026772N8|Zen and the Art of Motorcycle Maintenance] by Robert M. Pirsig
 - [l:https://www.amazon.com/dp/B000FC11A6|Cryptonomicon] by Neal Stephenson
 - [l:https://www.amazon.com/dp/B00BT4QRHG|CyberStorm] by Matthew Mather
-- [l:https://www.amazon.com/dp/B0082Z66IK|The Chimes] by Charles Dickens
 - [l:https://www.amazon.com/dp/B07PQ43FDD|Love Poems for People with Children] by John Kenney
 - [l:https://www.amazon.com/dp/B002SKDGT2|Boneshaker] by Cherie Priest
 - [l:https://amazon.com/dp/B07RZ1WPK4|Conceal, Don't Feel] by Jen Calonita
 - [l:https://www.amazon.com/dp/0060883286|One Hundred Years of Solitude] by Gabriel Garcia Marquez
+- [l:https://www.amazon.com/dp/B0056IAXW6|The Lottery and Other Stories] by Shirley Jackson
 ~wiki/buddhism : Buddhism : Notes on secular Buddhism : 2021-04-12
 1 Buddhism
 & These are my notes from studying and practicing [b:secular Buddhism]. Most of this was gathered while reading [l:https://www.amazon.com/dp/B07C31XJGP|No-Nonsense Buddhism for Beginners] by Noah Rasheta.

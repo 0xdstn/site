@@ -144,7 +144,6 @@ h6 {
 }
 
 blockquote {
-    color: #fff;
     border-left: solid 5px #00aaee;
     padding: 1em 0 1em 1em;
     margin: 0 0 1.5em;
@@ -184,4 +183,18 @@ footer {
 .emoji {
     display: inline-block;
     width: 30px;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background: #222;
+    }
+
+    body, strong {
+        color: #efefef;
+    }
+
+    h1,h2,h3,h4,h5,h6 {
+        color: #fff;
+    }
 }

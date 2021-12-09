@@ -13,15 +13,15 @@
 2 Recipes
 ? [d:recipes]
 
-~now/index : Now : Now page : 2021-11-14
+~now/index : Now : Now page : 2021-12-09
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
-_ Last updated: 2021.11.14
+_ Last updated: 2021.12.09
 & [e:earth] [b:Living] in Spokane, WA
 & [e:computer] [b:Working] as a Software Engineer
 & [e:pray] [b:Practicing] stoicism &amp; secular buddhism
 & [e:paint] [b:Making] sketches/paintings
-& [e:books] [b:Reading] [l:https://www.amazon.com/dp/B0879GPLKD|Under the Whispering Door], [l:https://www.amazon.com/dp/0374518688|Roald Dahl's Book of Ghost Stories], &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
+& [e:books] [b:Reading] [l:https://www.amazon.com/dp/B07QGWTLJ3|Poems for Christmas], [l:https://www.amazon.com/dp/B00QNC1EV8|A Child's Christmas in Wales], [l:https://www.amazon.com/dp/B003F3PMFC|Dash &amp; Lily's Book of Dares]
 & [e:headphones] [b:Listening] to [l:https://bethkempton.com/podcast/|The Calm Christmas Podcast]
 & [e:mail] [b:Available via] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
 
@@ -73,7 +73,7 @@ _ Last updated: 2021.11.14
 - On a long enough timeline, everyone is forgotten
 - Everything is impermanent
 
-~wiki/library : Library : A list of books I've read : 2021-11-14
+~wiki/library : Library : A list of books I've read : 2021-12-09
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
 / [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell [c:READING]
 / [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh [c:READING]
@@ -93,6 +93,9 @@ _ Last updated: 2021.11.14
 / [e:book] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] by Daniel J. Siegel MD &amp; Tina Payne Bryson, PhD
 / [e:book] [l:https://www.barnesandnoble.com/w/the-odyssey-homer/1123741766|The Odyssey] by Homer
 / [e:headphones] [l:https://www.amazon.com/dp/B00MRADM1K|An Unwelcome Quest] by Scott Meyer
+/ [e:book] [l:https://www.amazon.com/dp/B08CJ86Y1W|A Wizard's Guide To Defensive Baking] by T. Kingfisher
+/ [e:book] [l:https://www.amazon.com/dp/0374518688|Roald Dahl's Book of Ghost Stories] by Various Authors
+/ [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 1 Library
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 # [l:#Currently reading|Currently reading]
@@ -106,12 +109,12 @@ _ Last updated: 2021.11.14
 - [e:headphones] Listened
 - [e:speech] Comic book
 2 Currently reading
-- [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
-- [e:book] [l:https://www.amazon.com/dp/0374518688|Roald Dahl's Book of Ghost Stories] by Various Authors
-- [e:book] [l:https://www.amazon.com/dp/B0879GPLKD|Under the Whispering Door] by TJ Klune
+- [e:book] [l:https://www.amazon.com/dp/B07QGWTLJ3|Poems for Christmas] by Various Authors
+- [e:book] [l:https://www.amazon.com/dp/B00QNC1EV8|A Child's Christmas in Wales] by Dylan Thomas
+- [e:book] [l:https://www.amazon.com/dp/B003F3PMFC|Dash &amp; Lily's Book of Dares] by Rachel Cohn, David Levithan 
 
 2 Books read in 2021
-& [b:Goal: 35 of 20]
+& [b:Goal: 38 of 20]
 # [e:book] [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
 # [e:book] [l:https://www.amazon.com/dp/B00IQY3L1M|How to Sit] by Thich Nhat Hanh
 # [e:headphones] [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
@@ -147,6 +150,9 @@ _ Last updated: 2021.11.14
 # [e:book] [l:https://www.amazon.com/dp/B08M968WT1|The Comfort Book] by Matt Haig
 # [e:book] [l:https://www.amazon.com/dp/B07VDJBKNJ|Randomize] by Andy Weir
 # [e:book] [l:https://www.amazon.com/dp/B00408A828|The Sound of a Wild Snail Eating] by Elisabeth Tova Bailey
+# [e:book] [l:https://www.amazon.com/dp/B072KZWHW4|The Manual: A Philosopher's Guide to Life] by Epictetus, Sam Torode
+# [e:book] [l:https://www.amazon.com/dp/B01JVE4CUO|On the Shortness of Life] by Seneca, James Harris
+# [e:book] [l:https://www.amazon.com/dp/B0879GPLKD|Under the Whispering Door] by TJ Klune
 2 Books read in 2020
 & [b:Goal: 39 of 15]
 # [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays

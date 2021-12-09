@@ -23,6 +23,7 @@ _ Last updated: 2021.12.09
 & [e:paint] [b:Making] sketches/paintings
 & [e:books] [b:Reading] [l:https://www.amazon.com/dp/B07QGWTLJ3|Poems for Christmas], [l:https://www.amazon.com/dp/B00QNC1EV8|A Child's Christmas in Wales], [l:https://www.amazon.com/dp/B003F3PMFC|Dash &amp; Lily's Book of Dares]
 & [e:headphones] [b:Listening] to [l:https://bethkempton.com/podcast/|The Calm Christmas Podcast]
+& [e:christmas] [b:Solving] [l:https://adventofcode.com|Advent of Code] - [l:https://github.com/0xdstn/aoc/tree/master/2021|My 2021 solutions]
 & [e:mail] [b:Available via] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
 
 ~wiki/philosophy : Philosophy : My personal philosophy : 2020-10-25

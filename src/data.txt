@@ -634,6 +634,30 @@ _ Last updated: 2021.12.09
 2 Suggested Alterations
 & This recipe yeilds fairly thick oats. If you prefer them to be less thick, you could increase the amount of milk to 3/4 cup.
 
+~projects/adventurer : Adventurer : Resources for playing The Adventurer
+1 Adventurer
+& Resources for playing [l:https://jameschip.itch.io/the-adventurer|The Adventurer] by [l:https://jameschip.io/|James Chip].
+# [l:#Online tool|Online tool]
+# [l:#Card lists|Card lists]
+# [l:#Stories|Stories]
+2 Online tool
+& An online tool for playing without a deck of cards. This was inspired by the [l:https://jameschip.io/adventurer_online/index.html|official online tool], but with some new features.
+- Source code: [l:https://github.com/0xdstn/adventurer/]
+- Live version: [l:http://tilde.town/~dustin/adventurer/]
+* Features:
+- Draw cards from each pile using the default card list
+- Uses local storage to store deck state so you can return to your active game
+- Allows you to return a card back to the pile it came from
+- Allows you to provide your own card list
+2 Card lists
+_ Coming soon
+* Ideas:
+- Cyberpunk
+- Hacker
+- Horror
+2 Stories
+_ Coming soon - stories I have written with The Adventurer
+
 ~projects/mastofeed : Mastofeed : A scraper+viewer for Mastodon user feeds
 1 Mastofeed
 & Mastofeed is a flat-file, python-based system for scraping and viewing Mastodon user posts via RSS.

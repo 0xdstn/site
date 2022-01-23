@@ -54,7 +54,8 @@ emoji = {
     "plant": "127793",
     "mail": "128235",
     "paint": "127912",
-    "christmas": "127876"
+    "christmas": "127876",
+    "checkmark": "9989"
 }
 
 # Read the header

@@ -6,24 +6,23 @@
 & [e:mail] If you would like to reach out to me, I'm available via [l:mailto:0xdstn@protonmail.com|email].
 2 Projects
 ? [d:projects]
-2 Writing
-? [d:writing]
 2 Wiki
 ? [d:wiki]
+2 Writing
+? [d:writing]
 2 Recipes
 ? [d:recipes]
 
-~now/index : Now : Now page : 2021-12-09
+~now/index : Now : Now page : 2022-01-23
+/ [e:headphones] [b:Listening] to [l:https://bethkempton.com/podcast/|The Calm Christmas Podcast]
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
-_ Last updated: 2021.12.09
+_ Last updated: 2022.01.23
 & [e:earth] [b:Living] in Spokane, WA
 & [e:computer] [b:Working] as a Software Engineer
 & [e:pray] [b:Practicing] stoicism &amp; secular buddhism
 & [e:paint] [b:Making] sketches/paintings
-& [e:books] [b:Reading] [l:https://www.amazon.com/dp/B07QGWTLJ3|Poems for Christmas], [l:https://www.amazon.com/dp/B00QNC1EV8|A Child's Christmas in Wales], [l:https://www.amazon.com/dp/B003F3PMFC|Dash &amp; Lily's Book of Dares]
-& [e:headphones] [b:Listening] to [l:https://bethkempton.com/podcast/|The Calm Christmas Podcast]
-& [e:christmas] [b:Solving] [l:https://adventofcode.com|Advent of Code] - [l:https://github.com/0xdstn/aoc/tree/master/2021|My 2021 solutions]
+& [e:books] [b:Reading] [l:https://www.amazon.com/dp/B082RS7N3X|Attack Surface], [l:https://www.parallax.org/product/stepping-into-freedom/|Stepping Into Freedom], &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
 & [e:mail] [b:Available via] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
 
 ~wiki/philosophy : Philosophy : My personal philosophy : 2020-10-25
@@ -74,48 +73,45 @@ _ Last updated: 2021.12.09
 - On a long enough timeline, everyone is forgotten
 - Everything is impermanent
 
-~wiki/library : Library : A list of books I've read : 2021-12-09
+~wiki/library : Library : A list of books I've read : 2022-01-23
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
-/ [l:https://www.amazon.com/dp/1328869334|1984] by George Orwell [c:READING]
-/ [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh [c:READING]
-/ [l:https://www.gutenberg.org/ebooks/21|Aesop's Fables] by Aesop [c:READING]
-/ [l:https://www.amazon.com/dp/1521777268|On Anger: De Ira] by Seneca [c:READING]
-/ [l:https://www.amazon.com/dp/1591847818|Ego is the Enemy] by Ryan Holiday [c:READING]
-/ [l:http://www.hpmor.com|Harry Potter and the Methods of Rationality] by Eliezer Yudkowsky [c:READING]
+/ [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh
+/ [l:https://www.gutenberg.org/ebooks/21|Aesop's Fables] by Aesop
+/ [l:https://www.amazon.com/dp/1521777268|On Anger: De Ira] by Seneca
+/ [l:https://www.amazon.com/dp/1591847818|Ego is the Enemy] by Ryan Holiday
+/ [l:http://www.hpmor.com|Harry Potter and the Methods of Rationality] by Eliezer Yudkowsky
 / [l:https://www.amazon.com/dp/B078XHJL5Y|H.P. Lovecraft: The Complete Collection] by H.P. Lovecraft
-/ [l:http://www.scpwiki.com/ebooks|SCP: Foundation Tomes] by Various Authors
 / [l:https://www.amazon.com/dp/1592537251|The Art of Urban Sketching] by Gabriel Campanario
 / [l:https://hundredrabbits.itch.io/busy-doing-nothing|Busy Doing Nothing] by Hundred Rabbits
 / [e:book] [l:https://www.amazon.com/dp/B0827351DF|The Adoptive Parents' Handbook] by Barbara Tantrum
-/ [e:book] [l:https://www.amazon.com/dp/B082RS7N3X|Attack Surface] by Cory Doctorow
 / [e:headphones] [l:https://www.amazon.com/dp/B000QJLQZI|Alexander Hamilton] by Ron Chernow
 / [e:book] [l:https://www.amazon.com/dp/1984858203|Draw Your World] by Samantha Dion Baker
-/ [e:book] [l:https://www.amazon.com/dp/1501154206|Birds Art Life] by Kyo Maclear
 / [e:book] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] by Daniel J. Siegel MD &amp; Tina Payne Bryson, PhD
 / [e:book] [l:https://www.barnesandnoble.com/w/the-odyssey-homer/1123741766|The Odyssey] by Homer
 / [e:headphones] [l:https://www.amazon.com/dp/B00MRADM1K|An Unwelcome Quest] by Scott Meyer
-/ [e:book] [l:https://www.amazon.com/dp/B08CJ86Y1W|A Wizard's Guide To Defensive Baking] by T. Kingfisher
 / [e:book] [l:https://www.amazon.com/dp/0374518688|Roald Dahl's Book of Ghost Stories] by Various Authors
-/ [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 1 Library
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 # [l:#Currently reading|Currently reading]
+# [l:#Books read in 2022|Books read in 2022]
 # [l:#Books read in 2021|Books read in 2021]
 # [l:#Books read in 2020|Books read in 2020]
 # [l:#Books read in 2019|Books read in 2019]
 # [l:#Books read prior to 2019|Books read prior to 2019]
-# [l:#Abandoned|Abandoned]
 * Emoji Key
 - [e:book] Read
 - [e:headphones] Listened
 - [e:speech] Comic book
 2 Currently reading
-- [e:book] [l:https://www.amazon.com/dp/B07QGWTLJ3|Poems for Christmas] by Various Authors
-- [e:book] [l:https://www.amazon.com/dp/B00QNC1EV8|A Child's Christmas in Wales] by Dylan Thomas
-- [e:book] [l:https://www.amazon.com/dp/B003F3PMFC|Dash &amp; Lily's Book of Dares] by Rachel Cohn, David Levithan 
-
+- [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
+- [e:book] [l:https://www.amazon.com/dp/0544439570|Mary Poppins Comes Back] by P.L. Travers
+- [e:book] [l:https://www.parallax.org/product/stepping-into-freedom/|Stepping Into Freedom] by Thich Nhat Hanh
+- [e:book] [l:https://www.amazon.com/dp/B082RS7N3X|Attack Surface] by Cory Doctorow
+2 Books read in 2022
+& [b:Goal: 1 of 30]
+# [e:book] [l:https://www.amazon.com/dp/B00NDTS5E8|The Strange Library] by Haruki Murakami
 2 Books read in 2021
-& [b:Goal: 38 of 20]
+& [b:Goal: 39 of 20] [e:checkmark]
 # [e:book] [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
 # [e:book] [l:https://www.amazon.com/dp/B00IQY3L1M|How to Sit] by Thich Nhat Hanh
 # [e:headphones] [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
@@ -154,8 +150,9 @@ _ Last updated: 2021.12.09
 # [e:book] [l:https://www.amazon.com/dp/B072KZWHW4|The Manual: A Philosopher's Guide to Life] by Epictetus, Sam Torode
 # [e:book] [l:https://www.amazon.com/dp/B01JVE4CUO|On the Shortness of Life] by Seneca, James Harris
 # [e:book] [l:https://www.amazon.com/dp/B0879GPLKD|Under the Whispering Door] by TJ Klune
+# [e:book] [l:https://www.amazon.com/dp/B00QNC1EV8|A Child's Christmas in Wales] by Dylan Thomas
 2 Books read in 2020
-& [b:Goal: 39 of 15]
+& [b:Goal: 39 of 15] [e:checkmark]
 # [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 # [e:speech] [l:https://www.amazon.com/dp/B01EI7LFPY|Fight Club 2] by Chuck Palahniuk
 # [e:speech] [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser
@@ -196,7 +193,7 @@ _ Last updated: 2021.12.09
 # [e:book] [l:https://www.amazon.com/dp/0807069205|A Mind of Winter] by Robert Atwan
 # [e:book] [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday
 2 Books read in 2019
-& [b:Goal: 17 of 12]
+& [b:Goal: 17 of 12] [e:checkmark]
 # [e:book] [l:https://www.amazon.com/dp/1607747308|The Life-Changing Magic of Tidying Up] by Marie Kondō
 # [e:book] [l:https://www.amazon.com/dp/B07C31XJGP|No-Nonsense Buddhism for Beginners] by Noah Rasheta
 # [e:book] [l:https://www.amazon.com/dp/0857834916|Ikigai] by Yukari Mitsuhashi
@@ -243,16 +240,6 @@ _ Last updated: 2021.12.09
 - [e:book] [l:https://www.amazon.com/dp/1597499579|Violent Python] by T.J. O'Connor
 - [e:book] [l:https://www.amazon.com/dp/0307887448|Ready Player One] by Ernest Cline
 - [e:book] [l:http://www.galactanet.com/oneoff/lacero.html|Lacero] by Andy Weir
-2 Abandoned
-- [l:https://www.amazon.com/dp/1400032814|Diary] by Chuck Palahniuk
-- [l:https://www.amazon.com/dp/B0026772N8|Zen and the Art of Motorcycle Maintenance] by Robert M. Pirsig
-- [l:https://www.amazon.com/dp/B000FC11A6|Cryptonomicon] by Neal Stephenson
-- [l:https://www.amazon.com/dp/B00BT4QRHG|CyberStorm] by Matthew Mather
-- [l:https://www.amazon.com/dp/B07PQ43FDD|Love Poems for People with Children] by John Kenney
-- [l:https://www.amazon.com/dp/B002SKDGT2|Boneshaker] by Cherie Priest
-- [l:https://amazon.com/dp/B07RZ1WPK4|Conceal, Don't Feel] by Jen Calonita
-- [l:https://www.amazon.com/dp/0060883286|One Hundred Years of Solitude] by Gabriel Garcia Marquez
-- [l:https://www.amazon.com/dp/B0056IAXW6|The Lottery and Other Stories] by Shirley Jackson
 ~wiki/buddhism : Buddhism : Notes on secular Buddhism : 2021-04-12
 1 Buddhism
 & These are my notes from studying and practicing [b:secular Buddhism]. Most of this was gathered while reading [l:https://www.amazon.com/dp/B07C31XJGP|No-Nonsense Buddhism for Beginners] by Noah Rasheta.
@@ -634,7 +621,14 @@ _ Last updated: 2021.12.09
 2 Suggested Alterations
 & This recipe yeilds fairly thick oats. If you prefer them to be less thick, you could increase the amount of milk to 3/4 cup.
 
-~projects/adventurer : Adventurer : Resources for playing The Adventurer
+~projects/musi-nimi : musi nimi : A Wordle clone with Toki Pona words : 2022-01-19
+1 musi nimi 
+& A hosted version of [l:https://www.powerlanguage.co.uk/wordle/|Wordle], but using 4 letter Toki Pona words. There are [b:69] 4 letter words in Toki Pona, more than any other word length, so those are used for the dictionary of possible words.
+& I did not build this from scratch. I copied the actual source files from Wordle and modified them. I take no credit for creating this game, I just wanted a Toki Pona version for myself to play, and I figured I'd share it for others to play as well.
+& UI translations to toki pona were provided by [l:https://toki.social/@tepo|@tepo@toki.social].
+& [b:Live version]: [l:http://tilde.town/~dustin/wordle-toki/]
+
+~projects/adventurer : Adventurer : Resources for playing The Adventurer : 2021-12-15
 1 Adventurer
 & Resources for playing [l:https://jameschip.itch.io/the-adventurer|The Adventurer] by [l:https://jameschip.io/|James Chip].
 # [l:#Online tool|Online tool]
@@ -791,11 +785,14 @@ _ Coming soon - stories I have written with The Adventurer
 - [c:v1.0.1] Added help and about commands
 - [c:v1.0.0] Initial release with base functionality
 
-~projects/ilo : ilo : A Toki Pona translation tool : 2021-02-24
+~projects/ilo : ilo : A Toki Pona translation tool : 2022-01-20
 1 ilo
 & This is a simple tool that allows you to input Toki Pona, and it will provide you the definition of each word. It does not understand sentence structure and doesn't give you an actual translation, but provides you information so you can translate yourself.
 - Source code: [l:https://github.com/0xdstn/ilo/]
 - Live version: [l:http://tilde.town/~dustin/ilo/]
+& There is also a firefox addon to add an item to context the menu when you select some text and right click on it. When you click the item it opens a new tab with the selected text in ilo to be translated.
+- Addon: [l:https://addons.mozilla.org/en-US/firefox/addon/ilo/]
+- Source code: [l:https://github.com/0xdstn/ilo-firefox]
 
 ~projects/lon : Lon : A flat-file CLI bookmark manager : 2019-11-19
 1 Lon

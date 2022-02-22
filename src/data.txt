@@ -4,6 +4,7 @@
 & [e:computer] I'm currently working as a [b:Software Engineer] in [b:Spokane, Wa].
 & [e:clock] You can find out more about what I'm up to on my [l:now|now page].
 & [e:mail] If you would like to reach out to me, I'm available via [l:mailto:0xdstn@protonmail.com|email].
+& [e:speech] I'm also on Mastodon over at [l:https://cybre.space/@0xdstn|@0xdstn@cybre.space].
 2 Projects
 ? [d:projects]
 2 Wiki
@@ -13,17 +14,17 @@
 2 Recipes
 ? [d:recipes]
 
-~now/index : Now : Now page : 2022-01-23
+~now/index : Now : Now page : 2022-02-11
 / [e:headphones] [b:Listening] to [l:https://bethkempton.com/podcast/|The Calm Christmas Podcast]
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
-_ Last updated: 2022.01.23
+_ Last updated: 2022.02.11
 & [e:earth] [b:Living] in Spokane, WA
 & [e:computer] [b:Working] as a Software Engineer
 & [e:pray] [b:Practicing] stoicism &amp; secular buddhism
 & [e:paint] [b:Making] sketches/paintings
-& [e:books] [b:Reading] [l:https://www.amazon.com/dp/B082RS7N3X|Attack Surface], [l:https://www.parallax.org/product/stepping-into-freedom/|Stepping Into Freedom], &amp; [l:https://www.amazon.com/dp/B000FC1JAI|Meditations]
-& [e:mail] [b:Available via] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
+& [e:books] [b:Reading] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] &amp; [l:https://www.amazon.com/dp/B00LW58C7A|Zen Drawing]
+& [e:mail] [b:Available via] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com] &amp; [l:https://cybre.space/@0xdstn|@0xdstn@cybre.space]
 
 ~wiki/philosophy : Philosophy : My personal philosophy : 2020-10-25
 1 Philosophy
@@ -73,7 +74,7 @@ _ Last updated: 2022.01.23
 - On a long enough timeline, everyone is forgotten
 - Everything is impermanent
 
-~wiki/library : Library : A list of books I've read : 2022-01-23
+~wiki/library : Library : A list of books I've read : 2022-02-11
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
 / [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh
 / [l:https://www.gutenberg.org/ebooks/21|Aesop's Fables] by Aesop
@@ -86,10 +87,11 @@ _ Last updated: 2022.01.23
 / [e:book] [l:https://www.amazon.com/dp/B0827351DF|The Adoptive Parents' Handbook] by Barbara Tantrum
 / [e:headphones] [l:https://www.amazon.com/dp/B000QJLQZI|Alexander Hamilton] by Ron Chernow
 / [e:book] [l:https://www.amazon.com/dp/1984858203|Draw Your World] by Samantha Dion Baker
-/ [e:book] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] by Daniel J. Siegel MD &amp; Tina Payne Bryson, PhD
 / [e:book] [l:https://www.barnesandnoble.com/w/the-odyssey-homer/1123741766|The Odyssey] by Homer
 / [e:headphones] [l:https://www.amazon.com/dp/B00MRADM1K|An Unwelcome Quest] by Scott Meyer
 / [e:book] [l:https://www.amazon.com/dp/0374518688|Roald Dahl's Book of Ghost Stories] by Various Authors
+/ [e:book] [l:https://www.parallax.org/product/stepping-into-freedom/|Stepping Into Freedom] by Thich Nhat Hanh
+/ [e:book] [l:https://www.amazon.com/dp/B082RS7N3X|Attack Surface] by Cory Doctorow
 1 Library
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 # [l:#Currently reading|Currently reading]
@@ -103,13 +105,14 @@ _ Last updated: 2022.01.23
 - [e:headphones] Listened
 - [e:speech] Comic book
 2 Currently reading
-- [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
+- [e:book] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] by Daniel J. Siegel MD &amp; Tina Payne Bryson, PhD
 - [e:book] [l:https://www.amazon.com/dp/0544439570|Mary Poppins Comes Back] by P.L. Travers
-- [e:book] [l:https://www.parallax.org/product/stepping-into-freedom/|Stepping Into Freedom] by Thich Nhat Hanh
-- [e:book] [l:https://www.amazon.com/dp/B082RS7N3X|Attack Surface] by Cory Doctorow
+- [e:book] [l:https://www.amazon.com/dp/B00LW58C7A|Zen Drawing] by Michelle Dujardin
 2 Books read in 2022
-& [b:Goal: 1 of 30]
+& [b:Goal: 3 of 30]
 # [e:book] [l:https://www.amazon.com/dp/B00NDTS5E8|The Strange Library] by Haruki Murakami
+# [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
+# [e:book] [l:https://www.amazon.com/dp/B005HG4H24|The Art of Mindfulness] by Thich Nhat Hanh
 2 Books read in 2021
 & [b:Goal: 39 of 20] [e:checkmark]
 # [e:book] [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
@@ -438,7 +441,7 @@ _ Last updated: 2022.01.23
 - [l:https://passwordsgenerator.net/|Password generator] Generates passwords in-browser
 - [l:https://gitexplorer.com/|Git explorer] Git command reference
 
-~wiki/coffee : Cafe : Coffee recipes and equipment : 2020-09-23
+~wiki/coffee : Cafe : Coffee recipes and equipment : 2022-01-26
 1 Cafe
 & I am very interested in experimenting with various methods of brewing coffee. Most days I have a 12oz or 16oz cup of black coffee brewed with a [b:Kalita Wave 185].
 # [l:#My equipment|My equipment]
@@ -446,7 +449,7 @@ _ Last updated: 2022.01.23
 # [l:#Aeropress|Aeropress]
 # [l:#Prismo|Prismo]
 2 My equipment
-- [l:http://www.kalita.us.com/products/mill/3364|Kalita Coffee Mill KKC-25 (SB)]
+- [l:https://www.hario-usa.com/products/ceramic-coffee-mill-mini-plus|Hario Mini Slim Coffee Mill MSS-1]
 - [l:https://www.amazon.com/dp/B000X1AM0Y|Kalita Wave 185, stainless steel]
 - [l:https://www.amazon.com/dp/B004R0RHLO|Kalita 300ml carafe]
 - [l:https://aeropress.com/|Aeropress]
@@ -621,6 +624,13 @@ _ Last updated: 2022.01.23
 2 Suggested Alterations
 & This recipe yeilds fairly thick oats. If you prefer them to be less thick, you could increase the amount of milk to 3/4 cup.
 
+~projects/ilo-nimi : ilo nimi : A sitelen pona typing tool : 2022-02-21
+1 ilo nimi
+& This is a simple tool that allows you to type toki pona, and will display it as sitelen pona.
+& It is set up as a PWA, so you can also install it to your android device and even use it offline.
+- Source code: [l:https://github.com/0xdstn/ilo-nimi/]
+- Live version: [l:http://tilde.town/~dustin/ilo-nimi/]
+
 ~projects/musi-nimi : musi nimi : A Wordle clone with Toki Pona words : 2022-01-19
 1 musi nimi 
 & A hosted version of [l:https://www.powerlanguage.co.uk/wordle/|Wordle], but using 4 letter Toki Pona words. There are [b:69] 4 letter words in Toki Pona, more than any other word length, so those are used for the dictionary of possible words.
@@ -788,6 +798,7 @@ _ Coming soon - stories I have written with The Adventurer
 ~projects/ilo : ilo : A Toki Pona translation tool : 2022-01-20
 1 ilo
 & This is a simple tool that allows you to input Toki Pona, and it will provide you the definition of each word. It does not understand sentence structure and doesn't give you an actual translation, but provides you information so you can translate yourself.
+& It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/ilo/]
 - Live version: [l:http://tilde.town/~dustin/ilo/]
 & There is also a firefox addon to add an item to context the menu when you select some text and right click on it. When you click the item it opens a new tab with the selected text in ilo to be translated.

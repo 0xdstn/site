@@ -179,6 +179,8 @@ def createPage(fileName, section, pg):
         output += "</%s>" % key[last]
 
     finalOutput = header.replace("[TITLE]",data[section][pg]["NAME"])
+    if section != 'index':
+        finalOutput += '<a href="' + basePath + '">..</a>'
     finalOutput += output
     finalOutput += footer
 

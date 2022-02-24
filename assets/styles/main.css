@@ -16,31 +16,8 @@ body {
 }
 
 header {
-    display: flex;
+    line-height: 2em;
 	padding-bottom: 1em;
-	text-align: center;
-}
-
-header::before,
-header::after {
-	height: 1px;
-	background: #999;
-	content: "";
-	flex-grow: 1;
-	margin-top: .75em;
-}
-
-header::before {
-	margin-right: 15px;
-}
-
-header::after {
-	margin-left: 15px;
-}
-
-header a {
-	margin-right: .5em;
-    margin-left: .5em;
 }
 
 header, article, footer {
@@ -108,15 +85,6 @@ h1,h2,h3,h4,h5,h6 {
 	color: #222;
 	display: flex;
     font-weight: 700;
-}
-
-h2::after {
-    height: 1px;
-    background: #999;
-    content: "";
-    flex-grow: 1;
-    margin-top: .75em;
-    margin-left: 15px;
 }
 
 h1 {

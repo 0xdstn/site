@@ -4,7 +4,7 @@
 & [e:computer] I'm currently working as a [b:Software Engineer] in [b:Spokane, Wa].
 & [e:clock] You can find out more about what I'm up to on my [l:now|now page].
 & [e:mail] If you would like to reach out to me, I'm available via [l:mailto:0xdstn@protonmail.com|email].
-& [e:speech] I'm also on Mastodon over at [l:https://cybre.space/@0xdstn|@0xdstn@cybre.space].
+& [e:speech] I'm also on Mastodon over at [l:https://cybre.space/@0xdstn|@0xdstn@cybre.space] &amp; [l:https://toki.social/@0xdstn|@0xdstn@toki.social].
 2 Projects
 ? [d:projects]
 2 Wiki
@@ -448,6 +448,7 @@ _ Last updated: 2022.02.11
 # [l:#Kalita Wave 185|Kalita Wave 185]
 # [l:#Aeropress|Aeropress]
 # [l:#Prismo|Prismo]
+# [l:#Phin|Phin]
 2 My equipment
 - [l:https://www.hario-usa.com/products/ceramic-coffee-mill-mini-plus|Hario Mini Slim Coffee Mill MSS-1]
 - [l:https://www.amazon.com/dp/B000X1AM0Y|Kalita Wave 185, stainless steel]
@@ -485,6 +486,17 @@ _ Last updated: 2022.02.11
 # Stir until [b:0:10]
 # Wait until [b:1:10]
 # Place plunger and push down quickly
+2 Phin 
+- [b:Coffee:] 15g, medium ground
+- [b:Water:] Slightly boiling
+# Add coffee to the basket, shake to level
+# Place on top of cup or mug
+# Add enough water to wet the grounds
+# place the filter on top of the grounds (do not push, just gently drop it)
+# Wait ~15 seconds
+# Fill basket to just below the top, near the rubber handles
+# Wait until all water has dripped through
+# If desired, combine with some condensed milk or other milk. I like to use some frothed oat milk.
 
 ~wiki/tenpo : Tenpo : A personal date format : 2019-09-09
 1 Tenpo
@@ -624,9 +636,43 @@ _ Last updated: 2022.02.11
 2 Suggested Alterations
 & This recipe yeilds fairly thick oats. If you prefer them to be less thick, you could increase the amount of milk to 3/4 cup.
 
+~projects/lawa : lawa : A flat-file journaling script : 2022-02-24
+1 lawa
+& A flat-file journaling script written in Python. You can prepend words with a [c:+] to mark them as "positive", a  [c:-] to mark them as "negative", and a [c:~] to mark them as tags.
+& When viewing a post, it will display the key words in green, red, or blue (+,-,~), and show a count of how positive or negative a post was.
+& The intent is to journal, but with statistics on how you were feeling that day. The goal isn't to have only positive posts, but instead to assess your mental state over time. It's up to you to determine which words are positive or negative. Sometimes the same word could even be one or the other, depending on the context. It's all about how you feel.
+& [b:Source code:] [l:https://github.com/0xdstn/lawa]
+# [l:#Etymology|Etymology]
+# [l:#Data|Data]
+# [l:#Timezone|Timezone]
+# [l:#Usage|Usage]
+# [l:#Release notes|Release notes]
+2 Etymology
+& The name lawa comes from the language Toki Pona. It means "head" and felt appropriate since you are documenting your state of mind.
+2 Data
+& All data is stored in a single [c:~/.lawa] file. Each day is prepended to the file and starts with the date. Line breaks are represented with a [c:/].
+2 Timezone
+& There is a hard coded timezone of [c:America/Los_Angeles] in the script. You can comment it out to use your system timezone, or specify your own. Just modify the timezone line in the [c:lawa.py] file.
+2 Usage
+& You can use the following commands (example: [c:lawa.py add]):
+- [c:help] - Displays the help screen
+- [c:about] - Displays information about this program
+- [c:all] - Display all posts
+- [c:list] - Display a list of all posts
+- [c:today] - Display today's post
+- [c:last] - Display the most recent post
+- [c:view (YYYY-MM-DD)] - Display the specified post
+- [c:tagged (+,-,~)(tag)] - Display all posts with the specified tag
+- [c:add] - Create or update today's post
+- [c:edit (YYYY-MM-DD)] - Edit the specified post
+- [c:delete (YYYY-MM-DD)] - Delete the specified post
+2 Release notes
+- [c:v1.0.0] Initial release
+
 ~projects/ilo-nimi : ilo nimi : A sitelen pona typing tool : 2022-02-21
 1 ilo nimi
 & This is a simple tool that allows you to type toki pona, and will display it as sitelen pona.
+& It uses the [l:http://musilili.net/linja-pona/|linja pona] font, so usage of that font can be viewed on that site.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/ilo-nimi/]
 - Live version: [l:http://tilde.town/~dustin/ilo-nimi/]

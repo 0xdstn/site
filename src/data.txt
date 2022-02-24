@@ -667,6 +667,7 @@ _ Last updated: 2022.02.11
 - [c:edit (YYYY-MM-DD)] - Edit the specified post
 - [c:delete (YYYY-MM-DD)] - Delete the specified post
 2 Release notes
+- [c:v1.0.2] Added editing of today when edit with no date is provided
 - [c:v1.0.1] Added handling for no posts, added .lawa file creation if missing
 - [c:v1.0.0] Initial release
 

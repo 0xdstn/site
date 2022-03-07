@@ -636,6 +636,21 @@ _ Last updated: 2022.02.11
 2 Suggested Alterations
 & This recipe yeilds fairly thick oats. If you prefer them to be less thick, you could increase the amount of milk to 3/4 cup.
 
+~projects/habits : Habits :  An emoji-based weekly habit tracker : 2022-03-07
+1 Habits
+& A simple tool to track habits. It's meant to be a weekly tool and doesn't keep history.
+& In the settings you provide a comma separated list of emoji, each of which represent a habit you want to track.
+& It is set up as a PWA, so you can also install it to your android device and even use it offline.
+- Source code: [l:https://github.com/0xdstn/habits/]
+- Live version: [l:http://tilde.town/~dustin/habits/]
+
+~projects/lipu-sona : lipu sona : A toki pona/sitelen pona flash card tool : 2022-03-07
+1 lipu sona 
+& A simple flash card tool to practice learning toki pona and sitelen pona.
+& It is set up as a PWA, so you can also install it to your android device and even use it offline.
+- Source code: [l:https://github.com/0xdstn/lipu-sona/]
+- Live version: [l:http://tilde.town/~dustin/lipu-sona/]
+
 ~projects/suno : suno : An impermanent morning page writing tool : 2022-02-25
 1 suno
 & A "morning page" writing tool where the posts disappear the next day.

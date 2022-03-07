@@ -293,5 +293,23 @@
         <description>An impermanent morning page writing tool</description>
         <content:encoded>&lt;h1 id=&quot;suno&quot;&gt;suno&lt;/h1&gt;&lt;p&gt;A &quot;morning page&quot; writing tool where the posts disappear the next day.&lt;/p&gt;&lt;p&gt;It stores your day&#x27;s writing in local storage, and erases it the next day. The intent with this is for you to be able to write without worrying about the contents, as they will be gone within 24 hours.&lt;/p&gt;&lt;p&gt;It is set up as a PWA, so you can also install it to your android device and even use it offline.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Source code: &lt;a href=&quot;https://github.com/0xdstn/suno/&quot; target=&quot;_blank&quot;&gt;https://github.com/0xdstn/suno/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Live version: &lt;a href=&quot;http://tilde.town/~dustin/suno/&quot; target=&quot;_blank&quot;&gt;http://tilde.town/~dustin/suno/&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
+      <item>
+        <title>Habits</title>
+        <link>https://tilde.town/~dustin/projects/habits</link>
+        <guid>https://tilde.town/~dustin/projects/habits</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Mon, 07 Mar 2022 00:00:00 </pubDate>
+        <description> An emoji-based weekly habit tracker</description>
+        <content:encoded>&lt;h1 id=&quot;Habits&quot;&gt;Habits&lt;/h1&gt;&lt;p&gt;A simple tool to track habits. It&#x27;s meant to be a weekly tool and doesn&#x27;t keep history.&lt;/p&gt;&lt;p&gt;In the settings you provide a comma separated list of emoji, each of which represent a habit you want to track.&lt;/p&gt;&lt;p&gt;It is set up as a PWA, so you can also install it to your android device and even use it offline.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Source code: &lt;a href=&quot;https://github.com/0xdstn/habits/&quot; target=&quot;_blank&quot;&gt;https://github.com/0xdstn/habits/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Live version: &lt;a href=&quot;http://tilde.town/~dustin/habits/&quot; target=&quot;_blank&quot;&gt;http://tilde.town/~dustin/habits/&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      </item>
+      <item>
+        <title>lipu sona</title>
+        <link>https://tilde.town/~dustin/projects/lipu-sona</link>
+        <guid>https://tilde.town/~dustin/projects/lipu-sona</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Mon, 07 Mar 2022 00:00:00 </pubDate>
+        <description>A toki pona/sitelen pona flash card tool</description>
+        <content:encoded>&lt;h1 id=&quot;lipu sona&quot;&gt;lipu sona&lt;/h1&gt;&lt;p&gt;A simple flash card tool to practice learning toki pona and sitelen pona.&lt;/p&gt;&lt;p&gt;It is set up as a PWA, so you can also install it to your android device and even use it offline.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Source code: &lt;a href=&quot;https://github.com/0xdstn/lipu-sona/&quot; target=&quot;_blank&quot;&gt;https://github.com/0xdstn/lipu-sona/&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Live version: &lt;a href=&quot;http://tilde.town/~dustin/lipu-sona/&quot; target=&quot;_blank&quot;&gt;http://tilde.town/~dustin/lipu-sona/&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      </item>
   </channel>
 </rss>

@@ -34,7 +34,8 @@ tplKey = {
     "l": "a",
     "c": "code",
     "d": "directory",
-    "e": "emoji"
+    "e": "emoji",
+    "r": "recent"
 }
 
 emoji = {
@@ -58,6 +59,13 @@ emoji = {
     "checkmark": "9989"
 }
 
+singular = {
+        "projects": "Project",
+        "wiki": "Wiki entry",
+        "writing": "Writing",
+        "recipes": "Recipe"
+}
+
 # Read the header
 with open("templates/header.html", "r") as headerFile:
 	header = headerFile.read()
@@ -75,6 +83,15 @@ def tpl(line):
         k = m[0]
         tag = "[{}:{}]".format(m[0],m[1])
         if k not in tplKey: continue
+        if k == "r":
+            types = m[1].split(",")
+            ul = "<ul>"
+            for x in types:
+                page = data[x][list(data[x])[1]]
+                ul += '<li>{}: <strong>{}</strong> <a href="{}">{}</a>'.format(singular[x],page["DATE"].replace("-","."),basePath + page["LINK"],page["NAME"])
+            ul += "</ul>"
+            line = line.replace(tag,ul)
+
         if k == "l":
             link = m[1].split("|")
             url = link[0]
@@ -88,9 +105,20 @@ def tpl(line):
                 line = line.replace(tag,'<a href="{}">{}</a>'.format(basePath+url,txt))
         elif k == "d":
             ul = "<ul>"
-            for x in data[m[1]]:
-                page = data[m[1]][x]
-                if x != "index":
+            if m[1] == 'index':
+                tmpPages = []
+                for x in data:
+                    print(x)
+                    if x != 'index' and x != 'devnull':
+                        tmpPages.append(x)
+            else:
+                tmpPages = data[m[1]]
+            for x in tmpPages:
+                if m[1] == 'index':
+                    page = data[x]['index']
+                    ul += '<li><a href="{}">{}</a> {}'.format(basePath + page["LINK"].replace('/index',''),page["NAME"],page["DESC"])
+                elif x != "index":
+                    page = data[m[1]][x]
                     if m[1] == 'writing':
                         ul += '<li><strong>{}</strong> <a href="{}">{}</a><br>{}'.format(page["DATE"].replace("-","."),basePath + page["LINK"],page["NAME"],page["DESC"])
                     else:
@@ -180,7 +208,10 @@ def createPage(fileName, section, pg):
 
     finalOutput = header.replace("[TITLE]",data[section][pg]["NAME"])
     if section != 'index':
-        finalOutput += '<a href="' + basePath + '">..</a>'
+        if pg == 'index':
+            finalOutput += '<a href="' + basePath + '">..</a>'
+        else:
+            finalOutput += '<a href="' + basePath + section + '">..</a>'
     finalOutput += output
     finalOutput += footer
 

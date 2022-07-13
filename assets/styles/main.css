@@ -6,8 +6,8 @@ html, body {
 }
 
 body {
-	background: #f9f9f9;
-	color: #222;
+    background: #222;
+    color: #efefef;
 	font-family: "Fira Code", monospace;
 	font-size: 15px;
 	box-sizing: border-box;
@@ -38,7 +38,7 @@ a:hover {
 }
 
 strong {
-	color: #000;
+    color: #efefef;
 	font-weight: 700;
 }
 
@@ -82,7 +82,7 @@ ol li {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	color: #222;
+    color: #fff;
 	display: flex;
     font-weight: 700;
 }
@@ -151,18 +151,4 @@ footer {
 .emoji {
     display: inline-block;
     width: 30px;
-}
-
-@media (prefers-color-scheme: dark) {
-    body {
-        background: #222;
-    }
-
-    body, strong {
-        color: #efefef;
-    }
-
-    h1,h2,h3,h4,h5,h6 {
-        color: #fff;
-    }
 }

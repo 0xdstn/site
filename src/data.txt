@@ -3,28 +3,40 @@
 & [e:wave] Hello friend. I'm [b:Dustin].
 & [e:computer] I'm currently working as a [b:Software Engineer] in [b:Spokane, Wa].
 & [e:clock] You can find out more about what I'm up to on my [l:now|now page].
-& [e:mail] If you would like to reach out to me, I'm available via [l:mailto:0xdstn@protonmail.com|email].
-& [e:speech] I'm also on Mastodon over at [l:https://cybre.space/@0xdstn|@0xdstn@cybre.space] &amp; [l:https://toki.social/@0xdstn|@0xdstn@toki.social].
-2 Projects
-? [d:projects]
-2 Wiki
-? [d:wiki]
-2 Writing
-? [d:writing]
-2 Recipes
-? [d:recipes]
+& [e:mail] If you would like to reach out to me, find out how on my [l:hello|hello page].
 
-~now/index : Now : Now page : 2022-02-11
-/ [e:headphones] [b:Listening] to [l:https://bethkempton.com/podcast/|The Calm Christmas Podcast]
+2 Pages
+? [d:index]
+
+2 Latest
+? [r:writing,projects]
+
+~now/index : Now : What I'm currently up to : 2022-07-13
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
-_ Last updated: 2022.02.11
+_ Last updated: 2022.07.13
 & [e:earth] [b:Living] in Spokane, WA
 & [e:computer] [b:Working] as a Software Engineer
 & [e:pray] [b:Practicing] stoicism &amp; secular buddhism
 & [e:paint] [b:Making] sketches/paintings
-& [e:books] [b:Reading] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] &amp; [l:https://www.amazon.com/dp/B00LW58C7A|Zen Drawing]
-& [e:mail] [b:Available via] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com] &amp; [l:https://cybre.space/@0xdstn|@0xdstn@cybre.space]
+& [e:books] [b:Reading] [l:https://www.amazon.com/dp/B07BDG5Z8Y|Wabi Sabi] &amp; [l:https://www.amazon.com/dp/1529070309|The Green Sketching Handbook]
+& [e:headphones] [b:Listening] to [l:https://www.amazon.com/dp/B002ZODPOC|The House at Pooh Corner]
+& [e:mail] [b:Available via] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
+
+~hello/index : Hello : How to contact me : 2022-07-13
+1 Hello
+& This is my [l:https://alastairjohnston.com/introducing-hello-pages/|hello page], where you can find how I prefer to keep in touch, and why.
+- The best way to contact me is via [l:mailto:0xdstn@protonmail.com|email]. I may be a little slow to respond, as I only check that account every once in a while.
+- If you need to send me an encrypted message you can download my [l:public.key|public PGP key].
+- To see what I'm focusing on,  you can check out my [l:now|now page].
+- To see some things I've written you can visit the [l:writing|writings section] of this site.
+- I don't use twitter or other social networks as public forms of communication. Reasoning for this can be read in my thoughts [l:social|on social media].
+- I do have a Mastodon account on [l:https://toki.social/@0xdstn|toki.social] for the purpose of immersing myself in Toki Pona. Sending me a DM there will take a while to get a response.
+
+~wiki/index : Wiki : A collection of personal information : 2022-05-19
+1 Wiki 
+& Below are is list of personal notes I've written on various topics that are important to me.
+? [d:wiki]
 
 ~wiki/philosophy : Philosophy : My personal philosophy : 2020-10-25
 1 Philosophy
@@ -74,7 +86,7 @@ _ Last updated: 2022.02.11
 - On a long enough timeline, everyone is forgotten
 - Everything is impermanent
 
-~wiki/library : Library : A list of books I've read : 2022-02-11
+~wiki/library : Library : A list of books I've read : 2022-07-13
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
 / [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh
 / [l:https://www.gutenberg.org/ebooks/21|Aesop's Fables] by Aesop
@@ -92,6 +104,8 @@ _ Last updated: 2022.02.11
 / [e:book] [l:https://www.amazon.com/dp/0374518688|Roald Dahl's Book of Ghost Stories] by Various Authors
 / [e:book] [l:https://www.parallax.org/product/stepping-into-freedom/|Stepping Into Freedom] by Thich Nhat Hanh
 / [e:book] [l:https://www.amazon.com/dp/B082RS7N3X|Attack Surface] by Cory Doctorow
+/ [e:book] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] by Daniel J. Siegel MD &amp; Tina Payne Bryson, PhD
+/ [e:book] [l:https://www.amazon.com/dp/B07NZ2DN8D|Moss: From Forest to Garden] by Ulrica Nordström
 1 Library
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 # [l:#Currently reading|Currently reading]
@@ -105,14 +119,27 @@ _ Last updated: 2022.02.11
 - [e:headphones] Listened
 - [e:speech] Comic book
 2 Currently reading
-- [e:book] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] by Daniel J. Siegel MD &amp; Tina Payne Bryson, PhD
 - [e:book] [l:https://www.amazon.com/dp/0544439570|Mary Poppins Comes Back] by P.L. Travers
-- [e:book] [l:https://www.amazon.com/dp/B00LW58C7A|Zen Drawing] by Michelle Dujardin
+- [e:book] [l:https://www.amazon.com/dp/B07BDG5Z8Y|Wabi Sabi] by Beth Kempton
+- [e:book] [l:https://www.amazon.com/dp/1529070309|The Green Sketching Handbook] by Ali Foxon
+- [e:headphones] [l:https://www.amazon.com/dp/B002ZODPOC|The House at Pooh Corner] by A.A. Milne
+
 2 Books read in 2022
-& [b:Goal: 3 of 30]
+& [b:Goal: 14 of 30]
 # [e:book] [l:https://www.amazon.com/dp/B00NDTS5E8|The Strange Library] by Haruki Murakami
 # [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 # [e:book] [l:https://www.amazon.com/dp/B005HG4H24|The Art of Mindfulness] by Thich Nhat Hanh
+# [e:headphones] [l:https://www.amazon.com/dp/B00I3LC9HU|True Love] by Thich Nhat Hanh
+# [e:speech] [l:https://www.amazon.com/dp/B00LJ86UTC|Hacktivity: Private Data] by Ovi Demetrian Jr
+# [e:speech] [l:https://lifehackscomic.com/|lifehacks] by Ovi Demetrian Jr
+# [e:book] [l:https://www.amazon.com/dp/B08VJP4K7Q|A History of Wild Places] by Shea Ernshaw
+# [e:book] [l:https://www.amazon.com/dp/B08M5KWCRR|The Pentester BluePrint] by Phillip L. Wylie
+# [e:book] [l:https://www.amazon.com/dp/B00LW58C7A|Zen Drawing] by Michelle Dujardin
+# [e:headphones] [l:https://www.amazon.com/dp/0525467564|Winnie-the-Pooh] by A.A. Milne
+# [e:book] [l:https://www.amazon.com/dp/B075VC651Y|Convenience Store Woman] by Sayaka Murata
+# [e:book] [l:https://www.amazon.com/dp/B09NC8VX1W|Color First, Ink Later] by Mike Yoshiaki Daikubara
+# [e:headphones] [l:https://www.amazon.com/dp/B07NZ2DN8D|The Art of Communicating] by Thich Nhat Hanh
+# [e:book] [l:https://www.amazon.com/dp/B0831RM5KD|Tales from the Loop] by Simon Stålenhag
 2 Books read in 2021
 & [b:Goal: 39 of 20] [e:checkmark]
 # [e:book] [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
@@ -523,6 +550,11 @@ _ Last updated: 2022.02.11
 2 Leap year
 & Whenever there is a leap year, that day is annexed and written as [b:A00], so in [b:2020] the leap year day of [b:2/29] was [b:32A00].
 
+~recipes/index : Recipes : Recipes for food I've made : 2022-05-19
+1 Recipes 
+& I'm not much of a cook, but here are some recipes I use fairly often, or just occasionally and don't want to forget.
+? [d:recipes]
+
 ~recipes/fall-oats : Fall Oats : Sweet pumpkin oats : 2020-10-21
 1 Fall oats
 # [l:#Description|Description]
@@ -636,9 +668,14 @@ _ Last updated: 2022.02.11
 2 Suggested Alterations
 & This recipe yeilds fairly thick oats. If you prefer them to be less thick, you could increase the amount of milk to 3/4 cup.
 
-~projects/habits : Habits :  An emoji-based weekly habit tracker : 2022-03-07
+~projects/index : Projects : My various personal projects : 2022-05-19
+1 Projects
+& Below is a list of personal projects I've created. Most of them are tools I have made for myself that others can use as well.
+? [d:projects]
+
+~projects/habits : Habits :  An emoji-based monthly habit tracker : 2022-03-07
 1 Habits
-& A simple tool to track habits. It's meant to be a weekly tool and doesn't keep history.
+& A simple tool to track habits. It's meant to be a monthly tool and doesn't keep history.
 & In the settings you provide a comma separated list of emoji, each of which represent a habit you want to track.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/habits/]
@@ -650,6 +687,11 @@ _ Last updated: 2022.02.11
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/lipu-sona/]
 - Live version: [l:http://tilde.town/~dustin/lipu-sona/]
+
+~writing/index : Writing : Articles I've written : 2022-05-19
+1 Writing 
+& I write occasionally about things I care about. Below are the ones I've decided to share.
+? [d:writing]
 
 ~projects/suno : suno : An impermanent morning page writing tool : 2022-02-25
 1 suno
@@ -1023,6 +1065,15 @@ _ Coming soon - stories I have written with The Adventurer
 @ assets/img/6_th.jpg|assets/img/6.jpg
 @ assets/img/7_th.jpg|assets/img/7.jpg
 @ assets/img/8_th.jpg|assets/img/8.jpg
+
+~writing/writing : On Writing : Thoughts on being a writer : 2022-07-13
+1 On writing
+_ 2022.07.13
+& I would like to be a writer. Not necessarily a published writer, but just a writer. I want to write for myself, write here on this site, and write daily in [l:https://tilde.town/~dustin/suno|Suno] and let it disappear.
+& I have always had this feeling that I am not a good writer. Even if I'm not, I'm not trying to get published, I just want to write. It doesn't have to be good. I think the process of writing itself is what I'm really going for. It can be meditative and open myself up for more reflection.
+& On the other hand, if I don't write, I don't think about things. I just coast through the days without any reflection on what is going on in my life. I want to get to a point where I'm putting what I'm experiencing and feeling in words, and reflecting on it.
+& Probably most of what I write won't end up on this site, or even in my notebook. I'll probably do morning pages in Suno, and if anything feels like it belongs in my notebook or on this site, I'll move it over. That's how this post started.
+& It feels farfetched, but it's also possible that as I work through my feelings of inadequacy, I may find myself to be decent at writing and then want to actally write something to get published. If that happens or if that doesn't happen, either way is good.
 
 ~writing/digital-minimalism : Digital Minimalism : My personal relationship with technology : 2022-02-25
 1 Digital Minimalism

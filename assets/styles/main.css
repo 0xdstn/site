@@ -20,6 +20,10 @@ header {
 	padding-bottom: 1em;
 }
 
+header a {
+    margin-right: 8px;
+}
+
 header, article, footer {
 	margin: 0 auto;
 	max-width: 900px;

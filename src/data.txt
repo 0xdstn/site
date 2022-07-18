@@ -11,17 +11,42 @@
 2 Latest
 ? [r:writing,projects]
 
+2 Latest thought
+? [p:thought]
+
 ~now/index : Now : What I'm currently up to : 2022-07-13
 1 Now
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
-_ Last updated: 2022.07.13
-& [e:earth] [b:Living] in Spokane, WA
-& [e:computer] [b:Working] as a Software Engineer
-& [e:pray] [b:Practicing] stoicism &amp; secular buddhism
-& [e:paint] [b:Making] sketches/paintings
-& [e:books] [b:Reading] [l:https://www.amazon.com/dp/B07BDG5Z8Y|Wabi Sabi] &amp; [l:https://www.amazon.com/dp/1529070309|The Green Sketching Handbook]
-& [e:headphones] [b:Listening] to [l:https://www.amazon.com/dp/B002ZODPOC|The House at Pooh Corner]
-& [e:mail] [b:Available via] [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
+_ Last updated: July 2022
+& This now page used to just display the same stuff with the what I'm reading/listening to changing occasionally. Instead, I'm going to update it each month with what I'm focusing on (sometimes updating throughout the month).
+2 Art
+& I've started trying out more nature/green sketching. It's not always easy to make time to draw/paint but I do it when I can. I've recently purchased a couple books on the subject. One, which I'm currently reading, is [l:https://www.amazon.com/dp/1529070309|The Green Sketching Handbook].
+2 Reading
+& I've been meaning to read [l:https://www.amazon.com/dp/B07BDG5Z8Y|Wabi Sabi] for a while now, and am finally getting to it. I really love Beth Kempton's writing, and I'm glad to finally pick this one up.
+2 Podcasts + Audiobooks
+& I've been listening to  [l:https://www.amazon.com/dp/B002ZODPOC|The House at Pooh Corner] with the kids whenever we have time. There was a lot more time during commute to school, but we'll get through it eventually.
+& I started a new daily podcast listening habit with the following each weekday morning:
+- [l:https://link.chtbl.com/radioheadspace|Radio Headspace]
+- [l:https://www.birdnote.org/listen/birdnote-daily|BirdNote Daily] (including weekends)
+- [l:https://podcasts.apple.com/us/podcast/the-daily-dad/id1490007487|The Daily Dad]
+2 Birding
+& I recently started getting into birding. I've loved birds for a long time now, but I'm finally actually diving into the subject. I received a monocular with a phone attachment as a gift, so I can take pictures of birds farther away using my phone, and it's been great!
+& I've photographed and identified the following this month:
+- House Sparrow (male and female)
+- European Starling (male and juvenile)
+- American Robin (male and juvenile)
+& I have been using the [l:https://merlin.allaboutbirds.org/|Merlin Bird ID app] to identify the birds in my photographs. It also has a nice sound ID, which I've used a few times without seeing the birds it was picking up.
+2 Gardening
+& We set up our planter boxes again this year, and everything is thriving! We have the following:
+- Mini Watermelon
+- Green Peas
+- Strawberries
+- Coolapeno Peppers
+- Romaine Lettuce
+- Raspberry (this grows on it's own in our yard every year, it just popped up on it's own)
+& This is also year two of our lilac bushes, and they're doing well.
+& A little over a year ago I got a small venus fly trap. In the spring it started flowering, and I read that you should cut the flower stem before it actually blooms a flower, as it takes a lot of energy and may kill the plant. I found this out very late and thought it wasn't going to make it, but it suddenly started doing better and now it's doing great. It even started catching fruit flies and a larger fly that was way too big for the trapper it was in. It's just kind of sitting there in it now. I suppose it'll slowly degrade and get absorbed.
+& I have a bonsai growing kit I'd like to start, so I will try to do that this month at some point.
 
 ~hello/index : Hello : How to contact me : 2022-07-13
 1 Hello
@@ -66,7 +91,7 @@ _ Last updated: 2022.07.13
 - Be aware of how what you say might affect the other person
 - Be aware and mindful of your privilege
 2 Technology
-- Use technology to achive something that aligns with your values or goals
+- Use technology to achieve something that aligns with your values or goals
 - Use technology with intentionality
 - Create strict personal usage rules and follow them
 - Don't accept something as-is, use it however works best for you
@@ -340,7 +365,7 @@ _ Last updated: 2022.07.13
 & The practice of focusing on only one thing, whatever it is we are doing.
 & The opposite is distraction.
 2 The Five Aggregates
-& Suffering arrises when one identifies with or clings to one of the aggregates.
+& Suffering arises when one identifies with or clings to one of the aggregates.
 # [l:#Form or Materiality|Form or Materiality]
 # [l:#Sensation or Feeling Tone|Sensation or Feeling Tone]
 # [l:#Perception|Perception]
@@ -540,7 +565,7 @@ _ Last updated: 2022.07.13
 - [b:02] 1990
 - [b:00] 1988
 2 Months and Days
-& There are [b:5 months] lasting exctly [b:73 days each]. The months are single letters, [b:A-E]. Days are just the number of days within each month from [b:01 to 73].
+& There are [b:5 months] lasting exactly [b:73 days each]. The months are single letters, [b:A-E]. Days are just the number of days within each month from [b:01 to 73].
 & Here are the dates that fall within each month:
 - [b:A] 01/01 - 03/14
 - [b:B] 03/15 - 05/26
@@ -666,7 +691,7 @@ _ Last updated: 2022.07.13
 # Mix well
 # Place in [b:fridge] overnight
 2 Suggested Alterations
-& This recipe yeilds fairly thick oats. If you prefer them to be less thick, you could increase the amount of milk to 3/4 cup.
+& This recipe yields fairly thick oats. If you prefer them to be less thick, you could increase the amount of milk to 3/4 cup.
 
 ~projects/index : Projects : My various personal projects : 2022-05-19
 1 Projects
@@ -687,11 +712,6 @@ _ Last updated: 2022.07.13
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/lipu-sona/]
 - Live version: [l:http://tilde.town/~dustin/lipu-sona/]
-
-~writing/index : Writing : Articles I've written : 2022-05-19
-1 Writing 
-& I write occasionally about things I care about. Below are the ones I've decided to share.
-? [d:writing]
 
 ~projects/suno : suno : An impermanent morning page writing tool : 2022-02-25
 1 suno
@@ -782,7 +802,7 @@ _ Coming soon - stories I have written with The Adventurer
 # [l:#Description|Description]
 # [l:#Usage|Usage]
 2 Description
-& Since I left Mastodon a while back in leiu of [b:RSS feeds] and [b:email] for keeping up with others and commnicating, I realized I do miss out on a lot of interesting things I don't get through feeds.
+& Since I left Mastodon a while back in lieu of [b:RSS feeds] and [b:email] for keeping up with others and communicating, I realized I do miss out on a lot of interesting things I don't get through feeds.
 & Because of this, I wanted to create a system where I could view Mastodon posts of users I care to keep up with, but not have the distraction of being on Mastodon myself. I didn't want to clutter up my RSS feed reader with Mastodon posts, so I opted to create this project instead.
 & This allows me to keep up with what people are doing, but not distract me. If I want to reach out to someone based on a post, I will take the time to email them. This results in less "shallow" conversation, since more effort is required to reach out.
 & This project isn't really set up to be used out of the box, but with minor modifications listed below it can be used by someone else. It was created to serve my needs, and not really meant for anyone else. That being said, if you would like to use it feel free to [l:https://github.com/0xdstn/mastofeed/|fork] it and modify it so it works better for you.
@@ -979,7 +999,7 @@ _ Coming soon - stories I have written with The Adventurer
 & Here are some features I'd like to add in the future if there is enough people using it:
 - Require posts to be in quotes
 - Allow commands with usernames to have tildes
-- Make post ineractive "timeline post" and then a prompt for the text
+- Make post interactive "timeline post" and then a prompt for the text
 - Add following and follows you to profiles
 - Deleting a post from the CLI
 - Boosting
@@ -1066,6 +1086,11 @@ _ Coming soon - stories I have written with The Adventurer
 @ assets/img/7_th.jpg|assets/img/7.jpg
 @ assets/img/8_th.jpg|assets/img/8.jpg
 
+~writing/index : Writing : Articles I've written : 2022-05-19
+1 Writing 
+& I write occasionally about things I care about. Below are the ones I've decided to share.
+? [d:writing]
+
 ~writing/writing : On Writing : Thoughts on being a writer : 2022-07-13
 1 On writing
 _ 2022.07.13
@@ -1073,7 +1098,7 @@ _ 2022.07.13
 & I have always had this feeling that I am not a good writer. Even if I'm not, I'm not trying to get published, I just want to write. It doesn't have to be good. I think the process of writing itself is what I'm really going for. It can be meditative and open myself up for more reflection.
 & On the other hand, if I don't write, I don't think about things. I just coast through the days without any reflection on what is going on in my life. I want to get to a point where I'm putting what I'm experiencing and feeling in words, and reflecting on it.
 & Probably most of what I write won't end up on this site, or even in my notebook. I'll probably do morning pages in Suno, and if anything feels like it belongs in my notebook or on this site, I'll move it over. That's how this post started.
-& It feels farfetched, but it's also possible that as I work through my feelings of inadequacy, I may find myself to be decent at writing and then want to actally write something to get published. If that happens or if that doesn't happen, either way is good.
+& It feels far-fetched, but it's also possible that as I work through my feelings of inadequacy, I may find myself to be decent at writing and then want to actually write something to get published. If that happens or if that doesn't happen, either way is good.
 
 ~writing/digital-minimalism : Digital Minimalism : My personal relationship with technology : 2022-02-25
 1 Digital Minimalism
@@ -1083,7 +1108,7 @@ _ 2022.02.25
 & The biggest takeaway from that book is that I want to be [i:intentional] with my use of technology. I tend to get sucked in to a whirlwind of digital activities, and I am working to put boundaries in place, both mental and digital, to prevent those kinds of behaviors.
 2 Digital limitations
 & One thing I have done is uninstalled specific applications and even blocked certain sites on my phone. I don't want to use my phone to escape, or really even for entertainment. I view my phone as a tool. It's for playing music, viewing my calendar, setting alarms, getting directions, ordering coffee, etc. I want my phone to be a purely utilitarian device.
-& I have decided to leave certain social apps on my phone, as they are challening to use on other devices, but I don't allow myself to open them when I'm bored. I need to have a purpose going into them (like posting something).
+& I have decided to leave certain social apps on my phone, as they are challenging to use on other devices, but I don't allow myself to open them when I'm bored. I need to have a purpose going into them (like posting something).
 & I have also blocked my Mastodon instances in firefox on mobile using [l:https://addons.mozilla.org/en-US/firefox/addon/leechblock-ng/|LeechBlock NG]. Those are not sites I want to just visit when I'm bored. I want to go into them intending to spend some time browsing them and/or posting something. These are activities I can do intentionally on my laptop.
 2 Mental limitations
 & Digital limitations can only do so much. There also needs to be mental limitations in place. This can be challenging to keep up, but having rules in place for yourself is helpful in keeping focused.
@@ -1094,7 +1119,7 @@ _ 2022.02.25
 & It's fortunate that I'm a software engineer, so I can write my own programs if needed. I've made many different things for myself that fit specific needs, as opposed to just using something off the shelf that is [i:close enough].
 2 Final thoughts
 & Overall the intent here is to do the following:
-- Use tecnology intentionally
+- Use technology intentionally
 - Build up digital and mental limitations to support your goals 
 - Don't accept things as they are, make technology work for you, not against you
 
@@ -1118,7 +1143,7 @@ _ 2021.07.28
 & I can pretty much forecast how my focus will shift at this point. At the very leas, every few months, and definitely just before Defcon each year, I get interested in doing bug bounties ([l:https://bugcrowd.com|BugCrowd], [l:https://hackerone.com|HackerOne]). I will get interested in security and appsec, and let it the obsession take over my responsibilities and life.
 & There is usually a desire for the large bug payouts and the fame that can come with this. I find the hacker culture, in general, very enticing.
 & I don't actually have enough skills to properly bug hunt, yet I never make time to study and practice. Because of this, I just spin my wheels (usually while neglecting my job or my family), then come out of it in an exhausted daze. There is a specific way I feel after trying to make something work over and over only to not succeed, and I don't like it. That is what bug hunting would always be like, even if I got good enough to do it properly.
-& I realized yesterday (after doing this) that something I like about bug hunting, aside from the possiblity of getting paid or recognition, is that it's basically a puzzle to solve. The problem is, most of the time there is no way to solve the puzzle. Often there are no bugs where you are searching. That can be very frustrating.
+& I realized yesterday (after doing this) that something I like about bug hunting, aside from the possibility of getting paid or recognition, is that it's basically a puzzle to solve. The problem is, most of the time there is no way to solve the puzzle. Often there are no bugs where you are searching. That can be very frustrating.
 & Whenever I think about why I am interested in doing this, these are usually my reasons:
 - Hacking is fun/interesting
 - Potential to make a lot of money
@@ -1157,7 +1182,7 @@ _ 2021.04.15
 1 On Social Media
 _ 2021.04.13
 & I've had a complicated relationship with social media over the years. In the early days, I was actively trying to get an account on [i:every] platform I could find. I loved having a list of every service I had an account for on my personal website. After years of trying to keep up with everything, I'm now moving in the opposite direction.
-& Social media has gotten worse and worse over the last decade, as far as mental impact goes. It's exhasting for most people. We weren't meant to keep up with so much information all of the time. It's just too much for our brains to manage.
+& Social media has gotten worse and worse over the last decade, as far as mental impact goes. It's exhausting for most people. We weren't meant to keep up with so much information all of the time. It's just too much for our brains to manage.
 & For me, even simpler, less exhausting social media doesn't do me good. I ditched Twitter and various other big social networks a long time ago, and started using smaller communities through Mastodon.
 & Now that I was consuming a manageable amount of information, and mostly positive at that, I uncovered my new issue.
 & I am easily swayed by the things I consume. If I'm reading posts about things people are doing, I will become obsessed with whatever topic that is for a while, until something new shifts my focus. This means that every day I could be getting pulled in a new direction, which is time consuming and exhausting.
@@ -1165,8 +1190,8 @@ _ 2021.04.13
 & My choice now is to organically find things that pique my interest. This is a lot more manageable and less likely to cause me to switch what I'm doing constantly.
 & I will be writing my thoughts and documenting my projects on this site, and that will be it. If someone wants to contact me, they can use my [l:mailto:0xdstn@protonmail.com|email]. There is no other way to send me a message. I imagine this will cause me to get nearly nobody reaching out to me, and that's okay. If someone finds it worth their time to click my email link and write something to me, that means to me that they really care about that communication. It will be a nice gesture if it happens, and it will not be missed if it does not.
 & I am also choosing to follow some people who's work I like and want to keep up on via an RSS reader. If someone doesn't have a feed, I won't have a way to follow what they're doing, and that's okay.
-& I will be using an offline RSS reader on my personal laptop, so I can't be tempted to refresh it over and over via my phone or my work computer. I only want to look at my feed when I'm  devoting uninterupted time to it.
-& As per my [l:wiki/philosophy/#Technology|personal philosphy regarding technology] I will be using the internet [i:intentionally].
+& I will be using an offline RSS reader on my personal laptop, so I can't be tempted to refresh it over and over via my phone or my work computer. I only want to look at my feed when I'm  devoting uninterrupted time to it.
+& As per my [l:wiki/philosophy/#Technology|personal philosophy regarding technology] I will be using the internet [i:intentionally].
 & If you are out there reading this and would like to say hi, I'm always available via [l:mailto:0xdstn@protonmail.com|email]. I'd be glad to discuss any shared interest we may have :)
 
 ~writing/2020 : 2020 Review : A retrospect of the year 2020 : 2020-12-31
@@ -1182,16 +1207,16 @@ _ 2020.12.31
 2 Challenges
 & Aside from the [b:COVID-19 pandemic], I faced additional challenges that I was not prepared for. In January, we ended up unexpectedly taking in two more children, bringing our total up to four. It was intended to be a temporary thing, 90 days max. They are still with us today, with no real end in sight.
 & Learning to parent children you didn't bring into this world, coming in with their own issues and traumas is challenging. This has tested me as a parent like nothing else. I never realized how much more difficult it could be.
-& On top of that, we all ended up doing school and work at home for a long time. I'm still working from home since March, and in-person schooling just started back up. You really grow together and simultaneously clash in an environemnt like this. It takes some getting used to, but it lends itself to much personal growth.
+& On top of that, we all ended up doing school and work at home for a long time. I'm still working from home since March, and in-person schooling just started back up. You really grow together and simultaneously clash in an environment like this. It takes some getting used to, but it lends itself to much personal growth.
 2 Personal growth
 & Due to the unique challenges I've faced this year, I feel I have made a ton of personal growth. I was forced into situations that made it necessary to look inward, and learn.
-& Since summer, I have been doing counselling, which I avoided for years, always using some excuse. This was one of the best decisions I have ever made. It has really allowed me to learn about myself, work on myself, and be more self aware.
+& Since summer, I have been doing therapy, which I avoided for years, always using some excuse. This was one of the best decisions I have ever made. It has really allowed me to learn about myself, work on myself, and be more self aware.
 & Through all of this, I have become closer to my wife than we have ever been, and I feel like I'm learning to be a better parent (though I have a lot more to learn).
 & Even with all of the difficulties, I feel happier with myself than I've felt in a long time.
 2 Gratitude
 & It may be odd, but I am grateful for the pandemic. It pushed me to be a better version of myself. I had no choice but to grow, or it would have been incredibly more difficult.
 & I am also very grateful that it did not impact my job, as it has for so many. I can continue working from home, and I don't have to worry about our financial state.
-& I'm grateful for my wife for pushing me to seek help in the form of counselling. Without her encouragement, I wouldn't be who I am today. Who I am today is not who I was at the beginning of the year.
+& I'm grateful for my wife for pushing me to seek help in the form of therapy. Without her encouragement, I wouldn't be who I am today. Who I am today is not who I was at the beginning of the year.
 2 Changes
 & I made some changes in my life this year, primarily rules I put on myself, allowing me to be less stressed and overall better.
 - Self imposed [b:digital minimalism] restrictions
@@ -1202,7 +1227,7 @@ _ 2020.12.31
 & I set out with a goal of reading 15 books this year, and I ended up reading 38. That was highly unexpected for myself.
 & Even if you don't include the comics or very short books, I still surpassed my goal. I'm proud of myself for this, as I never used to be much of a reader prior to 2019.
 & My goal for next year is going to be 20 books, as I'll probably read more normal length books.
-& I want to primarily focus on nature and philosphy books, with a few fiction books here and there.
+& I want to primarily focus on nature and philosophy books, with a few fiction books here and there.
 & While I've set this goal, I'm also going to try to not obsess over the number, as I've done that before. If I don't hit it, or I surpass it, what really matters is what I get out of the books.
 & My favorite books this year were:
 - [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
@@ -1419,3 +1444,13 @@ _ 2020.07.21
 - Sanitize your inputs to prevent SQL injection
 2 Final notes
 & While I started going in the wrong direction, and I ended up using a hint, overall I consider this a success and I had a ton of fun participating. I'm going to continue to try my hand at other challenges. Thanks for reading!
+
+~thoughts/index : Thoughts : A microblog of my thoughts : 2022-07-14
+1 Thoughts 
+& This section of my site serves as a microblog, since I don't use social media such as twitter or mastodon (reasoning for this can be read in my post [l:writings/social|on social media]). 
+& I have a [l:thoughts.xml|separate RSS feed] for these posts, if you want to follow them, so they don't pollute my [l:index.xml|main RSS feed].
+? [t:thoughts]
+
+~thoughts/2022-07-14-1614 : July 14, 2022 16:14 : 2022-07-14 16:14 : 2022-07-14 16:14
+1 July 14, 2022 16:14
+& I decided to add this thoughts section to my site. It serves as a microblog, since I'm intentionally not using Twitter or Mastodon. I just want a place to put what I'm thinking down, and if someone wants to [l:thoughts.xml|follow it], then great! If not, it's here for me and that's fine too.

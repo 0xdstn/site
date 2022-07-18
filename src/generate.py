@@ -34,8 +34,10 @@ tplKey = {
     "l": "a",
     "c": "code",
     "d": "directory",
+    "t": "thoughts",
     "e": "emoji",
-    "r": "recent"
+    "r": "recent",
+    "p": "thought"
 }
 
 emoji = {
@@ -56,7 +58,8 @@ emoji = {
     "mail": "128235",
     "paint": "127912",
     "christmas": "127876",
-    "checkmark": "9989"
+    "checkmark": "9989",
+    "camera": "128247"
 }
 
 singular = {
@@ -91,7 +94,13 @@ def tpl(line):
                 ul += '<li>{}: <strong>{}</strong> <a href="{}">{}</a>'.format(singular[x],page["DATE"].replace("-","."),basePath + page["LINK"],page["NAME"])
             ul += "</ul>"
             line = line.replace(tag,ul)
-
+        if k == "p":
+            types = m[1].split(",")
+            pg = list(data['thoughts'])[1]
+            out = generateContent("thoughts",pg)
+            out += '<p>&rarr; <a href="' + basePath + 'thoughts/' + pg + '">Permalink</a></p>' 
+            out = out.replace('h1','strong')
+            line = line.replace(tag,out)
         if k == "l":
             link = m[1].split("|")
             url = link[0]
@@ -125,6 +134,13 @@ def tpl(line):
                         ul += '<li><a href="{}">{}</a> {}'.format(basePath + page["LINK"],page["NAME"],page["DESC"])
             ul += "</ul>"
             line = line.replace(tag,ul)
+        elif k == "t":
+            out = ''
+            for x in data['thoughts']:
+                if x != "index":
+                    out += generateContent('thoughts', x)
+                    out += '<p>&rarr; <a href="' + basePath + 'thoughts/' + x + '">Permalink</a></p>' 
+            line = line.replace(tag,out)
         elif k == "e":
             if m[1] in emoji:
                 line = line.replace(tag, ' <span class="emoji">&#{};</span>'.format(emoji[m[1]]))
@@ -133,9 +149,7 @@ def tpl(line):
 
     return line
 
-def createPage(fileName, section, pg):
-    print("    Creating file: " + fileName + ".html")
-
+def generateContent(section, pg):
     output = ""
 
     page = data[section][pg];
@@ -206,6 +220,13 @@ def createPage(fileName, section, pg):
     if inList or inPre:
         output += "</%s>" % key[last]
 
+    return output
+
+def createPage(fileName, section, pg):
+    print("    Creating file: " + fileName + ".html")
+
+    output = generateContent(section, pg)
+
     finalOutput = header.replace("[TITLE]",data[section][pg]["NAME"])
     if section != 'index':
         if pg == 'index':
@@ -218,8 +239,10 @@ def createPage(fileName, section, pg):
     if data[section][pg]["DATE"] != "":
         data[section][pg]["RENDERED"] = output
         data[section][pg]["LINK"] = 'https://tilde.town/~dustin/' + section + '/' + pg
-        if section != "devnull":
+        if section != "devnull" and section != "thoughts":
             xmlItems[data[section][pg]["DATE"]+"_"+pg] = data[section][pg]
+        elif section == "thoughts" and pg != 'index':
+            thoughtsXmlItems[data[section][pg]["DATE"]+"_"+pg] = data[section][pg]
 
     f = open(outPath + fileName + ".html", "w")
     f.write(finalOutput)
@@ -253,6 +276,7 @@ def parseData(df):
             data[curSection][curPage]["BODY"].append(line)
 
 xmlItems = {}
+thoughtsXmlItems = {}
 data = {}
 curSection = ""
 curPage = ""
@@ -335,5 +359,40 @@ xmlOutput += '  </channel>\n'
 xmlOutput += '</rss>'
 
 f = open(outPath + "index.xml", "w")
+f.write(xmlOutput)
+f.close()
+
+xmlOutput = ""
+xmlKeys = []
+for i in thoughtsXmlItems:
+    xmlKeys.append(i)
+
+xmlKeys.sort()
+
+xmlOutput += '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content">\n'
+xmlOutput += '  <channel>\n'
+xmlOutput += '    <title>~dustin thoughts</title>\n'
+xmlOutput += '    <link>https://tilde.town/~dustin/thoughts/</link>\n'
+xmlOutput += '    <description>Dustin, Software Engineer from Spokane, WA</description>\n'
+xmlOutput += '    <language>en-us</language>\n'
+xmlOutput += '    <atom:link href="https://tilde.town/~dustin/thoughts.xml" rel="self" type="application/rss+xml" />\n'
+
+for i in xmlKeys:
+    item = thoughtsXmlItems[i]
+    d = datetime.datetime.strptime(item["DATE"], '%Y-%m-%d %H:%M')
+    xmlOutput += '      <item>\n'
+    xmlOutput += '        <title>' + item["NAME"] + '</title>\n'
+    xmlOutput += '        <link>' + item["LINK"] + '</link>\n'
+    xmlOutput += '        <guid>' + item["LINK"] + '</guid>\n'
+    xmlOutput += '        <dc:creator>~dustin</dc:creator>\n'
+    xmlOutput += '        <pubDate>' + d.strftime("%a, %d %b %Y %H:%M:%S %z") + '</pubDate>\n'
+    xmlOutput += '        <description>' + item["DESC"] + '</description>\n'
+    xmlOutput += '        <content:encoded>' + html.escape(item["RENDERED"]) + '</content:encoded>\n'
+    xmlOutput += '      </item>\n'
+
+xmlOutput += '  </channel>\n'
+xmlOutput += '</rss>'
+
+f = open(outPath + "thoughts.xml", "w")
 f.write(xmlOutput)
 f.close()

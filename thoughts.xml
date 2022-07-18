@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content">
+  <channel>
+    <title>~dustin thoughts</title>
+    <link>https://tilde.town/~dustin/thoughts/</link>
+    <description>Dustin, Software Engineer from Spokane, WA</description>
+    <language>en-us</language>
+    <atom:link href="https://tilde.town/~dustin/thoughts.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>July 14, 2022 16:14</title>
+        <link>https://tilde.town/~dustin/thoughts/2022-07-14-1614</link>
+        <guid>https://tilde.town/~dustin/thoughts/2022-07-14-1614</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Thu, 14 Jul 2022 16:14:00 </pubDate>
+        <description>2022-07-14 16:14</description>
+        <content:encoded>&lt;h1 id=&quot;July 14, 2022 16:14&quot;&gt;July 14, 2022 16:14&lt;/h1&gt;&lt;p&gt;I decided to add this thoughts section to my site. It serves as a microblog, since I&#x27;m intentionally not using Twitter or Mastodon. I just want a place to put what I&#x27;m thinking down, and if someone wants to &lt;a href=&quot;/~dustin/thoughts.xml&quot;&gt;follow it&lt;/a&gt;, then great! If not, it&#x27;s here for me and that&#x27;s fine too.&lt;/p&gt;</content:encoded>
+      </item>
+  </channel>
+</rss>

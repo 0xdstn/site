@@ -1,7 +1,7 @@
 ~index/index : Home : Home
 1 Dustin
-& [e:wave] Hello friend. I'm [b:Dustin].
-& [e:computer] I'm currently working as a [b:Software Engineer] in [b:Spokane, Wa].
+& [e:wave] Hello friend. My name is [b:Dustin].
+& [e:computer] I'm a [b:software engineer] from [b:Spokane, Wa].
 & [e:clock] You can find out more about what I'm up to on my [l:now|now page].
 & [e:mail] If you would like to reach out to me, find out how on my [l:hello|hello page].
 
@@ -9,20 +9,112 @@
 ? [d:index]
 
 2 Latest
-? [r:writing,projects]
+? [r:then,writing,projects]
 
-2 Latest thought
-? [p:thought]
-
-~now/index : Now : What I'm currently up to : 2022-07-13
+~now/index : Now : What I'm currently up to : 2022-11-14
 1 Now
+_ Last updated: November 2022
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
-_ Last updated: July 2022
 & This now page used to just display the same stuff with the what I'm reading/listening to changing occasionally. Instead, I'm going to update it each month with what I'm focusing on (sometimes updating throughout the month).
+& You can see previous monthly updates in the [l:then|then section].
+2 Work
+& After about a month of being unemployed, I accepted a job offer and started at the end of November. Finding a job went much quicker than I anticipated.
+2 Covid
+& After about two and a half years of avoiding it (somehow) someone in my household tested positive for covid. It took a few weeks to have negative tests for everyone, but we are now covid-free. Only about half of us got it and it didn't seem to be too bad of a strain.
+2 Birds
+& I set up a window bird feeder over the summer for viewing birds as they came to eat. Unfortunately they never went over to it, but I left it up and now that winter is approaching, we've had quite a few visitors!
+& These are the birds I saw this month:
+- Northern Flicker
+- House Finch (male, which I've never seen before)
+& I also saw a hawk the closest I've seen one. It swooped down and got something off the ground and went up to a tree. I was in the car so it was only for a moment, but it was really cool to see.
+
+~hello/index : Hello : How to contact me : 2022-07-13
+1 Hello
+& This is my [l:https://alastairjohnston.com/introducing-hello-pages/|hello page], where you can find how I prefer to keep in touch, and why.
+- The best way to contact me is via [l:mailto:0xdstn@protonmail.com|email]. I may be a little slow to respond, as I only check that account every once in a while.
+- If you need to send me an encrypted message you can download my [l:public.key|public PGP key].
+- To see what I'm focusing on,  you can check out my [l:now|now page].
+- To see some things I've written you can visit the [l:writing|writings section] of this site.
+- I don't use twitter or other social networks as public forms of communication. Reasoning for this can be read in my thoughts [l:writing/social|on social media].
+- I returned to Mastodon in the end of 2022. My thoughts on this can be ready in my post [l:writing/mastodon|Return to Mastodon]. You can message me at [l:https://mastodon.spotek.io/@dustin|@dustin@mastodon.spotek.io], however I only go on there occasionally, so I may be slow to respond.
+
+~feeds/index : Feeds : A list of my RSS feeds : 2022-08-16
+1 Feeds
+& This is my [l:https://marcus.io/blog/making-rss-more-visible-again-with-slash-feeds|feeds page], where you can find a list of RSS feeds for my content.
+- [l:index.xml|Main RSS feed] ([l:writing|writing], [l:projects|projects], [l:recipes|recipes], [l:wiki|wiki], [l:then|monthly updates])
+
+~then/index : Then : Historical monthly updates of what I've been up to : 2022-08-04
+1 Then 
+& Below are is list of monthly updates of what I've been up to. They are essentially the state of my [l:now|now page] at the end of each month.
+? [d:then]
+
+~then/2022-10 : October 2022 : What I focused on in October 2022 : 2022-11-04
+1 October 2022
+2 Reading
+& It's looking more like I might hit my reading goal. Last month I thought I wasn't going to because I was so far behind, but I went from 15 books on 9/1 to 23 books on 9/30. It'll now be unlikely that I don't make my goal this year, and I'll probably even surpass it.
+2 Art
+& I have been working on drawing more lately. I completed a 7 day inktober challenge from [l:https://www.instagram.com/sdionbakerdesign/|Samantha Dion Baker] (one of my favorite artists) called [l:https://www.instagram.com/p/CjBIwtMuAlw/|Morning till Night]. For the first 7 days of October you do a drawing/painting of what you do at a specified time of day. Posts can be viewed on Instagram via the hashtag [l:https://www.instagram.com/explore/tags/samanthaandohnmar7day/|#samanthaandohnmar7day]. I might post them here at some point.
+& After I finish this challenge, I think I am going to try to do more quick sketches, inspired by the book I'm currently reading, [l:https://www.amazon.com/dp/B07K1DT2QK|Sketch Now, Think Later].
+& In addition to that, I am going to continue doing more detailed sketch journalling, similar to what Samantha Dion Baker does, also inspired by her book that I just finished, [l:https://www.amazon.com/dp/B08HL83XYS|Draw Your World].
+& As I start to do more sketching, I will find a good way to post them here. I may make a new section with a separate RSS feed for sketch posts.
+2 Work
+& Unfortunately on October 11th I was notified that there were some huge cuts happening at my company and that I was being laid off. It all happened so fast and unexpected. I had until the end of that day before I lost access to all work systems, and was on the payroll until that Friday. I got a decent severance which should be enough to get by for about 3 months. I've never had to deal with anything like this and it is very difficult to deal with.
+& As the month comes to a close I am doing freelance work again, I filed for unemployment (which may not be approved anymore, because of the freelance work, waiting on a decision regarding that), and I have a few promising places I'm interviewing with.
+& It'll all work out in the end but these are some anxious and trying times.
+
+~then/2022-09 : September 2022 : What I focused on in September 2022 : 2022-10-05
+1 September 2022
+2 General
+& I've realized that I will likely not be hitting my reading goal this year. I have started and stopped way too many books, and thus I fell behind. As of September 1st I was at 15/30, and there just isn't enough time to hit that. I am working to accept this as okay, and allow myself to just read what I want to read at the pace I want to go, as opposed to trying really hard to catch up with this arbitrary goal.
+2 Spooky things
+& As fall approaches, I am getting more into witchy things and ghost stories. I have been listening to [l:https://www.simplyscarypodcast.com/shows/scary-stories-told-in-the-dark/|Otis Jiry's Scary Stories Told in the Dark], and they are great. I'm starting from the beginning and I'm only 3 episodes in, but number 2 and 3 were fantastic (1 was good too) and I'm really looking forward to the rest of these. After thinking a lot about the horror genre and what I like, I find that I prefer paranormal/supernatural horror and that's pretty much it. I also really like found footage stories and urban legends/folklore. I'm not a fan of gore, killers, etc. I just want a spooky story, specially ones that leave holes for the reader's imagination to fill in.
+2 Witchcraft
+& I am currently learning about witchcraft and how that can fit into my life and how I can benefit from it.
+& This month I listening to [l:https://www.audible.com/pd/B07341TVCT|Everyday Witchcraft] and plan to start on [l:https://www.amazon.com/dp/B005HTNGQY|Drawing Down the Moon] soon.
+2 Sugar
+& My wife is currently trying to break her addiction to sugar by doing a no added sugar (and limiting sugar per day) detox. I'm also doing no added sugar in things, and a couple of things have come from it:
+# I have learned how impressively high the added sugar is in most foods
+# I have lost a few pounds and am feeling good
+# I've been in general more aware of what I'm consuming
+& This is usually the time of year that my sugar intake spikes between pumpkin spice lattes, Halloween candy, and Christmas treats. I made some [l:recipes/vegan-pumpkin-spice-sauce|vegan pumpkin spice sauce] to make PSLs at home and I really like it! 
+& All in all it's been great and I plan to continue limiting added sugar consumption moving forward.
+
+~then/2022-08 : August 2022 : What I focused on in August 2022 : 2022-09-01
+1 August 2022
+2 Witchcraft
+& A while back I bought a Humble Book Bundle of books on magic and witchcraft. I've been meaning to pick one up since I purchased it, as it's something I am interested in learning about.
+& I've been reading a fiction book called [l:https://www.amazon.com/dp/B085C71YG5|The Once and Future Witches], and it got me interested in looking into it, so I've finally started.
+& Currently I am listening to [l:https://www.audible.com/pd/B07341TVCT|Everyday Witchcraft] with plans to start on [l:https://www.amazon.com/dp/B005HTNGQY|Drawing Down the Moon] soon. I also read a lot online about a variety of witchy topics such as tarot, runes, kitchen witchery, etc.
+& As with most things, I'm not going to dive into wicca with their gods and all of that, but instead view witchcraft in a more secular way, just like I do with Buddhism. I will probably write an article at some point about the crossover between Buddhism and witchcraft.
+2 Tarot
+& One of the things I'm starting with is tarot, as I already own a [l:https://pixeloccult.com/neonmoontarot/|tarot deck], and I discovered the [l:https://app.labyrinthos.co/|Labrynthos apps]. I am currently using the [l:https://play.google.com/store/apps/details?id=com.labyrinthos.app|Labrythos Tarot] app for daily readings and the [l:https://play.google.com/store/apps/details?id=com.luminous.spirit.app|Luminous Spirit Tarot] app for setting intentions that align with the phases of the moon. I am also using the [l:https://play.google.com/store/apps/details?id=com.jrustonapps.mymoonphase|My Moon Phase] app to view the current and upcoming phases.
+& Something I read online while looking into all of this was that you should view tarot for self reflection as opposed to fortune telling. I've realized that when you strip away the witchy exterior of witchcraft, all that remains is the concepts of being self reflective and appreciating nature and the world around you. These concepts are already something that I've aligned with, so adding witchcraft is just another set of tools I can use.
+2 Synchronicity
+& Something I've been interested in for a while now is [l:https://en.wikipedia.org/wiki/Synchronicity|Synchronicity]. The gist of it is that you will notice coincidences in your life, and that they will actually lead you to important things. Whether these are some cosmic sign, or our minds subconsciously noticing things that lead us to what we truly want or need, it brings you to the same result.
+& I've been trying to notice these types of occurrences for a while, but they seemed to pick up as I started looking into witchcraft. One of the most notable ones was that I've been reading books and thinking about witchcraft in general, and then I looked at a bookstore in Seaside, OR as we drove by it, and in the display case I saw one book titled [l:https://www.amazon.com/dp/1250279542|Kickass Coven]. I feel like that is the kind of thing that would be displayed along with other witchy things in the middle of October, or at least during fall, but here it was in the middle of summer, and it's the only thing I noticed in a brief second while zipping by. However this happened, it feels like a sign that I'm on the right path.
+& Another significant one was that once I got to the point of looking into the moon and it's cycles, it turned out that exact night was a new moon. I was looking into witchcraft for about a week or so prior to this, but just so happened to touch on that specific aspect at that specific time.
+& I've always been pretty skeptical about there actually being supernatural things out there, but I'm gaining a new view on this type of thing. Maybe there is magic, maybe the world is more in sync than you would think. Maybe the universe is actually behind all religions and gods, and it just reveals itself to people in a way that resonates with them the most. Maybe it's all just coincidence and the true power is noticing and leading ourselves. Whatever it is, I'm going to keep paying attention to these types of events and reading into it however makes sense for me.
+2 Birding
+& During a trip to Seaside, OR, I saw quite a few birds:
+- American Crow
+- Dark-eyed Junco
+- Great Egret
+- Western Gull
+- California Gull
+- Semipalmated Sandpiper
+- Great Blue Heron
+& I was very excited to see the sandpipers, as I had never seen them before.
+& Crows are my favorite bird, and there were a ton of them everywhere we went.
+
+~then/2022-07 : July 2022 : What I focused on in July 2022 : 2022-08-04
+1 July 2022
+2 General
+& I've been struggling with not diving into infosec/bug bounties again. I always get drawn to it, specially around defcon, but it consistently doesn't work well for my life. I previously [l:writing/focus|wrote about this]. I am going to try to stay focused in August, even with Defcon happening in the second week. I may try to do the [l:https://goldbug.cryptovillage.org/|Gold Bug challenge] again this year.
 2 Art
 & I've started trying out more nature/green sketching. It's not always easy to make time to draw/paint but I do it when I can. I've recently purchased a couple books on the subject. One, which I'm currently reading, is [l:https://www.amazon.com/dp/1529070309|The Green Sketching Handbook].
 2 Reading
 & I've been meaning to read [l:https://www.amazon.com/dp/B07BDG5Z8Y|Wabi Sabi] for a while now, and am finally getting to it. I really love Beth Kempton's writing, and I'm glad to finally pick this one up.
+& This month I finished one short story: [l:https://apex-magazine.com/short-fiction/each-thing-i-show-you-is-a-piece-of-my-death/|each thing i show you is a piece of my death] by Gemma Files.
 2 Podcasts + Audiobooks
 & I've been listening to  [l:https://www.amazon.com/dp/B002ZODPOC|The House at Pooh Corner] with the kids whenever we have time. There was a lot more time during commute to school, but we'll get through it eventually.
 & I started a new daily podcast listening habit with the following each weekday morning:
@@ -31,10 +123,14 @@ _ Last updated: July 2022
 - [l:https://podcasts.apple.com/us/podcast/the-daily-dad/id1490007487|The Daily Dad]
 2 Birding
 & I recently started getting into birding. I've loved birds for a long time now, but I'm finally actually diving into the subject. I received a monocular with a phone attachment as a gift, so I can take pictures of birds farther away using my phone, and it's been great!
-& I've photographed and identified the following this month:
+& I've seen following this month:
 - House Sparrow (male and female)
 - European Starling (male and juvenile)
 - American Robin (male and juvenile)
+- Quail
+- American Goldfinch
+- Ring-billed Gull
+- Double-crested Cormorant
 & I have been using the [l:https://merlin.allaboutbirds.org/|Merlin Bird ID app] to identify the birds in my photographs. It also has a nice sound ID, which I've used a few times without seeing the birds it was picking up.
 2 Gardening
 & We set up our planter boxes again this year, and everything is thriving! We have the following:
@@ -47,16 +143,10 @@ _ Last updated: July 2022
 & This is also year two of our lilac bushes, and they're doing well.
 & A little over a year ago I got a small venus fly trap. In the spring it started flowering, and I read that you should cut the flower stem before it actually blooms a flower, as it takes a lot of energy and may kill the plant. I found this out very late and thought it wasn't going to make it, but it suddenly started doing better and now it's doing great. It even started catching fruit flies and a larger fly that was way too big for the trapper it was in. It's just kind of sitting there in it now. I suppose it'll slowly degrade and get absorbed.
 & I have a bonsai growing kit I'd like to start, so I will try to do that this month at some point.
-
-~hello/index : Hello : How to contact me : 2022-07-13
-1 Hello
-& This is my [l:https://alastairjohnston.com/introducing-hello-pages/|hello page], where you can find how I prefer to keep in touch, and why.
-- The best way to contact me is via [l:mailto:0xdstn@protonmail.com|email]. I may be a little slow to respond, as I only check that account every once in a while.
-- If you need to send me an encrypted message you can download my [l:public.key|public PGP key].
-- To see what I'm focusing on,  you can check out my [l:now|now page].
-- To see some things I've written you can visit the [l:writing|writings section] of this site.
-- I don't use twitter or other social networks as public forms of communication. Reasoning for this can be read in my thoughts [l:social|on social media].
-- I do have a Mastodon account on [l:https://toki.social/@0xdstn|toki.social] for the purpose of immersing myself in Toki Pona. Sending me a DM there will take a while to get a response.
+& I harvested and ate my sole coolapeno pepper. It was really good! Just like a jalapeno, but without the spice. I fried it up in an egg.
+& The green peas didn't make it. I think we probably needed a cage for it to climb up. Next time. Our large tomatoes are also struggling. It didn't grow any tomatoes and the leaves are wilting. Not sure what happened with that one.
+& Oddly the raspberry bush hasn't started showing any berries yet, but maybe by the end of summer it will. I feel like it did at this time last year, but the weather has been weird.
+& The watermelon plant has started flowering, hopefully it'll grow an actual watermelon before summer is over.
 
 ~wiki/index : Wiki : A collection of personal information : 2022-05-19
 1 Wiki 
@@ -111,7 +201,7 @@ _ Last updated: July 2022
 - On a long enough timeline, everyone is forgotten
 - Everything is impermanent
 
-~wiki/library : Library : A list of books I've read : 2022-07-13
+~wiki/library : Library : A list of books I've read : 2022-10-05
 / [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
 / [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh
 / [l:https://www.gutenberg.org/ebooks/21|Aesop's Fables] by Aesop
@@ -123,7 +213,6 @@ _ Last updated: July 2022
 / [l:https://hundredrabbits.itch.io/busy-doing-nothing|Busy Doing Nothing] by Hundred Rabbits
 / [e:book] [l:https://www.amazon.com/dp/B0827351DF|The Adoptive Parents' Handbook] by Barbara Tantrum
 / [e:headphones] [l:https://www.amazon.com/dp/B000QJLQZI|Alexander Hamilton] by Ron Chernow
-/ [e:book] [l:https://www.amazon.com/dp/1984858203|Draw Your World] by Samantha Dion Baker
 / [e:book] [l:https://www.barnesandnoble.com/w/the-odyssey-homer/1123741766|The Odyssey] by Homer
 / [e:headphones] [l:https://www.amazon.com/dp/B00MRADM1K|An Unwelcome Quest] by Scott Meyer
 / [e:book] [l:https://www.amazon.com/dp/0374518688|Roald Dahl's Book of Ghost Stories] by Various Authors
@@ -131,6 +220,14 @@ _ Last updated: July 2022
 / [e:book] [l:https://www.amazon.com/dp/B082RS7N3X|Attack Surface] by Cory Doctorow
 / [e:book] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] by Daniel J. Siegel MD &amp; Tina Payne Bryson, PhD
 / [e:book] [l:https://www.amazon.com/dp/B07NZ2DN8D|Moss: From Forest to Garden] by Ulrica Nordström
+/ [e:book] [l:https://www.amazon.com/dp/B07BDG5Z8Y|Wabi Sabi] by Beth Kempton
+/ [e:book] [l:https://www.amazon.com/dp/1529070309|The Green Sketching Handbook] by Ali Foxon
+/ [e:book] [l:https://www.amazon.com/dp/0544439570|Mary Poppins Comes Back] by P.L. Travers
+/ [e:book] [l:https://www.amazon.com/dp/B0011UJM48|The Graveyard Book] by Neil Gaiman
+/ [e:book] [l:https://www.amazon.com/dp/B005HTNGQY|Drawing Down the Moon] by Margot Adler
+/ [e:book] [l:https://www.amazon.com/dp/B004J4WKTW|The Night Circus] by Erin Morgenstern
+/ [e:book] [l:https://www.amazon.com/dp/B09L5VH963|Hawkins Horrors] by Matthew J. Gilbert
+/ [e:book] [l:https://www.amazon.com/dp/1787395804|A Quiet Mind] by Shoukei Matsumoto
 1 Library
 & Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
 # [l:#Currently reading|Currently reading]
@@ -144,13 +241,12 @@ _ Last updated: July 2022
 - [e:headphones] Listened
 - [e:speech] Comic book
 2 Currently reading
-- [e:book] [l:https://www.amazon.com/dp/0544439570|Mary Poppins Comes Back] by P.L. Travers
-- [e:book] [l:https://www.amazon.com/dp/B07BDG5Z8Y|Wabi Sabi] by Beth Kempton
-- [e:book] [l:https://www.amazon.com/dp/1529070309|The Green Sketching Handbook] by Ali Foxon
-- [e:headphones] [l:https://www.amazon.com/dp/B002ZODPOC|The House at Pooh Corner] by A.A. Milne
-
+- [e:book] [l:https://www.amazon.com/dp/1529045223|A Poem for Every Autumn Day] by Allie Esiri
+- [e:headphones] [l:https://www.amazon.com/dp/B00AI5AQPQ|Matilda] by Roald Dahl
+- [e:book] [l:https://www.amazon.com/dp/0399552685|A Boy Called Christmas] by Matt Haig
+- [e:book] [l:https://www.parallax.org/product/be-free-where-you-are/|Be Free Where You Are] by Thich Nhat Hanh
 2 Books read in 2022
-& [b:Goal: 14 of 30]
+& [b:Goal: 28 of 30]
 # [e:book] [l:https://www.amazon.com/dp/B00NDTS5E8|The Strange Library] by Haruki Murakami
 # [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
 # [e:book] [l:https://www.amazon.com/dp/B005HG4H24|The Art of Mindfulness] by Thich Nhat Hanh
@@ -163,8 +259,22 @@ _ Last updated: July 2022
 # [e:headphones] [l:https://www.amazon.com/dp/0525467564|Winnie-the-Pooh] by A.A. Milne
 # [e:book] [l:https://www.amazon.com/dp/B075VC651Y|Convenience Store Woman] by Sayaka Murata
 # [e:book] [l:https://www.amazon.com/dp/B09NC8VX1W|Color First, Ink Later] by Mike Yoshiaki Daikubara
-# [e:headphones] [l:https://www.amazon.com/dp/B07NZ2DN8D|The Art of Communicating] by Thich Nhat Hanh
+# [e:headphones] [l:https://www.amazon.com/dp/B00E659NN0|The Art of Communicating] by Thich Nhat Hanh
 # [e:book] [l:https://www.amazon.com/dp/B0831RM5KD|Tales from the Loop] by Simon Stålenhag
+# [e:book] [l:https://apex-magazine.com/short-fiction/each-thing-i-show-you-is-a-piece-of-my-death/|each thing i show you is a piece of my death] by Gemma Files
+# [e:book] [l:https://www.amazon.com/dp/1647552257|Drawn to Birds] by Jenny Defouw Geuder
+# [e:book] [l:https://www.amazon.com/dp/B085C71YG5|The Once and Future Witches] by Alix E. Harrow
+# [e:book] [l:https://www.amazon.com/dp/B0082XQQ1O|Wild Apples] by Henry David Thoreau
+# [e:headphones] [l:https://www.amazon.com/dp/B002ZODPOC|The House at Pooh Corner] by A.A. Milne
+# [e:book] [l:https://www.amazon.com/dp/B00S2443SQ|Art Before Breakfast] by Danny Gregory
+# [e:book] [l:https://www.amazon.com/dp/B0795B84F6|A Walk in the Wood] by Dr. Joseph Parent
+# [e:headphones] [l:https://www.audible.com/pd/B07341TVCT|Everyday Witchcraft] by Deborah Blake
+# [e:book] [l:https://www.amazon.com/dp/1984858203|Draw Your World] by Samantha Dion Baker
+# [e:book] [l:https://www.amazon.com/dp/B07K1DT2QK|Sketch Now, Think Later] by Mike Yoshiaki Daikubara
+# [e:book] [l:https://www.amazon.com/dp/B00EPQ3WUU|The Nightmare Before Christmas] by Tim Burton
+# [e:book] [l:https://www.amazon.com/dp/B0B9VC8LPS|I Choose Darkness: A Holiday Essay] by Jenny Lawson
+# [e:book] [l:https://www.amazon.com/dp/B007JLK8TQ|Krampus: The Yule Lord] by Brom
+# [e:book] [l:https://www.amazon.com/dp/B0084AMPH4|A Kidnapped Santa Claus] by L. Frank Baum
 2 Books read in 2021
 & [b:Goal: 39 of 20] [e:checkmark]
 # [e:book] [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
@@ -585,25 +695,30 @@ _ Last updated: July 2022
 # [l:#Description|Description]
 # [l:#Ingredients|Ingredients]
 # [l:#Directions|Directions]
+# [l:#Suggested Alterations|Suggested Alterations]
 2 Description
 & This recipe is a slightly modified version of [l:https://ritualdust.com/food/fall-oats/|this recipe by ritualdust].
 2 Ingredients
 - 1/2 cup steel-cut oats
 - 1 cup water
 - 2 tbsp plant-based milk
-- 1 tbsp dark chocolate chips
+- Dark chocolate (I use half a square of [l:https://www.lindtusa.com/95-percent-cocoa-dark-chocolate-excellence-bar-e004180|Lindt 95% Dark Chocolate])
 - 1/4 cup pumpkin seeds
 - 1/4 cup pumpkin puree
-- 1 tsp brown sugar
 - 1/2 tsp cinnamon
 - 1/4 tsp powdered ginger
 - 1/4 tsp nutmeg
+- 1/8 tsp allspice 
+- 1/8 tsp cloves 
 2 Directions
 # In a [b:small pot], combine the [b:oats] and [b:water]
 # Cook on [b:medium] until boiled ([b:~7 minutes]), constantly stirring
 # Stir in the [b:plant-based milk] and cook for another minute or so
 # In a [b:bowl], combine all other ingredients
 # Add the [b:oats] to the bowl and mix well
+3 Suggested Alterations
+& Originally this recipe had [b:1 tsp of brown sugar], but no longer include it. If you like things sweeter you could add that.
+& Another way to make it sweeter would be to use a lower percentage of dark chocolate, such as 60 or 70.
 
 ~recipes/pumpkin-seeds : Roasted Pumpkin Seeds : Sweet or savory seeds : 2020-10-30
 1 Roasted Pumpkin Seeds
@@ -652,15 +767,15 @@ _ Last updated: July 2022
 # [l:#Description|Description]
 # [l:#Ingredients|Ingredients]
 # [l:#Directions|Directions]
+# [l:#Suggested Alterations|Suggested Alterations]
 2 Description
 & This recipe is a slightly modified version of [l:https://ritualdust.com/food/winter-oats/|this recipe by ritualdust].
 2 Ingredients
 - 1/2 cup steel-cut oats
 - 1 cup water
 - 2 tbsp plant-based milk
-- 1/3 cup dried cranberries
+- 1/4 cup dried cranberries
 - 1/3 cup whole pecans
-- 1 tsp brown sugar
 - 1/4 tsp cinnamon
 - 1/4 tsp cardamom
 - 1/4 tsp cloves
@@ -672,6 +787,8 @@ _ Last updated: July 2022
 # In a [b:bowl], combine [b:spices]
 # Add the [b:oats] to the bowl and mix well
 # Top with [b:cranberries] and [b:pecans]
+3 Suggested Alterations
+& Originally this recipe had [b:1 tsp of brown sugar], but no longer include it. If you like things sweeter you could add that.
 
 ~recipes/pumpkin-overnight-oats : Pumpkin Overnight Oats : Savory pumpkin oats : 2021-10-21
 1 Pumpkin overnight oats
@@ -693,10 +810,63 @@ _ Last updated: July 2022
 2 Suggested Alterations
 & This recipe yields fairly thick oats. If you prefer them to be less thick, you could increase the amount of milk to 3/4 cup.
 
+~recipes/vegan-pumpkin-spice-sauce : Vegan Pumpkin Spice Sauce : Vegan Pumpkin Spice Sauce : 2022-09-22
+1 Vegan Pumpkin Spice Sauce
+& I wanted  to make a vegan and sugar free sauce for pumpkin spice lattes and ended up with this. If you don't want to use the monk fruit sweetener, you could sub in any sweetener you like, even regular sugar. The recipe I based it on used 1/2 cup sugar, but I don't like things super sweet so I lowered it. It's sweet enough for me and I find it really good in my coffee.
+# [l:#Ingredients|Ingredients]
+# [l:#Directions|Directions]
+2 Ingredients
+- 1 15oz can pumpkin
+- 1 13.5 fl oz can coconut milk
+- 1/3 cup monk fruit sweetener
+- 1/2 tbsp cinnamon
+- 1/4 tsp nutmeg
+- 1/4 tsp ginger
+- 1/4 tsp allspice
+- 1/4 tsp cloves
+2 Directions
+# Whisk [b:ingredients] in [b:saucepan] until smooth
+# Simmer on low for [b:20 minutes], stirring occasionally
+# Store in [b:fridge] for up to 1 week
+
+~recipes/rice-pudding : Rice Pudding : Rice Pudding : 2022-11-20
+1 Rice Pudding
+# [l:#Description|Description]
+# [l:#Ingredients|Ingredients]
+# [l:#Directions|Directions]
+2 Description
+& This recipe is taken from [l:https://jameschip.io/rice_pud.html|this recipe by James Chip]. The only difference is I converted the measurements and added a cook time.
+2 Ingredients
+- 1/2 cup pudding rice
+- 1/3 cup granulated sugar
+- 3 cups oat milk 
+- Nutmeg
+2 Directions
+# Preheat the oven to [b:300&deg;F]
+# Mix the [b:rice], [b:sugar], and [b:milk] in an [b:oven safe dish].
+# Sprinkle [b:nutmeg] over the top
+# Bake in oven until the liquid is absorbed, about [b:1 hr 40 min].
+
 ~projects/index : Projects : My various personal projects : 2022-05-19
 1 Projects
 & Below is a list of personal projects I've created. Most of them are tools I have made for myself that others can use as well.
 ? [d:projects]
+
+~projects/epocket : epocket : A script to convert a pocket RSS feed to HTML files : 2022-10-06
+1 epocket
+& In an attempt to look at screens less, I set up this script so I can read articles saved to my [l:https://getpocket.com|Pocket] on my Kindle.
+& It is set up on a cron job to run at 4AM every day. It pulls my [l:https://getpocket.com/users/dustindikes/feed/unread|unread RSS feed], and uses [l:https://pypi.org/project/newspaper/|newspaper] to get the HTML source of the article, then outputs an [b:index.html] with a list of article links and individual html files with the contents of each article.
+& I can then navigate to where I have the output hosted via the Kindle's built in web browser.
+- Source code: [l:https://github.com/0xdstn/epocket/]
+
+~projects/log : Log :  A bullet journal companion app : 2022-07-26
+1 Log 
+& I have used the official Bullet Journal Companion app for a long time now, and I have always wished I could turn off the 72 hour expiration of entries.
+& I know the intent with the 72 hour limit is to push you to transfer to your journal every day, but my life doesn't always lend to that.
+& I decided to create this simple app for my on the go bullet journal needs. You can add/edit notes, tasks, and events, and delete them when you're ready.
+& It is set up as a PWA, so you can also install it to your android device and even use it offline.
+- Source code: [l:https://github.com/0xdstn/log/]
+- Live version: [l:http://tilde.town/~dustin/log/]
 
 ~projects/habits : Habits :  An emoji-based monthly habit tracker : 2022-03-07
 1 Habits
@@ -1091,6 +1261,36 @@ _ Coming soon - stories I have written with The Adventurer
 & I write occasionally about things I care about. Below are the ones I've decided to share.
 ? [d:writing]
 
+~writing/mastodon : Returning to Mastodon : Thoughts on my return to Mastodon : 2022-11-29
+1 Returning to Mastodon
+& A while back I decided to limit the amount of social media I was using, including Mastodon. I didn't like the way it made me feel and the way it distracted me from everything else in my life.
+& I have recently made the decision to get back on Mastodon in a small local community with people I know IRL. As per my personal philosophy on technology, I am going to be mindful of my usage, which will include:
+- Not having it installed on my phone, so I can intentionally open up my laptop to go check my feed
+- Being mindful of who I'm following to minimize unnecessary feed bloat
+- Staying out of the global feed as it's a huge time suck
+- Being on a small instance with people I know to get the most out of the local feed
+& Since leaving Mastodon, I used [l:projects/mastofeed|mastofeed] and [l:writing/rss|RSS] to follow people who's work and thoughts I care to keep up on, however I often wanted to comment on the posts but had no way to, so I will be happy to be able to do that again.
+& I will mostly be posting updates to my website and projects I'm working on.
+& If you want to follow me I'm at [l:https://mastodon.spotek.io/@dustin|@dustin@mastodon.spotek.io]
+& I am also on [l:https://toki.social/@0xdstn|toki.social], to immerse myself in toki pona for learning purposes.
+
+~writing/mindful-eating : Mindful Eating : Thoughts and personal experience with eating mindfully : 2022-09-07
+1 Mindful Eating 
+_ 2022.09.07
+& Mindful eating is something that has been challenging for me, but I find a lot of benefits in it.
+& I realized that I tend to queue up a new bite while still chewing the last one. This feels like I am just trying to consume all the food as fast as possible, not paying attention to the bite I'm eating. My solution to this is to take a bite, then set down my fork until it's gone and I'm ready to take another bite. Doing this allows me to fully experience and enjoy the food, be aware of how full I am, and be more present in the moment, as opposed to passively eating. At the end of my meal, I also don't clear the dishes until I've finished my final bite.
+& Like a lot of people, I tend to read or use my phone while eating. This causes me to be unaware of the food that I am eating, and not something I want, so I no longer allow myself to have any sort of media during meals. I want to only consume food, not external things. This helps me be present and focused.
+& When eating alone, I treat it like a meditation. I don't want to spend the time thinking about other things. Instead I choose to focus on the flavors, textures, and smells of the food. I also take some of the time thinking about being grateful for the food and where it came from. I think about where it came from or the person that prepared it. I think about the plants, animals, and/or people involved in producing the ingredients, and thank them for their had work or sacrifice so that I can be nourished.
+
+~writing/hackers : Hackers : Thoughts on being a hacker : 2022-07-19
+1 Hackers
+_ 2022.07.19
+& I have always viewed the title "hacker" to require a certain level of skill to claim. I'm realizing that this view is simply wrong. Being a hacker has nothing to do with skills. It has to do with having the hacker mindset.
+& Not accepting things (systems, technology, etc) as they are, but instead view them as something to be tinkered with and modified. To take things, figure out their limits, and push them. To turn something into what you need, not just take what you're given as is.
+& I have always had this  hacker mindset. Since I was young I've taken things apart to figure out how they work and put them back together. I've always taken technology, and pushed their limits to best suit my needs.
+& You don't have to know how to break into computer systems or any other specific skill like that. You just have to be curious, never accept things as they are, and never stop learning.
+* I am a hacker.
+
 ~writing/writing : On Writing : Thoughts on being a writer : 2022-07-13
 1 On writing
 _ 2022.07.13
@@ -1444,13 +1644,3 @@ _ 2020.07.21
 - Sanitize your inputs to prevent SQL injection
 2 Final notes
 & While I started going in the wrong direction, and I ended up using a hint, overall I consider this a success and I had a ton of fun participating. I'm going to continue to try my hand at other challenges. Thanks for reading!
-
-~thoughts/index : Thoughts : A microblog of my thoughts : 2022-07-14
-1 Thoughts 
-& This section of my site serves as a microblog, since I don't use social media such as twitter or mastodon (reasoning for this can be read in my post [l:writings/social|on social media]). 
-& I have a [l:thoughts.xml|separate RSS feed] for these posts, if you want to follow them, so they don't pollute my [l:index.xml|main RSS feed].
-? [t:thoughts]
-
-~thoughts/2022-07-14-1614 : July 14, 2022 16:14 : 2022-07-14 16:14 : 2022-07-14 16:14
-1 July 14, 2022 16:14
-& I decided to add this thoughts section to my site. It serves as a microblog, since I'm intentionally not using Twitter or Mastodon. I just want a place to put what I'm thinking down, and if someone wants to [l:thoughts.xml|follow it], then great! If not, it's here for me and that's fine too.

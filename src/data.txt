@@ -1,32 +1,31 @@
 ~index/index : Home : Home
 1 Dustin
 & [e:wave] Hello friend. My name is [b:Dustin].
-& [e:computer] I'm a [b:software engineer] from [b:Spokane, Wa].
 & [e:clock] You can find out more about what I'm up to on my [l:now|now page].
+& [e:book] You can see what I'm reading on my [l:books|books page].
 & [e:mail] If you would like to reach out to me, find out how on my [l:hello|hello page].
 
 2 Pages
 ? [d:index]
 
 2 Latest
-? [r:then,writing,projects]
+? [r:then,writing,projects,recipes]
 
-~now/index : Now : What I'm currently up to : 2022-11-14
+~now/index : Now : What I'm currently up to : 2022-12-06
 1 Now
-_ Last updated: November 2022
+_ Last updated: December 2022
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
 & This now page used to just display the same stuff with the what I'm reading/listening to changing occasionally. Instead, I'm going to update it each month with what I'm focusing on (sometimes updating throughout the month).
 & You can see previous monthly updates in the [l:then|then section].
-2 Work
-& After about a month of being unemployed, I accepted a job offer and started at the end of November. Finding a job went much quicker than I anticipated.
-2 Covid
-& After about two and a half years of avoiding it (somehow) someone in my household tested positive for covid. It took a few weeks to have negative tests for everyone, but we are now covid-free. Only about half of us got it and it didn't seem to be too bad of a strain.
 2 Birds
-& I set up a window bird feeder over the summer for viewing birds as they came to eat. Unfortunately they never went over to it, but I left it up and now that winter is approaching, we've had quite a few visitors!
+& We have a new visitor that's taken over our bird feeder - [b:Dark-eyed Junkos]. It seems they may have taken over, as the house finches haven't been stopping by anymore, or at least not as often.
 & These are the birds I saw this month:
-- Northern Flicker
-- House Finch (male, which I've never seen before)
-& I also saw a hawk the closest I've seen one. It swooped down and got something off the ground and went up to a tree. I was in the car so it was only for a moment, but it was really cool to see.
+- Dark-eyed Junko 
+2 Reading
+& I decided Goodreads isn't the best book management solution for me personally, so I created my own tool. You can see it and more about it here:
+- Project post: [l:projects/books|Books]
+- Source code: [l:https://github.com/0xdstn/books/]
+- Live version: [l:https://tilde.town/~dustin/books/]
 
 ~hello/index : Hello : How to contact me : 2022-07-13
 1 Hello
@@ -47,6 +46,31 @@ _ Last updated: November 2022
 1 Then 
 & Below are is list of monthly updates of what I've been up to. They are essentially the state of my [l:now|now page] at the end of each month.
 ? [d:then]
+
+~then/2022-11 : November 2022 : What I focused on in November 2022 : 2022-12-06
+1 November 2022
+2 Work
+& After about a month of being unemployed, I accepted a job offer and started at the end of November. Finding a job went much quicker than I anticipated.
+2 Covid
+& After about two and a half years of avoiding it (somehow) someone in my household tested positive for covid. It took a few weeks to have negative tests for everyone, but we are now covid-free. Only about half of us got it and it didn't seem to be too bad of a strain.
+2 Birds
+& I set up a window bird feeder over the summer for viewing birds as they came to eat. Unfortunately they never went over to it, but I left it up and now that winter is approaching, we've had quite a few visitors!
+& These are the birds I saw this month:
+- Northern Flicker
+- House Finch (male, which I've never seen before)
+& I also saw a hawk the closest I've seen one. It swooped down and got something off the ground and went up to a tree. I was in the car so it was only for a moment, but it was really cool to see.
+2 Books finished
+* [e:book] [l:https://www.amazon.com/dp/B007JLK8TQ|Krampus: The Yule Lord] by Brom
+& I thoroughly enjoyed this book. It started out pretty slow when it was primarily focusing on the main human character, but it eventually picked up and never slowed down.
+& I loved all the mythology tie-ins and it felt well thought out. It also had a lot of gratifying outcomes int he end. I don't care much for the gore depicted, and it shows the worst sides of humanity which was upsetting at times, but it all seemed appropriate for such a story.
+* [e:book] [l:https://www.amazon.com/dp/B0084AMPH4|A Kidnapped Santa Claus] by L. Frank Baum
+& A short but great book. I loved the first one (The Life and Adventures of Santa Claus) so this was a nice added story to that one.
+* [e:book] [l:https://www.amazon.com/dp/1529045223|A Poem for Every Autumn Day] by Allie Esiri
+& This was fine. There were a few really good ones, but oddly a ton of them were about war, which I wasn't a fan of. I expected more.. fall themed poems.
+
+2 Site updates
+- [b:2022-11-29] [l:writing/mastodon|Returning to Mastodon]
+- [b:2022-11-20] [l:recipes/rice-pudding|Rice Pudding]
 
 ~then/2022-10 : October 2022 : What I focused on in October 2022 : 2022-11-04
 1 October 2022
@@ -201,210 +225,20 @@ _ Last updated: November 2022
 - On a long enough timeline, everyone is forgotten
 - Everything is impermanent
 
-~wiki/library : Library : A list of books I've read : 2022-10-05
-/ [l:https://supporters.eff.org/donate/pwning-tomorrow|Pwning Tomorrow] by Multiple authors
-/ [l:https://www.amazon.com/dp/1573229377|Anger] by Thich Nhat Hanh
-/ [l:https://www.gutenberg.org/ebooks/21|Aesop's Fables] by Aesop
-/ [l:https://www.amazon.com/dp/1521777268|On Anger: De Ira] by Seneca
-/ [l:https://www.amazon.com/dp/1591847818|Ego is the Enemy] by Ryan Holiday
-/ [l:http://www.hpmor.com|Harry Potter and the Methods of Rationality] by Eliezer Yudkowsky
-/ [l:https://www.amazon.com/dp/B078XHJL5Y|H.P. Lovecraft: The Complete Collection] by H.P. Lovecraft
-/ [l:https://www.amazon.com/dp/1592537251|The Art of Urban Sketching] by Gabriel Campanario
-/ [l:https://hundredrabbits.itch.io/busy-doing-nothing|Busy Doing Nothing] by Hundred Rabbits
-/ [e:book] [l:https://www.amazon.com/dp/B0827351DF|The Adoptive Parents' Handbook] by Barbara Tantrum
-/ [e:headphones] [l:https://www.amazon.com/dp/B000QJLQZI|Alexander Hamilton] by Ron Chernow
-/ [e:book] [l:https://www.barnesandnoble.com/w/the-odyssey-homer/1123741766|The Odyssey] by Homer
-/ [e:headphones] [l:https://www.amazon.com/dp/B00MRADM1K|An Unwelcome Quest] by Scott Meyer
-/ [e:book] [l:https://www.amazon.com/dp/0374518688|Roald Dahl's Book of Ghost Stories] by Various Authors
-/ [e:book] [l:https://www.parallax.org/product/stepping-into-freedom/|Stepping Into Freedom] by Thich Nhat Hanh
-/ [e:book] [l:https://www.amazon.com/dp/B082RS7N3X|Attack Surface] by Cory Doctorow
-/ [e:book] [l:https://www.amazon.com/dp/1922247561|No-Drama Discipline] by Daniel J. Siegel MD &amp; Tina Payne Bryson, PhD
-/ [e:book] [l:https://www.amazon.com/dp/B07NZ2DN8D|Moss: From Forest to Garden] by Ulrica Nordström
-/ [e:book] [l:https://www.amazon.com/dp/B07BDG5Z8Y|Wabi Sabi] by Beth Kempton
-/ [e:book] [l:https://www.amazon.com/dp/1529070309|The Green Sketching Handbook] by Ali Foxon
-/ [e:book] [l:https://www.amazon.com/dp/0544439570|Mary Poppins Comes Back] by P.L. Travers
-/ [e:book] [l:https://www.amazon.com/dp/B0011UJM48|The Graveyard Book] by Neil Gaiman
-/ [e:book] [l:https://www.amazon.com/dp/B005HTNGQY|Drawing Down the Moon] by Margot Adler
-/ [e:book] [l:https://www.amazon.com/dp/B004J4WKTW|The Night Circus] by Erin Morgenstern
-/ [e:book] [l:https://www.amazon.com/dp/B09L5VH963|Hawkins Horrors] by Matthew J. Gilbert
-/ [e:book] [l:https://www.amazon.com/dp/1787395804|A Quiet Mind] by Shoukei Matsumoto
+~wiki/library : Library : A list of books I've read : 2022-12-08
 1 Library
-& Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
-# [l:#Currently reading|Currently reading]
-# [l:#Books read in 2022|Books read in 2022]
-# [l:#Books read in 2021|Books read in 2021]
-# [l:#Books read in 2020|Books read in 2020]
-# [l:#Books read in 2019|Books read in 2019]
-# [l:#Books read prior to 2019|Books read prior to 2019]
-* Emoji Key
-- [e:book] Read
-- [e:headphones] Listened
-- [e:speech] Comic book
-2 Currently reading
-- [e:book] [l:https://www.amazon.com/dp/1529045223|A Poem for Every Autumn Day] by Allie Esiri
-- [e:headphones] [l:https://www.amazon.com/dp/B00AI5AQPQ|Matilda] by Roald Dahl
-- [e:book] [l:https://www.amazon.com/dp/0399552685|A Boy Called Christmas] by Matt Haig
-- [e:book] [l:https://www.parallax.org/product/be-free-where-you-are/|Be Free Where You Are] by Thich Nhat Hanh
-2 Books read in 2022
-& [b:Goal: 28 of 30]
-# [e:book] [l:https://www.amazon.com/dp/B00NDTS5E8|The Strange Library] by Haruki Murakami
-# [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
-# [e:book] [l:https://www.amazon.com/dp/B005HG4H24|The Art of Mindfulness] by Thich Nhat Hanh
-# [e:headphones] [l:https://www.amazon.com/dp/B00I3LC9HU|True Love] by Thich Nhat Hanh
-# [e:speech] [l:https://www.amazon.com/dp/B00LJ86UTC|Hacktivity: Private Data] by Ovi Demetrian Jr
-# [e:speech] [l:https://lifehackscomic.com/|lifehacks] by Ovi Demetrian Jr
-# [e:book] [l:https://www.amazon.com/dp/B08VJP4K7Q|A History of Wild Places] by Shea Ernshaw
-# [e:book] [l:https://www.amazon.com/dp/B08M5KWCRR|The Pentester BluePrint] by Phillip L. Wylie
-# [e:book] [l:https://www.amazon.com/dp/B00LW58C7A|Zen Drawing] by Michelle Dujardin
-# [e:headphones] [l:https://www.amazon.com/dp/0525467564|Winnie-the-Pooh] by A.A. Milne
-# [e:book] [l:https://www.amazon.com/dp/B075VC651Y|Convenience Store Woman] by Sayaka Murata
-# [e:book] [l:https://www.amazon.com/dp/B09NC8VX1W|Color First, Ink Later] by Mike Yoshiaki Daikubara
-# [e:headphones] [l:https://www.amazon.com/dp/B00E659NN0|The Art of Communicating] by Thich Nhat Hanh
-# [e:book] [l:https://www.amazon.com/dp/B0831RM5KD|Tales from the Loop] by Simon Stålenhag
-# [e:book] [l:https://apex-magazine.com/short-fiction/each-thing-i-show-you-is-a-piece-of-my-death/|each thing i show you is a piece of my death] by Gemma Files
-# [e:book] [l:https://www.amazon.com/dp/1647552257|Drawn to Birds] by Jenny Defouw Geuder
-# [e:book] [l:https://www.amazon.com/dp/B085C71YG5|The Once and Future Witches] by Alix E. Harrow
-# [e:book] [l:https://www.amazon.com/dp/B0082XQQ1O|Wild Apples] by Henry David Thoreau
-# [e:headphones] [l:https://www.amazon.com/dp/B002ZODPOC|The House at Pooh Corner] by A.A. Milne
-# [e:book] [l:https://www.amazon.com/dp/B00S2443SQ|Art Before Breakfast] by Danny Gregory
-# [e:book] [l:https://www.amazon.com/dp/B0795B84F6|A Walk in the Wood] by Dr. Joseph Parent
-# [e:headphones] [l:https://www.audible.com/pd/B07341TVCT|Everyday Witchcraft] by Deborah Blake
-# [e:book] [l:https://www.amazon.com/dp/1984858203|Draw Your World] by Samantha Dion Baker
-# [e:book] [l:https://www.amazon.com/dp/B07K1DT2QK|Sketch Now, Think Later] by Mike Yoshiaki Daikubara
-# [e:book] [l:https://www.amazon.com/dp/B00EPQ3WUU|The Nightmare Before Christmas] by Tim Burton
-# [e:book] [l:https://www.amazon.com/dp/B0B9VC8LPS|I Choose Darkness: A Holiday Essay] by Jenny Lawson
-# [e:book] [l:https://www.amazon.com/dp/B007JLK8TQ|Krampus: The Yule Lord] by Brom
-# [e:book] [l:https://www.amazon.com/dp/B0084AMPH4|A Kidnapped Santa Claus] by L. Frank Baum
-2 Books read in 2021
-& [b:Goal: 39 of 20] [e:checkmark]
-# [e:book] [l:https://www.amazon.com/dp/B08BYWH6CS|Ready Player Two] by Ernest Cline
-# [e:book] [l:https://www.amazon.com/dp/B00IQY3L1M|How to Sit] by Thich Nhat Hanh
-# [e:headphones] [l:https://www.amazon.com/dp/1250237238|Permanent Record] by Edward Snowden
-# [e:book] [l:https://www.amazon.com/dp/0008264376|Morning] by Allan Jenkins
-# [e:book] [l:https://www.amazon.com/dp/B00846RM6W|The Mysterious Stranger] by Mark Twain (Paine-Duneka version)
-# [e:book] [l:https://www.amazon.com/dp/B004TS1JMC|Poems, Series One] by Emily Dickinson
-# [e:book] [l:https://www.amazon.com/dp/B00LDYFHX2|How to Eat] by Thich Nhat Hanh
-# [e:book] [l:https://www.amazon.com/dp/B0064BV2LK|No 44, The Mysterious Stranger] by Mark Twain
-# [e:speech] [l:https://www.amazon.com/dp/1421530546|Pokemon Adventures, Vol. 1] by Hidenori Kusaka
-# [e:book] [l:https://alltheworldtome.com/|All the World to Me] by Josh Castle
-# [e:book] [l:https://www.amazon.com/dp/B07R2L2SNN|The Boy, the Mole, the Fox and the Horse] by Charlie Mackesy 
-# [e:book] [l:https://www.amazon.com/dp/B06W552NS8|Moxie] by Jennifer Mathieu
-# [e:book] [l:https://www.amazon.com/dp/B00L0F01NK|We Should All Be Feminists] by Chimamanda Ngozi Adichie
-# [e:speech] [l:https://www.amazon.com/dp/1506713084|Stranger Things: Into the Fire] by Jody Houser
-# [e:book] [l:https://www.amazon.com/dp/B01N8YBW81|Attitudes of Gratitude] by M. J. Ryan
-# [e:headphones] [l:https://www.amazon.com/dp/B07J5MW52M|Cult of the Dead Cow] by Joseph Menn
-# [e:speech] [l:https://www.amazon.com/dp/B00U6SVQRC|Hacktivist] by Alyssa Milano, Jackson Lanzing
-# [e:speech] [l:https://www.amazon.com/dp/B07VFKY6NH|Watch_Dogs: Return to Rocinha] by Simon Kansara, Horne 
-# [e:book] [l:https://www.amazon.com/dp/B00GT1YES8|The Highly Sensitive Person] by  Elaine N. Aron Phd
-# [e:book] [l:https://www.amazon.com/dp/B084B6VFHG|Before the Coffee Gets Cold] by Toshikazu Kawaguchi
-# [e:book] [l:https://www.amazon.com/dp/1619493918|Walden] by Henry David Thoreau
-# [e:speech] [l:https://www.amazon.com/dp/1506715761|Stranger Things: Science Camp] by Jody Houser
-# [e:book] [l:https://www.amazon.com/dp/1984819658|Rabbits] by Terry Miles
-# [e:speech] [l:https://www.amazon.com/dp/1506721079|Stranger Things and Dungeons &amp; Dragons] by Jody Houser
-# [e:book] [l:https://www.amazon.com/dp/1501160834|Anxious People] by Fredrik Backman
-# [e:book] [l:https://www.amazon.com/dp/B085BVSXS9|The Midnight Library] by Matt Haig
-# [e:book] [l:https://www.amazon.com/dp/B08GS6NJK4|Into the Forest and All the Way Through] by Cynthia Pelayo
-# [e:headphones] [l:https://www.amazon.com/dp/B00EF8Z32I|Off to Be the Wizard] by Scott Meyer
-# [e:headphones] [l:https://www.amazon.com/dp/B00HVF7OJM|Spell or High Water] by Scott Meyer
-# [e:book] [l:https://www.amazon.com/dp/B07MB46BSQ|The Southern Book Club's Guide to Slaying Vampires] by Grady Hendrix
-# [e:book] [l:https://www.amazon.com/dp/0152058109|Mary Poppins] by P.L. Travers
-# [e:book] [l:https://www.amazon.com/dp/B00GU2RHCG|The Kaizen Way] by Robert Maurer
-# [e:book] [l:https://www.amazon.com/dp/B08M968WT1|The Comfort Book] by Matt Haig
-# [e:book] [l:https://www.amazon.com/dp/B07VDJBKNJ|Randomize] by Andy Weir
-# [e:book] [l:https://www.amazon.com/dp/B00408A828|The Sound of a Wild Snail Eating] by Elisabeth Tova Bailey
-# [e:book] [l:https://www.amazon.com/dp/B072KZWHW4|The Manual: A Philosopher's Guide to Life] by Epictetus, Sam Torode
-# [e:book] [l:https://www.amazon.com/dp/B01JVE4CUO|On the Shortness of Life] by Seneca, James Harris
-# [e:book] [l:https://www.amazon.com/dp/B0879GPLKD|Under the Whispering Door] by TJ Klune
-# [e:book] [l:https://www.amazon.com/dp/B00QNC1EV8|A Child's Christmas in Wales] by Dylan Thomas
-2 Books read in 2020
-& [b:Goal: 39 of 15] [e:checkmark]
-# [e:book] [l:https://www.amazon.com/dp/B000FC1JAI|Meditations] by Marcus Aurelius, Gregory Hays
-# [e:speech] [l:https://www.amazon.com/dp/B01EI7LFPY|Fight Club 2] by Chuck Palahniuk
-# [e:speech] [l:https://www.amazon.com/dp/B07GD958T4|Stranger Things: The Other Side] by Jody Houser
-# [e:speech] [l:https://www.amazon.com/dp/1506712320|Stranger Things: SIX] by Jody Houser
-# [e:book] [l:https://www.amazon.com/dp/B07MJ3TDCZ|Stillness is the Key] by Ryan Holiday
-# [e:headphones] [l:https://www.amazon.com/dp/1338125680|The Tales of Beedle the Bard] by J.K. Rowling
-# [e:book] [l:https://www.amazon.com/dp/B00C0EJF8W|Lectures and Sayings] by Musonius Rufus, Cynthia King
-# [e:book] [l:https://archive.org/details/fp_Banksy-Banging_Your_Head_Against_A_Brick_Wall|Banging Your Head Against A Brick Wall] by Banksy
-# [e:book] [l:https://www.amazon.com/dp/1732441901|Belonging at Work] by Rhodes Perry MPA
-# [e:headphones] [l:https://www.amazon.com/dp/0525467564|Winnie-the-Pooh] by A.A. Milne
-# [e:book] [l:https://www.amazon.com/dp/B07XZNNGFH|The Boston Rob Rulebook] by Robert C. Mariano
-# [e:book] [l:https://www.amazon.com/dp/B07B7C4F9C|The Bullet Journal Method] by Ryder Carroll
-# [e:book] [l:https://www.amazon.com/dp/B08DFHBWKV|No Longer Human] by Osamu Dazai
-# [e:book] [l:https://archive.org/details/fp_Banksy-Existencilism|Existencilism] by Banksy
-# [e:headphones] [l:https://www.amazon.com/dp/B002ZODPOC|The House at Pooh Corner] by A.A. Milne
-# [e:headphones] [l:https://www.amazon.com/dp/0525444459|When We Were Very Young] by A.A. Milne
-# [e:headphones] [l:https://www.amazon.com/dp/B0013TPY3A|Now We Are Six] by A.A. Milne
-# [e:book] [l:https://www.amazon.com/dp/B01B8X8ALI|Wabi-Sabi Wisdom] by Andrea Jacques
-# [e:book] [l:https://www.amazon.com/dp/B01L9ZV9UE|The Hogwarts Collection] by J.K. Rowling
-# [e:book] [l:https://www.amazon.com/dp/B07DBRBP7G|Digital Minimalism] by Cal Newport
-# [e:speech] [l:https://www.amazon.com/dp/1632365375|Cardcaptor Sakura: Clear Card Vol. 1] by CLAMP
-# [e:speech] [l:https://www.amazon.com/dp/1632365383|Cardcaptor Sakura: Clear Card Vol. 2] by CLAMP
-# [e:speech] [l:https://www.amazon.com/dp/1632365391|Cardcaptor Sakura: Clear Card Vol. 3] by CLAMP
-# [e:speech] [l:https://www.amazon.com/dp/1632366193|Cardcaptor Sakura: Clear Card Vol. 4] by CLAMP
-# [e:book] [l:https://www.amazon.com/dp/B07MPYX96Y|Better Allies] by Karen Catlin
-# [e:book] [l:https://pluralistic.net/2020/04/28/force-multiplier/#force-multiplier|Force Multiplier] by Cory Doctorow
-# [e:book] [l:https://www.amazon.com/dp/1602863024|The Haunting of Sunshine Girl] by Paige McKenzie
-# [e:book] [l:https://www.amazon.com/dp/1602863121|The Awakening of Sunshine Girl] by Paige McKenzie
-# [e:book] [l:https://www.amazon.com/dp/B00INIYHJQ|The Witches] by Roald Dahl
-# [e:book] [l:https://www.amazon.com/dp/B00IV351R0|Parenting With Love and Logic] by Foster Cline, Jim Fay
-# [e:book] [l:https://www.amazon.com/dp/B01JZ2QLMO|The Sacrifice of Sunshine Girl] by Paige McKenzie
-# [e:book] [l:https://www.amazon.com/dp/B07C6H6FNN|A Monk's Guide to a Clean House and Mind] by Shoukei Matsumoto
-# [e:book] [l:https://www.amazon.com/dp/B075F6XVM8|A Journey Through A History of Magic] by The British Library
-# [e:book] [l:https://www.amazon.com/dp/B07CMMHGNN|Thanks A Thousand: A Gratitude Journey] by A.J. Jacobs
-# [e:book] [l:https://www.amazon.com/dp/B084G8ZBM2|Calm Christmas and a Happy New Year] by Beth Kempton
-# [e:book] [l:https://www.gutenberg.org/ebooks/520|The Life and Adventures of Santa Claus] by L. Frank Baum
-# [e:book] [l:https://www.amazon.com/dp/0618512659|Letters From Father Christmas] by J.R.R. Tolkien
-# [e:book] [l:https://www.amazon.com/dp/0807069205|A Mind of Winter] by Robert Atwan
-# [e:book] [l:https://www.amazon.com/dp/B01HNJIJB2|The Daily Stoic] by Ryan Holiday
-2 Books read in 2019
-& [b:Goal: 17 of 12] [e:checkmark]
-# [e:book] [l:https://www.amazon.com/dp/1607747308|The Life-Changing Magic of Tidying Up] by Marie Kondō
-# [e:book] [l:https://www.amazon.com/dp/B07C31XJGP|No-Nonsense Buddhism for Beginners] by Noah Rasheta
-# [e:book] [l:https://www.amazon.com/dp/0857834916|Ikigai] by Yukari Mitsuhashi
-# [e:headphones] [l:https://www.amazon.com/dp/038574126X|We Were Liars] by E. Lockhart
-# [e:book] [l:https://www.amazon.com/dp/0143130722|Ikigai] by Héctor García & Francesc Miralles
-# [e:book] [l:https://www.amazon.com/dp/B003VIWRM2|My Spiritual Journey] by The 14th Dalai Lama
-# [e:book] [l:https://www.amazon.com/dp/0399581294|Draw Your Day] by Samantha Dion Baker
-# [e:book] [l:https://www.amazon.com/dp/0399581626|The New Rules of Coffee] by Jordan Michelman and Zachary Carlsen
-# [e:book] [l:https://www.amazon.com/dp/0553512706|The Halloween Tree] by Ray Bradbury
-# [e:book] [l:https://www.amazon.com/dp/B077S21HX6|Scary Stories to Tell in the Dark] by Alvin Schwartz
-# [e:book] [l:https://www.amazon.com/dp/0060835222|More Scary Stories to Tell in the Dark] by Alvin Schwartz
-# [e:book] [l:https://www.amazon.com/dp/B0006ASEJS|Halloween through twenty centuries] by Ralph Linton
-# [e:book] [l:https://www.amazon.com/dp/0060835249|Scary Stories 3: More Tales to Chill Your Bones] by Alvin Schwartz
-# [e:book] [l:https://www.amazon.com/dp/B00VE3J1QG|The Nightmare Collective] by Multiple authors
-# [e:book] [l:https://www.gutenberg.org/ebooks/7256|The Gift of the Magi] by O. Henry
-# [e:book] [l:https://www.amazon.com/dp/B00JS59ZK4|Watch Dogs: Dark Clouds] by John Shirley
-# [e:book] [l:https://www.gutenberg.org/ebooks/46|A Christmas Carol] by Charles Dickens
-2 Books read prior to 2019
-- [e:book] [l:https://www.amazon.com/dp/0545162076|Harry Potter 1-7] by J.K. Rowling
-- [e:book] [l:https://www.amazon.com/dp/B002BA83RO|The Dead Zone] by Stephen King
-- [e:book] [l:https://www.amazon.com/dp/1403991960|Lord of the Flies] by William Golding
-- [e:book] [l:https://www.amazon.com/dp/039333807X|Survivor] by Chuck Palahniuk
-- [e:book] [l:https://www.amazon.com/dp/0393327345|Fight Club] by Chuck Palahniuk
-- [e:book] [l:https://www.amazon.com/dp/0385720920|Choke] by Chuck Palahniuk
-- [e:book] [l:https://www.amazon.com/dp/1400049628|The Zombie Survival Guide] by Max Brooks
-- [e:book] [l:https://www.amazon.com/dp/0307346617|World War Z] by Max Brooks
-- [e:book] [l:https://www.gutenberg.org/ebooks/19002|Alices Adventures Underground] by Lewis Carroll
-- [e:book] [l:https://www.amazon.com/dp/0307275833|Rant] by Chuck Palahniuk
-- [e:book] [l:https://www.amazon.com/dp/1595145168|The Future of Us] by Jay Asher
-- [e:book] [l:https://www.amazon.com/dp/1582342733|The Dark Fields] by Alan Glynn
-- [e:book] [l:https://www.amazon.com/dp/0439023483|The Hunger Games] by Suzanne Collins
-- [e:book] [l:https://www.amazon.com/dp/0545586178|Catching Fire] by Suzanne Collins
-- [e:book] [l:https://www.amazon.com/dp/0545663261|Mockingjay] by Suzanne Collins
-- [e:book] [l:https://www.amazon.com/dp/0385736002|The Alchemyst] by Michael Scott
-- [e:book] [l:https://www.amazon.com/dp/0385737289|The Magician] by Michael Scott
-- [e:book] [l:https://www.amazon.com/dp/0385735308|The Sorceress] by Michael Scott
-- [e:book] [l:https://www.amazon.com/dp/0385735324|The Necromancer] by Michael Scott
-- [e:book] [l:https://www.amazon.com/dp/0062191497|Reamde] by Neal Stephenson
-- [e:book] [l:https://www.amazon.com/dp/0316037729|Ghost in the Wires] by Kevin Mitnick
-- [e:book] [l:https://craphound.com/littlebrother/download|Little Brother] by Cory Doctorow
-- [e:book] [l:https://craphound.com/littlebrother/download|Homeland] by Cory Doctorow
-- [e:book] [l:https://www.tor.com/2013/08/28/lawful-interception/|Lawful Interception] by Cory Doctorow
-- [e:book] [l:https://www.amazon.com/dp/0307588378|Gone Girl] by Gillian Flynn
-- [e:book] [l:https://www.amazon.com/dp/1597499579|Violent Python] by T.J. O'Connor
-- [e:book] [l:https://www.amazon.com/dp/0307887448|Ready Player One] by Ernest Cline
-- [e:book] [l:http://www.galactanet.com/oneoff/lacero.html|Lacero] by Andy Weir
+& I previously had a list of books I've read here, however I have started using a [l:projects/books|books management tool] I built, which generates the same lists.
+* Here are some links to the new website generated from that tool:
+- [l:https://tilde.town/~dustin/books/|Currently Reading]
+- [l:https://tilde.town/~dustin/books/toread.html|To Read]
+- [l:https://tilde.town/~dustin/books/tags.html|Tags]
+* Year lists
+- [l:https://tilde.town/~dustin/books/2022.html|2022]
+- [l:https://tilde.town/~dustin/books/2021.html|2021]
+- [l:https://tilde.town/~dustin/books/2020.html|2020]
+- [l:https://tilde.town/~dustin/books/2019.html|2019]
+- [l:https://tilde.town/~dustin/books/prior.html|Prior to 2019]
+
 ~wiki/buddhism : Buddhism : Notes on secular Buddhism : 2021-04-12
 1 Buddhism
 & These are my notes from studying and practicing [b:secular Buddhism]. Most of this was gathered while reading [l:https://www.amazon.com/dp/B07C31XJGP|No-Nonsense Buddhism for Beginners] by Noah Rasheta.
@@ -690,6 +524,133 @@ _ Last updated: November 2022
 & I'm not much of a cook, but here are some recipes I use fairly often, or just occasionally and don't want to forget.
 ? [d:recipes]
 
+~recipes/rice-pudding : Rice Pudding : Rice Pudding : 2022-11-20
+1 Rice Pudding
+# [l:#Description|Description]
+# [l:#Ingredients|Ingredients]
+# [l:#Directions|Directions]
+2 Description
+& This recipe is taken from [l:https://jameschip.io/rice_pud.html|this recipe by James Chip]. The only difference is I converted the measurements and added a cook time.
+2 Ingredients
+- 1/2 cup pudding rice
+- 1/3 cup granulated sugar
+- 3 cups oat milk 
+- Nutmeg
+2 Directions
+# Preheat the oven to [b:300&deg;F]
+# Mix the [b:rice], [b:sugar], and [b:milk] in an [b:oven safe dish].
+# Sprinkle [b:nutmeg] over the top
+# Bake in oven until the liquid is absorbed, about [b:1 hr 40 min].
+
+~recipes/vegan-pumpkin-spice-sauce : Vegan Pumpkin Spice Sauce : Vegan Pumpkin Spice Sauce : 2022-09-22
+1 Vegan Pumpkin Spice Sauce
+& I wanted  to make a vegan and sugar free sauce for pumpkin spice lattes and ended up with this. If you don't want to use the monk fruit sweetener, you could sub in any sweetener you like, even regular sugar. The recipe I based it on used 1/2 cup sugar, but I don't like things super sweet so I lowered it. It's sweet enough for me and I find it really good in my coffee.
+# [l:#Ingredients|Ingredients]
+# [l:#Directions|Directions]
+2 Ingredients
+- 1 15oz can pumpkin
+- 1 13.5 fl oz can coconut milk
+- 1/3 cup monk fruit sweetener
+- 1/2 tbsp cinnamon
+- 1/4 tsp nutmeg
+- 1/4 tsp ginger
+- 1/4 tsp allspice
+- 1/4 tsp cloves
+2 Directions
+# Whisk [b:ingredients] in [b:saucepan] until smooth
+# Simmer on low for [b:20 minutes], stirring occasionally
+# Store in [b:fridge] for up to 1 week
+
+~recipes/pumpkin-overnight-oats : Pumpkin Overnight Oats : Savory pumpkin oats : 2021-10-21
+1 Pumpkin overnight oats
+# [l:#Ingredients|Ingredients]
+# [l:#Directions|Directions]
+# [l:#Suggested Alterations|Suggested Alterations]
+2 Ingredients
+- 1/2 cup steel-cut oats
+- 1/2 cup plant-based milk
+- 1/4 cup pumpkin seeds
+- 1/4 cup pumpkin puree
+- 1/2 tsp cinnamon
+- 1/4 tsp powdered ginger
+- 1/4 tsp nutmeg
+2 Directions
+# In a [b:jar or container], combine the all ingredients
+# Mix well
+# Place in [b:fridge] overnight
+2 Suggested Alterations
+& This recipe yields fairly thick oats. If you prefer them to be less thick, you could increase the amount of milk to 3/4 cup.
+
+~recipes/winter-oats : Winter Oats : Warm spicy oats : 2021-10-05
+1 Winter oats
+# [l:#Description|Description]
+# [l:#Ingredients|Ingredients]
+# [l:#Directions|Directions]
+# [l:#Suggested Alterations|Suggested Alterations]
+2 Description
+& This recipe is a slightly modified version of [l:https://ritualdust.com/food/winter-oats/|this recipe by ritualdust].
+2 Ingredients
+- 1/2 cup steel-cut oats
+- 1 cup water
+- 2 tbsp plant-based milk
+- 1/4 cup dried cranberries
+- 1/3 cup whole pecans
+- 1/4 tsp cinnamon
+- 1/4 tsp cardamom
+- 1/4 tsp cloves
+- 1/4 tsp nutmeg
+2 Directions
+# In a [b:small pot], combine the [b:oats] and [b:water]
+# Cook on [b:medium] until boiled ([b:~7 minutes]), constantly stirring
+# Stir in the [b:plant-based milk] and cook for another minute or so
+# In a [b:bowl], combine [b:spices]
+# Add the [b:oats] to the bowl and mix well
+# Top with [b:cranberries] and [b:pecans]
+3 Suggested Alterations
+& Originally this recipe had [b:1 tsp of brown sugar], but no longer include it. If you like things sweeter you could add that.
+
+~recipes/pb-oats : Peanut Butter Oats : Sweet peanut butter oats : 2021-09-30
+1 Peanut butter oats
+# [l:#Ingredients|Ingredients]
+# [l:#Directions|Directions]
+2 Ingredients
+- 1/2 cup steel-cut oats
+- 1 cup water
+- 2 tbsp plant-based milk
+- 1 tbsp honey
+- 2 tbsp peanut butter
+- 1 banana
+2 Directions
+# In a [b:small pot], combine the [b:oats] and [b:water]
+# Cook on [b:medium] until boiled ([b:~7 minutes]), constantly stirring
+# Stir in the [b:plant-based milk] and cook for another minute or so
+# Add the [b:oats] to a [b:bowl]
+# Stir in the [b:peanut butter] and [b:honey]
+# Slice the [b:banana] and place on top of the oats
+
+~recipes/pumpkin-seeds : Roasted Pumpkin Seeds : Sweet or savory seeds : 2020-10-30
+1 Roasted Pumpkin Seeds
+# [l:#Ingredients|Ingredients]
+# [l:#Spice ideas|Spice ideas]
+# [l:#Directions|Directions]
+2 Ingredients
+- Pumpkin seeds
+- Olive oil
+- Spices
+2 Spice ideas
+- Salt &amp; pepper
+- Pumpkin pie spice
+- Garlic powder
+2 Directions
+# Remove [b:pumpkin seeds] from pumpkin, rinse
+# Spread out somewhere to dry out
+# Pre-heat oven to [b:200 &deg;]
+# In a [b:bowl] combine [b:seeds], [b:oil], and [b:spices]
+# Spread seeds on a [b:baking sheet]
+# Bake for [b:45 minutes]
+# Turn the heat up to [b:325&deg;]
+# Bake for [b:5 minutes] or until crisp (they will start popping when about done)
+
 ~recipes/fall-oats : Fall Oats : Sweet pumpkin oats : 2020-10-21
 1 Fall oats
 # [l:#Description|Description]
@@ -720,137 +681,31 @@ _ Last updated: November 2022
 & Originally this recipe had [b:1 tsp of brown sugar], but no longer include it. If you like things sweeter you could add that.
 & Another way to make it sweeter would be to use a lower percentage of dark chocolate, such as 60 or 70.
 
-~recipes/pumpkin-seeds : Roasted Pumpkin Seeds : Sweet or savory seeds : 2020-10-30
-1 Roasted Pumpkin Seeds
-# [l:#Ingredients|Ingredients]
-# [l:#Spice ideas|Spice ideas]
-# [l:#Directions|Directions]
-2 Ingredients
-- Pumpkin seeds
-- Olive oil
-- Spices
-2 Spice ideas
-- Salt &amp; pepper
-- Pumpkin pie spice
-- Garlic powder
-2 Directions
-# Remove [b:pumpkin seeds] from pumpkin, rinse
-# Spread out somewhere to dry out
-# Pre-heat oven to [b:200 &deg;]
-# In a [b:bowl] combine [b:seeds], [b:oil], and [b:spices]
-# Spread seeds on a [b:baking sheet]
-# Bake for [b:45 minutes]
-# Turn the heat up to [b:325&deg;]
-# Bake for [b:5 minutes] or until crisp (they will start popping when about done)
-
-~recipes/pb-oats : Peanut Butter Oats : Sweet peanut butter oats : 2021-09-30
-1 Peanut butter oats
-# [l:#Ingredients|Ingredients]
-# [l:#Directions|Directions]
-2 Ingredients
-- 1/2 cup steel-cut oats
-- 1 cup water
-- 2 tbsp plant-based milk
-- 1 tbsp honey
-- 2 tbsp peanut butter
-- 1 banana
-2 Directions
-# In a [b:small pot], combine the [b:oats] and [b:water]
-# Cook on [b:medium] until boiled ([b:~7 minutes]), constantly stirring
-# Stir in the [b:plant-based milk] and cook for another minute or so
-# Add the [b:oats] to a [b:bowl]
-# Stir in the [b:peanut butter] and [b:honey]
-# Slice the [b:banana] and place on top of the oats
-
-~recipes/winter-oats : Winter Oats : Warm spicy oats : 2021-10-05
-1 Winter oats
-# [l:#Description|Description]
-# [l:#Ingredients|Ingredients]
-# [l:#Directions|Directions]
-# [l:#Suggested Alterations|Suggested Alterations]
-2 Description
-& This recipe is a slightly modified version of [l:https://ritualdust.com/food/winter-oats/|this recipe by ritualdust].
-2 Ingredients
-- 1/2 cup steel-cut oats
-- 1 cup water
-- 2 tbsp plant-based milk
-- 1/4 cup dried cranberries
-- 1/3 cup whole pecans
-- 1/4 tsp cinnamon
-- 1/4 tsp cardamom
-- 1/4 tsp cloves
-- 1/4 tsp nutmeg
-2 Directions
-# In a [b:small pot], combine the [b:oats] and [b:water]
-# Cook on [b:medium] until boiled ([b:~7 minutes]), constantly stirring
-# Stir in the [b:plant-based milk] and cook for another minute or so
-# In a [b:bowl], combine [b:spices]
-# Add the [b:oats] to the bowl and mix well
-# Top with [b:cranberries] and [b:pecans]
-3 Suggested Alterations
-& Originally this recipe had [b:1 tsp of brown sugar], but no longer include it. If you like things sweeter you could add that.
-
-~recipes/pumpkin-overnight-oats : Pumpkin Overnight Oats : Savory pumpkin oats : 2021-10-21
-1 Pumpkin overnight oats
-# [l:#Ingredients|Ingredients]
-# [l:#Directions|Directions]
-# [l:#Suggested Alterations|Suggested Alterations]
-2 Ingredients
-- 1/2 cup steel-cut oats
-- 1/2 cup plant-based milk
-- 1/4 cup pumpkin seeds
-- 1/4 cup pumpkin puree
-- 1/2 tsp cinnamon
-- 1/4 tsp powdered ginger
-- 1/4 tsp nutmeg
-2 Directions
-# In a [b:jar or container], combine the all ingredients
-# Mix well
-# Place in [b:fridge] overnight
-2 Suggested Alterations
-& This recipe yields fairly thick oats. If you prefer them to be less thick, you could increase the amount of milk to 3/4 cup.
-
-~recipes/vegan-pumpkin-spice-sauce : Vegan Pumpkin Spice Sauce : Vegan Pumpkin Spice Sauce : 2022-09-22
-1 Vegan Pumpkin Spice Sauce
-& I wanted  to make a vegan and sugar free sauce for pumpkin spice lattes and ended up with this. If you don't want to use the monk fruit sweetener, you could sub in any sweetener you like, even regular sugar. The recipe I based it on used 1/2 cup sugar, but I don't like things super sweet so I lowered it. It's sweet enough for me and I find it really good in my coffee.
-# [l:#Ingredients|Ingredients]
-# [l:#Directions|Directions]
-2 Ingredients
-- 1 15oz can pumpkin
-- 1 13.5 fl oz can coconut milk
-- 1/3 cup monk fruit sweetener
-- 1/2 tbsp cinnamon
-- 1/4 tsp nutmeg
-- 1/4 tsp ginger
-- 1/4 tsp allspice
-- 1/4 tsp cloves
-2 Directions
-# Whisk [b:ingredients] in [b:saucepan] until smooth
-# Simmer on low for [b:20 minutes], stirring occasionally
-# Store in [b:fridge] for up to 1 week
-
-~recipes/rice-pudding : Rice Pudding : Rice Pudding : 2022-11-20
-1 Rice Pudding
-# [l:#Description|Description]
-# [l:#Ingredients|Ingredients]
-# [l:#Directions|Directions]
-2 Description
-& This recipe is taken from [l:https://jameschip.io/rice_pud.html|this recipe by James Chip]. The only difference is I converted the measurements and added a cook time.
-2 Ingredients
-- 1/2 cup pudding rice
-- 1/3 cup granulated sugar
-- 3 cups oat milk 
-- Nutmeg
-2 Directions
-# Preheat the oven to [b:300&deg;F]
-# Mix the [b:rice], [b:sugar], and [b:milk] in an [b:oven safe dish].
-# Sprinkle [b:nutmeg] over the top
-# Bake in oven until the liquid is absorbed, about [b:1 hr 40 min].
-
 ~projects/index : Projects : My various personal projects : 2022-05-19
 1 Projects
 & Below is a list of personal projects I've created. Most of them are tools I have made for myself that others can use as well.
 ? [d:projects]
+
+~projects/books : Books : A text-based Goodreads alternative : 2022-12-08
+1 Books
+& I had been feeling that Goodreads was not the best tool for me to manage my books. Here are some of the reasons:
+- It's a clunky tool that can take a lot of time to tag a bunch of books, etc
+- I don't need the social aspect of it, it's just another thing I'm checking too often for no reason
+- The reading goals cause me to feel I have to read when I don't want to, or to read short things just to hit the goal
+- The rating and reviews didn't do much for me, so I was doing it for no reason
+& I wanted a simpler solution, so I built my own. It consists of a series of text files which include:
+- Year read lists (2022-read.txt, 2021-read.txt, etc)
+- To read list
+- Currently reading list
+& There is a [b:generate.py] file which takes these in and generates the following on a site:
+- A currently reading list
+- Yearly read lists
+- A to-read list with links for tags
+- List of books for each tag
+- A list of all tags with counts
+& Management is simple as it's just text files of books/authors (and tags in one of them) that I can edit in vim. It doesn't do counts for the year. There are no goals. It's just a history of the books I want to read and the books I've read, which is exactly what I needed.
+- Source code: [l:https://github.com/0xdstn/books/]
+- Live version: [l:https://tilde.town/~dustin/books/]
 
 ~projects/epocket : epocket : A script to convert a pocket RSS feed to HTML files : 2022-10-06
 1 epocket
@@ -866,7 +721,7 @@ _ Last updated: November 2022
 & I decided to create this simple app for my on the go bullet journal needs. You can add/edit notes, tasks, and events, and delete them when you're ready.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/log/]
-- Live version: [l:http://tilde.town/~dustin/log/]
+- Live version: [l:https://tilde.town/~dustin/log/]
 
 ~projects/habits : Habits :  An emoji-based monthly habit tracker : 2022-03-07
 1 Habits
@@ -874,14 +729,14 @@ _ Last updated: November 2022
 & In the settings you provide a comma separated list of emoji, each of which represent a habit you want to track.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/habits/]
-- Live version: [l:http://tilde.town/~dustin/habits/]
+- Live version: [l:https://tilde.town/~dustin/habits/]
 
 ~projects/lipu-sona : lipu sona : A toki pona/sitelen pona flash card tool : 2022-03-07
 1 lipu sona 
 & A simple flash card tool to practice learning toki pona and sitelen pona.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/lipu-sona/]
-- Live version: [l:http://tilde.town/~dustin/lipu-sona/]
+- Live version: [l:https://tilde.town/~dustin/lipu-sona/]
 
 ~projects/suno : suno : An impermanent morning page writing tool : 2022-02-25
 1 suno
@@ -889,7 +744,7 @@ _ Last updated: November 2022
 & It stores your day's writing in local storage, and erases it the next day. The intent with this is for you to be able to write without worrying about the contents, as they will be gone within 24 hours.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/suno/]
-- Live version: [l:http://tilde.town/~dustin/suno/]
+- Live version: [l:https://tilde.town/~dustin/suno/]
 
 ~projects/lawa : lawa : A flat-file journaling script : 2022-02-24
 1 lawa
@@ -932,14 +787,14 @@ _ Last updated: November 2022
 & It uses the [l:http://musilili.net/linja-pona/|linja pona] font, so usage of that font can be viewed on that site.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/ilo-nimi/]
-- Live version: [l:http://tilde.town/~dustin/ilo-nimi/]
+- Live version: [l:https://tilde.town/~dustin/ilo-nimi/]
 
 ~projects/musi-nimi : musi nimi : A Wordle clone with Toki Pona words : 2022-01-19
 1 musi nimi 
 & A hosted version of [l:https://www.powerlanguage.co.uk/wordle/|Wordle], but using 4 letter Toki Pona words. There are [b:69] 4 letter words in Toki Pona, more than any other word length, so those are used for the dictionary of possible words.
 & I did not build this from scratch. I copied the actual source files from Wordle and modified them. I take no credit for creating this game, I just wanted a Toki Pona version for myself to play, and I figured I'd share it for others to play as well.
 & UI translations to toki pona were provided by [l:https://toki.social/@tepo|@tepo@toki.social].
-& [b:Live version]: [l:http://tilde.town/~dustin/wordle-toki/]
+& [b:Live version]: [l:https://tilde.town/~dustin/wordle-toki/]
 
 ~projects/adventurer : Adventurer : Resources for playing The Adventurer : 2021-12-15
 1 Adventurer
@@ -950,7 +805,7 @@ _ Last updated: November 2022
 2 Online tool
 & An online tool for playing without a deck of cards. This was inspired by the [l:https://jameschip.io/adventurer_online/index.html|official online tool], but with some new features.
 - Source code: [l:https://github.com/0xdstn/adventurer/]
-- Live version: [l:http://tilde.town/~dustin/adventurer/]
+- Live version: [l:https://tilde.town/~dustin/adventurer/]
 * Features:
 - Draw cards from each pile using the default card list
 - Uses local storage to store deck state so you can return to your active game
@@ -993,7 +848,7 @@ _ Coming soon - stories I have written with The Adventurer
 1 Tilde world
 & Tilde world (~world) is a flat-file, community powered, text adventure game intended to be run on tilde servers.
 & [b:Source code:] [l:https://github.com/0xdstn/tilde-world]
-& [b:~town map:] [l:http://tilde.town/~dustin/world/]
+& [b:~town map:] [l:https://tilde.town/~dustin/world/]
 # [l:#Description|Description]
 # [l:#Creating rooms|Creating rooms]
 # [l:#Objects|Objects]
@@ -1103,7 +958,7 @@ _ Coming soon - stories I have written with The Adventurer
 & This is a simple tool that allows you to input Toki Pona, and it will provide you the definition of each word. It does not understand sentence structure and doesn't give you an actual translation, but provides you information so you can translate yourself.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/ilo/]
-- Live version: [l:http://tilde.town/~dustin/ilo/]
+- Live version: [l:https://tilde.town/~dustin/ilo/]
 & There is also a firefox addon to add an item to context the menu when you select some text and right click on it. When you click the item it opens a new tab with the selected text in ilo to be translated.
 - Addon: [l:https://addons.mozilla.org/en-US/firefox/addon/ilo/]
 - Source code: [l:https://github.com/0xdstn/ilo-firefox]
@@ -1142,7 +997,7 @@ _ Coming soon - stories I have written with The Adventurer
 # [l:#Future plans|Future plans]
 # [l:#Release notes|Release notes]
 2 Description
-& Tilde Social is intended to be used on shared tilde servers (like [l:http://tilde.town|tilde.town]).
+& Tilde Social is intended to be used on shared tilde servers (like [l:https://tilde.town|tilde.town]).
 & All of your data is contained in your home directory, and others read your files to display information.
 2 User file system
 & When you initialize an account, you will have the following in your [b:~/.social] directory:
@@ -1150,7 +1005,7 @@ _ Coming soon - stories I have written with The Adventurer
 - [b:following] - list of users you are following
 - [b:posts] - list of posts you've published
 2 CLI utility
-& The network is interacted with via a single python script. On [l:http://tilde.town|tilde.town] it is globally linked as [c:timeline].
+& The network is interacted with via a single python script. On [l:https://tilde.town|tilde.town] it is globally linked as [c:timeline].
 & You can use the following commands (example: [c:timeline feed]):
 - [c:init] - To create a new profile, it will ask you a few questions and generate files for you
 - [c:users] - View a list of users who have a profile
@@ -1196,7 +1051,7 @@ _ Coming soon - stories I have written with The Adventurer
 
 ~projects/tilde-tools : Tilde tools : A list of tilde.town related projects : 2020-12-30
 1 Tilde tools
-& A list of projects related to [l:http://tilde.town|tilde.town].
+& A list of projects related to [l:https://tilde.town|tilde.town].
 # [l:#@towniebot|@towniebot]
 # [l:#Tildebrowser|Tildebrowser]
 # [l:#Twtxt scraper|Twtxt scraper]
@@ -1208,22 +1063,22 @@ _ Coming soon - stories I have written with The Adventurer
 & If you are a ~town user and would like to opt out as an option for this bot, simply create an empty file in your home directory called [b:.towniebot]. If the bot selects you and finds this file, it will skip you and move on to someone else.
 & If you were featured before you were able to opt out, please reach out to me and I can manually delete the toot.
 2 Tildebrowser
-& This project was an idea by [l:http://tilde.town/~equa|~equa].
+& This project was an idea by [l:https://tilde.town/~equa|~equa].
 & Every night at 12AM server time, a list of users will be scraped from the [b:/home] directory.
 & If a user has not changed their [b:index.html] from the default, they are not included in the list.
 & The page defaults the first user in the list, and provides links to the next and previous users, alphabetically. The page loads the currently selected user's page in an iframe. 
 & If you are a member of ~town and would like to be excluded from the list, you can create a [b:.tildebrowser] file in your home directory. When the data is refreshed at 12AM, it will not include you. If you need it refreshed sooner, reach out to me and will manually run the script as soon as I can.
-& The tildebrowser can be [l:http://tilde.town/~dustin/tildebrowser|viewed here].
+& The tildebrowser can be [l:https://tilde.town/~dustin/tildebrowser|viewed here].
 2 Twtxt scraper
-& A script that gathers a list of [l:https://github.com/buckket/twtxt|twtxt] feeds of ~town users. It searches for an actual [b:twtxt.txt] file, and also parses the user's [b:index.html] file for a link if a file wasn't found. It is run nightly, and the output can be [l:http://tilde.town/~dustin/twtxt.html|viewed here].
+& A script that gathers a list of [l:https://github.com/buckket/twtxt|twtxt] feeds of ~town users. It searches for an actual [b:twtxt.txt] file, and also parses the user's [b:index.html] file for a link if a file wasn't found. It is run nightly, and the output can be [l:https://tilde.town/~dustin/twtxt.html|viewed here].
 2 Social scraper
-& A script that gathers a list of social accounts from ~town user's [b:index.html] file. It finds mastodon, github, instagram, and twitter. It is run nightly, and the output can be [l:http://tilde.town/~dustin/social.html|viewed here].
+& A script that gathers a list of social accounts from ~town user's [b:index.html] file. It finds mastodon, github, instagram, and twitter. It is run nightly, and the output can be [l:https://tilde.town/~dustin/social.html|viewed here].
 2 Namelen
-& A script that gathers statistics on the username length of ~town users. It is run nightly, and the output can be [l:http://tilde.town/~dustin/namelen.html|viewed here].
+& A script that gathers statistics on the username length of ~town users. It is run nightly, and the output can be [l:https://tilde.town/~dustin/namelen.html|viewed here].
 2 Linkbot
 & An IRC bot that finds URLs, images, and youtube videos, and compiles a list of them. 
 & You are automatically opted out of your links being shared. If you want to opt in so all links you post are shared, you can add an empty [b:.linkbot] file to your home directory. If the bot finds a link you posted and you have this dotfile, your link will be added. You can still opt a specific link out by starting your message with [b:!nolinkbot], [b:!nolink], or [b:!nolb]. If you are not opted in, you can still add a link explicitly by starting your message with [b:!linkbot], [b:!link], or [b:!lb].
-& The output can be [l:http://tilde.town/~dustin/linkbot/|viewed here].
+& The output can be [l:https://tilde.town/~dustin/linkbot/|viewed here].
 
 ~projects/camera-glitch : Camera glitch : A collection of photos taken with a broken digital camera : 2015-01-01
 1 Camera glitch
@@ -1263,6 +1118,7 @@ _ Coming soon - stories I have written with The Adventurer
 
 ~writing/mastodon : Returning to Mastodon : Thoughts on my return to Mastodon : 2022-11-29
 1 Returning to Mastodon
+_ 2022.11.29
 & A while back I decided to limit the amount of social media I was using, including Mastodon. I didn't like the way it made me feel and the way it distracted me from everything else in my life.
 & I have recently made the decision to get back on Mastodon in a small local community with people I know IRL. As per my personal philosophy on technology, I am going to be mindful of my usage, which will include:
 - Not having it installed on my phone, so I can intentionally open up my laptop to go check my feed

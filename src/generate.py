@@ -64,7 +64,7 @@ singular = {
         "projects": "Project",
         "wiki": "Wiki entry",
         "writing": "Writing",
-        "recipes": "Recipe",
+        "recipes": "Recipes",
         "then": "Updates"
 }
 

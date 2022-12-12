@@ -568,7 +568,7 @@ _ Last updated: December 2022
 # [l:#Suggested Alterations|Suggested Alterations]
 2 Ingredients
 - 1/2 cup steel-cut oats
-- 1/2 cup plant-based milk
+- 2/3 cup plant-based milk
 - 1/4 cup pumpkin seeds
 - 1/4 cup pumpkin puree
 - 1/2 tsp cinnamon
@@ -578,8 +578,6 @@ _ Last updated: December 2022
 # In a [b:jar or container], combine the all ingredients
 # Mix well
 # Place in [b:fridge] overnight
-2 Suggested Alterations
-& This recipe yields fairly thick oats. If you prefer them to be less thick, you could increase the amount of milk to 3/4 cup.
 
 ~recipes/winter-oats : Winter Oats : Warm spicy oats : 2021-10-05
 1 Winter oats

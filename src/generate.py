@@ -35,7 +35,8 @@ tplKey = {
     "c": "code",
     "d": "directory",
     "e": "emoji",
-    "r": "recent"
+    "r": "recent",
+    "z": "books"
 }
 
 emoji = {
@@ -129,6 +130,22 @@ def tpl(line):
         elif k == "e":
             if m[1] in emoji:
                 line = line.replace(tag, ' <span class="emoji">&#{};</span>'.format(emoji[m[1]]))
+        elif k == "z":
+            if m[1] == 'read-prior' or m[1] == 'current':
+                booksOut = '<ul>'
+            else:
+                booksOut = '<ol>'
+            booksFile = open("../books/" + m[1] + ".txt", "r")
+            for book in booksFile:
+                book = book.strip()
+                b = book.split(' | ')
+                booksOut += '<li><strong>{}</strong> by <em>{}</em>'.format(b[0],b[1])
+            booksFile.close()
+            if m[1] == 'read-prior' or m[1] == 'current':
+                booksOut += '</ul>'
+            else:
+                booksOut += '</ol>'
+            line = line.replace(tag, booksOut)
         else:
             line = line.replace(tag, "<{}>{}</{}>".format(tplKey[k],m[1],tplKey[k]))
 

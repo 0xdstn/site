@@ -11,21 +11,21 @@
 2 Latest
 ? [r:then,writing,projects,recipes]
 
-~now/index : Now : What I'm currently up to : 2022-12-06
+~now/index : Now : What I'm currently up to : 2023-01-03
 1 Now
-_ Last updated: December 2022
+_ Last updated: January 2023
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
 & This now page used to just display the same stuff with the what I'm reading/listening to changing occasionally. Instead, I'm going to update it each month with what I'm focusing on (sometimes updating throughout the month).
 & You can see previous monthly updates in the [l:then|then section].
 2 Birds
-& We have a new visitor that's taken over our bird feeder - [b:Dark-eyed Junkos]. It seems they may have taken over, as the house finches haven't been stopping by anymore, or at least not as often.
+& I saw a [b:Red-tailed Hawk] on the side of the road eating some sort of animal. Near it a [b:Black-billed Magpie] waited for it's turn.
+& There were about 20 [b:European Starling] at the hanging bird feeder we have in our tree in the backyard. They swarmed our yard, filling the tree branches and the ground below the feeder. They are very aggressive with the other birds.
 & These are the birds I saw this month:
-- Dark-eyed Junko 
-2 Reading
-& I decided Goodreads isn't the best book management solution for me personally, so I created my own tool. You can see it and more about it here:
-- Project post: [l:projects/books|Books]
-- Source code: [l:https://github.com/0xdstn/books/]
-- Live version: [l:https://tilde.town/~dustin/books/]
+- Red-tailed Hawk
+- Black-billed Magpie
+- European Starling
+2 Listening
+& I finished the [l:https://www.grimandmild.com/bridgewater|Bridgewater] podcast. I started it a long time ago but never finished. I thought it was pretty good.
 
 ~hello/index : Hello : How to contact me : 2022-07-13
 1 Hello
@@ -46,6 +46,26 @@ _ Last updated: December 2022
 1 Then 
 & Below are is list of monthly updates of what I've been up to. They are essentially the state of my [l:now|now page] at the end of each month.
 ? [d:then]
+
+~then/2022-12 : December 2022 : What I focused on in December 2022 : 2023-01-03
+1 December 2022
+2 Birds
+& We have a new visitor that's taken over our bird feeder - [b:Dark-eyed Junkos]. It seems they may have taken over, as the house finches haven't been stopping by anymore, or at least not as often.
+& We also had two Northern Flickers visit our hanging bird feeder!
+& These are the birds I saw this month:
+- Dark-eyed Junko 
+- House Finch
+- Northern Flicker
+2 Reading
+& I decided Goodreads isn't the best book management solution for me personally, so I created my own tool. You can see it and more about it here:
+- Project post: [l:projects/books|Books]
+- Source code: [l:https://github.com/0xdstn/books/]
+- Live version: [l:https://tilde.town/~dustin/books/]
+& I actually didn't finish any books in December. I went into the month at 30 books, which was my goal. I started a couple of books, but didn't manage to get all the way through them.
+& Moving forward I want to improve my relationship to reading. Aside from no longer using goodreads, I am also not going to set a yearly goal, and be more relaxed about what and when I read.
+2 Listening
+& I finished [l:https://www.ruritania.co.uk/stories|The Elf Service], the latest Christms Stories Podcast series. I really enjoyed this, as I do every year.
+& I also started [l:https://www.grimandmild.com/12ghosts|12 Ghosts], but did not finish before December ended. I will finish it up in January. I love the [l:https://www.grimandmild.com/13days|13 Days of Halloween] podcast. This one is similar, but ghost stories for Christmas time. So far it's been great.
 
 ~then/2022-11 : November 2022 : What I focused on in November 2022 : 2022-12-06
 1 November 2022
@@ -227,17 +247,34 @@ _ Last updated: December 2022
 
 ~wiki/library : Library : A list of books I've read : 2022-12-08
 1 Library
-& I previously had a list of books I've read here, however I have started using a [l:projects/books|books management tool] I built, which generates the same lists.
-* Here are some links to the new website generated from that tool:
-- [l:https://tilde.town/~dustin/books/|Currently Reading]
-- [l:https://tilde.town/~dustin/books/toread.html|To Read]
-- [l:https://tilde.town/~dustin/books/tags.html|Tags]
-* Year lists
-- [l:https://tilde.town/~dustin/books/2022.html|2022]
-- [l:https://tilde.town/~dustin/books/2021.html|2021]
-- [l:https://tilde.town/~dustin/books/2020.html|2020]
-- [l:https://tilde.town/~dustin/books/2019.html|2019]
-- [l:https://tilde.town/~dustin/books/prior.html|Prior to 2019]
+& Below is a list of books I've read, separated by year. This list was created as part of my [b:2019] New Years resolution to read more. Books read before [b:2019] are listed together in the [b:Books read prior to 2019] section. I attempted to put them in order read, ascending, but those may be off. All books categorized in a year are in order of when they were read, ascending.
+& The data is being populated from my [l:projects/books|book tracking] project. As of 2023, I no longer set a goal for myself so it doesn't get in the way of enjoying reading.
+# [l:#Currently reading|Currently reading]
+# [l:#Books read in 2023|Books read in 2023]
+# [l:#Books read in 2022|Books read in 2022]
+# [l:#Books read in 2021|Books read in 2021]
+# [l:#Books read in 2020|Books read in 2020]
+# [l:#Books read in 2019|Books read in 2019]
+# [l:#Books read prior to 2019|Books read prior to 2019]
+2 Currently reading
+? [z:current]
+2 Books read in 2023
+_ TBD
+? [z:read-2023]
+2 Books read in 2022
+& [b:Goal: 30 of 30] [e:checkmark]
+? [z:read-2022]
+2 Books read in 2021
+& [b:Goal: 39 of 20] [e:checkmark]
+? [z:read-2021]
+2 Books read in 2020
+& [b:Goal: 39 of 15] [e:checkmark]
+? [z:read-2020]
+2 Books read in 2019
+& [b:Goal: 17 of 12] [e:checkmark]
+? [z:read-2019]
+2 Books read prior to 2019
+? [z:read-prior]
 
 ~wiki/buddhism : Buddhism : Notes on secular Buddhism : 2021-04-12
 1 Buddhism

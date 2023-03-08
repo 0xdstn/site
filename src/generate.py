@@ -1,13 +1,23 @@
 #!/usr/bin/env python3
 
+import sys
 import shutil
 import os
 import re
 import html
 import datetime
 
-basePath = "/~dustin/"
-outPath = "../"
+args = sys.argv
+
+if len(args) == 4:
+    srcPath = args[1]
+    outPath = args[2]
+    basePath = args[3]
+
+else:
+    srcPath = "./"
+    outPath = "../"
+    basePath = "/~dustin/"
 
 key = {
     "&": "p",
@@ -58,25 +68,27 @@ emoji = {
     "paint": "127912",
     "christmas": "127876",
     "checkmark": "9989",
-    "camera": "128247"
+    "camera": "128247",
+    "building": "127970"
 }
 
 singular = {
         "projects": "Project",
         "wiki": "Wiki entry",
-        "writing": "Writing",
-        "recipes": "Recipes",
-        "then": "Updates"
+        "writing": "Post",
+        "recipes": "Recipe",
+        "then": "Update",
+        "art": "Art post"
 }
 
 # Read the header
-with open("templates/header.html", "r") as headerFile:
+with open(srcPath + "templates/header.html", "r") as headerFile:
 	header = headerFile.read()
 headerFile.close()
 header = header.replace('[BASEPATH]',basePath)
 
 # Read the footer
-with open("templates/footer.html", "r") as footerFile:
+with open(srcPath + "templates/footer.html", "r") as footerFile:
 	footer = footerFile.read()
 footerFile.close()
 
@@ -110,7 +122,6 @@ def tpl(line):
             if m[1] == 'index':
                 tmpPages = []
                 for x in data:
-                    print(x)
                     if x != 'index' and x != 'devnull':
                         tmpPages.append(x)
             else:
@@ -121,7 +132,7 @@ def tpl(line):
                     ul += '<li><a href="{}">{}</a> {}'.format(basePath + page["LINK"].replace('/index',''),page["NAME"],page["DESC"])
                 elif x != "index":
                     page = data[m[1]][x]
-                    if m[1] == 'writing':
+                    if m[1] == 'writing' or m[1] == 'posts':
                         ul += '<li><strong>{}</strong> <a href="{}">{}</a><br>{}'.format(page["DATE"].replace("-","."),basePath + page["LINK"],page["NAME"],page["DESC"])
                     else:
                         ul += '<li><a href="{}">{}</a> {}'.format(basePath + page["LINK"],page["NAME"],page["DESC"])
@@ -280,11 +291,11 @@ data = {}
 curSection = ""
 curPage = ""
 
-dataFile = open("data.txt", "r")
+dataFile = open(srcPath + "data.txt", "r")
 parseData(dataFile)
 dataFile.close()
 
-devnull= open("devnull.txt", "r")
+devnull= open(srcPath + "devnull.txt", "r")
 parseData(devnull)
 devnull.close()
 
@@ -336,10 +347,10 @@ xmlKeys.sort()
 xmlOutput += '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content">\n'
 xmlOutput += '  <channel>\n'
 xmlOutput += '    <title>~dustin</title>\n'
-xmlOutput += '    <link>https://tilde.town/~dustin/</link>\n'
+xmlOutput += '    <link>https://tilde.town' + basePath + '</link>\n'
 xmlOutput += '    <description>Dustin, Software Engineer from Spokane, WA</description>\n'
 xmlOutput += '    <language>en-us</language>\n'
-xmlOutput += '    <atom:link href="https://tilde.town/~dustin/index.xml" rel="self" type="application/rss+xml" />\n'
+xmlOutput += '    <atom:link href="https://tilde.town' + basePath + 'index.xml" rel="self" type="application/rss+xml" />\n'
 
 for i in xmlKeys:
     item = xmlItems[i]

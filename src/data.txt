@@ -2,30 +2,37 @@
 1 Dustin
 & [e:wave] Hello friend. My name is [b:Dustin].
 & [e:clock] You can find out more about what I'm up to on my [l:now|now page].
-& [e:book] You can see what I'm reading on my [l:books|books page].
+& [e:book] You can see what I'm reading on my [l:wiki/library|library page].
+& [e:paint] You can see my art over on my [l:art|art blog].
 & [e:mail] If you would like to reach out to me, find out how on my [l:hello|hello page].
 
 2 Pages
 ? [d:index]
 
 2 Latest
-? [r:then,writing,projects,recipes]
+? [r:then,writing,art,projects,recipes]
 
-~now/index : Now : What I'm currently up to : 2023-01-03
+2 Currently reading
+? [z:current]
+& You can also find my yearly read lists and my to read list on my [l:books|book tracking project].
+
+~now/index : Now : What I'm currently up to : 2023-01-31
 1 Now
-_ Last updated: January 2023
+_ Last updated: March 2023
 & This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
 & This now page used to just display the same stuff with the what I'm reading/listening to changing occasionally. Instead, I'm going to update it each month with what I'm focusing on (sometimes updating throughout the month).
 & You can see previous monthly updates in the [l:then|then section].
 2 Birds
-& I saw a [b:Red-tailed Hawk] on the side of the road eating some sort of animal. Near it a [b:Black-billed Magpie] waited for it's turn.
-& There were about 20 [b:European Starling] at the hanging bird feeder we have in our tree in the backyard. They swarmed our yard, filling the tree branches and the ground below the feeder. They are very aggressive with the other birds.
 & These are the birds I saw this month:
-- Red-tailed Hawk
-- Black-billed Magpie
-- European Starling
-2 Listening
-& I finished the [l:https://www.grimandmild.com/bridgewater|Bridgewater] podcast. I started it a long time ago but never finished. I thought it was pretty good.
+- Pygmy Nuthatch
+2 Art
+& I have thought more about the goals for making my art. I want to accomplish the following:
+- Document my life
+- Explore and connect with nature
+- Explore my city
+& None of this requires any sort of community or fame associated with the art. I am going to be more personal with my art. I'm the only audience that I'm creating it for.
+2 Site updates
+- [b:2023-03-08] [l:writing/identity|Identity]
 
 ~hello/index : Hello : How to contact me : 2022-07-13
 1 Hello
@@ -40,12 +47,68 @@ _ Last updated: January 2023
 ~feeds/index : Feeds : A list of my RSS feeds : 2022-08-16
 1 Feeds
 & This is my [l:https://marcus.io/blog/making-rss-more-visible-again-with-slash-feeds|feeds page], where you can find a list of RSS feeds for my content.
-- [l:index.xml|Main RSS feed] ([l:writing|writing], [l:projects|projects], [l:recipes|recipes], [l:wiki|wiki], [l:then|monthly updates])
+- [l:index.xml|Main feed]
 
 ~then/index : Then : Historical monthly updates of what I've been up to : 2022-08-04
 1 Then 
 & Below are is list of monthly updates of what I've been up to. They are essentially the state of my [l:now|now page] at the end of each month.
 ? [d:then]
+
+~then/2023-02 : February 2023 : What I focused on in February 2023 : 2023-03-06
+1 February 2023
+2 Birds
+& I went to the park to see what birds I could find and sketch some. I found 3 [b:Canada Geese], a [b:Mallard], and some [b:American Wigeons]. Two of the geese were grazing in the grass, and the other was keeping watch. As I sat sketching the two came within a foot of me. I continued what I was doing after snapping a couple photos. Shortly after the watcher came over to me and then started lowly hissing. It continued this until I got nervous enough to get up and walk away. I guess it decided I was a threat to the others.
+& The mallard was swimming around in a group of 7 Wigeons. They didn't seem to mind.
+& I heard an owl outside one night, and I think it was a [b:Great Horned Owl] after listening to local owl songs. It'll be cool if I can actually see one sometime.
+& On another night I managed to catch the sound of the owl on my Merlin app, and it is indeed a [b:Great Horned Owl]. It sounds pretty far away from my house though.
+& These are the birds I saw this month:
+- Canada Goose
+- American Wigeon
+- Mallard
+- Song Sparrow
+- Common Raven
+2 Art
+& I've been struggling with trying to decide what I want to do with art lately. I've done what I usually do which is create Instagram accounts and try to do something like urban sketching. Through this process I have decided a couple things:
+# I don't like drawing  interiors or people. Those subjects never turn out how I want them to and I just don't really enjoy the process of drawing them.
+# Instagram is great for inspiration, but it's exhausting and distracting and I don't need one for my art. The only goal for that would be to build a community, which I don't really need, or to eventually sell my art, which I also don't really have any interest in.
+# I love drawing nature and documenting my life through objects and scenes.
+& I am going to go forward without an Instagram. Instead I set up an [l:art|art blog] for art I want to share.
+& I am going to stop trying to emulate others, drawing things I don't enjoy  and instead focus on what I do like, which is sketch journaling and nature/green sketching.
+& My goal with art is to connect with nature and people around me.
+2 Listening
+& I finally finished the [l:https://www.grimandmild.com/12ghosts|12 Ghosts] podcast. I love ghost stories and these did not disappoint. I hope they do this again next December!
+2 Watching
+& I finished the [l:https://www.imdb.com/title/tt8741290/|Tales from the Loop] show. I absolutely loved it. I feel like it did great at capturing the feelings portrayed in the original book. The stories were interesting and most of them tied together. There was also a lot of emotion tied up in the stories. I would highly reccomend this.
+2 Reading
+& I didn't finish any books this month and [i:that's okay].
+
+~then/2023-01 : January 2023 : What I focused on in January 2023 : 2023-01-31
+1 January 2023
+2 Birds
+& I saw a [b:Red-tailed Hawk] on the side of the road eating some sort of animal. Near it a [b:Black-billed Magpie] waited for it's turn.
+& There were about 20 [b:European Starling] at the hanging bird feeder we have in our tree in the backyard. They swarmed our yard, filling the tree branches and the ground below the feeder. They are very aggressive with the other birds.
+& We decided to go to a spot that is notorious for having bald eagles, and it did not disappoint. There were a lot of people set up with big fancy cameras, and we saw multiple bald eagles. I've never seen one in the wild before, so that was really exciting!
+& Amusingly, while driving down a highway we thought there was an owl up on a telephone pole in the middle of the day, which was very strange. Upon closer inspection it turns out it was an owl carving! It looked very realistic and resembled a Great Horned Owl.
+& I happened to see a second [b:Red-tailed Hawk] on top of a light in a parking lot. I was about to take a picture of it perched, and it took off! My photo captured it mid flight, which was great! It was pretty far away and I didn't have my birding equipment with me, so it wasn't super clear but I'm still happy that I caught it flying.
+& These are the birds I saw this month:
+- Red-tailed Hawk
+- Black-billed Magpie
+- European Starling
+- Bald Eagle
+2 Reading
+& I finished the following books this month:
+- In a Holidaze by Christina Lauren
+- Be Free Where You Are by Thich Nhat Hanh
+- Instagram for Illustrators by Mike Lowrey
+- Drawn In by Julia Rothman
+2 Listening
+& I finished the [l:https://www.grimandmild.com/bridgewater|Bridgewater] podcast. I started it a long time ago but never finished. I thought it was pretty good. It was odd that I decided to pick this back up, as the second season was announced a couple days after I finished it. Looking forward to that!
+& I finished the [l:https://podcasts.apple.com/us/podcast/rebel-robin-surviving-hawkins-a-stranger-things-podcast/id1571208591|Rebel Robin] podcast. It is a Stranger Things story that takes place in the 3rd season. I really enjoyed it. It dove deeper into Robin's character. It's a companion podcast to the book of the same name, so I'm looking forward to reading that at some point.
+2 Art
+& I'm currently trying to really get serious about an art practice. I've been reading a lot of books on art and am practicing and trying to figure out what I want to focus on with it. I'm considering posting art here, so that may come eventually.
+& I've done some reflecting on what kind of art I want to make, particularly subject matter, and I am planning to focus on nature sketching. I like drawing/painting landscapes, pieces of nature, etc. I have some books on the subject that I will read next. I am also interested in urban sketching, and I think I will keep that as a secondary subject that I do occasionally. I have a couple of books on it that I will read after the nature ones. These help me connect with the world around me, which is really what I'm going for with my art.
+2 Misc
+& I saw two porcupines on a walk at a nature reserve! I've never seen one before so it was really exciting. One of them was far away, but the other was in a tree about 6 feet away, eating the bark. I didn't know they climbed trees or ate them. It turns out in the winter they don't hibernate and instead of their usual diet (berries, plants, etc) they pull off the outer bark and eat the inner bark of trees.
 
 ~then/2022-12 : December 2022 : What I focused on in December 2022 : 2023-01-03
 1 December 2022
@@ -259,7 +322,6 @@ _ Last updated: January 2023
 2 Currently reading
 ? [z:current]
 2 Books read in 2023
-_ TBD
 ? [z:read-2023]
 2 Books read in 2022
 & [b:Goal: 30 of 30] [e:checkmark]
@@ -758,9 +820,9 @@ _ TBD
 - Source code: [l:https://github.com/0xdstn/log/]
 - Live version: [l:https://tilde.town/~dustin/log/]
 
-~projects/habits : Habits :  An emoji-based monthly habit tracker : 2022-03-07
+~projects/habits : Habits :  An emoji-based weekly or monthly habit tracker : 2022-03-07
 1 Habits
-& A simple tool to track habits. It's meant to be a monthly tool and doesn't keep history.
+& A simple tool to track habits. It's meant to be a weekly or monthly tool and doesn't keep history.
 & In the settings you provide a comma separated list of emoji, each of which represent a habit you want to track.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/habits/]
@@ -819,7 +881,7 @@ _ TBD
 ~projects/ilo-nimi : ilo nimi : A sitelen pona typing tool : 2022-02-21
 1 ilo nimi
 & This is a simple tool that allows you to type toki pona, and will display it as sitelen pona.
-& It uses the [l:http://musilili.net/linja-pona/|linja pona] font, so usage of that font can be viewed on that site.
+& It uses the [l:https://jackhumbert.github.io/sitelen-pona-pona/|sitelen pona pona] font, so usage of that font can be viewed on that site.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/ilo-nimi/]
 - Live version: [l:https://tilde.town/~dustin/ilo-nimi/]
@@ -1150,6 +1212,38 @@ _ Coming soon - stories I have written with The Adventurer
 1 Writing 
 & I write occasionally about things I care about. Below are the ones I've decided to share.
 ? [d:writing]
+
+~writing/identity : Identity : Thoughts on identity and how interests relate : 2023-03-08
+1 Identity
+_ 2023.03.08
+& Something a lot of people do is take their interests or their skills and define themselves with it:
+> I am a software engineer<br>I am an artist<br>I am a writer<br>I am a hacker<br>I am a musician<br>etc
+& I don't feel like I'm disciplined enough in any of my many interests to call myself by it's title. I've tried over and over to make an interest my identity. I go through moods where I think I need to set up an instagram and build up fame as an artist or create a pseudonym and learn to be a bug bounty hunter or start making chiptune music, along with many other interests. This never works out, burns me out, and I get nowhere.
+_ Rinse and repeat.
+& Usually when I dive into one of these interests, I spend more time trying to define the identity as opposed to actually creating something.
+& Instead of defining my identity with one of these things, I'm instead going to define myself like this:
+* I am me. I am curious.
+& I don't need to redefine myself and set up these new identities. I already have an identity, and it's me and my curiousity. I've always been incredibly curious about a wide array of things. Curiosity has been the one consistent thing.
+& I will no longer allow this cycle to happen, and instead simply follow my curiosity and share the results here. This will allow me to focus evenly on everything I'm interested in, spend time on something when I'm motivated for that particular interest, and not burn myself out obsessing over creating new identites.
+
+~writing/on-music : On Music : Thoughts on my relationship with music : 2023-01-12
+1 On Music
+_ 2023.01.12
+& As with a lot of people, music was a really important part of my middle school and high school years. Since I grew up in the beginning of the rise of music discovery on the internet, I spent a lot of time poking around, discovering new artists.
+_ That is something I miss.
+& With the rise of streaming services like Spotify, I feel my relationship to music has diminished. I no longer go out and find what I like, I just put on a playlist curated by someone else, and couldn't even name more than one or two artists that I listen to regularly, if any at all.
+& I plan to expend some effort in 2023 to build a close relationship with the music I listen to again.
+& I am going to use my old [b:7th Generation iPod Classic] again. I installed [l:https://www.rockbox.org|Rockbox] on it a while back, and manage my music on it via [l:https://www.getmusicbee.com|MusicBee]. I am going to try to use my iPod over Spotify whenever I can. If I find I don't have something I want to listen to, I will buy it to support the artists.
+& I have a wishlist of albumns on BandCamp I'd like to buy, and I will be using whatever resources I can online for new artist discovery. Taking the time to discover, purchase, and transfer the music to my iPod will make me feel much closer to the music and the artist. I will always puchase the music where I can get it DRM free and where the most money goes to the artist.
+& I also want to select individual albums or artists to listen to as opposed to just putting a huge playlist on shuffle. I want to pick what feels right for the mood I'm in. I will also curate my own playlists instead of relying on others.
+& When at work I will probably just listen to some of my favorite online radio stations, and if I hear something I like I'll take note of the artist and look into them later. Here are my favorite online stations/sites:
+- [l:https://radio.garden/|Radio Garden] I use this to listen to radio stations from Japan or Hawaii
+- [l:https://jetsetradio.live/|Jet Set Radio LIVE] The JSR soundtrack + other similar music
+- [l:https://jetsetradiofuture.live/|Jet Set Radio Future LIVE], The JSRF soundtrack + other similar music
+- [l:https://tilderadio.org/|tilderadio] A tildeverse radio station with various volunteer DJs
+- [l:https://somafm.com/player/#/now-playing/defcon|DEF CON Radio] The SomaFM station for DEF CON
+- [l:https://www.lofi.cafe/|lofi.cafe] Various lofi stations
+- [l:https://mindmelt.party/|MINDMELT] Music visualizer with various electronic music stations
 
 ~writing/mastodon : Returning to Mastodon : Thoughts on my return to Mastodon : 2022-11-29
 1 Returning to Mastodon
@@ -1535,3 +1629,46 @@ _ 2020.07.21
 - Sanitize your inputs to prevent SQL injection
 2 Final notes
 & While I started going in the wrong direction, and I ended up using a hint, overall I consider this a success and I had a ton of fun participating. I'm going to continue to try my hand at other challenges. Thanks for reading!
+
+~art/index : Art : A collection of art blog posts : 2023-03-08
+1 Art
+& My goals with art:
+& [e:plant] Connect to nature by [b:green sketching].
+& [e:book] Document my life by [b:sketch journaling].
+& [e:building] Explore my city by [b:urban sketching].
+& Below are is list of art related blog posts.
+? [d:art]
+
+~art/waterfowl : Waterfowl : Sketches of some waterfowl at Riverfront Park : 2023-02-09
+1 Waterfowl
+_ 2023.02.09
+@ |assets/img/waterfowl.jpg
+& I took a walk down to Riverfront Park during lunch to see if I could find some birds to sketch. I quickly found 3 [b:Canada Geese], a [b:Mallard] and 7 [b:American Wigeons].
+& I took some photos and sat down to start sketching. Two of the geese were grazing in the grass while the other one kept watch. Eventually the two came within a foot of me. After a bit, the watcher came over and lowly hissed at me until I got nervous and left. It must have decided I was a threat.
+& The mallard was swimming in the group of wigeons. They didn't seem to mind.
+& It was nice getting out, seeing some birds, and sketching a bit. Watercolor takes a while to dry in the cold, so you have to wait a bit longer than you'd expect between coats of paint.
+
+~art/7day-challenge-2022 : 7 Day Challenge 2022 : A challenge I did in October 2022 : 2023-02-09
+1 7 Day Challenge 2022
+& In October 2022 one of my favorite artists [l:https://www.instagram.com/sdionbakerdesign/|Samantha Dion Baker] set up a 7-day challenge where each day you draw a specific time of a typical day for you. Posts for it can be seen on Instagram with the hashtag [l:https://www.instagram.com/explore/tags/samanthaandohnmar7day/|#samanthaandohnmar7day].
+& These were my drawings for this challenge. It's the only art challenge I've ever finished, and I'm proud of how these turned out!
+2 7 AM: Making breakfast for the kids
+& I was shocked at how well my strawberries turned out. I'd never drawn one before and I was really proud of it.
+@ |assets/img/01-7AM.jpg
+2 9 AM: Coffee
+& I've drawn this mug many times as it was my favorite. Unfortunately it fell off a counter and broke after I drew this, and they no longer sell them since it was a limited edition mug from artist [l:https://www.instagram.com/nathanielrussell|Nathaniel Russell]. It will be missed.
+@ |assets/img/02-9AM.jpg
+2 12 PM: Breakfast
+& Since I was doing intermittent fasting, I usually wouldn't eat until about 12, which is why this was so late in my day. This is my least favorite of this set.
+@ |assets/img/03-12PM.jpg
+2 2 PM: Working
+& Since I was posting these on Instagram at the time, I started changing up how I took photos so they were angled and showing art supplies, which is the kind of things that get more likes.
+@ |assets/img/04-2PM.jpg
+2 5 PM: Cooking dinner
+& This one almost doesn't look to me like something I did. It feels very different from my usual drawings, and I also like it a lot.
+@ |assets/img/05-5PM.jpg
+2 7 PM: Cleaning
+@ |assets/img/06-7PM.jpg
+2 10 PM: Reading
+& Of all the time texts at the top, this is my favorite. I really like the purple that I chose for it.
+@ |assets/img/07-10PM.jpg

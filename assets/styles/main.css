@@ -117,8 +117,9 @@ h6 {
 
 blockquote {
     border-left: solid 5px #00aaee;
-    padding: 1em 0 1em 1em;
+    padding: .25em 0 .25em 1em;
     margin: 0 0 1.5em;
+    line-height: 1.75em;
 }
 
 code {

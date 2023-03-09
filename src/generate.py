@@ -247,6 +247,8 @@ def createPage(fileName, section, pg):
         else:
             finalOutput += '<a href="' + basePath + section + '">..</a>'
     finalOutput += output
+    if section in ['art','writing','projects','wiki'] and pg != 'index':
+        finalOutput += '<blockquote class="thanks">' + tpl('[e:wave] Hey! Thanks for reading! If you have any comments or questions about this post, or anything else, I\'d love to chat! You can find the best way to contact me on my [l:hello|hello page].') + '</blockquote>'
     finalOutput += footer
 
     if data[section][pg]["DATE"] != "":

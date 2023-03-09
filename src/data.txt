@@ -3,7 +3,7 @@
 & [e:wave] Hello friend. My name is [b:Dustin].
 & [e:clock] You can find out more about what I'm up to on my [l:now|now page].
 & [e:book] You can see what I'm reading on my [l:wiki/library|library page].
-& [e:paint] You can see my art over on my [l:art|art blog].
+& [e:paint] You can see my art over in my [l:art|art section].
 & [e:mail] If you would like to reach out to me, find out how on my [l:hello|hello page].
 
 2 Pages

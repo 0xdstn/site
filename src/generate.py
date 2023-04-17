@@ -46,7 +46,8 @@ tplKey = {
     "d": "directory",
     "e": "emoji",
     "r": "recent",
-    "z": "books"
+    "z": "books",
+    "p": "posts"
 }
 
 emoji = {
@@ -69,7 +70,13 @@ emoji = {
     "christmas": "127876",
     "checkmark": "9989",
     "camera": "128247",
-    "building": "127970"
+    "building": "127970",
+    "paper": "128221",
+    "bowl": "129379",
+    "log": "128210",
+    "green": "129001",
+    "red": "128997",
+    "yellow": "129000"
 }
 
 singular = {
@@ -77,7 +84,7 @@ singular = {
         "wiki": "Wiki entry",
         "writing": "Post",
         "recipes": "Recipe",
-        "then": "Update"
+        "changelog": "Changelog"
 }
 
 # Read the header
@@ -91,6 +98,24 @@ with open(srcPath + "templates/footer.html", "r") as footerFile:
 	footer = footerFile.read()
 footerFile.close()
 
+def sectionEmoji(section):
+    e = ''
+    if section == 'projects':
+        e = 'computer'
+    elif section == 'wiki':
+        e = 'book'
+    elif section == 'recipes':
+        e = 'bowl'
+    elif section == 'writing':
+        e = 'paper'
+    elif section == 'hello':
+        e = 'wave'
+    elif section == 'changelog':
+        e = 'log'
+    else:
+        return ''
+    return '<span class="emoji">&#{};</span>'.format(emoji[e])
+
 def tpl(line):
     matches = re.findall(r'\[([a-z]{1}):(.*?)\]', line)
     for m in matches:
@@ -102,9 +127,15 @@ def tpl(line):
             ul = "<ul>"
             for x in types:
                 page = data[x][list(data[x])[1]]
-                ul += '<li>{}: <strong>{}</strong> <a href="{}">{}</a>'.format(singular[x],page["DATE"].replace("-","."),basePath + page["LINK"],page["NAME"])
+                ul += '<li>{} {}: <strong>{}</strong> <a href="{}">{}</a>'.format(sectionEmoji(x),singular[x],page["DATE"].replace("-","."),basePath + page["LINK"],page["NAME"])
             ul += "</ul>"
             line = line.replace(tag,ul)
+        if k == "p":
+            posts = ''
+            for page in data[m[1]]:
+                if page != 'index':
+                    posts += generateContent(m[1], page)
+            line = line.replace(tag,posts)
         if k == "l":
             link = m[1].split("|")
             url = link[0]
@@ -221,8 +252,10 @@ def generateContent(section, pg):
             if hasLink: output += "</a>"
         # All other tags
         else:
-            if char in ["1","2","3","4","5","6"]:
+            if char in ["2","3","4","5","6"]:
                 val = '<{} id="{}">{}</{}>'.format(key[char], tpl(text), tpl(text), key[char])
+            if char == '1':
+                val = '<{}>{} {}</{}>'.format(key[char], sectionEmoji(section), tpl(text), key[char])
             else:
                 val = "<{}>{}</{}>".format(key[char], tpl(text), key[char])
             if char in ["*","_"]: val = "<p>%s</p>" % val

@@ -162,3 +162,7 @@ footer {
     display: inline-block;
     width: 30px;
 }
+
+h1 .emoji {
+    width: 50px;
+}

@@ -1,284 +1,41 @@
 ~index/index : Home : Home
 1 Dustin
-& [e:wave] Hello friend. My name is [b:Dustin].
-& [e:clock] You can find out more about what I'm up to on my [l:now|now page].
-& [e:book] You can see what I'm reading on my [l:wiki/library|library page].
-& [e:mail] If you would like to reach out to me, find out how on my [l:hello|hello page].
+- [e:wave] Hello friend. My name is [b:Dustin].
+- [e:mail] If you would like to reach out to me, find out how on my [l:hello|hello page].
 
 2 Pages
-? [d:index]
+- [e:computer] [l:projects|Projects] Various projects I've worked on
+- [e:paper] [l:writing|Writing] Articles I've written 
+- [e:book] [l:wiki|Wiki] My personal notes
+- [e:bowl] [l:recipes|Recipes] Recipes for food I've made
+- [e:books] [l:wiki/library|Library] A list of books I've read and am reading
+- [e:log] [l:changelog|Changelog] A list of changes to this site
 
 2 Latest
-? [r:then,writing,projects,recipes]
-
-2 Currently reading
-? [z:current]
-& You can also find my yearly read lists and my to read list on my [l:books|book tracking project].
-
-~now/index : Now : What I'm currently up to : 2023-01-31
-1 Now
-_ Last updated: April 2023
-& This is my [l:https://nownownow.com/about|now page], where you can find what I'm currently up to.
-& This now page used to just display the same stuff with the what I'm reading/listening to changing occasionally. Instead, I'm going to update it each month with what I'm focusing on (sometimes updating throughout the month).
-& You can see previous monthly updates in the [l:then|then section].
-2 Security research
-& I've begun properly researching security, with the plan to not let it take over my life, which has been an issue in the past.
-& I am currently working through the [l:https://ctf.hacker101.com/|Hacker101 CTF]. This month I got all flags on all "Web" ones marked as "Easy". The only other easy one is Android, which I'm not interested in tackling at the moment.
-2 Birds
-& We took a family vacation to the Oregon coast, so I saw a lot of sea birds this month.
-& We went to the Wildlife Safari in Winston, OR and the Oregon Zoo, so I was able to see a lot of various birds at those places. Those birds haven't been listed below. The birds listed are ones that I saw around outside of zoos.
-& These are the birds I saw this month:
-- Brewer's Blackbird
-- Double-crested Cormorant
-- Rock Pigeon
-- Glaucous-winged Gull
-- Herring Gull
-- Acorn Woodpecker
-- Great Blue Heron
+? [r:writing,projects,recipes,changelog]
 
 ~hello/index : Hello : How to contact me : 2022-07-13
 1 Hello
 & This is my [l:https://alastairjohnston.com/introducing-hello-pages/|hello page], where you can find how I prefer to keep in touch, and why.
 - The best way to contact me is via [l:mailto:0xdstn@protonmail.com|email]. I may be a little slow to respond, as I only check that account every once in a while.
 - If you need to send me an encrypted message you can download my [l:public.key|public PGP key].
-- To see what I'm focusing on,  you can check out my [l:now|now page].
 - To see some things I've written you can visit the [l:writing|writings section] of this site.
 - I don't use twitter or other social networks as public forms of communication. Reasoning for this can be read in my thoughts [l:writing/social|on social media].
-- I returned to Mastodon in the end of 2022. My thoughts on this can be ready in my post [l:writing/mastodon|Return to Mastodon]. You can message me at [l:https://mastodon.spotek.io/@dustin|@dustin@mastodon.spotek.io] or [l:https://defcon.social/@0xdstn|@0xdstn@defcon.social], however I only go on those occasionally, so I may be slow to respond.
+- I returned to Mastodon in the end of 2022. My thoughts on this can be ready in my post [l:writing/mastodon|Return to Mastodon]. You can message me at [l:https://mastodon.spotek.io/@dustin|@dustin@mastodon.spotek.io], however I only go on those occasionally, so I may be slow to respond.
 
-~feeds/index : Feeds : A list of my RSS feeds : 2022-08-16
-1 Feeds
-& This is my [l:https://marcus.io/blog/making-rss-more-visible-again-with-slash-feeds|feeds page], where you can find a list of RSS feeds for my content.
-- [l:index.xml|Main feed]
+~changelog/index : Changelog : A changelog for this site : 2023-04-17
+1 Changelog
+& Below is a log of all the changes made to this website since the log was added on 2023-04-17
+? [p:changelog]
 
-~then/index : Then : Historical monthly updates of what I've been up to : 2022-08-04
-1 Then 
-& Below are is list of monthly updates of what I've been up to. They are essentially the state of my [l:now|now page] at the end of each month.
-? [d:then]
-
-~then/2023-03 : March 2023 : What I focused on in March 2023: 2023-03-06
-1 March 2023
-2 Birds
-& Spring is here and there is an increase in bird songs around everywhere. Robins have mad their way back, as they were away all winter.
-& I've never seen a turkey anywhere but the ground, but I saw one perched on top of a car!
-& American Coots appear to be much smaller than other ducks (about 2/3 of a Mallard). They seem a lot more nimble. When they dive down they don't simply go under the water, they jump up a few inches and dive in.
-& I've never been able to get a picture of a Pygmy Nuthatch. They're small and quick. I'd like to get one some day. Most of the time I just hear them (and identify with the Merlin app).
-& These are the birds I saw this month:
-- Pygmy Nuthatch
-- American Coot
-2 Art
-& I have thought more about the goals for making my art. I want to accomplish the following:
-- Document my life
-- Explore and connect with nature
-- Explore my city
-& None of this requires any sort of community or fame associated with the art. I am going to be more personal with my art. I'm the only audience that I'm creating it for.
-& I truly don't like drawing random people or buildings/cityscapes, so I am going to quit trying to force myself to learn to urban sketch and focus on other subjects.
-2 Security/hacking
-& I will occasionally get sucked in to the idea of being a bug bounty hunter or diving into some other aspect of infosec, such as OSINT. I've noticed time and time again that these things suck up all my time, and make my head feel exhausted/fuzzy after spending a bunch of time spinning my wheels on it.
-& I have accepted that I don't have to dive fully into these things to fulfill what I'm trying to do. What it boils down to is an interest in hacker culture and learning how things work. I am going to instead focus on whatever is interesting me at the time, without trying to justify it with some long running goal or trying to make it profitable. I just want to hack on things for the sake of curiousity.
-2 Site updates
-- [b:2023-03-08] [l:writing/identity|Identity]
-
-~then/2023-02 : February 2023 : What I focused on in February 2023 : 2023-03-06
-1 February 2023
-2 Birds
-& I went to the park to see what birds I could find and sketch some. I found 3 [b:Canada Geese], a [b:Mallard], and some [b:American Wigeons]. Two of the geese were grazing in the grass, and the other was keeping watch. As I sat sketching the two came within a foot of me. I continued what I was doing after snapping a couple photos. Shortly after the watcher came over to me and then started lowly hissing. It continued this until I got nervous enough to get up and walk away. I guess it decided I was a threat to the others.
-& The mallard was swimming around in a group of 7 Wigeons. They didn't seem to mind.
-& I heard an owl outside one night, and I think it was a [b:Great Horned Owl] after listening to local owl songs. It'll be cool if I can actually see one sometime.
-& On another night I managed to catch the sound of the owl on my Merlin app, and it is indeed a [b:Great Horned Owl]. It sounds pretty far away from my house though.
-& These are the birds I saw this month:
-- Canada Goose
-- American Wigeon
-- Mallard
-- Song Sparrow
-- Common Raven
-2 Art
-& I've been struggling with trying to decide what I want to do with art lately. I've done what I usually do which is create Instagram accounts and try to do something like urban sketching. Through this process I have decided a couple things:
-# I don't like drawing  interiors or people. Those subjects never turn out how I want them to and I just don't really enjoy the process of drawing them.
-# Instagram is great for inspiration, but it's exhausting and distracting and I don't need one for my art. The only goal for that would be to build a community, which I don't really need, or to eventually sell my art, which I also don't really have any interest in.
-# I love drawing nature and documenting my life through objects and scenes.
-& I am going to go forward without an Instagram. Instead I post here for art I want to share.
-& I am going to stop trying to emulate others, drawing things I don't enjoy  and instead focus on what I do like, which is sketch journaling and nature/green sketching.
-& My goal with art is to connect with nature and people around me.
-2 Listening
-& I finally finished the [l:https://www.grimandmild.com/12ghosts|12 Ghosts] podcast. I love ghost stories and these did not disappoint. I hope they do this again next December!
-2 Watching
-& I finished the [l:https://www.imdb.com/title/tt8741290/|Tales from the Loop] show. I absolutely loved it. I feel like it did great at capturing the feelings portrayed in the original book. The stories were interesting and most of them tied together. There was also a lot of emotion tied up in the stories. I would highly reccomend this.
-2 Reading
-& I didn't finish any books this month and [i:that's okay].
-
-~then/2023-01 : January 2023 : What I focused on in January 2023 : 2023-01-31
-1 January 2023
-2 Birds
-& I saw a [b:Red-tailed Hawk] on the side of the road eating some sort of animal. Near it a [b:Black-billed Magpie] waited for it's turn.
-& There were about 20 [b:European Starling] at the hanging bird feeder we have in our tree in the backyard. They swarmed our yard, filling the tree branches and the ground below the feeder. They are very aggressive with the other birds.
-& We decided to go to a spot that is notorious for having bald eagles, and it did not disappoint. There were a lot of people set up with big fancy cameras, and we saw multiple bald eagles. I've never seen one in the wild before, so that was really exciting!
-& Amusingly, while driving down a highway we thought there was an owl up on a telephone pole in the middle of the day, which was very strange. Upon closer inspection it turns out it was an owl carving! It looked very realistic and resembled a Great Horned Owl.
-& I happened to see a second [b:Red-tailed Hawk] on top of a light in a parking lot. I was about to take a picture of it perched, and it took off! My photo captured it mid flight, which was great! It was pretty far away and I didn't have my birding equipment with me, so it wasn't super clear but I'm still happy that I caught it flying.
-& These are the birds I saw this month:
-- Red-tailed Hawk
-- Black-billed Magpie
-- European Starling
-- Bald Eagle
-2 Reading
-& I finished the following books this month:
-- In a Holidaze by Christina Lauren
-- Be Free Where You Are by Thich Nhat Hanh
-- Instagram for Illustrators by Mike Lowrey
-- Drawn In by Julia Rothman
-2 Listening
-& I finished the [l:https://www.grimandmild.com/bridgewater|Bridgewater] podcast. I started it a long time ago but never finished. I thought it was pretty good. It was odd that I decided to pick this back up, as the second season was announced a couple days after I finished it. Looking forward to that!
-& I finished the [l:https://podcasts.apple.com/us/podcast/rebel-robin-surviving-hawkins-a-stranger-things-podcast/id1571208591|Rebel Robin] podcast. It is a Stranger Things story that takes place in the 3rd season. I really enjoyed it. It dove deeper into Robin's character. It's a companion podcast to the book of the same name, so I'm looking forward to reading that at some point.
-2 Art
-& I'm currently trying to really get serious about an art practice. I've been reading a lot of books on art and am practicing and trying to figure out what I want to focus on with it. I'm considering posting art here, so that may come eventually.
-& I've done some reflecting on what kind of art I want to make, particularly subject matter, and I am planning to focus on nature sketching. I like drawing/painting landscapes, pieces of nature, etc. I have some books on the subject that I will read next. I am also interested in urban sketching, and I think I will keep that as a secondary subject that I do occasionally. I have a couple of books on it that I will read after the nature ones. These help me connect with the world around me, which is really what I'm going for with my art.
-2 Misc
-& I saw two porcupines on a walk at a nature reserve! I've never seen one before so it was really exciting. One of them was far away, but the other was in a tree about 6 feet away, eating the bark. I didn't know they climbed trees or ate them. It turns out in the winter they don't hibernate and instead of their usual diet (berries, plants, etc) they pull off the outer bark and eat the inner bark of trees.
-
-~then/2022-12 : December 2022 : What I focused on in December 2022 : 2023-01-03
-1 December 2022
-2 Birds
-& We have a new visitor that's taken over our bird feeder - [b:Dark-eyed Junkos]. It seems they may have taken over, as the house finches haven't been stopping by anymore, or at least not as often.
-& We also had two Northern Flickers visit our hanging bird feeder!
-& These are the birds I saw this month:
-- Dark-eyed Junko 
-- House Finch
-- Northern Flicker
-2 Reading
-& I decided Goodreads isn't the best book management solution for me personally, so I created my own tool. You can see it and more about it here:
-- Project post: [l:projects/books|Books]
-- Source code: [l:https://github.com/0xdstn/books/]
-- Live version: [l:https://tilde.town/~dustin/books/]
-& I actually didn't finish any books in December. I went into the month at 30 books, which was my goal. I started a couple of books, but didn't manage to get all the way through them.
-& Moving forward I want to improve my relationship to reading. Aside from no longer using goodreads, I am also not going to set a yearly goal, and be more relaxed about what and when I read.
-2 Listening
-& I finished [l:https://www.ruritania.co.uk/stories|The Elf Service], the latest Christms Stories Podcast series. I really enjoyed this, as I do every year.
-& I also started [l:https://www.grimandmild.com/12ghosts|12 Ghosts], but did not finish before December ended. I will finish it up in January. I love the [l:https://www.grimandmild.com/13days|13 Days of Halloween] podcast. This one is similar, but ghost stories for Christmas time. So far it's been great.
-
-~then/2022-11 : November 2022 : What I focused on in November 2022 : 2022-12-06
-1 November 2022
-2 Work
-& After about a month of being unemployed, I accepted a job offer and started at the end of November. Finding a job went much quicker than I anticipated.
-2 Covid
-& After about two and a half years of avoiding it (somehow) someone in my household tested positive for covid. It took a few weeks to have negative tests for everyone, but we are now covid-free. Only about half of us got it and it didn't seem to be too bad of a strain.
-2 Birds
-& I set up a window bird feeder over the summer for viewing birds as they came to eat. Unfortunately they never went over to it, but I left it up and now that winter is approaching, we've had quite a few visitors!
-& These are the birds I saw this month:
-- Northern Flicker
-- House Finch (male, which I've never seen before)
-& I also saw a hawk the closest I've seen one. It swooped down and got something off the ground and went up to a tree. I was in the car so it was only for a moment, but it was really cool to see.
-2 Books finished
-* [e:book] [l:https://www.amazon.com/dp/B007JLK8TQ|Krampus: The Yule Lord] by Brom
-& I thoroughly enjoyed this book. It started out pretty slow when it was primarily focusing on the main human character, but it eventually picked up and never slowed down.
-& I loved all the mythology tie-ins and it felt well thought out. It also had a lot of gratifying outcomes int he end. I don't care much for the gore depicted, and it shows the worst sides of humanity which was upsetting at times, but it all seemed appropriate for such a story.
-* [e:book] [l:https://www.amazon.com/dp/B0084AMPH4|A Kidnapped Santa Claus] by L. Frank Baum
-& A short but great book. I loved the first one (The Life and Adventures of Santa Claus) so this was a nice added story to that one.
-* [e:book] [l:https://www.amazon.com/dp/1529045223|A Poem for Every Autumn Day] by Allie Esiri
-& This was fine. There were a few really good ones, but oddly a ton of them were about war, which I wasn't a fan of. I expected more.. fall themed poems.
-
-2 Site updates
-- [b:2022-11-29] [l:writing/mastodon|Returning to Mastodon]
-- [b:2022-11-20] [l:recipes/rice-pudding|Rice Pudding]
-
-~then/2022-10 : October 2022 : What I focused on in October 2022 : 2022-11-04
-1 October 2022
-2 Reading
-& It's looking more like I might hit my reading goal. Last month I thought I wasn't going to because I was so far behind, but I went from 15 books on 9/1 to 23 books on 9/30. It'll now be unlikely that I don't make my goal this year, and I'll probably even surpass it.
-2 Art
-& I have been working on drawing more lately. I completed a 7 day inktober challenge from [l:https://www.instagram.com/sdionbakerdesign/|Samantha Dion Baker] (one of my favorite artists) called [l:https://www.instagram.com/p/CjBIwtMuAlw/|Morning till Night]. For the first 7 days of October you do a drawing/painting of what you do at a specified time of day. Posts can be viewed on Instagram via the hashtag [l:https://www.instagram.com/explore/tags/samanthaandohnmar7day/|#samanthaandohnmar7day]. I might post them here at some point.
-& After I finish this challenge, I think I am going to try to do more quick sketches, inspired by the book I'm currently reading, [l:https://www.amazon.com/dp/B07K1DT2QK|Sketch Now, Think Later].
-& In addition to that, I am going to continue doing more detailed sketch journalling, similar to what Samantha Dion Baker does, also inspired by her book that I just finished, [l:https://www.amazon.com/dp/B08HL83XYS|Draw Your World].
-& As I start to do more sketching, I will find a good way to post them here. I may make a new section with a separate RSS feed for sketch posts.
-2 Work
-& Unfortunately on October 11th I was notified that there were some huge cuts happening at my company and that I was being laid off. It all happened so fast and unexpected. I had until the end of that day before I lost access to all work systems, and was on the payroll until that Friday. I got a decent severance which should be enough to get by for about 3 months. I've never had to deal with anything like this and it is very difficult to deal with.
-& As the month comes to a close I am doing freelance work again, I filed for unemployment (which may not be approved anymore, because of the freelance work, waiting on a decision regarding that), and I have a few promising places I'm interviewing with.
-& It'll all work out in the end but these are some anxious and trying times.
-
-~then/2022-09 : September 2022 : What I focused on in September 2022 : 2022-10-05
-1 September 2022
-2 General
-& I've realized that I will likely not be hitting my reading goal this year. I have started and stopped way too many books, and thus I fell behind. As of September 1st I was at 15/30, and there just isn't enough time to hit that. I am working to accept this as okay, and allow myself to just read what I want to read at the pace I want to go, as opposed to trying really hard to catch up with this arbitrary goal.
-2 Spooky things
-& As fall approaches, I am getting more into witchy things and ghost stories. I have been listening to [l:https://www.simplyscarypodcast.com/shows/scary-stories-told-in-the-dark/|Otis Jiry's Scary Stories Told in the Dark], and they are great. I'm starting from the beginning and I'm only 3 episodes in, but number 2 and 3 were fantastic (1 was good too) and I'm really looking forward to the rest of these. After thinking a lot about the horror genre and what I like, I find that I prefer paranormal/supernatural horror and that's pretty much it. I also really like found footage stories and urban legends/folklore. I'm not a fan of gore, killers, etc. I just want a spooky story, specially ones that leave holes for the reader's imagination to fill in.
-2 Witchcraft
-& I am currently learning about witchcraft and how that can fit into my life and how I can benefit from it.
-& This month I listening to [l:https://www.audible.com/pd/B07341TVCT|Everyday Witchcraft] and plan to start on [l:https://www.amazon.com/dp/B005HTNGQY|Drawing Down the Moon] soon.
-2 Sugar
-& My wife is currently trying to break her addiction to sugar by doing a no added sugar (and limiting sugar per day) detox. I'm also doing no added sugar in things, and a couple of things have come from it:
-# I have learned how impressively high the added sugar is in most foods
-# I have lost a few pounds and am feeling good
-# I've been in general more aware of what I'm consuming
-& This is usually the time of year that my sugar intake spikes between pumpkin spice lattes, Halloween candy, and Christmas treats. I made some [l:recipes/vegan-pumpkin-spice-sauce|vegan pumpkin spice sauce] to make PSLs at home and I really like it! 
-& All in all it's been great and I plan to continue limiting added sugar consumption moving forward.
-
-~then/2022-08 : August 2022 : What I focused on in August 2022 : 2022-09-01
-1 August 2022
-2 Witchcraft
-& A while back I bought a Humble Book Bundle of books on magic and witchcraft. I've been meaning to pick one up since I purchased it, as it's something I am interested in learning about.
-& I've been reading a fiction book called [l:https://www.amazon.com/dp/B085C71YG5|The Once and Future Witches], and it got me interested in looking into it, so I've finally started.
-& Currently I am listening to [l:https://www.audible.com/pd/B07341TVCT|Everyday Witchcraft] with plans to start on [l:https://www.amazon.com/dp/B005HTNGQY|Drawing Down the Moon] soon. I also read a lot online about a variety of witchy topics such as tarot, runes, kitchen witchery, etc.
-& As with most things, I'm not going to dive into wicca with their gods and all of that, but instead view witchcraft in a more secular way, just like I do with Buddhism. I will probably write an article at some point about the crossover between Buddhism and witchcraft.
-2 Tarot
-& One of the things I'm starting with is tarot, as I already own a [l:https://pixeloccult.com/neonmoontarot/|tarot deck], and I discovered the [l:https://app.labyrinthos.co/|Labrynthos apps]. I am currently using the [l:https://play.google.com/store/apps/details?id=com.labyrinthos.app|Labrythos Tarot] app for daily readings and the [l:https://play.google.com/store/apps/details?id=com.luminous.spirit.app|Luminous Spirit Tarot] app for setting intentions that align with the phases of the moon. I am also using the [l:https://play.google.com/store/apps/details?id=com.jrustonapps.mymoonphase|My Moon Phase] app to view the current and upcoming phases.
-& Something I read online while looking into all of this was that you should view tarot for self reflection as opposed to fortune telling. I've realized that when you strip away the witchy exterior of witchcraft, all that remains is the concepts of being self reflective and appreciating nature and the world around you. These concepts are already something that I've aligned with, so adding witchcraft is just another set of tools I can use.
-2 Synchronicity
-& Something I've been interested in for a while now is [l:https://en.wikipedia.org/wiki/Synchronicity|Synchronicity]. The gist of it is that you will notice coincidences in your life, and that they will actually lead you to important things. Whether these are some cosmic sign, or our minds subconsciously noticing things that lead us to what we truly want or need, it brings you to the same result.
-& I've been trying to notice these types of occurrences for a while, but they seemed to pick up as I started looking into witchcraft. One of the most notable ones was that I've been reading books and thinking about witchcraft in general, and then I looked at a bookstore in Seaside, OR as we drove by it, and in the display case I saw one book titled [l:https://www.amazon.com/dp/1250279542|Kickass Coven]. I feel like that is the kind of thing that would be displayed along with other witchy things in the middle of October, or at least during fall, but here it was in the middle of summer, and it's the only thing I noticed in a brief second while zipping by. However this happened, it feels like a sign that I'm on the right path.
-& Another significant one was that once I got to the point of looking into the moon and it's cycles, it turned out that exact night was a new moon. I was looking into witchcraft for about a week or so prior to this, but just so happened to touch on that specific aspect at that specific time.
-& I've always been pretty skeptical about there actually being supernatural things out there, but I'm gaining a new view on this type of thing. Maybe there is magic, maybe the world is more in sync than you would think. Maybe the universe is actually behind all religions and gods, and it just reveals itself to people in a way that resonates with them the most. Maybe it's all just coincidence and the true power is noticing and leading ourselves. Whatever it is, I'm going to keep paying attention to these types of events and reading into it however makes sense for me.
-2 Birding
-& During a trip to Seaside, OR, I saw quite a few birds:
-- American Crow
-- Dark-eyed Junco
-- Great Egret
-- Western Gull
-- California Gull
-- Semipalmated Sandpiper
-- Great Blue Heron
-& I was very excited to see the sandpipers, as I had never seen them before.
-& Crows are my favorite bird, and there were a ton of them everywhere we went.
-
-~then/2022-07 : July 2022 : What I focused on in July 2022 : 2022-08-04
-1 July 2022
-2 General
-& I've been struggling with not diving into infosec/bug bounties again. I always get drawn to it, specially around defcon, but it consistently doesn't work well for my life. I previously [l:writing/focus|wrote about this]. I am going to try to stay focused in August, even with Defcon happening in the second week. I may try to do the [l:https://goldbug.cryptovillage.org/|Gold Bug challenge] again this year.
-2 Art
-& I've started trying out more nature/green sketching. It's not always easy to make time to draw/paint but I do it when I can. I've recently purchased a couple books on the subject. One, which I'm currently reading, is [l:https://www.amazon.com/dp/1529070309|The Green Sketching Handbook].
-2 Reading
-& I've been meaning to read [l:https://www.amazon.com/dp/B07BDG5Z8Y|Wabi Sabi] for a while now, and am finally getting to it. I really love Beth Kempton's writing, and I'm glad to finally pick this one up.
-& This month I finished one short story: [l:https://apex-magazine.com/short-fiction/each-thing-i-show-you-is-a-piece-of-my-death/|each thing i show you is a piece of my death] by Gemma Files.
-2 Podcasts + Audiobooks
-& I've been listening to  [l:https://www.amazon.com/dp/B002ZODPOC|The House at Pooh Corner] with the kids whenever we have time. There was a lot more time during commute to school, but we'll get through it eventually.
-& I started a new daily podcast listening habit with the following each weekday morning:
-- [l:https://link.chtbl.com/radioheadspace|Radio Headspace]
-- [l:https://www.birdnote.org/listen/birdnote-daily|BirdNote Daily] (including weekends)
-- [l:https://podcasts.apple.com/us/podcast/the-daily-dad/id1490007487|The Daily Dad]
-2 Birding
-& I recently started getting into birding. I've loved birds for a long time now, but I'm finally actually diving into the subject. I received a monocular with a phone attachment as a gift, so I can take pictures of birds farther away using my phone, and it's been great!
-& I've seen following this month:
-- House Sparrow (male and female)
-- European Starling (male and juvenile)
-- American Robin (male and juvenile)
-- Quail
-- American Goldfinch
-- Ring-billed Gull
-- Double-crested Cormorant
-& I have been using the [l:https://merlin.allaboutbirds.org/|Merlin Bird ID app] to identify the birds in my photographs. It also has a nice sound ID, which I've used a few times without seeing the birds it was picking up.
-2 Gardening
-& We set up our planter boxes again this year, and everything is thriving! We have the following:
-- Mini Watermelon
-- Green Peas
-- Strawberries
-- Coolapeno Peppers
-- Romaine Lettuce
-- Raspberry (this grows on it's own in our yard every year, it just popped up on it's own)
-& This is also year two of our lilac bushes, and they're doing well.
-& A little over a year ago I got a small venus fly trap. In the spring it started flowering, and I read that you should cut the flower stem before it actually blooms a flower, as it takes a lot of energy and may kill the plant. I found this out very late and thought it wasn't going to make it, but it suddenly started doing better and now it's doing great. It even started catching fruit flies and a larger fly that was way too big for the trapper it was in. It's just kind of sitting there in it now. I suppose it'll slowly degrade and get absorbed.
-& I have a bonsai growing kit I'd like to start, so I will try to do that this month at some point.
-& I harvested and ate my sole coolapeno pepper. It was really good! Just like a jalapeno, but without the spice. I fried it up in an egg.
-& The green peas didn't make it. I think we probably needed a cage for it to climb up. Next time. Our large tomatoes are also struggling. It didn't grow any tomatoes and the leaves are wilting. Not sure what happened with that one.
-& Oddly the raspberry bush hasn't started showing any berries yet, but maybe by the end of summer it will. I feel like it did at this time last year, but the weather has been weird.
-& The watermelon plant has started flowering, hopefully it'll grow an actual watermelon before summer is over.
+~changelog/2023-04-17 : 2023-04-17 : 2023-04-17
+1 2023-04-17
+- [e:green] Added this changelog!
+- [e:green] Added emoji for sections
+- [e:yellow] Simplified the [l:|homepage]
+- [e:yellow] Updated the [l:hello|hello page], removed defcon.social mastodon account reference
+- [e:red] Removed the now page and then section, it wasn't serving me much purpose
+- [e:red] Removed the feeds page, as it was just one feed and probably won't change
 
 ~wiki/index : Wiki : A collection of personal information : 2022-05-19
 1 Wiki 
@@ -617,31 +374,6 @@ _ Last updated: April 2023
 # Fill basket to just below the top, near the rubber handles
 # Wait until all water has dripped through
 # If desired, combine with some condensed milk or other milk. I like to use some frothed oat milk.
-
-~wiki/tenpo : Tenpo : A personal date format : 2019-09-09
-1 Tenpo
-& Tenpo is the custom date format. It is written in the format [b:YYMDD].
-# [l:#Years|Years]
-# [l:#Months and Days|Months and Days]
-# [l:#Leap year|Leap year]
-2 Years
-& Years are an incremental count of years since [b:1988], the year I was born, with the first year being year [b:00]. For years lower than 10, a leading zero is added.
-& Here are some examples for reference:
-- [b:31] 2019
-- [b:20] 2008
-- [b:12] 2000
-- [b:02] 1990
-- [b:00] 1988
-2 Months and Days
-& There are [b:5 months] lasting exactly [b:73 days each]. The months are single letters, [b:A-E]. Days are just the number of days within each month from [b:01 to 73].
-& Here are the dates that fall within each month:
-- [b:A] 01/01 - 03/14
-- [b:B] 03/15 - 05/26
-- [b:C] 05/27 - 08/07
-- [b:D] 08/08 - 10/19
-- [b:E] 10/20 - 12/31
-2 Leap year
-& Whenever there is a leap year, that day is annexed and written as [b:A00], so in [b:2020] the leap year day of [b:2/29] was [b:32A00].
 
 ~recipes/index : Recipes : Recipes for food I've made : 2022-05-19
 1 Recipes 

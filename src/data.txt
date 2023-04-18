@@ -28,6 +28,10 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-04-18 : 2023-04-18 : 2023-04-18
+1 2023-04-18
+- [e:yellow] Switched back to a light theme
+
 ~changelog/2023-04-17 : 2023-04-17 : 2023-04-17
 1 2023-04-17
 - [e:green] Added this changelog!

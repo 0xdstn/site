@@ -6,8 +6,8 @@ html, body {
 }
 
 body {
-    background: #222;
-    color: #efefef;
+    background: #fff;
+    color: #1a1a1a;
 	font-family: "Fira Code", monospace;
 	font-size: 15px;
 	box-sizing: border-box;
@@ -32,9 +32,8 @@ header, article, footer {
 
 a {
 	padding-bottom: 1px;
-	color: #00aaee;
-	text-decoration: none;
-	font-weight: 700;
+	color: #000;
+	text-decoration: underline;
 }
 
 a:hover {
@@ -42,7 +41,7 @@ a:hover {
 }
 
 strong {
-    color: #efefef;
+    color: #000;
 	font-weight: 700;
 }
 
@@ -86,17 +85,17 @@ ol li {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    color: #fff;
+    color: #000;
 	display: flex;
     font-weight: 700;
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 1.75em;
 }
 
 h2 {
-    font-size: 1.75em;
+    font-size: 1.5em;
 }
 
 h3 {
@@ -116,19 +115,19 @@ h6 {
 }
 
 blockquote {
-    border-left: solid 5px #00aaee;
+    border-left: solid 5px #777;
     padding: .25em 0 .25em 1em;
     margin: 0 0 1.5em;
     line-height: 1.75em;
 }
 
 blockquote.thanks {
-    border-color: #444;
+    border-color: #aaa;
     margin-top: 3em;
 }
 
 code {
-    background: #ddd;
+    background: #bbb;
     border-radius: 4px;
     color: #000;
     padding: 0.15em 0.5em 0.15em 0.6em;
@@ -136,9 +135,9 @@ code {
 }
 
 pre {
-    background: #4d5157;
-    color: #fff;
-    border-left: solid 10px #00aaee;
+    background: #eee;
+    color: #000;
+    border-left: solid 10px #aaa;
     border-radius: 8px;
     margin-bottom: 1.5em;
     padding: 1em;

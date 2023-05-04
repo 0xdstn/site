@@ -23,16 +23,29 @@
 - I don't use twitter or other social networks as public forms of communication. Reasoning for this can be read in my thoughts [l:writing/social|on social media].
 - I returned to Mastodon in the end of 2022. My thoughts on this can be ready in my post [l:writing/mastodon|Return to Mastodon]. You can message me at [l:https://mastodon.spotek.io/@dustin|@dustin@mastodon.spotek.io], however I only go on those occasionally, so I may be slow to respond.
 
+~feeds/index : Feeds : A list of my RSS feeds : 2022-08-16
+1 Feeds
+& This is my [l:https://marcus.io/blog/making-rss-more-visible-again-with-slash-feeds|feeds page], where you can find a list of RSS feeds for my content.
+- [l:index.xml|Main feed]
+- [l:changelog.xml|Changelog feed]
+
 ~changelog/index : Changelog : A changelog for this site : 2023-04-17
 1 Changelog
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
-~changelog/2023-04-18 : 2023-04-18 : 2023-04-18
+~changelog/2023-05-04 : 2023-05-04 : Changes from 2023-05-04 : 2023-05-04
+1 2023-05-04
+- [e:green] Added new post: [l:writing/on-art|On Art]
+- [e:yellow] Updated coffee equipment and added grind size  on trhe [l:wiki/coffee|coffee page]
+
+~changelog/2023-04-18 : 2023-04-18 : Changes from 2023-04-18 : 2023-04-18
 1 2023-04-18
+- [e:green] Added an [l:changelog.xml|RSS feed] for the [l:changelog|changelog]
+- [e:green] Added the [l:feeds|feeds] page back in since I now have two
 - [e:yellow] Switched back to a light theme
 
-~changelog/2023-04-17 : 2023-04-17 : 2023-04-17
+~changelog/2023-04-17 : 2023-04-17 : Changes from 2023-04-17 : 2023-04-17
 1 2023-04-17
 - [e:green] Added this changelog!
 - [e:green] Added emoji for sections
@@ -322,23 +335,25 @@
 - [l:https://passwordsgenerator.net/|Password generator] Generates passwords in-browser
 - [l:https://gitexplorer.com/|Git explorer] Git command reference
 
-~wiki/coffee : Cafe : Coffee recipes and equipment : 2022-01-26
-1 Cafe
-& I am very interested in experimenting with various methods of brewing coffee. Most days I have a 12oz or 16oz cup of black coffee brewed with a [b:Kalita Wave 185].
+~wiki/coffee : Coffee : Coffee recipes and equipment : 2022-01-26
+1 Coffee 
+& I am very interested in experimenting with various methods of brewing coffee. Most days I have a 10oz or 20oz cup of black coffee brewed with a [b:Kalita Wave 185].
 # [l:#My equipment|My equipment]
 # [l:#Kalita Wave 185|Kalita Wave 185]
 # [l:#Aeropress|Aeropress]
 # [l:#Prismo|Prismo]
 # [l:#Phin|Phin]
+# [l:#Grind Size|Grid Size]
 2 My equipment
 - [l:https://www.hario-usa.com/products/ceramic-coffee-mill-mini-plus|Hario Mini Slim Coffee Mill MSS-1]
 - [l:https://www.amazon.com/dp/B000X1AM0Y|Kalita Wave 185, stainless steel]
 - [l:https://www.amazon.com/dp/B004R0RHLO|Kalita 300ml carafe]
+- [l:https://theclothfilter.coffee/shop/p/wave|Cloth Filter Co, Kalita Wave 185]
 - [l:https://aeropress.com/|Aeropress]
 - [l:https://puckpuck.me/|Puck Puck]
 - [l:https://fellowproducts.com/products/prismo/|Prismo]
 - [l:https://www.bialetti.us/coffee/stovetop/moka-express-c-1_7_22.html|Bialetti Moka Pot]
-- [l:https://fellowproducts.com/collections/bestsellers/products/carter-everywhere-mug?variant=30318825799795|Carter Everywhere Mug]
+- [l:https://fellowproducts.com/products/carter-move-mug?variant=40462654505060|Carter Move Mug, slate grey, 16oz, splash guard]
 - [l:https://www.amazon.com/dp/B082P6Q9CM|Trung Nguyen phin]
 2 Kalita Wave 185
 - [b:Coffee:] 15g, medium roast, medium-fine grind
@@ -378,6 +393,10 @@
 # Fill basket to just below the top, near the rubber handles
 # Wait until all water has dripped through
 # If desired, combine with some condensed milk or other milk. I like to use some frothed oat milk.
+2 Grid Size
+& Below are the "clicks" I set my [l:https://www.hario-usa.com/products/ceramic-coffee-mill-mini-plus|grinder] to for various brewers.
+- [b:7 clicks] Medium fine - Moka Pot
+- [b:10 clicks] Medium - Kalita Wave, Aeropress
 
 ~recipes/index : Recipes : Recipes for food I've made : 2022-05-19
 1 Recipes 
@@ -974,6 +993,39 @@ _ Coming soon - stories I have written with The Adventurer
 & I write occasionally about things I care about. Below are the ones I've decided to share.
 ? [d:writing]
 
+~writing/on-art : On Art : Thoughts on creating art : 2023-05-04
+1 On Art
+_ 2023.05.04
+& I have been thinking a lot about art and how it plays a role in my life, or more so how I [i:want] it to play a role.
+2 Voice
+> "Your voice is formed over time through continuous experimentation and intentional practice" - Lisa Congdon
+> "Your voice develops as a by-product of doing the stuff you enjoy over and over again and making discoveries" - Lisa Congdon
+& Some things I've struggled with is finding my artistic voice/what kind of work I make. I've done all sorts of things like sketch journaling, nature journaling, urban sketching, character drawings, typography, etc. None of it feels like me, it just feels like I'm trying to emulate all the artists who's work I like. I feel as though I'm trying a lot of things and becoming good at none of them because of it.
+& I've been reading through [b:Find Your Artistic Voice] by [i:Lisa Congdon]. I'm not done yet but I'm gathering some good advice from it:
+- Trying a bunch of things is how you discover your voice. Most of it will be terrible, and that's okay.
+- Focus on the things you like to do, results will emerge.
+- The more drawings you make, the less you care about each one, and you'll end up taking more chances.
+> "Make a lot of junk, sort through the junk, pull out the pieces that feel like you - the work that makes you smile, makes you proud, and gets your creative juices flowing to make more. Toss everything else." - Danielle Krysa
+2 Social media
+& I've gone back and forth on whether or not I should try to create a social media presence for art. Instagram is pretty much the go to place for art, and while it's great for finding inspiration, it can be demoralizing and posting can feel like you're flinging things into the void. Algorithms make it increasingly difficult to build an audience unless you play by their rules, which at the moment is pretty much that you need to make reels or you won't show up for anyone. That is a lot of overhead that doesn't feel worth the effort.
+& This quote feels a relevant reminder:
+> "It's more important to develop as an artist than grow your following" - Mike Lowrey
+& It's easy to get caught up in how good everyone else is, and then compare your own art, disregarding all the time and practice that went into getting others to that point.
+> Comparison is the thief of joy
+& I don't think sharing on social media is good for me. I don't really need to monetize my art, and I don't need some huge following. I just want to make art. I want to accept that art is valid, even if nobody ever sees it aside from myself.
+& I wrote this down but I didn't attribute it for some reason:
+> Even if your art never earns money, it will still be a valuable and integral part of your life.
+& I feel like this also goes for people seeing it. Even if nobody ever sees your art, it's still valid.
+& A while back I joined a Discord for sharing art, and that feels like a less toxic place to share so it's not all just kept away from the world, without feeling like I need to cater to an audience. It's very low key there.
+2 Observation
+& One of my goals that has emerged lately is to use art to explore my world. I like the idea of seeking out things I don't normally notice, things I like, things that catch my eye, and draw them. This could be in the form of urban sketching, nature journaling, or anything else that helps me experience and process the world around me.
+2 Final thoughts
+& This is my rough plan for my art practice:
+- Get to a point of making some sort of art every day
+- Make what feels right, not what you think others will like
+- Stay off Instagram
+- Experiment
+- Make a lot of junk, it's okay
 ~writing/identity : Identity : Thoughts on identity and how interests relate : 2023-03-08
 1 Identity
 _ 2023.03.08

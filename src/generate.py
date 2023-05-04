@@ -286,7 +286,9 @@ def createPage(fileName, section, pg):
     if data[section][pg]["DATE"] != "":
         data[section][pg]["RENDERED"] = output
         data[section][pg]["LINK"] = 'https://tilde.town/~dustin/' + section + '/' + pg
-        if section != "devnull":
+        if section == "changelog" and page != 'index':
+            xmlItemsChangelog[data[section][pg]["DATE"]+"_"+pg] = data[section][pg]
+        elif section != "devnull" and page != 'index':
             xmlItems[data[section][pg]["DATE"]+"_"+pg] = data[section][pg]
 
     f = open(outPath + fileName + ".html", "w")
@@ -321,6 +323,7 @@ def parseData(df):
             data[curSection][curPage]["BODY"].append(line)
 
 xmlItems = {}
+xmlItemsChangelog = {}
 data = {}
 curSection = ""
 curPage = ""
@@ -404,4 +407,39 @@ xmlOutput += '</rss>'
 
 f = open(outPath + "index.xml", "w")
 f.write(xmlOutput)
+f.close()
+
+xmlOutputChangelog = ""
+xmlKeysChangelog = []
+for i in xmlItemsChangelog:
+    xmlKeysChangelog.append(i)
+
+xmlKeysChangelog.sort()
+
+xmlOutputChangelog += '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content">\n'
+xmlOutputChangelog += '  <channel>\n'
+xmlOutputChangelog += '    <title>~dustin Changelog</title>\n'
+xmlOutputChangelog += '    <link>https://tilde.town' + basePath + '/changelog</link>\n'
+xmlOutputChangelog += '    <description>Dustin, Software Engineer from Spokane, WA</description>\n'
+xmlOutputChangelog += '    <language>en-us</language>\n'
+xmlOutputChangelog += '    <atom:link href="https://tilde.town' + basePath + 'changelog.xml" rel="self" type="application/rss+xml" />\n'
+
+for i in xmlKeysChangelog:
+    item = xmlItemsChangelog[i]
+    d = datetime.datetime.strptime(item["DATE"], '%Y-%m-%d')
+    xmlOutputChangelog += '      <item>\n'
+    xmlOutputChangelog += '        <title>' + item["NAME"] + '</title>\n'
+    xmlOutputChangelog += '        <link>' + item["LINK"] + '</link>\n'
+    xmlOutputChangelog += '        <guid>' + item["LINK"] + '</guid>\n'
+    xmlOutputChangelog += '        <dc:creator>~dustin</dc:creator>\n'
+    xmlOutputChangelog += '        <pubDate>' + d.strftime("%a, %d %b %Y %H:%M:%S %z") + '</pubDate>\n'
+    xmlOutputChangelog += '        <description>' + item["DESC"] + '</description>\n'
+    xmlOutputChangelog += '        <content:encoded>' + html.escape(item["RENDERED"]) + '</content:encoded>\n'
+    xmlOutputChangelog += '      </item>\n'
+
+xmlOutputChangelog += '  </channel>\n'
+xmlOutputChangelog += '</rss>'
+
+f = open(outPath + "changelog.xml", "w")
+f.write(xmlOutputChangelog)
 f.close()

@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content">
+  <channel>
+    <title>~dustin Changelog</title>
+    <link>https://tilde.town/~dustin//changelog</link>
+    <description>Dustin, Software Engineer from Spokane, WA</description>
+    <language>en-us</language>
+    <atom:link href="https://tilde.town/~dustin/changelog.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>2023-04-17</title>
+        <link>https://tilde.town/~dustin/changelog/2023-04-17</link>
+        <guid>https://tilde.town/~dustin/changelog/2023-04-17</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Mon, 17 Apr 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-04-17</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-04-17&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added this changelog!&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added emoji for sections&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Simplified the &lt;a href=&quot;/~dustin/&quot;&gt;homepage&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Updated the &lt;a href=&quot;/~dustin/hello&quot;&gt;hello page&lt;/a&gt;, removed defcon.social mastodon account reference&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#128997;&lt;/span&gt; Removed the now page and then section, it wasn&#x27;t serving me much purpose&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#128997;&lt;/span&gt; Removed the feeds page, as it was just one feed and probably won&#x27;t change&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      </item>
+      <item>
+        <title>2023-04-18</title>
+        <link>https://tilde.town/~dustin/changelog/2023-04-18</link>
+        <guid>https://tilde.town/~dustin/changelog/2023-04-18</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Tue, 18 Apr 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-04-18</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-04-18&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added an &lt;a href=&quot;/~dustin/changelog.xml&quot;&gt;RSS feed&lt;/a&gt; for the &lt;a href=&quot;/~dustin/changelog&quot;&gt;changelog&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added the &lt;a href=&quot;/~dustin/feeds&quot;&gt;feeds&lt;/a&gt; page back in since I now have two&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Switched back to a light theme&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      </item>
+      <item>
+        <title>2023-05-04</title>
+        <link>https://tilde.town/~dustin/changelog/2023-05-04</link>
+        <guid>https://tilde.town/~dustin/changelog/2023-05-04</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Thu, 04 May 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-05-04</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-05-04&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new post: &lt;a href=&quot;/~dustin/writing/on-art&quot;&gt;On Art&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Updated coffee equipment and added grind size  on trhe &lt;a href=&quot;/~dustin/wiki/coffee&quot;&gt;coffee page&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      </item>
+  </channel>
+</rss>

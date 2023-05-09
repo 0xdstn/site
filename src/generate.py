@@ -254,7 +254,7 @@ def generateContent(section, pg):
         else:
             if char in ["2","3","4","5","6"]:
                 val = '<{} id="{}">{}</{}>'.format(key[char], tpl(text), tpl(text), key[char])
-            if char == '1':
+            elif char == '1':
                 val = '<{}>{} {}</{}>'.format(key[char], sectionEmoji(section), tpl(text), key[char])
             else:
                 val = "<{}>{}</{}>".format(key[char], tpl(text), key[char])

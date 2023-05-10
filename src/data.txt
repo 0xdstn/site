@@ -582,9 +582,11 @@
 & The traveler is run from a browser using flat files. By default it'll load [l:traveler/demo.txt|demo.txt], which includes examples of all available functionality.
 & You can move around from room to room, pick up objects, and interact with the NPCs and objects in the room or your inventory.
 & You can also create new rooms, objects, and NPCs directly within the traveler, allowing you to create a world while inhabiting it.
+& The only things you can't do from within the game is create actions or variables.
 & There is a very basic variable and action system which allows a more rich interaction with NPCs and objects.
 & The world, inventory, and current location are constantly saved to local storage, so when you come back the state persists.
 & You can export the current world to a txt file, and you can import from a text file (local or remote URL). World files do not include inventory or current location, those reset upon import.
+& A world can be auto imported from url by adding the [c:?load=URL] query parameter.
 2 Game commands
 & As a user of the game you can run the following commands:
 - [c:load (url)] - Load a world txt file from the provided URL. You can always reload the demo with "load demo.txt"
@@ -599,7 +601,7 @@
 - [c:grab (object)] - Add the provided object to your inventory
 - [c:drop (object)] - Drop the provided object in the current room
 - [c:inventory] - List your current inventory
-- [c:create new] - Destroys the current world and creates a new, empty one
+- [c:new] - Destroys the current world and creates a new, empty one
 - [c:create room (x),(y)] - Create an empty room at the provided coordinates
 - [c:create object (key)] - Create a new object with the provided key
 - [c:create npc (key)] - Create a new NPC with the provided key
@@ -633,6 +635,7 @@
 & The following commands are available:
 - [c:ECHO (text)] - Prints out the provided text
 - [c:GRAB (object)] - Adds the speicifed object to the user's inventory, even if it isn't in the room
+- [c:TAKE (object)] - Removes the speicifed object from the user's inventory
 - [c:SET $(variable) = (value)] - Sets the provided variable to the provided value (ex: SET $opened = true)
 - [c:IF (condition)] - Starts an if block with the provided condition. Currently you can check if a variable is set to something (IF $opened = true) or if the inventory contains an item (IF INVENTORY=item1,item2)
 - [c:ELSE] - Starts an else block for the current IF
@@ -690,6 +693,7 @@
 % ! talk
 %   ECHO OOooooooooOoOoOoooohhhhhhhhh...
 2 Release notes
+- [c:v1.0.1] Added [b:TAKE] action command, fixed duplicate exit in [b:look], clear world before import, added load URL from query param
 - [c:v1.0.0] Initial release with base functionality
 
 ~projects/books : Books : A text-based Goodreads alternative : 2022-12-08

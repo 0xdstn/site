@@ -34,6 +34,11 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-05-12 : 2023-05-12 : Changes from 2023-05-12 : 2023-05-12
+1 2023-05-12
+- [e:green] Added new wiki page: [l:wiki/witchcraft|Witchcraft]
+- [e:yellow] Fixed hidden webring icon, which was lost when switching to light theme.
+
 ~changelog/2023-05-09 : 2023-05-09 : Changes from 2023-05-09 : 2023-05-09
 1 2023-05-09
 - [e:green] Added new project: [l:projects/traveler|The Traveler]
@@ -282,6 +287,35 @@
 # Greed
 # Hatred
 # Ignorance
+
+~wiki/witchcraft : Witchcraft : Notes related to witchcraft : 2023-05-12
+1 Witchcraft
+& These are my notes from studying and practicing witchcraft.
+# [l:#General Magic|General Magic]
+# [l:#Gemstones|Gemstones]
+# [l:#Tarot|Tarot]
+2 General Magic
+& With magic, all that matters is strength of will to bring results. If you focus intent and manipulate the energy, change will happen.
+& I feel that hiding behind the witchy exterior, witchcraft is mostly being mindful and connecting with nature.
+& Maybe there is no true god, but instead the universe presents itself in the form that resonates most with each individual. All gods and relgions are just nature manifesting itself in our lives.
+> "That's all magic is really: The space between what you have and what you need" - Once and Future Witches
+& Magic is just another force in the universe that we can tap into to help us create positive change.
+& Prayers and spells have a lot in common, they are both ways of asking for help.
+& The real meaning of magic is for witches to discover for themselves through experience.
+> "The philosophy of witchcraft contains a choice to perceive things differently from the way most other people do." - Marion Weinstein, Personal Magic
+> "Magic is transformational, brought about by will and skill in accordance with natural law." - Marion Weinstein, Personal Magic
+2 Gemstones
+& Carrying around or wearing specific gemstones can affect you in different ways. These are the ones I own.
+- [b:Jade]: Self acceptance, inner calm, creativity
+- [b:Rose Quartz]: Love
+- [b:Jasper]: Grounding and centering, luck and good fortune
+- [b:Tiger's Eye]: Self confidence, courage, protection
+- [b:Amethyst]: Calm, balance
+- [b:Obsidian]: Grounding, protection
+- [b:Lapis Lazuli]: Confusion, emotional baggage
+- [b:Clear Quartz]: Connection to all four elements
+2 Tarot
+& Think of tarot as a tool for self-awareness and reflection, rather than fortune telling.
 
 ~wiki/development : Development : Notes related to software/web development : 2021-09-30
 1 Development notes 

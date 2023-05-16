@@ -41,5 +41,14 @@
         <description>Changes from 2023-05-09</description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-05-09&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new project: &lt;a href=&quot;/~dustin/projects/traveler&quot;&gt;The Traveler&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
+      <item>
+        <title>2023-05-12</title>
+        <link>https://tilde.town/~dustin/changelog/2023-05-12</link>
+        <guid>https://tilde.town/~dustin/changelog/2023-05-12</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Fri, 12 May 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-05-12</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-05-12&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/~dustin/wiki/witchcraft&quot;&gt;Witchcraft&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Fixed hidden webring icon, which was lost when switching to light theme.&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      </item>
   </channel>
 </rss>

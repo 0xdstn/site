@@ -34,6 +34,11 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-05-24 : 2023-05-24 : Changes from 2023-05-24 : 2023-05-24
+1 2023-05-24
+- [e:green] Added new wiki page: [l:wiki/osint|OSINT]
+- [e:green] Added new wiki page: [l:wiki/recon|Recon]
+
 ~changelog/2023-05-12 : 2023-05-12 : Changes from 2023-05-12 : 2023-05-12
 1 2023-05-12
 - [e:green] Added new wiki page: [l:wiki/witchcraft|Witchcraft]
@@ -435,6 +440,43 @@
 & Below are the "clicks" I set my [l:https://www.hario-usa.com/products/ceramic-coffee-mill-mini-plus|grinder] to for various brewers.
 - [b:7 clicks] Medium fine - Moka Pot
 - [b:10 clicks] Medium - Kalita Wave, Aeropress
+
+~wiki/osint : OSINT : Notes and tools for OSINT : 2023-03-21
+1 OSINT
+& Below are my notes regarding [b:OSINT] (Open Source Intelligence) research.
+# [l:#Notes|Notes]
+# [l:#Tools|Tools]
+# [l:#Resources|Resources]
+2 Notes
+& OSINT is the process of using open information to gather intel on someone or something.
+2 Tools
+- [l:https://vehicleenquiry.service.gov.uk|License Plate lookup]
+- [l:https://github.com/wewewe718/QrAndBarcodeScanner|QR and Barcode scanner]
+- [l:https://m.apkpure.com/readmybop-read-my-boarding-p/com.bighugesystems.readmybop|Boarding pass scanner]
+- [l:https://www.metadata2go.com/view-metadata|Metadata Viewer]
+- [l:https://wigle.net/|Wigle - open wifi hotspot lookup]
+2 Resources
+- [l:https://ctf.cybersoc.wales/|Cyber Detective CTF]
+
+~wiki/recon : Recon : Notes and tools for recon : 2023-04-10
+1 Recon
+& Below are my notes regarding [b:Recon] research.
+# [l:#Notes|Notes]
+2 Notes
+3 Validate AWS credentials
+& You can validate AWS creds by running the following. I took this from [l:https://github.com/tiborhercz/aws-leaked-credentials/commit/33b4d387e94e16b1c8b9277056299bdb02de3a4b#commitcomment-108335001|this comment on github]:
+% export AWS_ACCESS_KEY_ID="AKIAYUBS5O3BYC7WBJWO"
+% export AWS_SECRET_ACCESS_KEY="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"
+% 
+% aws sts get-caller-identity
+& If valid, you will get some json like this:
+% {
+%  "UserId": "ABCDEFGHIJKLMNOPQRSTU",
+%  "Account": "123456789012",
+%  "Arn": "arn:aws:iam::123456789012:user/person"
+% }
+& If invalid you will get an error:
+> An error occurred (InvalidClientTokenId) when calling the GetCallerIdentity operation: The security token included in the request is invalid.
 
 ~recipes/index : Recipes : Recipes for food I've made : 2022-05-19
 1 Recipes 

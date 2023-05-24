@@ -50,5 +50,14 @@
         <description>Changes from 2023-05-12</description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-05-12&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/~dustin/wiki/witchcraft&quot;&gt;Witchcraft&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Fixed hidden webring icon, which was lost when switching to light theme.&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
+      <item>
+        <title>2023-05-24</title>
+        <link>https://tilde.town/~dustin/changelog/2023-05-24</link>
+        <guid>https://tilde.town/~dustin/changelog/2023-05-24</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Wed, 24 May 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-05-24</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-05-24&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/~dustin/wiki/osint&quot;&gt;OSINT&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/~dustin/wiki/recon&quot;&gt;Recon&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      </item>
   </channel>
 </rss>

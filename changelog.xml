@@ -59,5 +59,50 @@
         <description>Changes from 2023-05-24</description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-05-24&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/~dustin/wiki/osint&quot;&gt;OSINT&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/~dustin/wiki/recon&quot;&gt;Recon&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
+      <item>
+        <title>2023-07-06</title>
+        <link>https://tilde.town/~dustin/changelog/2023-07-06</link>
+        <guid>https://tilde.town/~dustin/changelog/2023-07-06</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Thu, 06 Jul 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-07-06</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-07-06&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added art section: &lt;a href=&quot;/~dustin/art&quot;&gt;Art&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new art post: &lt;a href=&quot;/~dustin/art/drawing-everyday-class&quot;&gt;Drawing Everyday Class&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new art post: &lt;a href=&quot;/~dustin/art/waterfowl&quot;&gt;Waterfowl&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new art post: &lt;a href=&quot;/~dustin/art/7day-challenge-2022&quot;&gt;7 Day Challenge 2022&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      </item>
+      <item>
+        <title>2023-07-21</title>
+        <link>https://tilde.town/~dustin/changelog/2023-07-21</link>
+        <guid>https://tilde.town/~dustin/changelog/2023-07-21</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Fri, 21 Jul 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-07-21</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-07-21&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Added Raspberry pi apache + php instructions to &lt;a href=&quot;/~dustin/wiki/development/#Set%20up%20Apache%20+%20PHP&quot;&gt;Development&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
+      </item>
+      <item>
+        <title>2023-07-25</title>
+        <link>https://tilde.town/~dustin/changelog/2023-07-25</link>
+        <guid>https://tilde.town/~dustin/changelog/2023-07-25</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Tue, 25 Jul 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-07-25</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-07-25&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Added Entity Framework commands to &lt;a href=&quot;/~dustin/wiki/development/#Entity%20Framework&quot;&gt;Development&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
+      </item>
+      <item>
+        <title>2023-07-26</title>
+        <link>https://tilde.town/~dustin/changelog/2023-07-26</link>
+        <guid>https://tilde.town/~dustin/changelog/2023-07-26</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Wed, 26 Jul 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-07-26</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-07-26&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new recipe: &lt;a href=&quot;/~dustin/recipes/apple-cinnamon-oats&quot;&gt;Apple Cinnamon Oats&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/~dustin/wiki/ebooks&quot;&gt;Ebooks&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Updated contact message at bottom of posts to include &quot;RE: Article Title&quot; as the subject. Inspired by &lt;a href=&quot;https://ragamuffinjim.github.io/index.html&quot; target=&quot;_blank&quot;&gt;James D. Morgan&lt;/a&gt;&#x27;s website, which he apparently got from &lt;a href=&quot;https://kevquirk.com/&quot; target=&quot;_blank&quot;&gt;Kev Quirk&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      </item>
+      <item>
+        <title>2023-07-28</title>
+        <link>https://tilde.town/~dustin/changelog/2023-07-28</link>
+        <guid>https://tilde.town/~dustin/changelog/2023-07-28</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Fri, 28 Jul 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-07-28</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-07-28&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/~dustin/wiki/rss&quot;&gt;RSS&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
+      </item>
   </channel>
 </rss>

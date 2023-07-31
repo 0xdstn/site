@@ -84,6 +84,7 @@ singular = {
         "wiki": "Wiki entry",
         "writing": "Post",
         "recipes": "Recipe",
+        "art": "Art Post",
         "changelog": "Changelog"
 }
 
@@ -110,6 +111,8 @@ def sectionEmoji(section):
         e = 'paper'
     elif section == 'hello':
         e = 'wave'
+    elif section == 'art':
+        e = 'paint'
     elif section == 'changelog':
         e = 'log'
     else:
@@ -162,7 +165,7 @@ def tpl(line):
                     ul += '<li><a href="{}">{}</a> {}'.format(basePath + page["LINK"].replace('/index',''),page["NAME"],page["DESC"])
                 elif x != "index":
                     page = data[m[1]][x]
-                    if m[1] == 'writing' or m[1] == 'posts':
+                    if m[1] == 'writing' or m[1] == 'posts' or m[1] == 'art':
                         ul += '<li><strong>{}</strong> <a href="{}">{}</a><br>{}'.format(page["DATE"].replace("-","."),basePath + page["LINK"],page["NAME"],page["DESC"])
                     else:
                         ul += '<li><a href="{}">{}</a> {}'.format(basePath + page["LINK"],page["NAME"],page["DESC"])
@@ -279,8 +282,8 @@ def createPage(fileName, section, pg):
         else:
             finalOutput += '<a href="' + basePath + section + '">..</a>'
     finalOutput += output
-    if section in ['writing','projects','wiki'] and pg != 'index':
-        finalOutput += '<blockquote class="thanks">' + tpl('[e:wave] Hey! Thanks for reading! If you have any comments or questions about this post, or anything else, I\'d love to chat! You can find the best way to contact me on my [l:hello|hello page].') + '</blockquote>'
+    if section in ['writing','projects','wiki','art'] and pg != 'index':
+        finalOutput += '<blockquote class="thanks">' + tpl('[e:wave] Hey! Thanks for reading! If you have any comments or questions about this post, or anything else, I\'d love to chat! You can find the best way to contact me on my [l:hello|hello page] or send me an [l:mailto:0xdstn@protonmail.com?subject=RE: '+data[section][pg]["NAME"]+'|email]') + '.</blockquote>'
     finalOutput += footer
 
     if data[section][pg]["DATE"] != "":

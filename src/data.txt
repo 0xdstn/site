@@ -6,13 +6,14 @@
 2 Pages
 - [e:computer] [l:projects|Projects] Various projects I've worked on
 - [e:paper] [l:writing|Writing] Articles I've written 
+- [e:paint] [l:art|Art] Art I've made 
 - [e:book] [l:wiki|Wiki] My personal notes
 - [e:bowl] [l:recipes|Recipes] Recipes for food I've made
 - [e:books] [l:wiki/library|Library] A list of books I've read and am reading
 - [e:log] [l:changelog|Changelog] A list of changes to this site
 
 2 Latest
-? [r:writing,projects,recipes,changelog]
+? [r:writing,projects,art,recipes,changelog]
 
 ~hello/index : Hello : How to contact me : 2022-07-13
 1 Hello
@@ -21,7 +22,7 @@
 - If you need to send me an encrypted message you can download my [l:public.key|public PGP key].
 - To see some things I've written you can visit the [l:writing|writings section] of this site.
 - I don't use twitter or other social networks as public forms of communication. Reasoning for this can be read in my thoughts [l:writing/social|on social media].
-- I returned to Mastodon in the end of 2022. My thoughts on this can be ready in my post [l:writing/mastodon|Return to Mastodon]. You can message me at [l:https://mastodon.spotek.io/@dustin|@dustin@mastodon.spotek.io], however I only go on those occasionally, so I may be slow to respond.
+- I returned to Mastodon in the end of 2022. My thoughts on this can be ready in my post [l:writing/mastodon|Return to Mastodon]. You can message me at [l:https://mastodon.spotek.io/@dustin|@dustin@mastodon.spotek.io], however I only go on there occasionally, so I may be slow to respond.
 
 ~feeds/index : Feeds : A list of my RSS feeds : 2022-08-16
 1 Feeds
@@ -33,6 +34,31 @@
 1 Changelog
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
+
+~changelog/2023-07-28 : 2023-07-28 : Changes from 2023-07-28 : 2023-07-28
+1 2023-07-28
+- [e:green] Added new wiki page: [l:wiki/rss|RSS]
+
+~changelog/2023-07-26 : 2023-07-26 : Changes from 2023-07-26 : 2023-07-26
+1 2023-07-26
+- [e:green] Added new recipe: [l:recipes/apple-cinnamon-oats|Apple Cinnamon Oats]
+- [e:green] Added new wiki page: [l:wiki/ebooks|Ebooks]
+- [e:yellow] Updated contact message at bottom of posts to include "RE: Article Title" as the subject. Inspired by [l:https://ragamuffinjim.github.io/index.html|James D. Morgan]'s website, which he apparently got from [l:https://kevquirk.com/|Kev Quirk].
+
+~changelog/2023-07-25 : 2023-07-25 : Changes from 2023-07-25 : 2023-07-25
+1 2023-07-25
+- [e:yellow] Added Entity Framework commands to [l:wiki/development/#Entity%20Framework|Development]
+
+~changelog/2023-07-21 : 2023-07-21 : Changes from 2023-07-21 : 2023-07-21
+1 2023-07-21
+- [e:yellow] Added Raspberry pi apache + php instructions to [l:wiki/development/#Set%20up%20Apache%20+%20PHP|Development]
+
+~changelog/2023-07-06 : 2023-07-06 : Changes from 2023-07-06 : 2023-07-06
+1 2023-07-06
+- [e:green] Added art section: [l:art|Art]
+- [e:green] Added new art post: [l:art/drawing-everyday-class|Drawing Everyday Class]
+- [e:green] Added new art post: [l:art/waterfowl|Waterfowl]
+- [e:green] Added new art post: [l:art/7day-challenge-2022|7 Day Challenge 2022]
 
 ~changelog/2023-05-24 : 2023-05-24 : Changes from 2023-05-24 : 2023-05-24
 1 2023-05-24
@@ -339,6 +365,19 @@
 % python -m SimpleHTTPServer
 3 Python 3 Web Server
 % python -m http.server
+3 Create an uppercase GUID in Powershell
+% [guid]::NewGuid().toString().ToUpper()
+3 Entity Framework
+4 Add migration
+% dotnet ef migrations add MigrationName
+4 Run migrations
+% dotnet ef database update
+4 Rollback migration
+% dotnet ef database update PreviousMigrationName 
+4 Rollback all migrations
+% dotnet ef database update 0
+4 Remove most recent migration
+% dotnet ef migrations remove
 2 Tricks
 3 Github web editor
 & You can edit a github repository by pressing [c:.] while viewing it. This will open up a VS Code web editor with the source of the repository.
@@ -347,10 +386,13 @@
 & In [b:/boot] create a blank file called [b:ssh]
 4 Enable wifi
 & In [b:/boot] create a file called [b:wpa_supplicant.conf] with the following:
-4 Setting up apache/php
-% sudo apt-get install apache2
-% sudo apt-get install php libapache2-mod-php 
-% sudo chown -R pi: /var/www/html
+4 Set up Apache + PHP
+% sudo apt update
+% sudo apt install apache2
+% sudo usermod -a -G www-data [USERNAME]
+% sudo chown -R -f www-data:www-data /var/www/html
+% sudo chmod -R 770 /var/www/html
+% sudo apt install php
 3 Wttr.in
 & View the weather forecast via the command line
 % curl "wttr.in/Spokane?0"
@@ -462,6 +504,7 @@
 1 Recon
 & Below are my notes regarding [b:Recon] research.
 # [l:#Notes|Notes]
+# [l:#Tools|Tools]
 2 Notes
 3 Validate AWS credentials
 & You can validate AWS creds by running the following. I took this from [l:https://github.com/tiborhercz/aws-leaked-credentials/commit/33b4d387e94e16b1c8b9277056299bdb02de3a4b#commitcomment-108335001|this comment on github]:
@@ -477,11 +520,109 @@
 % }
 & If invalid you will get an error:
 > An error occurred (InvalidClientTokenId) when calling the GetCallerIdentity operation: The security token included in the request is invalid.
+2 Tools
+- [l:https://github.com/ffuf/ffuf|FFUF - web fuzzer]
+- [l:https://sqlmap.org|sqlmap - automted sql injection discovery]
+
+~wiki/ebooks : Ebooks : Notes on managing my digital library : 2023-07-26
+1 Ebooks 
+& Below are my notes on managing my [b:ebooks library].
+# [l:#Notes|Notes]
+# [l:#Ebook management|Ebook management]
+# [l:#Remove DRM|Remove DRM]
+2 Notes
+& I currently own a [b:10th Generation Kindle].
+& It is still set up as an Amazon device, but if it becomes possible I may jailbreak it. As of writing this, [l:https://www.mobileread.com/forums/showthread.php?t=320564|these instructions] only support firmware version <= [c:5.14.2] and mine is running [c:5.16.2.1].
+2 Ebook management
+& Prevously I would take ebooks I got outside of Amazon and import them to Amazon via their Send to Kindle feature. I then decided to take more control over my ebook files and removed them from there. 
+& I now take ebooks, convert them to [b:mobi] using [l:https://calibre-ebook.com/|Calibre], and then add those mobi files to a folder on my computer and in a folder on the Kindle via USB.
+2 Remove DRM
+& This is the process I took to remove DRM from my books bought on Amazon and Google.
+& Moving forward I will try to always purchase DRM free books. I found [l:https://www.defectivebydesign.org/guide/ebooks|this resource] which I will use to find sources for the books I want to buy.
+3 Install Calibre with DeDRM
+# Download and install [l:https://calibre-ebook.com/|Calibre]
+# Download the latest [l:https://github.com/apprenticeharper/DeDRM_tools/releases|DeDRM_tools] and extract [c:DeDRM_plugin.zip] from it.
+# In Calibre go to Preferences > Advanced > Plugins > Load plugin from file and select the [c:DeDRM_plugin.zip] file
+3 Kindle
+& Note: Books published after [b:January 3rd, 2023] will not download, and therefore cannot be converted. Fortunately, I only had one book that fit this as of migrating.
+# Download and install [l:https://web.archive.org/web/20170111102550/https://s3.amazonaws.com/kindleforpc/44183/KindleForPC-installer-1.17.44183.exe|Kindle for Windows v1.17]
+# In Kindle for Windows, log in to your Amazon account and download all the books you want to convert
+# In Calibre click [b:Add Books] and navigate to the Amazon books (mine were in [c:C:\Users\USERNAME\Documents\My Kindle Content])
+# In Calibre click select all the books and click [b:Convert books > bulk convert]. Select the format you want and click convert. With the plugin installed DRM should already be removed.
+3 Google Books
+# Download and install [l:https://adobe.com/solutions/ebook/digital-editions/download.html|Adobe Digital Editions]
+# Go to [l:https://books.google.com/books|Google Books]
+# Click on each book you want to download
+# For each click on the [b:settings cog] and click [b:Download EPUB] (they will be [c:acsm] files)
+# Open Adobe Digital Editions and log in with your Adobe account
+# In ADE click [b:File > Add to Library] and select the downloaded books. It will have you log in to an Adobe account. This converts the files to epub.
+# In Calibre click [b:Add Books] and navigate to the ADE books (mine were in [c:C:\Users\USERNAME\Documents\My Digital Editions])
+# In Calibre click select all the books and click [b:Convert books > bulk convert]. Select the format you want and click convert. With the plugin installed DRM should already be removed.
+
+~wiki/rss : RSS : Notes on RSS : 2023-07-28
+1 RSS
+& As previously mentioned in my post [l:writing/social|On Social Media], my ideal form of following people is RSS. For a long while I had a ton of email newsletters filling my inbox, getting backed up, never read. I then decided to figure out how to get as many of them subscribed via RSS as I could.
+& Below are the steps I took for different types of newsletters, and some notes on my RSS setup.
+# [l:#Notes|Notes]
+# [l:#Substack via RSS|Substack via RSS]
+# [l:#Mailchimp via RSS|Mailchimp via RSS]
+# [l:#Buttondown via RSS|Buttondown via RSS]
+# [l:#Kill the Newsletter|Kill the Newsletter]
+2 Notes
+& Originally I used a RSS reader on my laptop, with the intent to open it up once a week or so and read through my subscriptions. I found that I pretty much never did that, so instead I've moved over to a custom RSS reader that I built myself and host on a Raspberry Pi.
+& It allows me to add feeds, pulls them down and generates local html files of the contents for each entry (via a cron job and a python script), and lists them for reading. I can mark things as read and all that as well.
+& One benefit of this is it's static HTML, so I can read them on my Kindle via the web browser.
+2 Substack via RSS
+& It turns out Substack has RSS functionality built in, which was surprising and makes things way easier.
+& I don't know how this would work with paid subscriptions, but it works for free ones. I don't pay for any to experiment with how that works, but if someone else has some info to add on it, I could put it here so feel free to [l:hello|reach out].
+& To do this, log in to Substack and find the URL for each one you want to subscribe to.
+& You can then add [c:/feed] to the end of the URL and add that to your RSS reader.
+& For instance, if you want to subscribe to [l:https://alastairjohnston.substack.com/|Alastair Johnston's Substack], the URL would be [b:https://alastairjohnston.substack.com/feed].
+2 Mailchimp via RSS
+& If you subscribe to any mailchimp newsletters, [l:https://joshmuller.ca|Josh Müller] found a solution to this, which you can find on his [l:https://joshmuller.ca/writings/2023/subscribe-to-mailchimp-newsletters-with-rss/|blog post]. I'm still going to write down the gist of it here for my own future reference.
+& Mailchimp signups are via the domain [b:list-manage.com]. Find the sign up URL for the newsletter you want to subscribe to.
+& For example this is [l:https://www.rob-sheridan.com/|Rob Sheridan's]:
+& https://rob-sheridan.[b:us7].list-manage.com/subscribe?u=[b:f0b63d0d9423f2d6bdaaa481b]&id=[b:ab92894a0b]
+& You can use the bolded elements to craft a URL for an RSS feed. Here is the RSS feed for Rob Sheridan:
+& https://[b:us7].campaign-archive.com/feed?u=[b:f0b63d0d9423f2d6bdaaa481b]&id=[b:ab92894a0b]
+2 Buttondown via RSS
+& I follow one newsletter that is managed in Buttondown, however they appear to not have RSS enabled, but I've found others that do.
+& To check, find the URL of the newsletter, such as [b:https://buttondown.email/drmohundro] and add [c:/rss] to the end like so:
+> https://buttondown.email/drmohundro/rss
+& If it loads a feed, it's enabled, otherwise it will not work and you have to use [b:Kill the Newsletter].
+2 Kill the Newsletter
+& For newsletters that I could not find a way to get a feed for (such as TinyLetter and custom newsletter solutions), I am using [l:https://kill-the-newsletter.com/|Kill the Newsletter].
+& The way it works is you set up a mailbox and it gives you an email address to sign up for the newsletter with, and also an RSS feed URL for subscribing.
+& You just give it a name for the mailbox and it generates those for you. You can then take the email and sign up for the newsletter as you normally would, and subscribe to the feed via an RSS reader.
+& If you have to confirm your email, that will come through as an entry in the feed so you can click the link.
 
 ~recipes/index : Recipes : Recipes for food I've made : 2022-05-19
 1 Recipes 
 & I'm not much of a cook, but here are some recipes I use fairly often, or just occasionally and don't want to forget.
 ? [d:recipes]
+
+~recipes/apple-cinnamon-oats : Apple Cinnamon Oats : Fresh apple cinnamon oats : 2023-07-26
+1 Apple Cinnamon Oats
+# [l:#Ingredients|Ingredients]
+# [l:#Directions|Directions]
+# [l:#Suggested Alterations|Suggested Alterations]
+2 Ingredients
+- 1/2 cup steel-cut oats
+- 1 cup water
+- 2 tbsp plant-based milk
+- 1/2 an apple
+- 1/2 tsp cinnamon
+- 1/4 tsp nutmeg
+2 Directions
+# Chop up the apple into 1/2 inch pieces
+# In a [b:bowl], combine [b:spices]
+# In a [b:small pot], combine the [b:oats] and [b:water]
+# Cook on [b:medium] until boiled ([b:~7 minutes]), constantly stirring
+# Stir in the [b:plant-based milk] and cook for another minute or so
+# Add the [b:oats] to the bowl and mix well
+# Top with [b:apples] and sprinkle on a little more [b:cinnamon]
+3 Suggested Alterations
+& This recipe is not very sweet. If you like things sweeter you could add [b:1 tsp of brown sugar] to the bowl with the other spices.
 
 ~recipes/rice-pudding : Rice Pudding : Rice Pudding : 2022-11-20
 1 Rice Pudding
@@ -557,10 +698,10 @@
 - 1/4 tsp cloves
 - 1/4 tsp nutmeg
 2 Directions
+# In a [b:bowl], combine [b:spices]
 # In a [b:small pot], combine the [b:oats] and [b:water]
 # Cook on [b:medium] until boiled ([b:~7 minutes]), constantly stirring
 # Stir in the [b:plant-based milk] and cook for another minute or so
-# In a [b:bowl], combine [b:spices]
 # Add the [b:oats] to the bowl and mix well
 # Top with [b:cranberries] and [b:pecans]
 3 Suggested Alterations
@@ -629,10 +770,10 @@
 - 1/8 tsp allspice 
 - 1/8 tsp cloves 
 2 Directions
+# In a [b:bowl], combine [b:spices], [b:pumpkin puree], [b:dark chocolate], and [b:pumpkin seeds]
 # In a [b:small pot], combine the [b:oats] and [b:water]
 # Cook on [b:medium] until boiled ([b:~7 minutes]), constantly stirring
 # Stir in the [b:plant-based milk] and cook for another minute or so
-# In a [b:bowl], combine all other ingredients
 # Add the [b:oats] to the bowl and mix well
 3 Suggested Alterations
 & Originally this recipe had [b:1 tsp of brown sugar], but no longer include it. If you like things sweeter you could add that.
@@ -642,6 +783,15 @@
 1 Projects
 & Below is a list of personal projects I've created. Most of them are tools I have made for myself that others can use as well.
 ? [d:projects]
+
+~projects/meditations : Meditations :  A 5-minute journal app : 2023-07-11
+1 Meditations
+& I have used both the physical 5 Minute Journal and the official app on and off for a while now, but they both feel like overkill for me personally.
+& I don't really need a historical record or a physical book to sit on my shelf. Looking later isn't really the point, the point is the act of writing down what you're grateful for and reflecting on your day.
+& I decided to create this simple app which emulates the 5 Minute Journal app, but resets each day. No history is saved.
+& It is set up as a PWA, so you can also install it to your android device and even use it offline.
+- Source code: [l:https://github.com/0xdstn/meditations/]
+- Live version: [l:https://tilde.town/~dustin/meditations/]
 
 ~projects/traveler : The Traveler : A flat-file interactive fiction system that runs in the browser : 2023-05-09
 1 The Traveler
@@ -1651,3 +1801,62 @@ _ 2020.07.21
 - Sanitize your inputs to prevent SQL injection
 2 Final notes
 & While I started going in the wrong direction, and I ended up using a hint, overall I consider this a success and I had a ton of fun participating. I'm going to continue to try my hand at other challenges. Thanks for reading!
+
+~art/index : Art : A collection of art blog posts : 2023-07-06
+1 Art
+& My goals with art:
+- [e:book] I document my life by [b:sketch journaling].
+- [e:plant] I connect to nature by [b:nature journaling].
+- [e:building] I explore my city by [b:urban sketching].
+- [e:paint] I have fun by [b:keeping a sketchbook].
+& Below are is list of art related posts.
+? [d:art]
+
+~art/drawing-everyday-class : Drawing Everyday Class : My spreads I created in the Drawing Everyday Skillshare class : 2023-07-06
+1 Drawing Everyday Class 
+_ 2023.07.06
+& I took the [l:https://www.skillshare.com/en/classes/Drawing-Everyday-Motivational-Sketchbook-Practices-for-Creative-Fulfillment/1764283447|Everyday Drawing Skillshare Class] from [l:https://www.instagram.com/sdionbakerdesign/|Samantha Dion Baker]. 
+2 Spread 1
+& This turned out nothing like I would normally do and I ended up loving the outcome!
+@ |assets/img/drawing-everyday-01.jpg
+2 Spread 2
+& I can't believe I made this! It's so unlike any layout I would have done and I love how it turned out.
+@ |assets/img/drawing-everyday-02.jpg
+2 Spread 3
+& I drew my house plants! I also like how this one turned out!
+@ |assets/img/drawing-everyday-03.jpg
+& This was a fun class that helped me view the page in different ways and have fun. I'm glad I took it!
+
+~art/waterfowl : Waterfowl : Sketches of some waterfowl at Riverfront Park : 2023-02-09
+1 Waterfowl
+_ 2023.02.09
+@ |assets/img/waterfowl.jpg
+& I took a walk down to Riverfront Park during lunch to see if I could find some birds to sketch. I quickly found 3 [b:Canada Geese], a [b:Mallard] and 7 [b:American Wigeons].
+& I took some photos and sat down to start sketching. Two of the geese were grazing in the grass while the other one kept watch. Eventually the two came within a foot of me. After a bit, the watcher came over and lowly hissed at me until I got nervous and left. It must have decided I was a threat.
+& The mallard was swimming in the group of wigeons. They didn't seem to mind.
+& It was nice getting out, seeing some birds, and sketching a bit. Watercolor takes a while to dry in the cold, so you have to wait a bit longer than you'd expect between coats of paint.
+
+~art/7day-challenge-2022 : 7 Day Challenge 2022 : A challenge I did in October 2022 : 2023-02-09
+1 7 Day Challenge 2022
+& In October 2022 one of my favorite artists [l:https://www.instagram.com/sdionbakerdesign/|Samantha Dion Baker] set up a 7-day challenge where each day you draw a specific time of a typical day for you. Posts for it can be seen on Instagram with the hashtag [l:https://www.instagram.com/explore/tags/samanthaandohnmar7day/|#samanthaandohnmar7day].
+& These were my drawings for this challenge. It's the only art challenge I've ever finished, and I'm proud of how these turned out!
+2 7 AM: Making breakfast for the kids
+& I was shocked at how well my strawberries turned out. I'd never drawn one before and I was really proud of it.
+@ |assets/img/01-7AM.jpg
+2 9 AM: Coffee
+& I've drawn this mug many times as it was my favorite. Unfortunately it fell off a counter and broke after I drew this, and they no longer sell them since it was a limited edition mug from artist [l:https://www.instagram.com/nathanielrussell|Nathaniel Russell]. It will be missed.
+@ |assets/img/02-9AM.jpg
+2 12 PM: Breakfast
+& Since I was doing intermittent fasting, I usually wouldn't eat until about 12, which is why this was so late in my day. This is my least favorite of this set.
+@ |assets/img/03-12PM.jpg
+2 2 PM: Working
+& Since I was posting these on Instagram at the time, I started changing up how I took photos so they were angled and showing art supplies, which is the kind of things that get more likes.
+@ |assets/img/04-2PM.jpg
+2 5 PM: Cooking dinner
+& This one almost doesn't look to me like something I did. It feels very different from my usual drawings, and I also like it a lot.
+@ |assets/img/05-5PM.jpg
+2 7 PM: Cleaning
+@ |assets/img/06-7PM.jpg
+2 10 PM: Reading
+& Of all the time texts at the top, this is my favorite. I really like the purple that I chose for it.
+@ |assets/img/07-10PM.jpg

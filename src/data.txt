@@ -1,5 +1,5 @@
 ~index/index : Home : Home
-1 Dustin
+1 0xdstn 
 - [e:wave] Hello friend. My name is [b:Dustin].
 - [e:man] My pronouns are [b:he/him].
 - [e:mail] If you would like to reach out to me, find out how on my [l:hello|hello page].
@@ -37,6 +37,11 @@
 1 Changelog
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
+
+~changelog/2023-08-29 : 2023-08-29 : Changes from 2023-08-29 : 2023-08-29
+1 2023-08-29
+- [e:yellow] Switched to hosting this site myself! 
+- [e:green] Added thought: [l:thoughts/moved|Moved]
 
 ~changelog/2023-08-22 : 2023-08-22 : Changes from 2023-08-22 : 2023-08-22
 1 2023-08-22
@@ -2069,9 +2074,28 @@ _ 2023.02.09
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
 
+~thoughts/moved : Moved : Moved : 2023-08-29
+1 Moved
+& I have decided to move away from hosting my site on tilde.town and host it here. If you are reading this you are on my new domain, [b:https://0xdstn.site].
+& If you are subscribed to either of my RSS feeds, please update the URL for it:
+- [b:Main feed] [l:https://0xdstn.site/index.xml]
+- [b:Changelog feed] [l:https://0xdstn.site/changelog.xml]
+& Also if you have any bookmarks or links to my website out there, you may want to update those as well. All URLs will be the same, you just need to replace [b:tilde.town/~dustin] with [b:0xdstn.site].
+& I have also moved the following hosted projects to the new site:
+- [b:Adventurer] [l:https://0xdstn.site/adventurer]
+- [b:Habits] [l:https://0xdstn.site/habits]
+- [b:ilo] [l:https://0xdstn.site/ilo]
+- [b:ilo nimi] [l:https://0xdstn.site/ilo-nimi]
+- [b:lipu sona] [l:https://0xdstn.site/lipu-sona]
+- [b:Log] [l:https://0xdstn.site/log]
+- [b:Meditations] [l:https://0xdstn.site/meditations]
+- [b:Suno] [l:https://0xdstn.site/suno]
+& The tilde.town versions will continue to exist, but they will no longer have the latest version as I make updates and they will have a red banner at the top encouraging the user to switch.
+
 ~thoughts/self-hosting : Self Hosting : Self Hosting : 2023-08-28
 1 Self hosting
 _ 2023.08.29
+& [c:UPDATE 2023.08.29] I decided to do this. If you're reading this message then you're accessing the site though my new domain - [b:0xdstn.site]!
 & I'm considering buying a domain and self hosting my site. I'd just run it on a [b:Raspbery Pi 3 Model B+]. I've done this before, so I know what needs to happen to set it up.
 & I'd then also consider hosting the following:
 - A gemini site

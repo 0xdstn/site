@@ -994,7 +994,7 @@
 & I decided to create this simple app which emulates the 5 Minute Journal app, but resets each day. No history is saved.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/meditations/]
-- Live version: [l:https://tilde.town/~dustin/meditations/]
+- Live version: [l:https://0xdstn.site/meditations/]
 
 ~projects/traveler : The Traveler : A flat-file interactive fiction system that runs in the browser : 2023-05-09
 1 The Traveler
@@ -1002,7 +1002,7 @@
 & If you have created world with the traveler, I'd love to see it! I could even include it in the game source for others to play if you're interested in that.
 & I will probably create my own worlds at some point, which will be available to load and play.
 & [b:Source code:] [l:https://github.com/0xdstn/traveler]
-& [b:Live version:] [l:https://tilde.town/~dustin/traveler/]
+& [b:Live version:] [l:https://0xdstn.site/traveler/]
 # [l:#Description|Description]
 # [l:#Game commands|Game commands]
 # [l:#World creation|World creation]
@@ -1144,7 +1144,7 @@
 - A list of all tags with counts
 & Management is simple as it's just text files of books/authors (and tags in one of them) that I can edit in vim. It doesn't do counts for the year. There are no goals. It's just a history of the books I want to read and the books I've read, which is exactly what I needed.
 - Source code: [l:https://github.com/0xdstn/books/]
-- Live version: [l:https://tilde.town/~dustin/books/]
+- Live version: [l:https://0xdstn.site/books/]
 
 ~projects/epocket : epocket : A script to convert a pocket RSS feed to HTML files : 2022-10-06
 1 epocket
@@ -1160,7 +1160,7 @@
 & I decided to create this simple app for my on the go bullet journal needs. You can add/edit notes, tasks, and events, and delete them when you're ready.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/log/]
-- Live version: [l:https://tilde.town/~dustin/log/]
+- Live version: [l:https://0xdstn.site/log/]
 
 ~projects/habits : Habits :  An emoji-based weekly or monthly habit tracker : 2022-03-07
 1 Habits
@@ -1168,14 +1168,14 @@
 & In the settings you provide a comma separated list of emoji, each of which represent a habit you want to track.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/habits/]
-- Live version: [l:https://tilde.town/~dustin/habits/]
+- Live version: [l:https://0xdstn.site/habits/]
 
 ~projects/lipu-sona : lipu sona : A toki pona/sitelen pona flash card tool : 2022-03-07
 1 lipu sona 
 & A simple flash card tool to practice learning toki pona and sitelen pona.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/lipu-sona/]
-- Live version: [l:https://tilde.town/~dustin/lipu-sona/]
+- Live version: [l:https://0xdstn.site/lipu-sona/]
 
 ~projects/suno : suno : An impermanent morning page writing tool : 2022-02-25
 1 suno
@@ -1183,7 +1183,7 @@
 & It stores your day's writing in local storage, and erases it the next day. The intent with this is for you to be able to write without worrying about the contents, as they will be gone within 24 hours.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/suno/]
-- Live version: [l:https://tilde.town/~dustin/suno/]
+- Live version: [l:https://0xdstn.site/suno/]
 
 ~projects/lawa : lawa : A flat-file journaling script : 2022-02-24
 1 lawa
@@ -1226,7 +1226,7 @@
 & It uses the [l:https://jackhumbert.github.io/sitelen-pona-pona/|sitelen pona pona] font, so usage of that font can be viewed on that site.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/ilo-nimi/]
-- Live version: [l:https://tilde.town/~dustin/ilo-nimi/]
+- Live version: [l:https://0xdstn.site/ilo-nimi/]
 
 ~projects/musi-nimi : musi nimi : A Wordle clone with Toki Pona words : 2022-01-19
 1 musi nimi 
@@ -1244,7 +1244,7 @@
 2 Online tool
 & An online tool for playing without a deck of cards. This was inspired by the [l:https://jameschip.io/adventurer_online/index.html|official online tool], but with some new features.
 - Source code: [l:https://github.com/0xdstn/adventurer/]
-- Live version: [l:https://tilde.town/~dustin/adventurer/]
+- Live version: [l:https://0xdstn.site/adventurer/]
 * Features:
 - Draw cards from each pile using the default card list
 - Uses local storage to store deck state so you can return to your active game
@@ -1397,7 +1397,7 @@ T NAME : Landing room
 & This is a simple tool that allows you to input Toki Pona, and it will provide you the definition of each word. It does not understand sentence structure and doesn't give you an actual translation, but provides you information so you can translate yourself.
 & It is set up as a PWA, so you can also install it to your android device and even use it offline.
 - Source code: [l:https://github.com/0xdstn/ilo/]
-- Live version: [l:https://tilde.town/~dustin/ilo/]
+- Live version: [l:https://0xdstn.site/ilo/]
 & There is also a firefox addon to add an item to context the menu when you select some text and right click on it. When you click the item it opens a new tab with the selected text in ilo to be translated.
 - Addon: [l:https://addons.mozilla.org/en-US/firefox/addon/ilo/]
 - Source code: [l:https://github.com/0xdstn/ilo-firefox]
@@ -1654,7 +1654,7 @@ _ 2022.07.19
 ~writing/writing : On Writing : Thoughts on being a writer : 2022-07-13
 1 On writing
 _ 2022.07.13
-& I would like to be a writer. Not necessarily a published writer, but just a writer. I want to write for myself, write here on this site, and write daily in [l:https://tilde.town/~dustin/suno|Suno] and let it disappear.
+& I would like to be a writer. Not necessarily a published writer, but just a writer. I want to write for myself, write here on this site, and write daily in [l:https://0xdstn.site/suno|Suno] and let it disappear.
 & I have always had this feeling that I am not a good writer. Even if I'm not, I'm not trying to get published, I just want to write. It doesn't have to be good. I think the process of writing itself is what I'm really going for. It can be meditative and open myself up for more reflection.
 & On the other hand, if I don't write, I don't think about things. I just coast through the days without any reflection on what is going on in my life. I want to get to a point where I'm putting what I'm experiencing and feeling in words, and reflecting on it.
 & Probably most of what I write won't end up on this site, or even in my notebook. I'll probably do morning pages in Suno, and if anything feels like it belongs in my notebook or on this site, I'll move it over. That's how this post started.

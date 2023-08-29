@@ -17,7 +17,7 @@ if len(args) == 4:
 else:
     srcPath = "./"
     outPath = "../"
-    basePath = "/~dustin/"
+    basePath = "/"
 
 key = {
     "&": "p",

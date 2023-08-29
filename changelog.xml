@@ -104,5 +104,59 @@
         <description>Changes from 2023-07-28</description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-07-28&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/~dustin/wiki/rss&quot;&gt;RSS&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
+      <item>
+        <title>2023-08-01</title>
+        <link>https://tilde.town/~dustin/changelog/2023-08-01</link>
+        <guid>https://tilde.town/~dustin/changelog/2023-08-01</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Tue, 01 Aug 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-08-01</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-08-01&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added ability to have subpages&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki category page: &lt;a href=&quot;/~dustin/wiki/infosec&quot;&gt;Infosec&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Moved Recon notes to infosec subcategory: &lt;a href=&quot;/~dustin/wiki/infosec/recon&quot;&gt;Recon&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Moved OSINT notes to infosec subcategory: &lt;a href=&quot;/~dustin/wiki/infosec/osint&quot;&gt;OSINT&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Updated &lt;a href=&quot;/~dustin/wiki/witchcraft&quot;&gt;Witchcraft&lt;/a&gt; to be a category page&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Moved magic notes to it&#x27;s own subpage: &lt;a href=&quot;/~dustin/wiki/witchcraft/magic&quot;&gt;Magic&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Moved stones notes to it&#x27;s own subpage: &lt;a href=&quot;/~dustin/wiki/witchcraft/stones&quot;&gt;Stones&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Moved tarot notes to it&#x27;s own subpage: &lt;a href=&quot;/~dustin/wiki/witchcraft/tarot&quot;&gt;Tarot&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      </item>
+      <item>
+        <title>2023-08-03</title>
+        <link>https://tilde.town/~dustin/changelog/2023-08-03</link>
+        <guid>https://tilde.town/~dustin/changelog/2023-08-03</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Thu, 03 Aug 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-08-03</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-08-03&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new project: &lt;a href=&quot;/~dustin/projects/reader&quot;&gt;Reader&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new project: &lt;a href=&quot;/~dustin/projects/feeds&quot;&gt;Feeds&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      </item>
+      <item>
+        <title>2023-08-17</title>
+        <link>https://tilde.town/~dustin/changelog/2023-08-17</link>
+        <guid>https://tilde.town/~dustin/changelog/2023-08-17</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Thu, 17 Aug 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-08-17</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-08-17&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new microblog section: &lt;a href=&quot;/~dustin/thoughts&quot;&gt;Thoughts&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added thought: &lt;a href=&quot;/~dustin/thoughts/100-days-to-offload&quot;&gt;100 Days to Offload&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      </item>
+      <item>
+        <title>2023-08-20</title>
+        <link>https://tilde.town/~dustin/changelog/2023-08-20</link>
+        <guid>https://tilde.town/~dustin/changelog/2023-08-20</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Sun, 20 Aug 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-08-20</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-08-20&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Added Books-a-Million instructions to &lt;a href=&quot;/~dustin/wiki/ebooks/#Remove%20DRM&quot;&gt;Ebooks - Remove DRM&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
+      </item>
+      <item>
+        <title>2023-08-21</title>
+        <link>https://tilde.town/~dustin/changelog/2023-08-21</link>
+        <guid>https://tilde.town/~dustin/changelog/2023-08-21</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Mon, 21 Aug 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-08-21</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-08-21&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/~dustin/wiki/podcasts&quot;&gt;Podcasts&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new witchcraft wiki page: &lt;a href=&quot;/~dustin/wiki/witchcraft/water&quot;&gt;Water&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Renamed Gemstones page to Stones: &lt;a href=&quot;/~dustin/wiki/witchcraft/stones&quot;&gt;Stones&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Added information on Hagstones to Stones: &lt;a href=&quot;/~dustin/wiki/witchcraft/stones#Hagstones&quot;&gt;Hagstones&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      </item>
+      <item>
+        <title>2023-08-22</title>
+        <link>https://tilde.town/~dustin/changelog/2023-08-22</link>
+        <guid>https://tilde.town/~dustin/changelog/2023-08-22</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-08-22</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-08-22&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Added &lt;a href=&quot;https://libera.chat&quot; target=&quot;_blank&quot;&gt;Libera.Chat&lt;/a&gt; (&lt;strong&gt;dstn&lt;/strong&gt;) to the &lt;a href=&quot;/~dustin/hello&quot;&gt;hello page&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
+      </item>
   </channel>
 </rss>

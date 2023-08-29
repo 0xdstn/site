@@ -76,13 +76,16 @@ emoji = {
     "log": "128210",
     "green": "129001",
     "red": "128997",
-    "yellow": "129000"
+    "yellow": "129000",
+    "thought": "128173",
+    "man": "128104"
 }
 
 singular = {
         "projects": "Project",
         "wiki": "Wiki entry",
         "writing": "Post",
+        "thoughts": "Thought",
         "recipes": "Recipe",
         "art": "Art Post",
         "changelog": "Changelog"
@@ -109,6 +112,8 @@ def sectionEmoji(section):
         e = 'bowl'
     elif section == 'writing':
         e = 'paper'
+    elif section == 'thoughts':
+        e = 'thought'
     elif section == 'hello':
         e = 'wave'
     elif section == 'art':
@@ -152,21 +157,33 @@ def tpl(line):
                 line = line.replace(tag,'<a href="{}">{}</a>'.format(basePath+url,txt))
         elif k == "d":
             ul = "<ul>"
-            if m[1] == 'index':
+            sec = m[1]
+            showSubs = False
+            if sec == 'index':
                 tmpPages = []
                 for x in data:
-                    if x != 'index' and x != 'devnull':
+                    if x != 'index' and x != 'devnull' and '/' not in x:
+                        tmpPages.append(x)
+            elif '/' in sec:
+                tmpPages = []
+                sp = sec.split('/')
+                sec = sp[0]
+                showSubs = True
+                for x in data[sp[0]]:
+                    if x.startswith(sp[1]+'/'):
                         tmpPages.append(x)
             else:
-                tmpPages = data[m[1]]
+                tmpPages = data[sec]
             for x in tmpPages:
-                if m[1] == 'index':
+                if sec == 'index':
                     page = data[x]['index']
                     ul += '<li><a href="{}">{}</a> {}'.format(basePath + page["LINK"].replace('/index',''),page["NAME"],page["DESC"])
-                elif x != "index":
-                    page = data[m[1]][x]
-                    if m[1] == 'writing' or m[1] == 'posts' or m[1] == 'art':
+                elif x != "index" and ('/' not in x or showSubs):
+                    page = data[sec][x]
+                    if sec == 'writing' or sec == 'art':
                         ul += '<li><strong>{}</strong> <a href="{}">{}</a><br>{}'.format(page["DATE"].replace("-","."),basePath + page["LINK"],page["NAME"],page["DESC"])
+                    elif sec == 'thoughts':
+                        ul += '<li><strong>{}</strong> <a href="{}">{}</a>'.format(page["DATE"].replace("-","."),basePath + page["LINK"],page["NAME"])
                     else:
                         ul += '<li><a href="{}">{}</a> {}'.format(basePath + page["LINK"],page["NAME"],page["DESC"])
             ul += "</ul>"
@@ -279,10 +296,13 @@ def createPage(fileName, section, pg):
     if section != 'index':
         if pg == 'index':
             finalOutput += '<a href="' + basePath + '">..</a>'
+        elif '/' in pg:
+            sp = pg.split('/')
+            finalOutput += '<a href="' + basePath + section + '/' + sp[0] + '">..</a>'
         else:
             finalOutput += '<a href="' + basePath + section + '">..</a>'
     finalOutput += output
-    if section in ['writing','projects','wiki','art'] and pg != 'index':
+    if section in ['writing','projects','wiki','art','thoughts'] and pg != 'index':
         finalOutput += '<blockquote class="thanks">' + tpl('[e:wave] Hey! Thanks for reading! If you have any comments or questions about this post, or anything else, I\'d love to chat! You can find the best way to contact me on my [l:hello|hello page] or send me an [l:mailto:0xdstn@protonmail.com?subject=RE: '+data[section][pg]["NAME"]+'|email]') + '.</blockquote>'
     finalOutput += footer
 
@@ -306,9 +326,11 @@ def parseData(df):
 
         if line[0] == "~":
             pg = line[1:len(line)].split(" : ")
-            url = pg[0].split("/");
-            curSection = url[0];
-            curPage = url[1] if len(url) > 1 else "index"
+            url = pg[0].split("/")
+            curSection = url[0]
+            curPage = url[1]
+            if len(url) == 3:
+                curPage = url[1] + '/' + url[2]
 
             if curSection not in data: 
                 data[curSection] = {}

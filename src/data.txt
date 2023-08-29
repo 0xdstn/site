@@ -1,11 +1,13 @@
 ~index/index : Home : Home
 1 Dustin
 - [e:wave] Hello friend. My name is [b:Dustin].
+- [e:man] My pronouns are [b:he/him].
 - [e:mail] If you would like to reach out to me, find out how on my [l:hello|hello page].
 
 2 Pages
 - [e:computer] [l:projects|Projects] Various projects I've worked on
 - [e:paper] [l:writing|Writing] Articles I've written 
+- [e:thought] [l:thoughts|Thoughts] A microblog of unstructured thoughts
 - [e:paint] [l:art|Art] Art I've made 
 - [e:book] [l:wiki|Wiki] My personal notes
 - [e:bowl] [l:recipes|Recipes] Recipes for food I've made
@@ -13,7 +15,7 @@
 - [e:log] [l:changelog|Changelog] A list of changes to this site
 
 2 Latest
-? [r:writing,projects,art,recipes,changelog]
+? [r:writing,thoughts,projects,art,recipes,changelog]
 
 ~hello/index : Hello : How to contact me : 2022-07-13
 1 Hello
@@ -23,6 +25,7 @@
 - To see some things I've written you can visit the [l:writing|writings section] of this site.
 - I don't use twitter or other social networks as public forms of communication. Reasoning for this can be read in my thoughts [l:writing/social|on social media].
 - I returned to Mastodon in the end of 2022. My thoughts on this can be ready in my post [l:writing/mastodon|Return to Mastodon]. You can message me at [l:https://mastodon.spotek.io/@dustin|@dustin@mastodon.spotek.io], however I only go on there occasionally, so I may be slow to respond.
+- I am on [l:https://libera.chat|Libera.Chat] as [b:dstn].
 
 ~feeds/index : Feeds : A list of my RSS feeds : 2022-08-16
 1 Feeds
@@ -34,6 +37,42 @@
 1 Changelog
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
+
+~changelog/2023-08-22 : 2023-08-22 : Changes from 2023-08-22 : 2023-08-22
+1 2023-08-22
+- [e:yellow] Added [l:https://libera.chat|Libera.Chat] ([b:dstn]) to the [l:hello|hello page]
+
+~changelog/2023-08-21 : 2023-08-21 : Changes from 2023-08-21 : 2023-08-21
+1 2023-08-21
+- [e:green] Added new wiki page: [l:wiki/podcasts|Podcasts]
+- [e:green] Added new witchcraft wiki page: [l:wiki/witchcraft/water|Water]
+- [e:yellow] Renamed Gemstones page to Stones: [l:wiki/witchcraft/stones|Stones]
+- [e:yellow] Added information on Hagstones to Stones: [l:wiki/witchcraft/stones#Hagstones|Hagstones]
+
+~changelog/2023-08-20 : 2023-08-20 : Changes from 2023-08-20 : 2023-08-20
+1 2023-08-20
+- [e:yellow] Added Books-a-Million instructions to [l:wiki/ebooks/#Remove%20DRM|Ebooks - Remove DRM]
+
+~changelog/2023-08-17 : 2023-08-17 : Changes from 2023-08-17 : 2023-08-17
+1 2023-08-17
+- [e:green] Added new microblog section: [l:thoughts|Thoughts]
+- [e:green] Added thought: [l:thoughts/100-days-to-offload|100 Days to Offload]
+
+~changelog/2023-08-03 : 2023-08-03 : Changes from 2023-08-03 : 2023-08-03
+1 2023-08-03
+- [e:green] Added new project: [l:projects/reader|Reader]
+- [e:green] Added new project: [l:projects/feeds|Feeds]
+
+~changelog/2023-08-01 : 2023-08-01 : Changes from 2023-08-01 : 2023-08-01
+1 2023-08-01
+- [e:green] Added ability to have subpages
+- [e:green] Added new wiki category page: [l:wiki/infosec|Infosec]
+- [e:yellow] Moved Recon notes to infosec subcategory: [l:wiki/infosec/recon|Recon]
+- [e:yellow] Moved OSINT notes to infosec subcategory: [l:wiki/infosec/osint|OSINT]
+- [e:yellow] Updated [l:wiki/witchcraft|Witchcraft] to be a category page
+- [e:green] Moved magic notes to it's own subpage: [l:wiki/witchcraft/magic|Magic]
+- [e:green] Moved stones notes to it's own subpage: [l:wiki/witchcraft/stones|Stones]
+- [e:green] Moved tarot notes to it's own subpage: [l:wiki/witchcraft/tarot|Tarot]
 
 ~changelog/2023-07-28 : 2023-07-28 : Changes from 2023-07-28 : 2023-07-28
 1 2023-07-28
@@ -322,10 +361,10 @@
 ~wiki/witchcraft : Witchcraft : Notes related to witchcraft : 2023-05-12
 1 Witchcraft
 & These are my notes from studying and practicing witchcraft.
-# [l:#General Magic|General Magic]
-# [l:#Gemstones|Gemstones]
-# [l:#Tarot|Tarot]
-2 General Magic
+? [d:wiki/witchcraft]
+
+~wiki/witchcraft/magic : Magic : Notes related to general magic : 2023-08-01
+1 Magic
 & With magic, all that matters is strength of will to bring results. If you focus intent and manipulate the energy, change will happen.
 & I feel that hiding behind the witchy exterior, witchcraft is mostly being mindful and connecting with nature.
 & Maybe there is no true god, but instead the universe presents itself in the form that resonates most with each individual. All gods and relgions are just nature manifesting itself in our lives.
@@ -335,6 +374,11 @@
 & The real meaning of magic is for witches to discover for themselves through experience.
 > "The philosophy of witchcraft contains a choice to perceive things differently from the way most other people do." - Marion Weinstein, Personal Magic
 > "Magic is transformational, brought about by will and skill in accordance with natural law." - Marion Weinstein, Personal Magic
+
+~wiki/witchcraft/stones : Stones : Notes related to stones : 2023-08-21
+1 Stones
+# [l:#Gemstones|Gemstones]
+# [l:#Hagstones|Hagstones]
 2 Gemstones
 & Carrying around or wearing specific gemstones can affect you in different ways. These are the ones I own.
 - [b:Jade]: Self acceptance, inner calm, creativity
@@ -345,7 +389,17 @@
 - [b:Obsidian]: Grounding, protection
 - [b:Lapis Lazuli]: Confusion, emotional baggage
 - [b:Clear Quartz]: Connection to all four elements
-2 Tarot
+2 Hagstones
+& Hagstones are stones found by the ocean with holes in them that you can see through. They are supposed to let positive energy through, but negative energy doesn't fit through the holes, and are used for protection.
+
+~wiki/witchcraft/water : Water : Notes related to water : 2023-08-21
+1 Water
+2 Moon Water
+& You can leave a container of water out on a full moon, and it will absorb energy from the moon. The moon water can be used to cleanse magical items.
+& A mason jar works well as it has a lid and is transparent so the moon light can shine through the container.
+
+~wiki/witchcraft/tarot : Tarot : Notes related to tarot : 2023-08-01
+1 Tarot
 & Think of tarot as a tool for self-awareness and reflection, rather than fortune telling.
 
 ~wiki/development : Development : Notes related to software/web development : 2021-09-30
@@ -480,10 +534,16 @@
 # If desired, combine with some condensed milk or other milk. I like to use some frothed oat milk.
 2 Grid Size
 & Below are the "clicks" I set my [l:https://www.hario-usa.com/products/ceramic-coffee-mill-mini-plus|grinder] to for various brewers.
+- [b:3 clicks] Fine - Prismo
 - [b:7 clicks] Medium fine - Moka Pot
 - [b:10 clicks] Medium - Kalita Wave, Aeropress
 
-~wiki/osint : OSINT : Notes and tools for OSINT : 2023-03-21
+~wiki/infosec : Infosec : Notes related to infosec research : 2023-08-01
+1 Infosec
+& Below are a list of pages for notes regarding [b:Infosec] (Information Security) research.
+? [d:wiki/infosec]
+
+~wiki/infosec/osint : OSINT : Notes and tools for OSINT : 2023-03-21
 1 OSINT
 & Below are my notes regarding [b:OSINT] (Open Source Intelligence) research.
 # [l:#Notes|Notes]
@@ -500,7 +560,7 @@
 2 Resources
 - [l:https://ctf.cybersoc.wales/|Cyber Detective CTF]
 
-~wiki/recon : Recon : Notes and tools for recon : 2023-04-10
+~wiki/infosec/recon : Recon : Notes and tools for recon : 2023-04-10
 1 Recon
 & Below are my notes regarding [b:Recon] research.
 # [l:#Notes|Notes]
@@ -534,7 +594,7 @@
 & I currently own a [b:10th Generation Kindle].
 & It is still set up as an Amazon device, but if it becomes possible I may jailbreak it. As of writing this, [l:https://www.mobileread.com/forums/showthread.php?t=320564|these instructions] only support firmware version <= [c:5.14.2] and mine is running [c:5.16.2.1].
 2 Ebook management
-& Prevously I would take ebooks I got outside of Amazon and import them to Amazon via their Send to Kindle feature. I then decided to take more control over my ebook files and removed them from there. 
+& Previously I would take ebooks I got outside of Amazon and import them to Amazon via their Send to Kindle feature. I then decided to take more control over my ebook files and removed them from there. 
 & I now take ebooks, convert them to [b:mobi] using [l:https://calibre-ebook.com/|Calibre], and then add those mobi files to a folder on my computer and in a folder on the Kindle via USB.
 2 Remove DRM
 & This is the process I took to remove DRM from my books bought on Amazon and Google.
@@ -550,10 +610,16 @@
 # In Calibre click [b:Add Books] and navigate to the Amazon books (mine were in [c:C:\Users\USERNAME\Documents\My Kindle Content])
 # In Calibre click select all the books and click [b:Convert books > bulk convert]. Select the format you want and click convert. With the plugin installed DRM should already be removed.
 3 Google Books
-# Download and install [l:https://adobe.com/solutions/ebook/digital-editions/download.html|Adobe Digital Editions]
 # Go to [l:https://books.google.com/books|Google Books]
 # Click on each book you want to download
 # For each click on the [b:settings cog] and click [b:Download EPUB] (they will be [c:acsm] files)
+# Follow the Remove DRM from ascm files below
+3 Books-a-Million
+# Go to [b:My Download Library] on [l:https://booksamillion.com|Books-a-Million]
+# Click on [b:Download] for each book you want to download (they will be [c:acsm] files)
+# Follow the Remove DRM from ascm files below
+3 Remove DRM from acsm files
+# Download and install [l:https://adobe.com/solutions/ebook/digital-editions/download.html|Adobe Digital Editions]
 # Open Adobe Digital Editions and log in with your Adobe account
 # In ADE click [b:File > Add to Library] and select the downloaded books. It will have you log in to an Adobe account. This converts the files to epub.
 # In Calibre click [b:Add Books] and navigate to the ADE books (mine were in [c:C:\Users\USERNAME\Documents\My Digital Editions])
@@ -569,7 +635,7 @@
 # [l:#Buttondown via RSS|Buttondown via RSS]
 # [l:#Kill the Newsletter|Kill the Newsletter]
 2 Notes
-& Originally I used a RSS reader on my laptop, with the intent to open it up once a week or so and read through my subscriptions. I found that I pretty much never did that, so instead I've moved over to a custom RSS reader that I built myself and host on a Raspberry Pi.
+& Originally I used a RSS reader on my laptop, with the intent to open it up once a week or so and read through my subscriptions. I found that I pretty much never did that, so instead I've moved over to a [l:projects/feeds|custom RSS reader] that I built myself and host on a Raspberry Pi.
 & It allows me to add feeds, pulls them down and generates local html files of the contents for each entry (via a cron job and a python script), and lists them for reading. I can mark things as read and all that as well.
 & One benefit of this is it's static HTML, so I can read them on my Kindle via the web browser.
 2 Substack via RSS
@@ -595,6 +661,100 @@
 & The way it works is you set up a mailbox and it gives you an email address to sign up for the newsletter with, and also an RSS feed URL for subscribing.
 & You just give it a name for the mailbox and it generates those for you. You can then take the email and sign up for the newsletter as you normally would, and subscribe to the feed via an RSS reader.
 & If you have to confirm your email, that will come through as an entry in the feed so you can click the link.
+
+~wiki/podcasts : Podcasts : A list of podcasts I've listened to : 2023-07-28
+1 Podcasts
+& I am very into fiction/audio drama podcasts. I also sometimes listen to informational podcasts usually surrounding tech or other random interests I have.
+& Below is a list of podcasts I've listened to or plan to listen to
+2 Fiction/Audio Dramas
+3 Started 
+- The Polybius Conspiracy
+- Archive 81
+- The Hacker Chronicles
+- Bridgewater
+3 Ongoing
+- R.L. Stine's Story Club
+3 On Hold
+- Rabbits
+- Tanis
+- The Last Movie
+- 13 Days of Halloween
+- 12 Ghosts
+- Magenta Presents
+- Christmas Stories
+2 Queue
+- The Deep Vault
+- LifeAfter/The Message
+- Congeria
+- Blackwood
+- Limetown
+- The Angel of Vine
+- The Hanted Hour
+- Darkest Night
+- Unknown 9: Out of Sight
+- Mirrors
+- Shipworm
+- The Midnight Carols
+- Black Box
+- What Will Be Here?
+- SPECTRE
+- Doctor Who: Redacted
+- Restart
+- A Voice From Darkness
+- Alice Isn't Dead
+- The Magnus Archives
+- The Goblet Wire
+- The Call of the Void
+- Strange Air
+- The Battersea Poltergeist
+- October's Children
+- The Alleyman Podcast
+- Haunted Road
+- Wake of Corrosion
+- Maxine Miles
+- Uncanny
+- The Witch Farm
+- TAGGED
+- Mockery Manor
+- Ramon Fear's Terror Tapes
+- Borrasca
+- Carrier
+- The Foxes of Hydesville
+- From Now
+- Electric Easy
+- Birds of Empire
+- Ghost Tape
+- Classified
+- The Burned Photo
+- Hidden Signal
+- Where the Stars Fell
+- Ad Lucem
+3 Finished
+- Video Palace
+- The Cipher
+- Rebel Robin
+- Blackout
+- The Leap Year Society
+- The Black Tapes
+2 Informational
+3 Started
+- The Banksy Story
+- Command Line Heroes
+3 Ongoing
+- Secular Buddhism
+- BirdNote Daily
+3 Finished
+- The Hacker Next Door
+- Hackable?
+- IRL
+- The Hackers
+- The Calm Christmas Podcast
+3 Queue
+- The Fearless Writer Podcast
+- Witch (BBC Radio 4)
+2 Misc
+3 Ongoing
+- Public Domain Tapes
 
 ~recipes/index : Recipes : Recipes for food I've made : 2022-05-19
 1 Recipes 
@@ -783,6 +943,49 @@
 1 Projects
 & Below is a list of personal projects I've created. Most of them are tools I have made for myself that others can use as well.
 ? [d:projects]
+
+~projects/reader : Reader : An article saving/reading app : 2023-08-03
+1 Reader
+& I decided to move away from Pocket for saving articles to read later, and instead build my own little app. This is by no means top quality coding, it was thrown together to solve a problem.
+& This requires PHP and python to run.
+& [b:Source code:] [l:https://github.com/0xdstn/reader]
+2 Setup
+& Place the contents of the repo in a directory called [b:reader] inside your root web directory (such as [b:/var/www/html/reader]).
+& Create a [c:key.txt] file one directory up from your root web directory (such as [b:/var/www]). [i:This should not be accessible via a browser.]
+& Create an [c:articles] directory in the reader directory.
+& Create a [c:data.txt] file in the reader directory.
+& Set up a cron job for the scraper. I have it set up to run every hour like so:
+% 0 * * * * cd /var/www/html/reader && ./scrape.py >/dev/null 2>&1
+& The cron job takes any URL that hasn't been scraped in [c:data.txt], pulls the title and the contents for it via web scraping, updates [c:data.txt] with the title, and generates an HTML file of the contents in the [c:articles] directory.
+2 Pocket import
+& I transitioned from Pocket to this, so I made a pocket import script. 
+& To use it, go to Pocket and export your links as an HTML file. Place that in the reader directory. It should be called [c:ril_export.html].
+& You then should just need to run the [c:pocket-import.py] file and it will convert the HTML export into entries in [c:data.txt].
+2 Usage
+& Navigating to the [b:/reader?key=YOURKEY] directory on your webserver will display a list of articles from [c:data.txt]. Replace [b:YOURKEY] with the contents of the [c:key.txt] file. If the title has been scraped it will display that and link to the local HTML file for it. If it has not yet been scraped, it will display the URL and link out to that.
+& You can click [b:Add article], which will give you a box to fill in a URL and a submit button. This adds the provided URL to [c:data.txt].
+& When reading a local HTML article, there is a [b:mark read] link at the top and bottom which you can click to mark it as read, removing it from the list on the index page.
+& This app is really light weight, so it works well in the web browser of a kindle.
+
+~projects/feeds : Feeds : A minimal RSS reader app : 2023-08-03
+1 Feeds
+& I previously decided to use an app on my computer to subscribe to RSS feeds with the intent of logging on once a week or so to read any posts. I kept not doing this, so I decided to create my own tool. This is a feed reader that generates HTML files of the post contents.
+& This is by no means top quality coding, it was thrown together to solve a problem.
+& This requires PHP and python to run.
+& [b:Source code:] [l:https://github.com/0xdstn/feeds]
+2 Setup
+& Place the contents of the repo in a directory called [b:feeds] inside your root web directory (such as [b:/var/www/html/feeds]).
+& Create a [c:key.txt] file one directory up from your root web directory (such as [b:/var/www]). [i:This should not be accessible via a browser.]
+& Create an [c:articles] directory in the feeds directory.
+& Create a [c:data.txt] file and a [c:feeds.txt] file in the feeds directory.
+& Set up a cron job for the scraper. I have it set up to run every hour like so:
+% 0 * * * * cd /var/www/html/feeds && ./scrape.py >/dev/null 2>&1
+& The cron job loops through and pulls the feeds in [c:feeds.txt], adds it to the list in [c:data.txt], and generates an HTML file of the contents in the [c:articles] directory.
+2 Usage
+& Navigating to the [b:/feeds?key=YOURKEY] directory on your webserver will display a list of articles from [c:data.txt]. Replace [b:YOURKEY] with the contents of the [c:key.txt] file. If the articles have been added, it will display the titles and link to the local HTML file for it.
+& You can subscribe to a feed by clicking [b:Add feed], which will give you a box to fill in a URL and a submit button. This adds the provided URL to [c:feeds.txt].
+& When reading an article, there is a [b:mark read] link at the top and bottom which you can click to mark it as read, removing it from the list on the index page.
+& This app is really light weight, so it works well in the web browser of a kindle.
 
 ~projects/meditations : Meditations :  A 5-minute journal app : 2023-07-11
 1 Meditations
@@ -1860,3 +2063,28 @@ _ 2023.02.09
 2 10 PM: Reading
 & Of all the time texts at the top, this is my favorite. I really like the purple that I chose for it.
 @ |assets/img/07-10PM.jpg
+
+~thoughts/index : Thoughts : A microblog of my thoughts : 2023-08-17
+1 Thoughts 
+& This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
+? [d:thoughts]
+
+~thoughts/self-hosting : Self Hosting : Self Hosting : 2023-08-28
+1 Self hosting
+_ 2023.08.29
+& I'm considering buying a domain and self hosting my site. I'd just run it on a [b:Raspbery Pi 3 Model B+]. I've done this before, so I know what needs to happen to set it up.
+& I'd then also consider hosting the following:
+- A gemini site
+- A gopher site
+- A Tor site
+& I love tilde.town, but I think there is also something enjoyable about managing my own hosting.
+& I am curious how that would affect people who currently follow me via RSS, or have my website bookmarked/linked to from their site.
+& I imagine I could replace page contents with a message that says "This page has been moved to x" with a link to the same page on my new site, and put in a javascript redirect as well so it can redirect automatically.
+& I'd then likely post to my blog on the old site saying the site has moved with the new URL, which would also get picked up in people's RSS feeds so they can know to update their entry for my site.
+& If you follow me or have bookmarks/links to my site, I'd love to hear your opinion on a switch like this. Feel free to send me an [l:mailto:0xdstn@protonmail.com|email].
+
+~thoughts/100-days-to-offload : 100 Days to Offload : 100 Days to Offload : 2023-08-17
+1 100 Days to Offload
+_ 2023.08.17
+& I decided to add this thoughts section to my site for more unstructured posts. I will be starting [l:https://100daystooffload.com|100 Days to Offload] on [b:September 1st, 2023]. This decision was inspired by [l:https://oldbytes.space/@82mhz/110866819383239430|82mhz's post] saying he is doing it and inviting others to join in.
+& All of my [b:#100DaysToOffload] posts will be in this thoughts section.

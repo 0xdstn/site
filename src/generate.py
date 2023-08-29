@@ -308,7 +308,7 @@ def createPage(fileName, section, pg):
 
     if data[section][pg]["DATE"] != "":
         data[section][pg]["RENDERED"] = output
-        data[section][pg]["LINK"] = 'https://tilde.town/~dustin/' + section + '/' + pg
+        data[section][pg]["LINK"] = 'https://0xdstn.site/' + section + '/' + pg
         if section == "changelog" and page != 'index':
             xmlItemsChangelog[data[section][pg]["DATE"]+"_"+pg] = data[section][pg]
         elif section != "devnull" and page != 'index':
@@ -408,11 +408,11 @@ xmlKeys.sort()
 
 xmlOutput += '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content">\n'
 xmlOutput += '  <channel>\n'
-xmlOutput += '    <title>~dustin</title>\n'
-xmlOutput += '    <link>https://tilde.town' + basePath + '</link>\n'
+xmlOutput += '    <title>0xdstn</title>\n'
+xmlOutput += '    <link>https://0xdstn.site' + basePath + '</link>\n'
 xmlOutput += '    <description>Dustin, Software Engineer from Spokane, WA</description>\n'
 xmlOutput += '    <language>en-us</language>\n'
-xmlOutput += '    <atom:link href="https://tilde.town' + basePath + 'index.xml" rel="self" type="application/rss+xml" />\n'
+xmlOutput += '    <atom:link href="https://0xdstn.site' + basePath + 'index.xml" rel="self" type="application/rss+xml" />\n'
 
 for i in xmlKeys:
     item = xmlItems[i]
@@ -444,10 +444,10 @@ xmlKeysChangelog.sort()
 xmlOutputChangelog += '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content">\n'
 xmlOutputChangelog += '  <channel>\n'
 xmlOutputChangelog += '    <title>~dustin Changelog</title>\n'
-xmlOutputChangelog += '    <link>https://tilde.town' + basePath + '/changelog</link>\n'
+xmlOutputChangelog += '    <link>https://0xdstn.site' + basePath + '/changelog</link>\n'
 xmlOutputChangelog += '    <description>Dustin, Software Engineer from Spokane, WA</description>\n'
 xmlOutputChangelog += '    <language>en-us</language>\n'
-xmlOutputChangelog += '    <atom:link href="https://tilde.town' + basePath + 'changelog.xml" rel="self" type="application/rss+xml" />\n'
+xmlOutputChangelog += '    <atom:link href="https://0xdstn.site' + basePath + 'changelog.xml" rel="self" type="application/rss+xml" />\n'
 
 for i in xmlKeysChangelog:
     item = xmlItemsChangelog[i]

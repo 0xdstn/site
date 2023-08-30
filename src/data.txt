@@ -32,6 +32,7 @@
 & This is my [l:https://marcus.io/blog/making-rss-more-visible-again-with-slash-feeds|feeds page], where you can find a list of RSS feeds for my content.
 - [l:index.xml|Main feed]
 - [l:changelog.xml|Changelog feed]
+- [l:dailyart/rss/|Daily Art]
 
 ~changelog/index : Changelog : A changelog for this site : 2023-04-17
 1 Changelog
@@ -42,6 +43,7 @@
 1 2023-08-29
 - [e:yellow] Switched to hosting this site myself! 
 - [e:green] Added thought: [l:thoughts/moved|Moved]
+- [e:green] Added new page: [l:dailyart|Daily Art]
 
 ~changelog/2023-08-22 : 2023-08-22 : Changes from 2023-08-22 : 2023-08-22
 1 2023-08-22
@@ -2012,11 +2014,14 @@ _ 2020.07.21
 
 ~art/index : Art : A collection of art blog posts : 2023-07-06
 1 Art
-& My goals with art:
+2 Goals
 - [e:book] I document my life by [b:sketch journaling].
 - [e:plant] I connect to nature by [b:nature journaling].
 - [e:building] I explore my city by [b:urban sketching].
 - [e:paint] I have fun by [b:keeping a sketchbook].
+2 Daily drawings
+& I have a page where I upload daily drawings, you can find that here: [l:dailyart|Daily art].
+2 Art blog
 & Below are is list of art related posts.
 ? [d:art]
 

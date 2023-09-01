@@ -39,6 +39,11 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-09-01 : 2023-09-01 : Changes from 2023-09-01 : 2023-09-01
+1 2023-09-01
+- [e:green] Added thought: [l:thoughts/here-we-go|Here we go!]
+- [e:yellow] Updated generator to strip out tags in h1-h6 id property so I can include emoji and other things in a heading
+
 ~changelog/2023-08-29 : 2023-08-29 : Changes from 2023-08-29 : 2023-08-29
 1 2023-08-29
 - [e:yellow] Switched to hosting this site myself! 
@@ -2079,6 +2084,20 @@ _ 2023.02.09
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
 
+~thoughts/here-we-go : Here we go! : Here we go! : 2023-09-01
+1 Here we go!
+_ 2023.09.01
+2 [e:paper] 100 Days to Offload
+& This is my first post in the 100 days to offload challenge! I have no idea what I am going to write about, but I'm looking forward to writing more and seeing what others write as well!
+& I was inspired to start this because [l:https://82mhz.net/|82mhz] posted that he would be doing it starting September 1, 2023 and asked if others wanted to join. There are a few of us now, which is great!
+& You can find a list of participants on [l:https://82mhz.net/posts/2023/09/100-days-to-offload/|82mhz's first post]. There is also an IRC channel set up by [l:https://box.matto.nl|Matto]. The channel is [b:#phloggersgarage] on [l:https://libera.chat/|Libera.chat].
+& One thing I might do to help myself have something to write about is start doing [l:https://indieweb.org/week_note|week notes] on Sundays, if I have some things to post an update on. I had never heard of this, but just came across it on [l:https://noisydeadlines.net/week-notes-aug-20-to-aug-27-2023|this post from Noisy Deadlines].
+2 [e:autumn] Autumn
+& I am really looking forward to autumn. It's my favorite season, and cooler weather has already started rolling in. We've had quite a few rainy and cool days. There was even some beautiful fog with a (nearly) full moon last night!
+& I'm sitting here in my kitchen with a nice cup of coffee, cool air blowing in from an open window, writing this, and all feels great. [e:heart]
+& I'm trying to slow down. This is something I've tried many times, but I always just end up doing too much again, burning out, and feeling stressed all the time. I want a more relaxed, intentional, and slow paced kind of life. Maybe writing things down here will help with that? I guess we'll see.
+* Post 001/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
 ~thoughts/moved : Moved : Moved : 2023-08-29
 1 Moved
 & I have decided to move away from hosting my site on tilde.town and host it here. If you are reading this you are on my new domain, [b:https://0xdstn.site].
@@ -2117,3 +2136,4 @@ _ 2023.08.29
 _ 2023.08.17
 & I decided to add this thoughts section to my site for more unstructured posts. I will be starting [l:https://100daystooffload.com|100 Days to Offload] on [b:September 1st, 2023]. This decision was inspired by [l:https://oldbytes.space/@82mhz/110866819383239430|82mhz's post] saying he is doing it and inviting others to join in.
 & All of my [b:#100DaysToOffload] posts will be in this thoughts section.
+# [b:001] [i:2023.09.01] [l:thoughts/here-we-go|Here we go!]

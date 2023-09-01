@@ -78,7 +78,9 @@ emoji = {
     "red": "128997",
     "yellow": "129000",
     "thought": "128173",
-    "man": "128104"
+    "man": "128104",
+    "autumn": "127810",
+    "heart": "128153"
 }
 
 singular = {
@@ -273,7 +275,7 @@ def generateContent(section, pg):
         # All other tags
         else:
             if char in ["2","3","4","5","6"]:
-                val = '<{} id="{}">{}</{}>'.format(key[char], tpl(text), tpl(text), key[char])
+                val = '<{} id="{}">{}</{}>'.format(key[char], re.sub('<[^<]+?>', '', tpl(text)).strip(), tpl(text), key[char])
             elif char == '1':
                 val = '<{}>{} {}</{}>'.format(key[char], sectionEmoji(section), tpl(text), key[char])
             else:

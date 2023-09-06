@@ -39,6 +39,10 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-09-06 : 2023-09-06 : Changes from 2023-09-06 : 2023-09-06
+1 2023-09-06
+- [e:green] Added thought: [l:thoughts/making-things|Making Things]
+
 ~changelog/2023-09-01 : 2023-09-01 : Changes from 2023-09-01 : 2023-09-01
 1 2023-09-01
 - [e:green] Added thought: [l:thoughts/here-we-go|Here we go!]
@@ -494,7 +498,7 @@
 # [l:#Aeropress|Aeropress]
 # [l:#Prismo|Prismo]
 # [l:#Phin|Phin]
-# [l:#Grind Size|Grid Size]
+# [l:#Grind Size|Grind Size]
 2 My equipment
 - [l:https://www.hario-usa.com/products/ceramic-coffee-mill-mini-plus|Hario Mini Slim Coffee Mill MSS-1]
 - [l:https://www.amazon.com/dp/B000X1AM0Y|Kalita Wave 185, stainless steel]
@@ -544,7 +548,7 @@
 # Fill basket to just below the top, near the rubber handles
 # Wait until all water has dripped through
 # If desired, combine with some condensed milk or other milk. I like to use some frothed oat milk.
-2 Grid Size
+2 Grind Size
 & Below are the "clicks" I set my [l:https://www.hario-usa.com/products/ceramic-coffee-mill-mini-plus|grinder] to for various brewers.
 - [b:3 clicks] Fine - Prismo
 - [b:7 clicks] Medium fine - Moka Pot
@@ -2084,6 +2088,34 @@ _ 2023.02.09
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
 
+~thoughts/making-things : Making Things : Making Things : 2023-09-06
+1 Making Things
+_ 2023.09.06
+2 [e:hammer] Working with my hands
+& I have always been someone who builds things on computers vs working on physical things. I really enjoy doing things that require tools and manual labor. I know it isn't much when compared to the act of woodworking, etc, but I put together a shelf unit and installed some hooks in the garage above it, to replace our old wobbly coat rack. It looks so much nicer and I really enjoy doing something with my hands, and then seeing the final result. It's so much more satisfying than creating something digital.
+2 [e:paper] Self tracking
+& I have long history of self traking.
+& I've used 3rd party apps to track things such as steps, heartrate, weight, food, water, fasting, sleep, etc. I've created digital solutions to track these things. I've used pen and paper to track these things.
+& Something that I tend to do is track things just because, for the sake of tracking, and not do anything with the data.
+& I considered making an app for health tracking, but then I decided I'd rather just do it in my bullet journal. One hold up on that is I don't always have it with me, but I have a notes app I made for myself that I will use keep daily log information in until I can transfer it to the journal.
+& I will track data only if it aligns with one of these purposes:
+- It will hold me accountable and keep the item top of mind so I do it
+- To inspect how the things I've tracked affect things such as how I feel, mentally or physically
+& The way I am going to track it is I will set up a weekly tracker every Monday, which I can adjust from week to week if something isn't working out or doesn't align with one of the above reasons.
+& These are the things I am going to start out with:
+- Water consumption (as a reminder to consistently drink water)
+- Food consumption (summaries, and note how I felt in the next few hours)
+- Fasting (hold myself accountable)
+- Running/working out (hold myself accountable)
+- Meditation (hold myself accountable)
+& In addition to habit tracking I'm going to also do the following each week:
+- Daily gratitude journaling
+- Highlights from the week
+& I've tracked all of this before, but it's time I started creating systems for change in my life. I am reminded of this quote from Epictetus:
+> How long are you going to wait before you demand the best for yourself
+& I deserve to treat myself better, and I won't settle for anything less.
+* Post 002/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
 ~thoughts/here-we-go : Here we go! : Here we go! : 2023-09-01
 1 Here we go!
 _ 2023.09.01
@@ -2137,3 +2169,4 @@ _ 2023.08.17
 & I decided to add this thoughts section to my site for more unstructured posts. I will be starting [l:https://100daystooffload.com|100 Days to Offload] on [b:September 1st, 2023]. This decision was inspired by [l:https://oldbytes.space/@82mhz/110866819383239430|82mhz's post] saying he is doing it and inviting others to join in.
 & All of my [b:#100DaysToOffload] posts will be in this thoughts section.
 # [b:001] [i:2023.09.01] [l:thoughts/here-we-go|Here we go!]
+# [b:002] [i:2023.09.06] [l:thoughts/making-things|Making Things]

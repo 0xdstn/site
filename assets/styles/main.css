@@ -166,3 +166,7 @@ footer {
 h1 .emoji {
     width: 50px;
 }
+
+h2 .emoji {
+    width: 40px;
+}

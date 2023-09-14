@@ -38,6 +38,16 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-09-13 : 2023-09-13 : Changes from 2023-09-13 : 2023-09-13
+1 2023-09-13
+- [e:green] Added thought: [l:thoughts/words|Words]
+- [e:green] Added thought: [l:thoughts/podcast-recommendations|Podcast Recommendations]
+- [e:yellow] Updated podcast lists: [l:wiki/podcasts|Podcasts]
+
+~changelog/2023-09-11 : 2023-09-11 : Changes from 2023-09-11 : 2023-09-11
+1 2023-09-11
+- [e:green] Added thought: [l:thoughts/podcasts-veilid|Podcasts + Veilid]
+- [e:yellow] Marked [b:The Polybius Conspiracy] and [b:Blackwood] as listened on the [l:wiki/podcasts|Podcasts] page
 ~changelog/2023-09-07 : 2023-09-07 : Changes from 2023-09-07 : 2023-09-07
 1 2023-09-07
 - [e:green] Added thought: [l:thoughts/daily-art|Daily Art]
@@ -687,15 +697,17 @@
 ~wiki/podcasts : Podcasts : A list of podcasts I've listened to : 2023-07-28
 1 Podcasts
 & I am very into fiction/audio drama podcasts. I also sometimes listen to informational podcasts usually surrounding tech or other random interests I have.
-& Below is a list of podcasts I've listened to or plan to listen to
-2 Fiction/Audio Dramas
+& Below is a list of podcasts I've listened to or plan to listen to:
 3 Started 
-- The Polybius Conspiracy
 - Archive 81
 - The Hacker Chronicles
 - Bridgewater
+- The Banksy Story
+- Command Line Heroes
 3 Ongoing
 - R.L. Stine's Story Club
+- Secular Buddhism
+- BirdNote Daily
 3 On Hold
 - Rabbits
 - Tanis
@@ -704,11 +716,27 @@
 - 12 Ghosts
 - Magenta Presents
 - Christmas Stories
+- The Calm Christmas Podcast
+3 Finished
+- The Hacker Next Door
+- Hackable?
+- IRL
+- The Hackers
+- Public Domain Tapes
+- The Black Tapes
+- The Leap Year Society
+- The Left Right Game
+- Gaslight
+- Blackout
+- Rebel Robin
+- The Cipher
+- Video Palace
+- The Polybius Conspiracy
+- Blackwood
 2 Queue
 - The Deep Vault
 - LifeAfter/The Message
 - Congeria
-- Blackwood
 - Limetown
 - The Angel of Vine
 - The Hanted Hour
@@ -736,7 +764,6 @@
 - Maxine Miles
 - Uncanny
 - The Witch Farm
-- TAGGED
 - Mockery Manor
 - Ramon Fear's Terror Tapes
 - Borrasca
@@ -751,32 +778,17 @@
 - Hidden Signal
 - Where the Stars Fell
 - Ad Lucem
-3 Finished
-- Video Palace
-- The Cipher
-- Rebel Robin
-- Blackout
-- The Leap Year Society
-- The Black Tapes
-2 Informational
-3 Started
-- The Banksy Story
-- Command Line Heroes
-3 Ongoing
-- Secular Buddhism
-- BirdNote Daily
-3 Finished
-- The Hacker Next Door
-- Hackable?
-- IRL
-- The Hackers
-- The Calm Christmas Podcast
-3 Queue
 - The Fearless Writer Podcast
 - Witch (BBC Radio 4)
-2 Misc
-3 Ongoing
-- Public Domain Tapes
+- Kalila Stormfire's Economical Magick Services
+- Ars Paradoxica
+- The Dark Tome
+- Last Known Position
+- Narcissa
+- How to Win Friends and Disappear People
+- The Edge of Sleep
+- Bad Vibes
+- Evergreen
 
 ~recipes/index : Recipes : Recipes for food I've made : 2022-05-19
 1 Recipes 
@@ -2127,6 +2139,58 @@ _ 2023.02.09
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
 
+~thoughts/podcast-recommendations : Podcast Recommendations : Podcast Recommendations : 2023-09-13
+1 Podcast Recommendations
+_ 2023.09.13
+& I was asked by [l:https://82mhz.net/|82mhz] for fiction podcast recommendations, and I ended up sending a lengthy email, which I figured might be useful to some other people so I decided to publish it here. Below are a couple categories with my favorite podcasts of each.
+2 [e:ghost] Paranormal
+& I got started in audio dramas with [l:https://theblacktapespodcast.com/|The Black Tapes]. It's about ghosts and investigating them, but one of the main characters does not believe in ghosts. It has concluded (no news seasons will be created), and it was one of my favorites.
+& I am currently listening to [l:https://www.archive81.com/|Archive 81] and I love it. It's one of my top favorites of all time. The first season was fantastic. It's about a building where a lot of weird stuff happens. The second season takes a huge turn into a very different and bizarre storyline, but I was on board. I'm currently listening to season 3, and it's fantastic. It can be a bit graphic, and it's definitely extremely weird, but if you're into that kind of stuff it's great. They also turned the first season into a show on Netflix, which was cancelled after the first season. I'm maybe halfway through that, but it's also pretty good. This podcast is also complete, so no new seasons will be created.
+& Every year the [l:https://www.grimandmild.com/13days|13 Days of Halloween] podcast has an episode a day in the 13 days leading up to Halloween. Each season is a self contained story, and I have loved it every year. This is from the creator of the podcast Lore, if you've ever heard of that.
+& He also created [l:https://www.grimandmild.com/12ghosts|12 Ghosts], which is the same format as 13 days, but it's the 12 days leading up to Christmas. It's also fantastic and I would highly recommend both.
+& I recently finished [l:https://podcasts.apple.com/ca/podcast/video-palace/id1439247558|Video Palace]. It was created by the horror streaming service, Shudder. I really enjoyed this one. It's about some mysterious VHS tapes that cause weird things for the people that watch them. I believe it was canceled, but I can't remember. There was also [l:https://www.simonandschuster.com/books/Video-Palace-In-Search-of-the-Eyeless-Man/Maynard-Wills/9781982156497|book] that spun off from it that I bought but haven't read yet.
+& [l:https://qcodemedia.com/theleftrightgame|The Left Right Game] was based on a [l:https://www.reddit.com/r/nosleep/comments/7asz8x/has_anyone_heard_of_the_leftright_game_part_1/|creepy pasta]. It was really good and very bizarre. It's about a game you play where you drive and as soon as you can, turn left, then the next turn right. You can't miss a turn or bad things happen, and during the drive a lot of weird things happen. Pretty interesting idea.
+2 [e:alien] Scifi
+& One of my top favorite podcasts is [l:https://www.rabbitspodcast.com/|Rabbits]. It's about a mysterious game with alternate reality/multiverse themes. This was created by the same person that made The Black Tapes. It also spun off a [l:https://www.rabbitspodcast.com/thenovel|book] which I really enjoyed,and a sequel, [l:https://www.penguinrandomhouse.com/books/690757/the-quiet-room-by-terry-miles/|The Quiet Room], that hasn't been released yet. This one is still ongoing, so a new season will come eventually.
+& [l:https://www.bbc.co.uk/programmes/p090t9cl|The Cipher] is from the BBC and it's about weird puzzles, extra terrestrial themes, etc. I think they will have a second season eventually but one isn't out yet. The first was released in 2021.
+2 [e:clapper] Thrillers
+& I don't know what to categorize these as. They aren't scifi or paranormal. They're just.. things that could happen in our real world. Thriller seemed the best description I could come up with.
+& [l:https://qcodemedia.com/blackout|Blackout] has 2 seasons. It follows a family as they deal with all of the power suddenly going out in the US and not coming back.
+& [l:https://www.tenable.com/podcast/hacker-chronicles|The Hacker Chronicles] is about someone who stumbles into cyber crime and we go along with her as she learns, makes mistakes, and deals with the aftermath of her hacks. It's currently in the second season, and not all episodes of it are out yet. I'm a couple episodes behind but it's been really good so far.
+2 [e:headphones] Misc
+& I recently finished [l:https://radiotopiapresents.fm/the-polybius-conspiracy|The Polybius Conspiracy]. It's a weird mix of a fiction story and presenting information about the myth of Polybius (a mysterious black arcade game that supposedly appeared for a bit in Portland, OR in the 80s and caused adverse effects in the people who played it). I found the ending fairly disappointing, but it was still interesting to listen to. There won't be more seasons.
+& Every year the [l:https://www.ruritania.co.uk/stories|Christmas Stories] podcast has 24 new episodes in the days leading up to Christmas, but unlike 12 Ghosts, this one is a light, enjoyable story. Each year is a single story split across the 24 episodes. This one feels closest to the old radio dramas. I listened to it the last 2 years and really enjoyed each of the stories.
+* Post 006/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
+~thoughts/words : Words : Words : 2023-09-13
+1 Words
+_ 2023.09.13
+& I've been interested in witchcraft/magic in the last year, and have been reading on the topic. This is a deviation from my usual interests. I have always found occult things interesting, but I am now diving into it with a more open mind. Normally my view on things tend to lean less on the mystical side and more on the logical/scientific side.
+& I've been thinking a lot lately about the power of words. It feels like no coincidence that spells usually require specific words to be said, that people don't like to say things because they will "jinx it", and that people believe they can manifest change in their lives by stating what they wish to happen.
+& It's easy to argue "I can say I will get a million dollars but it won't happen!", but I feel that intent and truly believing it will happen are important factors to go up against that argument. Magic is almost always prefaced with the fact that intent is key. I don't think you could truly believe someone would hand you a million dollars, so you can't manifest it in the world via words and intent.
+& On the supernatural side, what if magic seems to not exist because we've made it not exist? By not truly believing that our words can affect the world around us. Maybe magic is a real supernatural force, but we've forgotten how to harness it. We have used science to dismiss the history of people performing magic as them being unknowledgeable about the world around them, and that they read into things that had no connection, just coincidence.
+& Whether manifesting change turns out to happen because of supernatural forces, or because we are tricking ourselves into subconsciously making small changes that lead up to the larger goal, the end result is still the same. Words have power.
+* Post 005/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
+~thoughts/podcasts-veilid : Podcasts + Veilid : Podcasts + Veilid : 2023-09-11
+1 Podcasts + Veilid 
+_ 2023.09.11
+2 [e:headphones] Podcasts
+& Over this last week I finished two podcasts:
+3 The Polybius Conspiracy
+& I was surprised that I had never heard of the game Polybius, until recently. It has all the things that I tend to navigate toward: an urban legend, 80s video games, and being from the PNW (Portland, OR). I found the ending a little disappointing, but I would still recommend this podcast.
+& Apparently the originally planned to do a documentary via Kickstarter, but it was not fully funded, so they pivoted to this podcast. It's a mix of investigation into the myth, and a fictional storyline attached to the research. I would have enjoyed an actual documentary, but this was still really informative as far as what people believe about this myth.
+3 Blackwood
+& This one is only 6 episodes, and I finished it in a single day. I liked the story and the characters. It's about a group of teenagers looking in to the myth of the Bugman, and they find there is a lot more to this than a simple myth.  It ends not necessarily on a cliffhanger, but on a promise for a second season to get more answers. I would have loved a second season, but it seems the company went under and that will not be happening.
+& I think if you go in knowing that a second season won't happen, it'll be less dissapointing at the end, but I still think this was a good story and would recommend it.
+2 [e:computer] Veilid
+& Since they were teasing it before Defcon, I've been curious about [l:https://veilid.com/|Veilid], a new framework from Cult of the Dead Cow. The idea behind it is that you can use this framework to build applications, and it encrypts and anonymizes the users data, along with distributing it via P2P so there is no central server that the data lives on. The point of this is to build a better internet where surveilence capitalism can't get it's hands on our data anymore.
+& I haven't watched it yet, but their talk is up on the Defcon youtube channel:<br />[l:https://www.youtube.com/watch?v=Kb1lKscAMDQ|DEF CON 31 - The Internals of Veilid, a New Decentralized Application Framework - DilDog, Medus4]
+& I started listening to the [l:https://www.2600.com/hook/23-08-2023|2600 Off the Hook episode] where they interview the creators, and that's been really good. It got me thinking about if I wanted to create something, and what I would make.
+& My idea that I may try to tackle sometime is a Knowledge Mangement System with comperable features to Obsidian. One of the issues with Obsidian is that you either need to pay them for sync services, or use a 3rd party file syncing system (Syncthing, Dropbox, etc). If a similar app was built using Veilid, you would no need to use any of this to sync, as it works without a central server. You can just set up a connection of your own data between devices and it would sync from within the app. It would also ensure that your data is encrypted, so nobody would be able to access it other than yourself on your own devices.
+& This would be a big undertaking for me, because I would need to learn how to make mobile/desktop apps (maybe using Flutter), and how to integrate Veilid properly. Still, I think this is something I would use, and I be other people would have the need for something like this as well.
+* Post 004/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
 ~thoughts/daily-art : Daily Art : Daily Art : 2023-09-07
 1 Daily Art
 _ 2023.09.07
@@ -2228,3 +2292,6 @@ _ 2023.08.17
 # [b:001] [i:2023.09.01] [l:thoughts/here-we-go|Here we go!]
 # [b:002] [i:2023.09.06] [l:thoughts/making-things|Making Things]
 # [b:003] [i:2023.09.07] [l:thoughts/daily-art|Daily Art]
+# [b:004] [i:2023.09.11] [l:thoughts/podcasts-veilid|Podcasts + Veilid]
+# [b:005] [i:2023.09.13] [l:thoughts/words|Words]
+# [b:006] [i:2023.09.13] [l:thoughts/podcast-recommendations|Podcast Recommendations]

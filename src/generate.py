@@ -81,7 +81,10 @@ emoji = {
     "man": "128104",
     "autumn": "127810",
     "heart": "128153",
-    "hammer": "128296"
+    "hammer": "128296",
+    "ghost": "128123",
+    "alien": "128125",
+    "clapper": "127916"
 }
 
 singular = {

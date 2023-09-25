@@ -38,6 +38,11 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-09-18 : 2023-09-18 : Changes from 2023-09-18 : 2023-09-18
+1 2023-09-18
+- [e:green] Added thought: [l:thoughts/tales-from-the-crypt|Tales From the Crypt]
+- [e:yellow] Updated podcast lists: [l:wiki/podcasts|Podcasts]
+
 ~changelog/2023-09-13 : 2023-09-13 : Changes from 2023-09-13 : 2023-09-13
 1 2023-09-13
 - [e:green] Added thought: [l:thoughts/words|Words]
@@ -698,12 +703,14 @@
 1 Podcasts
 & I am very into fiction/audio drama podcasts. I also sometimes listen to informational podcasts usually surrounding tech or other random interests I have.
 & Below is a list of podcasts I've listened to or plan to listen to:
-3 Started 
+3 Started
 - Archive 81
 - The Hacker Chronicles
 - Bridgewater
 - The Banksy Story
 - Command Line Heroes
+- Honey and The Hex
+- Witch (BBC Radio 4)
 3 Ongoing
 - R.L. Stine's Story Club
 - Secular Buddhism
@@ -779,7 +786,6 @@
 - Where the Stars Fell
 - Ad Lucem
 - The Fearless Writer Podcast
-- Witch (BBC Radio 4)
 - Kalila Stormfire's Economical Magick Services
 - Ars Paradoxica
 - The Dark Tome
@@ -788,7 +794,9 @@
 - How to Win Friends and Disappear People
 - The Edge of Sleep
 - Bad Vibes
-- Evergreen
+- The Lovecraft Investigations
+- The Phenomenon
+- Wolf 359
 
 ~recipes/index : Recipes : Recipes for food I've made : 2022-05-19
 1 Recipes 
@@ -2139,6 +2147,21 @@ _ 2023.02.09
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
 
+~thoughts/tales-from-the-crypt : Tales From the Crypt : Tales From the Crypt : 2023-09-18
+1 Tales From the Crypt
+_ 2023.09.18
+& I've been aware of [l:https://en.wikipedia.org/wiki/Tales_from_the_Crypt_(TV_series)|Tales From the Crypt] for a long time, but have never actually read or watched any of it's media.
+& I was researching it last night and found that all of the seasons of the show, the radio show, and the children's show are on archive.org!
+- [l:https://archive.org/details/tales-from-the-crypt_seasons-1-2|Tales From the Crypt seasons 1-2]
+- [l:https://archive.org/details/tales-from-the-crypt_season-3|Tales From the Crypt season 3]
+- [l:https://archive.org/details/tales-from-the-crypt_seasons-4-5|Tales From the Crypt seasons 4-5]
+- [l:https://archive.org/details/tales-from-the-crypt_seasons-6-7|Tales From the Crypt seasons 6-7]
+- [l:https://archive.org/details/tales-from-the-cryptkeeper-full-series|Tales From the Cryptkeeper full series]
+- [l:https://archive.org/details/tales-from-the-crypt-radio-series|Tales From The Crypt Radio Series]
+& It also looks like Hoopla has many (all? I'm a little unsure here) of the comics.
+& The only thing I don't have access to without paying are the 3 movies, but I'm looking forward to diving into all of this!
+* Post 007/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
 ~thoughts/podcast-recommendations : Podcast Recommendations : Podcast Recommendations : 2023-09-13
 1 Podcast Recommendations
 _ 2023.09.13
@@ -2295,3 +2318,4 @@ _ 2023.08.17
 # [b:004] [i:2023.09.11] [l:thoughts/podcasts-veilid|Podcasts + Veilid]
 # [b:005] [i:2023.09.13] [l:thoughts/words|Words]
 # [b:006] [i:2023.09.13] [l:thoughts/podcast-recommendations|Podcast Recommendations]
+# [b:007] [i:2023.09.18] [l:thoughts/tales-from-the-crypt|Tales From the Crypt]

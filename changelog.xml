@@ -212,5 +212,14 @@
         <description>Changes from 2023-09-13</description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-09-13&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added thought: &lt;a href=&quot;/thoughts/words&quot;&gt;Words&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added thought: &lt;a href=&quot;/thoughts/podcast-recommendations&quot;&gt;Podcast Recommendations&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Updated podcast lists: &lt;a href=&quot;/wiki/podcasts&quot;&gt;Podcasts&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
+      <item>
+        <title>2023-09-18</title>
+        <link>https://0xdstn.site/changelog/2023-09-18</link>
+        <guid>https://0xdstn.site/changelog/2023-09-18</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Mon, 18 Sep 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-09-18</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-09-18&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added thought: &lt;a href=&quot;/thoughts/tales-from-the-crypt&quot;&gt;Tales From the Crypt&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Updated podcast lists: &lt;a href=&quot;/wiki/podcasts&quot;&gt;Podcasts&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+      </item>
   </channel>
 </rss>

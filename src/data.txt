@@ -38,6 +38,20 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-10-06 : 2023-10-06 : Changes from 2023-10-06 : 2023-10-06
+1 2023-10-06
+- [e:green] Added wiki page: [l:wiki/ipod|iPod]
+
+~changelog/2023-10-03 : 2023-10-03 : Changes from 2023-10-03 : 2023-10-03
+1 2023-10-03
+- [e:green] Added thought: [l:thoughts/phone|Phone]
+
+~changelog/2023-09-25 : 2023-09-25 : Changes from 2023-09-25 : 2023-09-25
+1 2023-09-25
+- [e:green] Added new wiki page: [l:wiki/nextcloud|Nextcloud]
+- [e:green] Added thought: [l:thoughts/archive81|Archive 81]
+- [e:yellow] Updated podcast lists: [l:wiki/podcasts|Podcasts]
+
 ~changelog/2023-09-18 : 2023-09-18 : Changes from 2023-09-18 : 2023-09-18
 1 2023-09-18
 - [e:green] Added thought: [l:thoughts/tales-from-the-crypt|Tales From the Crypt]
@@ -53,6 +67,7 @@
 1 2023-09-11
 - [e:green] Added thought: [l:thoughts/podcasts-veilid|Podcasts + Veilid]
 - [e:yellow] Marked [b:The Polybius Conspiracy] and [b:Blackwood] as listened on the [l:wiki/podcasts|Podcasts] page
+
 ~changelog/2023-09-07 : 2023-09-07 : Changes from 2023-09-07 : 2023-09-07
 1 2023-09-07
 - [e:green] Added thought: [l:thoughts/daily-art|Daily Art]
@@ -704,13 +719,13 @@
 & I am very into fiction/audio drama podcasts. I also sometimes listen to informational podcasts usually surrounding tech or other random interests I have.
 & Below is a list of podcasts I've listened to or plan to listen to:
 3 Started
-- Archive 81
 - The Hacker Chronicles
 - Bridgewater
 - The Banksy Story
 - Command Line Heroes
 - Honey and The Hex
 - Witch (BBC Radio 4)
+- The Magnus Archives
 3 Ongoing
 - R.L. Stine's Story Club
 - Secular Buddhism
@@ -724,6 +739,7 @@
 - Magenta Presents
 - Christmas Stories
 - The Calm Christmas Podcast
+- Archive 81
 3 Finished
 - The Hacker Next Door
 - Hackable?
@@ -740,6 +756,7 @@
 - Video Palace
 - The Polybius Conspiracy
 - Blackwood
+- Wildflowers (Audible Original)
 2 Queue
 - The Deep Vault
 - LifeAfter/The Message
@@ -759,7 +776,6 @@
 - Restart
 - A Voice From Darkness
 - Alice Isn't Dead
-- The Magnus Archives
 - The Goblet Wire
 - The Call of the Void
 - Strange Air
@@ -797,6 +813,107 @@
 - The Lovecraft Investigations
 - The Phenomenon
 - Wolf 359
+
+~wiki/nextcloud : Nextcloud : Setting up Nextcloud on a Raspberry Pi : 2023-09-25
+1 Nextcloud
+& These instructions assume you have already set up a raspberry pi with Raspberry OS. I used a Raspberry Pi 3 B+.
+& They also assume that you are using a subdomain and that you've pointed the subdomain at your Raspberry Pi's public IP and open up the port for it to get through your network.
+2 Set up Apache
+% sudo apt install apache2
+% sudo usermod -a -G www-data [yourusername]
+% sudo chown -R -f www-data:www-data /var/www
+% sudo chmod -R 770 /var/www/html
+2 Set up MySQL
+% sudo apt install mariadb-server
+% sudo mysql_secure_installation
+2 Set up database
+% mysql -u root -p
+& Within mysql, run the following:
+% CREATE DATABASE nextclouddb;
+% CREATE USER 'nextclouduser'@'localhost' IDENTIFIED BY '[PASSWORD]';
+% GRANT ALL PRIVILEGES ON nextclouddb.* TO 'nextclouduser'@'localhost';
+% FLUSH PRIVILEGES;
+% quit
+2 Install PHP 8.1
+& Nextcloud requires PHP 8.1, however Raspberry OS still runs PHP 7.4, so a little more work goes into installing it.
+% wget -q https://packages.sury.org/php/apt.gpg -O- | sudo tee /etc/apt/trusted.gpg.d/php.gpg
+% echo "deb https://packages.sury.org/php/ bullseye main" | sudo tee /etc/apt/sources.list.d/php.list 
+% sudo apt update
+% sudo apt install php8.1 php8.1-gd php8.1-sqlite3 php8.1-curl php8.1-zip php8.1-xml php8.1-mbstring php8.1-mysql php8.1-bz2 php8.1-intl php8.1-smbclient php8.1-imap php8.1-gmp php8.1-bcmath libapache2-mod-php8.1
+2 Get Nextcloud
+% sudo wget https://download.nextcloud.com/server/releases/latest.tar.bz2
+% cd /var/www
+% sudo tar -xvf latest.tar.bz2
+% sudo mkdir nextcloud/data
+% sudo chown -R www-data:www-data nextcloud
+% sudo chmod 750 nextcloud/data
+2 Set up Apache 
+& Create [b:/etc/apache2/sites-available/nextcloud.conf] with the following contents:
+% &lt;VirtualHost *:80&gt;
+%   ServerName nextcloud.domain.com
+%   ServerAdmin webmaster@localhost
+%   DocumentRoot /var/www/nextcloud
+%   &lt;Directory /var/www/nextcloud/&gt;
+%     Require all granted
+%     AllowOverride All
+%     Options FollowSymLinks MultiViews
+%     &lt;IfModule mod_dav.c&gt;
+%       Dav off
+%     &lt;/IfModule&gt;
+%   &lt;/Directory&gt;
+%   ErrorLog ${APACHE_LOG_DIR}/error.log
+%   CustomLog ${APACHE_LOG_DIR}/access.log combined
+%   RewriteEngine on
+%   RewriteCond %{SERVER_NAME}=nextcloud.domain.com
+%   RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI} [END,NE,R=permanent]
+% &lt;/VirtualHost&gt;
+& Enable it:
+% sudo a2ensite nextcloud
+2 Set up a certificate
+% sudo apt install python3-certbot-apache -y
+% sudo certbot --apache -d nextcloud.domain.com
+& Answer the questions and it will auto set up the cert and restart apache for you
+2 Finish Nextcloud setup
+- Go to your domain, which should provide you with a Nextcloud setup screen.
+- Fill in the username/password and click [b:Storage & Database] then click [b:MySQL/MariaDB].
+- Fill in the database details you set up earlier
+- Click [b:Finish Setup]
+& After it finishes, you should have a working Nextcloud instance!
+* Post 008/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
+~wiki/ipod : iPod : Notes on iPod customization : 2023-10-06
+1 iPod
+& Below are my notes on managing and customizing my [b:iPod Classic].
+# [l:#Rockbox|Rockbox]
+# [l:#Installing themes|Installing themes]
+# [l:#Broken wheel|Broken wheel]
+# [l:#Replacing hardware|Replacing hardware]
+2 Rockbox
+& My iPod is currently running [l:https://www.rockbox.org/|Rockbox] with the [l:https://themes.rockbox.org/index.php?themeid=3427&target=ipod6g|adwaitapod dark Simplified Theme].
+2 Installing themes
+- Download zip of theme
+- Extract zip
+- copy [c:.rockbox] directory to root of iPod
+- Enable theme through RockBox settings
+2 Broken wheel
+& Until I replace it (see below) my click wheel is broken. The play/pause button doesn't work most of the time. It is used for two things: Playing/pausing the music, and shutting down the iPod by holding it down. I've found workarounds for these:
+- I enabled the [b:Settings > Playback Settings > Pause on Headphone Unplug] setting, configuring it to [b:Pause and Resume], which means that when I unplug my headphones, it pauses, and when I plug them back in it plays. A little strange sometimes, but it works.
+- I enabled the [b:General Settings > Display > Startup/Shutdown > Idle Poweroff] setting and configured it to [b:1min]. This means that if nothing is playing and I'm not pushing any buttons, it will auto shut down, so in order to shut it down when I'm done I simply pause it and set it down for a minute.
+2 Replacing hardware
+& I have not done this yet, but at some point I'd like to replace the hard drive with a dual micro SD card adapter, the click wheel, and the battery. The click wheel's play/pause button is broken, the hard drive is slow, and the batter is clearly deteriorating.
+& Here are the parts I will need to buy:
+- [l:https://www.amazon.com/iFlash-Dual-Adapter-Replace-Storage-Modernize/dp/B07BY7C13C/|Tarkan iFlash Dual SD Card Adapter]
+- [l:https://www.idemigods.com/6th_Generation_iPod_Classic_Click_Wheel_Silver_p/6g_clckwhl_slvr.htm|Click Wheel]
+- [l:https://www.amazon.com/Replacement-Battery-Classic-MB029C-MB029J/dp/B0817C7PV1|Replacement Battery]
+- [l:https://www.amazon.com/SanDisk-Extreme-SDSQXA1-128G-GN6MN-Everything-Stromboli/dp/B08MWXMJWL|SanDisk Extreme 128GB micro SD 2 pack]
+& Here are the tools I will need to buy:
+- [l:https://www.ifixit.com/products/1-5-thin-putty-knife|1.5" Thin Putty Knife]
+- [l:https://www.ifixit.com/products/ifixit-opening-tool|iFixit Opening Tool]
+- [l:https://www.ifixit.com/products/metal-spudger|Metal Spudger]
+- [l:https://www.ifixit.com/products/phillips-00-screwdriver|Phillips #00 Screwdriver]
+- [l:https://www.ifixit.com/products/spudger|Spudger]
+& I will then follow [l:https://www.ifixit.com/Guide/iPod+Classic+Click+Wheel+Replacement/571>|these instructions] and ideally replace everything at once.
+* Post 011/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
 
 ~recipes/index : Recipes : Recipes for food I've made : 2022-05-19
 1 Recipes 
@@ -2147,6 +2264,28 @@ _ 2023.02.09
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
 
+~thoughts/phone : Phone : Phone : 2023-10-03
+1 Phone
+_ 2023.10.03
+& As with many people, I've struggled a lot with phone addiction. I have been working on actively changing that.
+& My main change is how I view my phone: [b:as a tool].
+& I do not keep entertainment apps on my phone. This specifically means I don't have [b:social apps] (mastodon, instagram, etc) or [b:games] (only exception is the NYT games app). These are my biggest time sucks on my phone. I don't want to turn on my phone to mindlessly do things for the sake of doing things.
+& I want to only pick up my phone for a [i:purpose]. This is why I am not including streaming apps as "entertainment". When I want to watch something, I use my phone as the tool for that. I also don't really watch much to begin with, so this may be less of an issue for me than others.
+& If I want to use Mastodon, Instagram, or play a game, I will do so with intentionality on a device I don't carry around with me - my computer. This is how it used to be before we all had a tiny computer in our pockets. Everything was a lot simpler, and a lot more intentional, not necessarily because we chose to, but because that was the nature of technology at the time. I miss that. While everyone else will still be in the ever-connected future, I can bring myself back to that time with changes like this.
+* Post 010/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
+~thoughts/archive81 : Archive 81 : Archive 81 : 2023-09-25
+1 Archive 81
+_ 2023.09.25
+& I finally finished the [l:https://www.archive81.com/|Archive 81] podcast and just [i:wow]. It has hands-down become my favorite podcast I've ever listened to.
+& Season one drew me in with an interesting story, good voice acting, and likeable characters. It was right up my alley: old tapes, a cult, weird occult things.
+& Then season 2 pivoted into such a contrastingly different and bizarre direction. It introduced a whole new world with very strange laws that defies everything in our world. It was weird and I was impressed, because after a first season like that, it could have easily gone straight down hill with nowhere else to really explore. The writers were prepared.
+& Season 3 is by far the best season in my opinion. It was [i:amazing]. It built upon the foundation of season 2, with a new cast of characters, who quickly became my favorite, and it is now one of my favorite fictional worlds. It has so much potential for more and I hope more will come.
+& There was also the 3 episode mini series, Left of the Dial, which felt like a continuation of season 3, but with it's own little story that started and ended with those episodes.
+& I'm fascinated by the world created by this podcast and I truly hope more will come eventually. The final episode was in 2019, so it's been a while. The creators were working on another podcast, but from what I can tell, that was delayed. Hopefully that one can get released sometime soon (and maybe it'll also be amazing!), and then I hope they return to this world.
+& It can be really out there and also graphic, but if you're into weird things, I'd highly recommend this podcast.
+* Post 009/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
 ~thoughts/tales-from-the-crypt : Tales From the Crypt : Tales From the Crypt : 2023-09-18
 1 Tales From the Crypt
 _ 2023.09.18
@@ -2319,3 +2458,7 @@ _ 2023.08.17
 # [b:005] [i:2023.09.13] [l:thoughts/words|Words]
 # [b:006] [i:2023.09.13] [l:thoughts/podcast-recommendations|Podcast Recommendations]
 # [b:007] [i:2023.09.18] [l:thoughts/tales-from-the-crypt|Tales From the Crypt]
+# [b:008] [i:2023.09.25] [l:wiki/nextcloud|Nextcloud]
+# [b:009] [i:2023.09.25] [l:thoughts/archive81|Archive 81]
+# [b:010] [i:2023.10.03] [l:thoughts/phone|Phone]
+# [b:011] [i:2023.10.06] [l:wiki/ipod|iPod]

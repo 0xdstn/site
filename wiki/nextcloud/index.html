@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/styles/main.css?v=2" />
+    <link href="https://mastodon.spotek.io/@dustin" rel="me" />
+    <link href="https://defcon.social/@dstn" rel="me" />
+    <link href="https://toki.social/@0xdstn" rel="me" />
+    <title>Nextcloud | 0xdstn</title>
+  </head>
+  <body>
+    <header>
+      <a href="/">0xdstn</a>
+      <a href="/hello">hello</a>
+      <a href="/writing">writing</a>
+      <a href="/thoughts">thoughts</a>
+      <a href="/books">reading</a>
+      <a href="/dailyart">daily art</a>
+      <a href="/feeds">feeds</a>
+    </header>
+	<article>
+<a href="/wiki">..</a><h1><span class="emoji">&#128216;</span> Nextcloud</h1><p>These instructions assume you have already set up a raspberry pi with Raspberry OS. I used a Raspberry Pi 3 B+.</p><p>They also assume that you are using a subdomain and that you've pointed the subdomain at your Raspberry Pi's public IP and open up the port for it to get through your network.</p><h2 id="Set up Apache">Set up Apache</h2><pre>sudo apt install apache2<br>sudo usermod -a -G www-data [yourusername]<br>sudo chown -R -f www-data:www-data /var/www<br>sudo chmod -R 770 /var/www/html<br></pre><h2 id="Set up MySQL">Set up MySQL</h2><pre>sudo apt install mariadb-server<br>sudo mysql_secure_installation<br></pre><h2 id="Set up database">Set up database</h2><pre>mysql -u root -p<br></pre><p>Within mysql, run the following:</p><pre>CREATE DATABASE nextclouddb;<br>CREATE USER 'nextclouduser'@'localhost' IDENTIFIED BY '[PASSWORD]';<br>GRANT ALL PRIVILEGES ON nextclouddb.* TO 'nextclouduser'@'localhost';<br>FLUSH PRIVILEGES;<br>quit<br></pre><h2 id="Install PHP 8.1">Install PHP 8.1</h2><p>Nextcloud requires PHP 8.1, however Raspberry OS still runs PHP 7.4, so a little more work goes into installing it.</p><pre>wget -q https://packages.sury.org/php/apt.gpg -O- | sudo tee /etc/apt/trusted.gpg.d/php.gpg<br>echo "deb https://packages.sury.org/php/ bullseye main" | sudo tee /etc/apt/sources.list.d/php.list<br>sudo apt update<br>sudo apt install php8.1 php8.1-gd php8.1-sqlite3 php8.1-curl php8.1-zip php8.1-xml php8.1-mbstring php8.1-mysql php8.1-bz2 php8.1-intl php8.1-smbclient php8.1-imap php8.1-gmp php8.1-bcmath libapache2-mod-php8.1<br></pre><h2 id="Get Nextcloud">Get Nextcloud</h2><pre>sudo wget https://download.nextcloud.com/server/releases/latest.tar.bz2<br>cd /var/www<br>sudo tar -xvf latest.tar.bz2<br>sudo mkdir nextcloud/data<br>sudo chown -R www-data:www-data nextcloud<br>sudo chmod 750 nextcloud/data<br></pre><h2 id="Set up Apache">Set up Apache</h2><p>Create <strong>/etc/apache2/sites-available/nextcloud.conf</strong> with the following contents:</p><pre>&lt;VirtualHost *:80&gt;<br>  ServerName nextcloud.domain.com<br>  ServerAdmin webmaster@localhost<br>  DocumentRoot /var/www/nextcloud<br>  &lt;Directory /var/www/nextcloud/&gt;<br>    Require all granted<br>    AllowOverride All<br>    Options FollowSymLinks MultiViews<br>    &lt;IfModule mod_dav.c&gt;<br>      Dav off<br>    &lt;/IfModule&gt;<br>  &lt;/Directory&gt;<br>  ErrorLog ${APACHE_LOG_DIR}/error.log<br>  CustomLog ${APACHE_LOG_DIR}/access.log combined<br>  RewriteEngine on<br>  RewriteCond %{SERVER_NAME}=nextcloud.domain.com<br>  RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI} [END,NE,R=permanent]<br>&lt;/VirtualHost&gt;<br></pre><p>Enable it:</p><pre>sudo a2ensite nextcloud<br></pre><h2 id="Set up a certificate">Set up a certificate</h2><pre>sudo apt install python3-certbot-apache -y<br>sudo certbot --apache -d nextcloud.domain.com<br></pre><p>Answer the questions and it will auto set up the cert and restart apache for you</p><h2 id="Finish Nextcloud setup">Finish Nextcloud setup</h2><ul><li>Go to your domain, which should provide you with a Nextcloud setup screen.</li><li>Fill in the username/password and click <strong>Storage & Database</strong> then click <strong>MySQL/MariaDB</strong>.</li><li>Fill in the database details you set up earlier</li><li>Click <strong>Finish Setup</strong></li></ul><p>After it finishes, you should have a working Nextcloud instance!</p><p><strong>Post 008/100 of <a href="/thoughts/100-days-to-offload">#100DaysToOffload</a></strong></p><blockquote class="thanks"> <span class="emoji">&#128075;</span> Hey! Thanks for reading! If you have any comments or questions about this post, or anything else, I'd love to chat! You can find the best way to contact me on my <a href="/hello">hello page</a> or send me an <a href="mailto:0xdstn@protonmail.com?subject=RE: Nextcloud">email</a>.</blockquote>		</article>
+		<footer>
+			<p>
+			<a href="https://webring.xxiivv.com/#random" target="_blank" class="webring">
+				<img src="https://webring.xxiivv.com/icon.black.svg" alt="webring"/>
+			</a>
+			</p>
+		</footer>
+	</body>
+</html>
+

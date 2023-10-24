@@ -38,6 +38,22 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-10-23 : 2023-10-23 : Changes from 2023-10-23 : 2023-10-23
+1 2023-10-23
+- [e:green] Added new thought: [l:thoughts/syncretism|Syncretism]
+
+~changelog/2023-10-18 : 2023-10-18 : Changes from 2023-10-18 : 2023-10-18
+1 2023-10-18
+- [e:green] Added new thought: [l:thoughts/nextcloud-music|Nextcloud Music]
+
+~changelog/2023-10-16 : 2023-10-16 : Changes from 2023-10-16 : 2023-10-16
+1 2023-10-16
+- [e:green] Added new thought: [l:thoughts/urban-sketching|Urban Sketching]
+
+~changelog/2023-10-12 : 2023-10-12 : Changes from 2023-10-12 : 2023-10-12
+1 2023-10-12
+- [e:green] Added thought: [l:thoughts/work-focus|Work Focus]
+
 ~changelog/2023-10-06 : 2023-10-06 : Changes from 2023-10-06 : 2023-10-06
 1 2023-10-06
 - [e:green] Added wiki page: [l:wiki/ipod|iPod]
@@ -2264,6 +2280,63 @@ _ 2023.02.09
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
 
+~thoughts/syncretism : Syncretism : Syncretism : 2023-10-23
+1 Syncretism
+_ 2023.10.23
+& A while back I was thinking about how I just take relevant pieces of various belief systems, and looked if there was a word for that, and there is!
+> [l:https://en.wikipedia.org/wiki/Syncretism|Syncretism] is the practice of combining different beliefs and various schools of thought.
+& And specifically, religious syncretism:
+> Religious syncretism is the blending of two or more religious belief systems into a new system, or the incorporation into a religious tradition of beliefs from unrelated traditions. 
+& Most of what I believe and try to live my life by is pulled from either Buddhism, Paganism, or Stoicism. I've blended everything together to form what I believe and to create a system for how I want to live my life. This is why I don't call myself a Buddhist, Pagan/witch, etc. I have not really adopted any singular system as it is, so it doesn't feel appropriate to use the descriptive terms for those who practice each system as a whole.
+& I normally view things from a secular lens, so I tend to leave more spiritual elements out of what I do. I don't hold the Buddhist belief of rebirth, or call upon goddesses/gods from various Pagan beliefs.
+& I do, however, pull things out such as The [l:wiki/buddhism/#The Eightfold Path|Eightfold Path] from Buddhism, [l:https://en.wikipedia.org/wiki/Memento_mori|Momento Mori] from Stoicism, connecting with nature from Paganism, etc. There is even a lot of overlap with the places I pull my beliefs from, such as carrying yourself with calmness and kindness, being mindful of the earth and caring for it's creatures, self reflection and self awareness, etc.
+& I doubt I will ever fully adopt a religion or belief system as it is, so I suppose the correct term to call myself would be a syncretist? Maybe I'll just continue saying I'm me and I believe what I believe, wherever it comes from.
+* Post 015/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
+~thoughts/nextcloud-music : Nextcloud Music : Nextcloud Music : 2023-10-18
+1 Nextcloud Music
+_ 2023.10.18
+& For a while now I switched from primarily using Spotify for listening to music to using an iPod Classic running Rockbox. This was great, and I [l:writing/on-music|wrote about] how I enjoyed the act of selecting music vs just putting on a playlist curated by someone else. I felt more connected to the act of listening to music.
+& Unfortunately, my iPod is having a lot of issues at the moment. I believe the hard drive is failing, also the play/pause button doesn't work anymore. I have [l:wiki/ipod/|plans] to upgrade/replace some of the parts, but for now I'm holding off. I may try that someday.
+& I was thinking about what about the iPod felt better. I don't think it's necessarily having a dedicated device for music (though that is nice). I think the main thing is that I have to intentionally go select music from a collection that I've put together over the years. Because of that, I think using [b:Nextcloud Music] is a good solution. It will contain the same music I've collected, and I can use the [l:https://github.com/austinried/subtracks|Subtracks] Android app to listen on my phone. This is nice because I can use my bluetooth headphones. I can also listen via the Nextcloud web interface when on my work computer, so that's also nice. It has web radio functionlity built in too, so I can listen to radio stations such as [l:https://somafm.com/defcon/|Defcon Radio], [l:https://tilderadio.org/|Tilderadio], or [l:https://anonradio.net/|aNONradio]. That's a nice added feature.
+& I am currently not able to have my entire music collection on the Raspberry Pi, as it's over 40gb and everything is running on a 32gb pi. Eventually I will probably either replace the SD card itself, or add a USB drive with more space and switch Nextcloud to store files there. I'm leaning more toward the USB drive, because it will then be separate from the server itself, and technically you're not supposed to use an SD card higher than 32gb on the Pi 3B+ (though apparently it usually works anyway even though it's not officially supported).
+* Post 014/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
+~thoughts/urban-sketching : Urban Sketching : Urban Sketching : 2023-10-16
+1 Urban Sketching
+_ 2023.10.16
+& I've been mesmerized by the [l:https://urbansketchers.org/|Urban Sketchers] community for many years now. I follow a large number of people who draw on location, and I have tried my hand at it many times myself.
+& We don't really have an active group in my city (there is a Facebook group, but it's rarely active), so I've not gone out on an actual sketch meetup before. One of my biggest struggles is the nervousness I feel when I sit down to draw in public. I know that probably nobody is looking at me or caring about what I'm doing, and from what I've heard when people are, they're usually pretty friendly if not excited about what you're drawing, but it's really difficult to push past that feeling. I've done okay sketching out on the streets before, and even better sitting in a park, but I still feel nervous while doing it.
+& I tried to go to a coffee shop one time. I would have liked a corner seat of some sort, but it was really busy and the only option was a seat right in the middle of the place. I glanced around nervously and was about to pull out my sketchbook, when someone sat down at the table next to mine. I got really uneasy and then promptly left. I couldn't do it. I just felt so conspicuous. Like I was about to do something I shouldn't be doing.
+& Even today, I wanted to draw an old doorway on a brick building with ornate elements around it. I just couldn't find it in myself to sit down and draw, despite the fact that there was virtually nobody around, and it isn't a busy area. I instead took a picture of it and drew it in my car.
+& I know that many have said once they got over that initial anxiety surrounding it, it became much easier to do, but that's easier said than done. I would like to push myself to get better at this. I think a good first step would be to draw in a more secluded area where I looks less conspicuous, then try moving on to drawing on the streets, and then maybe head back into a coffee shop someday.
+* Post 013/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
+~thoughts/work-focus : Work Focus : Work Focus : 2023-10-12
+1 Work Focus
+_ 2023.10.12
+& I used to be incredibly dedicate to my work, probably to an unhealthy level. I would have described myself as a workaholic.
+& I no longer have that drive, and I struggle to care about work most days. It's not that I don't enjoy doing the kind of work I do. I still enjoy coding, even for a company, but I just cannot focus like I used to.
+& I constantly find myself sitting there, a million things to do, and I just want to draw. Sometimes I do when I'm working from home. I just draw things and ignore my responsibilities. I feel like I am constantly drawn to making art, and no matter how often I dedicate time or take time for it, I still want to make more.
+& This almost feels like my own mind telling me "Hey, this isn't fun anymore, this other thing is, why aren't we doing that?". But it's not that simple. I can't simply quit being a software engineer and pursue art. When I think of that, I have a lot of reasons or excuses:
+- I have a family, we need the money
+- I am not good enough of an artist to make money doing it
+- What if I hate making art when it becomes my job?
+- I haven't found my artistic voice, nothing I do is cohesive
+& So what do I do with this?
+& I don't know that I ever want to quit my software engineering job to become a full time artist. It feels like that just isn't possible. That being said, if I somehow get to the point where that is a viable option, I would probably take it. That itself is an indicator to me that I should be putting in the effort to get there. I can't ever make it happen if I don't try. All that could happen is it doesn't work, and I continue doing what I'm doing, continue making art for the sake of making art, and everything is fine. I should just try.
+& I [l:writing/on-art|previously wrote] about how I don't want to use Instagram, don't want to build a following, and I just want to make art for the sake of making art. This goes entirely against that view, but I'm constantly being drawn to it, and not finding drawing things and leaving them in my sketchbook for nobody to see fulfilling. I don't necessarily need the "likes", but posting it somewhere like IG tends to motivate me to dedicate more time to art, and it could eventually become something more if I keep at it. Or it won't, who knows. I can't know until I do it and see what happens.
+& I have been listening to [l:https://www.sneakyartist.com/podcast|The SneakyArt Podcast], and listening to others talk about building up their community, challenging themselves with art, and just making things and enjoying the process really speaks to me. Seeing my favorite accounts on Instagram share things without fear of failure is inspiring. I could do this. I want to do this.
+& I also realized something while listening to [l:https://www.sneakyartist.com/blog/ep12|Episode 12] with [l:https://www.drawnontheway.com/about-sarah|Sarah Nisbett]. She was talking about how inspiring others to create art gives her a feeling of "I've done it. That's all I needed to succeed". I hadn't considered this, but if I was inspiring others to dive into an art practice, I'd also feel very happy and like I've done something worthwhile in sharing my art online. That also lead me to thinking about how I would probably enjoy teaching others to make art. When I say or think that, I immediately dive into the feeling that I am not good enough to be qualified for that, but I also find it very appealing and would probably love it if I could do that.
+& If I go into this with these goals, I feel like I'll be a lot more successful than previous attempts where my goals were to build a following and sell art:
+- Become more motivated to create and share art
+- Build a daily art practice and find my artistic voice along the way
+- Inspire others to create art
+- Start teaching others to create art
+& To achieve this, I would first simply start drawing as often as I can, and share as much as I can, to organically build a following. As an outcome of this, I should find my artistic voice, and hopefully start inspiring others to create art. Once I have cemented a practice and a following, I can explore what it looks like to teach others. Whether that is creating online classes (Skillshare, Domestika, A custom built site) and/or teaching local in-person classes. That still feels terrifying, and I feel wildly unqualified, but if I can build my confidence, this could become a possibility.
+& The only unfortunate piece of this, is pretty much the only way to build a following from nothing in the art world is to use Instagram, which means playing by their algorithmic rules. I would need to get comfortable creating reels to reach new people. This is something I'm sure I can do, I just need to try.
+* Post 012/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
 ~thoughts/phone : Phone : Phone : 2023-10-03
 1 Phone
 _ 2023.10.03
@@ -2462,3 +2535,7 @@ _ 2023.08.17
 # [b:009] [i:2023.09.25] [l:thoughts/archive81|Archive 81]
 # [b:010] [i:2023.10.03] [l:thoughts/phone|Phone]
 # [b:011] [i:2023.10.06] [l:wiki/ipod|iPod]
+# [b:012] [i:2023.10.12] [l:thoughts/work-focus|Work Focus]
+# [b:013] [i:2023.10.13] [l:thoughts/urban-sketching|Urban Sketching]
+# [b:014] [i:2023.10.18] [l:thoughts/nextcloud-music|Nextcloud Music]
+# [b:015] [i:2023.10.23] [l:thoughts/syncretism|Syncretism]

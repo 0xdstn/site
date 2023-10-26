@@ -293,5 +293,14 @@
         <description>Changes from 2023-10-25</description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-10-25&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new recipe: &lt;a href=&quot;/recipes/oatmilk&quot;&gt;Oatmilk&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
+      <item>
+        <title>2023-10-26</title>
+        <link>https://0xdstn.site/changelog/2023-10-26</link>
+        <guid>https://0xdstn.site/changelog/2023-10-26</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Thu, 26 Oct 2023 00:00:00 </pubDate>
+        <description>Changes from 2023-10-26</description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-10-26&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/wiki/kmart&quot;&gt;kmart&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
+      </item>
   </channel>
 </rss>

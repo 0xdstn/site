@@ -38,6 +38,10 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-10-26 : 2023-10-26 : Changes from 2023-10-26 : 2023-10-26
+1 2023-10-26
+- [e:green] Added new wiki page: [l:wiki/kmart|kmart]
+
 ~changelog/2023-10-25 : 2023-10-25 : Changes from 2023-10-25 : 2023-10-25
 1 2023-10-25
 - [e:green] Added new recipe: [l:recipes/oatmilk|Oatmilk]
@@ -209,6 +213,74 @@
 1 Wiki 
 & Below are is list of personal notes I've written on various topics that are important to me.
 ? [d:wiki]
+
+~wiki/kmart : Attention Kmart Shoppers : Links sorted by month to Kmart tapes on Archive.org : 2023-10-26
+1 Attention K-Mart Shoppers
+& I love listening to the [l:https://archive.org/details/attentionkmartshoppers|Attention K-Mart Shoppers] collection on Archive.org. It's a set of tapes that used to play on the sound system of K-Marts in the 80s and 90s. Below is a list of links to the MP3 for each tape, sorted by month. Some are monthly tapes, and some are weekly tapes.
+2 January
+- [l:https://archive.org/download/KmartJanuary1991/Kmart%20January%201991.mp3|1991]
+- [l:https://archive.org/download/KmartJanuary1992Generic/Kmart%20January%201992%20%28Generic%29.mp3|1992]
+2 February
+- [l:https://archive.org/download/KmartFebruary1990/Kmart%20February%201990.mp3|1990]
+- [l:https://archive.org/download/KmartFebruary1992Generic/Kmart%20February%201992%20%28Generic%29.mp3|1992]
+- [l:https://archive.org/download/KmartWeekOf02.02.1992/Kmart%20Week%20of%2002.02.1992.mp3|Week Of 02.02.1992]
+- [l:https://archive.org/download/KmartWeekOf02.09.1992/Kmart%20Week%20of%2002.09.1992.mp3|Week Of 02.09.1992]
+- [l:https://archive.org/download/KmartWeekOf02.16.1992/Kmart%20Week%20of%2002.16.1992.mp3|Week Of 02.16.1992]
+- [l:https://archive.org/download/KmartWeekOf02.23.1992/Kmart%20Week%20of%2002.23.1992.mp3|Week Of 02.23.1992]
+2 March
+- [l:https://archive.org/download/KmartMarch1990/Kmart%20March%201990.mp3|1990]
+- [l:https://archive.org/download/KmartApril1991_201509/Kmart%20March%201991.mp3|1991]
+- [l:https://archive.org/download/KmartMarchGeneric/Kmart%20March%20%28Generic%29.mp3|1992]
+- [l:https://archive.org/download/KmartWeekOf03.01.1992/Kmart%20Week%20of%2003.01.1992.mp3|Week Of 03.01.1992]
+- [l:https://archive.org/download/KmartWeekOf03.08.1992/Kmart%20Week%20of%2003.08.1992.mp3|Week Of 03.08.1992]
+- [l:https://archive.org/download/KmartWeekOf03.15.1992/Kmart%20Week%20of%2003.15.1992.mp3|Week Of 03.15.1992]
+- [l:https://archive.org/download/KmartWeekOf03.22.1992/Kmart%20Week%20of%2003.22.1992.mp3|Week Of 03.22.1992]
+- [l:https://archive.org/download/KmartWeekOf03.29.1992/Kmart%20Week%20of%2003.29.1992.mp3|Week Of 03.29.1992]
+2 April
+- [l:https://archive.org/download/KmartApril1991/Kmart%20April%201991.mp3|1991]
+- [l:https://archive.org/download/KmartApril1992Generic/Kmart%20April%201992%20%28Generic%29.mp3|1992]
+- [l:https://archive.org/download/KmartWeekOf04.05.1992/Kmart%20Week%20of%2004.05.1992.mp3|Week Of 04.05.1992]
+- [l:https://archive.org/download/KmartWeekOf04.12.1992/Kmart%20Week%20of%2004.12.1992.mp3|Week Of 04.12.1992]
+- [l:https://archive.org/download/KmartWeekOf04.26.1992/Kmart%20Week%20of%2004.26.1992.mp3|Week Of 04.26.1992]
+2 May
+- [l:https://archive.org/download/May1988ReelToReel/Kmart%20May%201988%20Reel%20to%20Reel.mp3|1988]
+- [l:https://archive.org/download/KmartMay1991/Kmart%20May%201991.mp3|1991]
+- [l:https://archive.org/download/KmartMayGeneric/Kmart%20May%20%28Generic%29.mp3|1992]
+- [l:https://archive.org/download/KmartWeekOf05.05.1992/Kmart%20Week%20of%2005.05.1992.mp3|Week Of 05.05.1992]
+- [l:https://archive.org/download/KmartWeekOf05.10.1992/Kmart%20Week%20of%2005.10.1992.mp3|Week Of 05.10.1992]
+- [l:https://archive.org/download/KmartWeekOf05.17.1992/Kmart%20Week%20of%2005.17.1992.mp3|Week Of 05.17.1992]
+- [l:https://archive.org/download/KmartWeekOf05.31.1992/Kmart%20Week%20of%2005.31.1992.mp3|Week Of 05.31.1992]
+- [l:https://archive.org/download/KmartWeekOf05.24.1992_201903/Kmart%20Week%20of%2005.24.1992.mp3|Week Of 05.24.1992]
+2 June
+- [l:https://archive.org/download/KmartJune1990/Kmart%20June%201990.mp3|1990]
+- [l:https://archive.org/download/KmartJune1992Generic/Kmart%20June%201992%20%28Generic%29.mp3|1992]
+- [l:https://archive.org/download/KmartWeekOf06.07.1992/Kmart%20Week%20of%2006.07.1992.mp3|Week Of 06.07.1992]
+- [l:https://archive.org/download/KmartWeekOf06.14.1992/Kmart%20Week%20of%2006.14.1992.mp3|Week Of 06.14.1992]
+- [l:https://archive.org/download/KmartWeekOf06.21.1992/Kmart%20Week%20of%2006.21.1992.mp3|Week Of 06.21.1992]
+- [l:https://archive.org/download/KmartWeekOf06.28.1992/Kmart%20Week%20of%2006.28.1992.mp3|Week Of 06.28.1992]
+2 July
+- [l:https://ia801307.us.archive.org/23/items/KmartJuly1990/Kmart%20July%201990.mp3|1990]
+- [l:https://archive.org/download/KmartJuly1991/Kmart%20July%201991.mp3|1991]
+- [l:https://archive.org/download/KmartJuly1992Generic/Kmart%20July%201992%20%28Generic%29.mp3|1992]
+- [l:https://archive.org/download/KmartWeekOf07.05.1992/Kmart%20Week%20of%2007.05.1992.mp3|Week Of 07.05.1992]
+- [l:https://archive.org/download/KmartWeekOf07.12.1992/Kmart%20Week%20of%2007.12.1992.mp3|Week Of 07.12.1992]
+- [l:https://archive.org/download/KmartWeekOf07.19.1992/Kmart%20Week%20of%2007.19.1992.mp3|Week Of 07.19.1992]
+- [l:https://archive.org/download/KmartWeekOf07.26.1992/Kmart%20Week%20of%2007.26.1992.mp3|Week Of 07.26.1992]
+2 August
+- [l:https://archive.org/download/KmartAugust1990/Kmart%20August%201990.mp3|1990]
+- [l:https://archive.org/download/KmartAugust1992Generic/Kmart%20August%201992%20%28Generic%29.mp3|1992]
+- [l:https://archive.org/download/KmartWeekOf08.09.1992/Kmart%20Week%20of%2008.09.1992.mp3|Week Of 08.09.1992]
+2 September
+- [l:https://archive.org/download/KmartSeptember1990/Kmart%20September%201990.mp3|1990]
+2 October
+- [l:https://archive.org/download/KmartOctober1989/Kmart%20October%201989.mp3|1989]
+- [l:https://archive.org/download/KmartOctober1990/Kmart%20October%201990.mp3|1990]
+2 November
+- [l:https://archive.org/download/KmartNovember1990/Kmart%20November%201990.mp3|1990]
+2 December
+- [l:https://ia801300.us.archive.org/14/items/KmartDecember1990/Kmart%20December%201990.mp3|1990]
+- [l:https://archive.org/download/KmartDecember1992/Kmart%20December%201992.mp3|1991]
+- [l:https://archive.org/download/KmartDecember1992Revised/Kmart%20December%201992%20Revised.mp3|1991 Revised]
 
 ~wiki/philosophy : Philosophy : My personal philosophy : 2020-10-25
 1 Philosophy

@@ -38,6 +38,10 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-10-25 : 2023-10-25 : Changes from 2023-10-25 : 2023-10-25
+1 2023-10-25
+- [e:green] Added new recipe: [l:recipes/oatmilk|Oatmilk]
+
 ~changelog/2023-10-23 : 2023-10-23 : Changes from 2023-10-23 : 2023-10-23
 1 2023-10-23
 - [e:green] Added new thought: [l:thoughts/syncretism|Syncretism]
@@ -935,6 +939,24 @@
 1 Recipes 
 & I'm not much of a cook, but here are some recipes I use fairly often, or just occasionally and don't want to forget.
 ? [d:recipes]
+
+~recipes/oatmilk : Oatmilk : Easy homemade oatmilk : 2023-10-25
+1 Oatmilk
+# [l:#Ingredients|Ingredients]
+# [l:#Directions|Directions]
+# [l:#Notes|Notes]
+2 Ingredients
+- 1/2 cup rolled oats
+- 1 1/2 cup water
+- 1 tbsp maple syrup
+- 1/2 tsp vanilla
+2 Directions
+# Combine [b:ingredients] in a blender
+# Blend for [b:~30 seconds]
+# Strain through a nut milk bag
+2 Notes
+- I use this [l:https://elliesbest.com/products/pro-quality-nut-milk-bag|nut milk bag]
+- The pulp left in the bag can be saved and used to add nutrients to and thicken up smoothies
 
 ~recipes/apple-cinnamon-oats : Apple Cinnamon Oats : Fresh apple cinnamon oats : 2023-07-26
 1 Apple Cinnamon Oats

@@ -38,6 +38,10 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-10-30 : 2023-10-30 : Changes from 2023-10-30 : 2023-10-30
+1 2023-10-30
+- [e:green] Added new thought: [l:thoughts/rpi-raid|Raspberry Pi RAID]
+
 ~changelog/2023-10-26 : 2023-10-26 : Changes from 2023-10-26 : 2023-10-26
 1 2023-10-26
 - [e:green] Added new wiki page: [l:wiki/kmart|kmart]
@@ -2374,6 +2378,15 @@ _ 2023.02.09
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
 
+~thoughts/rpi-raid : Raspberry Pi RAID : Raspberry Pi RAID : 2023-10-30
+1 Raspberry Pi RAID
+_ 2023.10.30
+& I recently decided to [l:thoughts/nextcloud-music|move to Nextcloud Music], which was all great and well, however my Raspberry Pi that I am running Nextcloud on didn't have enough space to store my music library. It is 41.5 GB and the Raspberry Pi has a 32 GB SD card.
+& Per a conversation on Mastodon, [l:https://82mhz.net|82mhz] explained his RAID 1 setup with 2 USB drives on a Raspberry Pi. He wrote up a [l:https://82mhz.net/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/|post explaining how he did this], which I used to set up the same thing on mine. It was simple and I had no issues! Thanks 82mhz for writing that up!
+& I then needed to move my Nextcloud files to a new location, so it would store on the RAID. Nextcloud doesn't officially support doing this, and the [l:https://help.nextcloud.com/t/howto-change-move-data-directory-after-installation/17170|process for doing so] seems overly complicated. I found it easier to just backup my data and re-install Nextcloud with the new location. This worked and I now have my nextcloud storing to the RAID using 2 USB sticks. This should ensure that if one goes down, or even the SD card fails, I should have a copy of my data that I can restore from when setting up new hardware.
+& It's been a process, but I'm glad I went down this path of hosting my own things. I feel much more in control of my data and it's not stored/owned by some corporation.
+* Post 016/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
 ~thoughts/syncretism : Syncretism : Syncretism : 2023-10-23
 1 Syncretism
 _ 2023.10.23
@@ -2618,18 +2631,19 @@ _ 2023.08.29
 _ 2023.08.17
 & I decided to add this thoughts section to my site for more unstructured posts. I will be starting [l:https://100daystooffload.com|100 Days to Offload] on [b:September 1st, 2023]. This decision was inspired by [l:https://oldbytes.space/@82mhz/110866819383239430|82mhz's post] saying he is doing it and inviting others to join in.
 & All of my [b:#100DaysToOffload] posts will be in this thoughts section.
-# [b:001] [i:2023.09.01] [l:thoughts/here-we-go|Here we go!]
-# [b:002] [i:2023.09.06] [l:thoughts/making-things|Making Things]
-# [b:003] [i:2023.09.07] [l:thoughts/daily-art|Daily Art]
-# [b:004] [i:2023.09.11] [l:thoughts/podcasts-veilid|Podcasts + Veilid]
-# [b:005] [i:2023.09.13] [l:thoughts/words|Words]
-# [b:006] [i:2023.09.13] [l:thoughts/podcast-recommendations|Podcast Recommendations]
-# [b:007] [i:2023.09.18] [l:thoughts/tales-from-the-crypt|Tales From the Crypt]
-# [b:008] [i:2023.09.25] [l:wiki/nextcloud|Nextcloud]
-# [b:009] [i:2023.09.25] [l:thoughts/archive81|Archive 81]
-# [b:010] [i:2023.10.03] [l:thoughts/phone|Phone]
-# [b:011] [i:2023.10.06] [l:wiki/ipod|iPod]
-# [b:012] [i:2023.10.12] [l:thoughts/work-focus|Work Focus]
-# [b:013] [i:2023.10.13] [l:thoughts/urban-sketching|Urban Sketching]
-# [b:014] [i:2023.10.18] [l:thoughts/nextcloud-music|Nextcloud Music]
-# [b:015] [i:2023.10.23] [l:thoughts/syncretism|Syncretism]
+# [i:2023.09.01] [l:thoughts/here-we-go|Here we go!]
+# [i:2023.09.06] [l:thoughts/making-things|Making Things]
+# [i:2023.09.07] [l:thoughts/daily-art|Daily Art]
+# [i:2023.09.11] [l:thoughts/podcasts-veilid|Podcasts + Veilid]
+# [i:2023.09.13] [l:thoughts/words|Words]
+# [i:2023.09.13] [l:thoughts/podcast-recommendations|Podcast Recommendations]
+# [i:2023.09.18] [l:thoughts/tales-from-the-crypt|Tales From the Crypt]
+# [i:2023.09.25] [l:wiki/nextcloud|Nextcloud]
+# [i:2023.09.25] [l:thoughts/archive81|Archive 81]
+# [i:2023.10.03] [l:thoughts/phone|Phone]
+# [i:2023.10.06] [l:wiki/ipod|iPod]
+# [i:2023.10.12] [l:thoughts/work-focus|Work Focus]
+# [i:2023.10.13] [l:thoughts/urban-sketching|Urban Sketching]
+# [i:2023.10.18] [l:thoughts/nextcloud-music|Nextcloud Music]
+# [i:2023.10.23] [l:thoughts/syncretism|Syncretism]
+# [i:2023.10.30] [l:thoughts/rpi-raid|Raspberry Pi RAID]

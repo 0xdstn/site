@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/styles/main.css?v=2" />
+    <link href="https://mastodon.spotek.io/@dustin" rel="me" />
+    <link href="https://defcon.social/@dstn" rel="me" />
+    <link href="https://toki.social/@0xdstn" rel="me" />
+    <title>Raspberry Pi RAID | 0xdstn</title>
+  </head>
+  <body>
+    <header>
+      <a href="/">0xdstn</a>
+      <a href="/hello">hello</a>
+      <a href="/writing">writing</a>
+      <a href="/thoughts">thoughts</a>
+      <a href="/books">reading</a>
+      <a href="/feeds">feeds</a>
+    </header>
+	<article>
+<a href="/thoughts">..</a><h1><span class="emoji">&#128173;</span> Raspberry Pi RAID</h1><p><em>2023.10.30</em></p><p>I recently decided to <a href="/thoughts/nextcloud-music">move to Nextcloud Music</a>, which was all great and well, however my Raspberry Pi that I am running Nextcloud on didn't have enough space to store my music library. It is 41.5 GB and the Raspberry Pi has a 32 GB SD card.</p><p>Per a conversation on Mastodon, <a href="https://82mhz.net" target="_blank">82mhz</a> explained his RAID 1 setup with 2 USB drives on a Raspberry Pi. He wrote up a <a href="https://82mhz.net/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/" target="_blank">post explaining how he did this</a>, which I used to set up the same thing on mine. It was simple and I had no issues! Thanks 82mhz for writing that up!</p><p>I then needed to move my Nextcloud files to a new location, so it would store on the RAID. Nextcloud doesn't officially support doing this, and the <a href="https://help.nextcloud.com/t/howto-change-move-data-directory-after-installation/17170" target="_blank">process for doing so</a> seems overly complicated. I found it easier to just backup my data and re-install Nextcloud with the new location. This worked and I now have my nextcloud storing to the RAID using 2 USB sticks. This should ensure that if one goes down, or even the SD card fails, I should have a copy of my data that I can restore from when setting up new hardware.</p><p>It's been a process, but I'm glad I went down this path of hosting my own things. I feel much more in control of my data and it's not stored/owned by some corporation.</p><p><strong>Post 016/100 of <a href="/thoughts/100-days-to-offload">#100DaysToOffload</a></strong></p><blockquote class="thanks"> <span class="emoji">&#128075;</span> Hey! Thanks for reading! If you have any comments or questions about this post, or anything else, I'd love to chat! You can find the best way to contact me on my <a href="/hello">hello page</a> or send me an <a href="mailto:0xdstn@protonmail.com?subject=RE: Raspberry Pi RAID">email</a>.</blockquote>		</article>
+		<footer>
+			<p>
+			<a href="https://webring.xxiivv.com/#random" target="_blank" class="webring">
+				<img src="https://webring.xxiivv.com/icon.black.svg" alt="webring"/>
+			</a>
+			</p>
+		</footer>
+	</body>
+</html>
+

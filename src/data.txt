@@ -41,6 +41,8 @@
 ~changelog/2023-10-30 : 2023-10-30 : Changes from 2023-10-30 : 2023-10-30
 1 2023-10-30
 - [e:green] Added new thought: [l:thoughts/rpi-raid|Raspberry Pi RAID]
+- [e:green] Added new witchcraft wiki page: [l:wiki/witchcraft/wheel|Wheel of the Year]
+- [e:green] Added new witchcraft wiki page: [l:wiki/witchcraft/spellcraft|Spellcraft]
 
 ~changelog/2023-10-26 : 2023-10-26 : Changes from 2023-10-26 : 2023-10-26
 1 2023-10-26
@@ -549,6 +551,42 @@
 ~wiki/witchcraft/tarot : Tarot : Notes related to tarot : 2023-08-01
 1 Tarot
 & Think of tarot as a tool for self-awareness and reflection, rather than fortune telling.
+
+~wiki/witchcraft/wheel : Wheel of the Year : Notes related to the Wheel of the Year : 2023-10-30
+1 Wheel of the Year
+# [l:#Notes|Notes]
+# [l:#Sabbats|Sabbats]
+2 Notes
+& The Gods and Goddesses can be recognized, while not worshiped, on a secular level. You can develop an intuitively based wheel of the year practice that is genuine to your unique path.
+2 Sabbats
+- [b:Imbolc] February 1
+- [b:Ostara] [i:(Spring Equinox)] March 19-22
+- [b:Beltane] May 1
+- [b:Litha] [i:(Summer Solstice)] June 19-23
+- [b:Lammas] August 1
+- [b:Mabon] [i:(Autumn Equinox)] September 21-24
+- [b:Samhain] November 1
+- [b:Yule] [i:(Winter Solstice)] December 20-23
+
+~wiki/witchcraft/spellcraft : Spellcraft : Notes related to spellcrafting : 2023-10-30
+1 Spellcraft
+# [l:#Notes|Notes]
+# [l:#Intuitive spell crafting|Intuitive spell crafting]
+2 Notes
+& Don't worry about what anyone says or what is written on the internet. Use the tools and words that are right for you.
+2 Intuitive spell crafting
+& [b:Intuitive spell crafting] is using intuition to guide and create rituals, spells, and manifestations within your life and the lives of those around you
+& When you practice intuitive spellwork, document what you will be doing and using, then journal about the experience after (like a scientific experiment). Come back to it a week and then a month later to analyze if it was successful or if there is anything that can be changed.
+3 Grounding ritual for awakening your intuition
+_ Taken from Year of the Witch by Temperance Alden
+# Get mind and body ready, do something relaxing (bath, walk, meditation, etc)
+# Go to a place that is mostly quiet where you feel at peace and won't be disturbed
+# Sit down with your back straight, your knees bent, and your feet planted on the ground in front of you
+# Close your eyes and take a deep breate, as you exhale, let the clutter of your mind release. Repeat a few times
+# Think about a decision or situation you need to face. Visualize it and listen to your inner voice.
+# Filter out high-energy, high-pitched voices such as negative or self doubt thoughts
+# Breathe in and breathe out all of the anxious thoughts
+# Notice what remains, this is your intuition
 
 ~wiki/development : Development : Notes related to software/web development : 2021-09-30
 1 Development notes 

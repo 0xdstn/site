@@ -38,6 +38,10 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-10-31 : 2023-10-31 : Changes from 2023-10-31 : 2023-10-31
+1 2023-10-31
+- [e:green] Added new thought: [l:thoughts/reading-goals|Reading Goals]
+
 ~changelog/2023-10-30 : 2023-10-30 : Changes from 2023-10-30 : 2023-10-30
 1 2023-10-30
 - [e:green] Added new thought: [l:thoughts/rpi-raid|Raspberry Pi RAID]
@@ -2416,6 +2420,17 @@ _ 2023.02.09
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
 
+~thoughts/reading-goals : Reading Goals : Reading Goals : 2023-10-31
+1 Reading Goals
+_ 2023.10.31
+& A while back I decided to quit Goodreads, which I had been an obsessive user of for a few years,  in lieu of my own [l:books|book tracking system]. Along with that decision, I also decided that in 2023 I would no longer have a book goal. I had previously exceeded whatever goal I set for myself each year, but I felt as though I was just blowing through books for the sake of reaching a goal. I wanted to have a better relationship with reading that wasn't driven by quantity.
+& I think this was a good decision, but I do feel like I'm a little less motivated to read because of it. I am still reading but I would like to read more without forcing myself to with a number I need to hit.
+& I think I need to be better about not finishing books I'm just not that into. This year I read [i:Universal Harvester by John Darnielle] and by the end I was not really happy that I spent the time on it that I did.
+& Right now I'm about a third through [i:A Head Full of Ghosts by Paul Tremblay]. I find it interesting enough, but I don't have that itch to read. I'm thinking that I might set some new rules for myself, such as if I'm about 20% into a fiction book and I'm not trying to read it constantly, and instead just reading it occasionally to get further in it for the sake of making progress, then I will give up on it. I'm going to put down this one. Trying to finish it anyway feels like the [l:https://en.wikipedia.org/wiki/Sunk_cost|sunk-cost fallacy] - the thought that I spent all this time on it so I should see it through, even though that'd be more time spent for something I'm not that interested in.
+& I also have read more fiction books this year than I normally would. I like fiction but I only want to read books I'm really into, and also spend a lot more time reading non-fiction books.
+& I'm going to get back on track with reading, but at my own pace and work on breaking useless habits around tracking.
+* Post 017/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
 ~thoughts/rpi-raid : Raspberry Pi RAID : Raspberry Pi RAID : 2023-10-30
 1 Raspberry Pi RAID
 _ 2023.10.30
@@ -2685,3 +2700,4 @@ _ 2023.08.17
 # [i:2023.10.18] [l:thoughts/nextcloud-music|Nextcloud Music]
 # [i:2023.10.23] [l:thoughts/syncretism|Syncretism]
 # [i:2023.10.30] [l:thoughts/rpi-raid|Raspberry Pi RAID]
+# [i:2023.10.30] [l:thoughts/reading-goals|Reading Goals]

@@ -38,6 +38,10 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-11-06 : 2023-11-06 : Changes from 2023-11-06 : 2023-11-06
+1 2023-11-06
+- [e:green] Added new thought: [l:thoughts/sketch-memory|Sketch Memory]
+
 ~changelog/2023-10-31 : 2023-10-31 : Changes from 2023-10-31 : 2023-10-31
 1 2023-10-31
 - [e:green] Added new thought: [l:thoughts/reading-goals|Reading Goals]
@@ -2420,6 +2424,16 @@ _ 2023.02.09
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
 
+~thoughts/sketch-memory : Sketch Memory : Sketch Memory : 2023-11-06
+1 Sketch Memory
+_ 2023.11.06
+& This thought came to me while reading [l:http://flower.codes/2023/11/03/happy-halloween.html|Zach's halloween post]. In it, he talked about using an old camcorder to record memories this Halloween, and how the process of recording it, transferring it, and editing it provided a much more enjoyable experience as opposed to recording on a phone and sending it out to people instantly.
+& This got me thinking about why I sketch journal. I don't normally share the pages of my sketch journal online, but they are anything and everything I want to document from my life, be it a family trip, just a normal weekend activity, or something around me that shows daily life. The act of illustrating does a couple of things for me that simply taking a photo does not:
+# It cements the moment in my memory in a way that a photo does not. I tend to remember every day that I've drawn, and I don't usually remember the ones I don't
+# I occasionally look through my sketchbooks and relive the things I drew. I rarely revisit old photos on my phone.
+& Keeping a sketch journal is as much a memory tool as it is an enjoyable hobby for me. I'm documenting my life and enjoying the process. If you are at all artistic, I would highly recommend giving this a go to see if it has similar effects for you. Even if you aren't artistic, maybe still give it a try! The "quality" of the art does not matter, what matters is capturing the feeling and/or the memory.
+* Post 018/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
 ~thoughts/reading-goals : Reading Goals : Reading Goals : 2023-10-31
 1 Reading Goals
 _ 2023.10.31
@@ -2701,3 +2715,4 @@ _ 2023.08.17
 # [i:2023.10.23] [l:thoughts/syncretism|Syncretism]
 # [i:2023.10.30] [l:thoughts/rpi-raid|Raspberry Pi RAID]
 # [i:2023.10.30] [l:thoughts/reading-goals|Reading Goals]
+# [i:2023.11.06] [l:thoughts/sketch-memory|Sketch Memory]

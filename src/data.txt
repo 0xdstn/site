@@ -38,8 +38,8 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
-~changelog/2023-11-06 : 2023-11-06 : Changes from 2023-11-06 : 2023-11-06
-1 2023-11-06
+~changelog/2023-11-07 : 2023-11-07 : Changes from 2023-11-07 : 2023-11-07
+1 2023-11-07
 - [e:green] Added new thought: [l:thoughts/merry-november|A Very Merry November]
 
 ~changelog/2023-11-06 : 2023-11-06 : Changes from 2023-11-06 : 2023-11-06
@@ -2437,7 +2437,8 @@ _ 2023.11.07
 & I just finished listening to an older season of the [l:https://www.ruritania.co.uk/stories|Christmas Stories] podcast. The one I finished was [l:https://soundcloud.com/ruritania/sets/deadvent-calendar|The Deadvent Calendar] which was absolutely fantastic. These stories always are. It's one of my favorite things that I look forward to each year, and I'm excited for this year's to start on December 1st. I only started listening to it a couple of years ago, so I still have [l:https://soundcloud.com/ruritania/sets/the-adventure-calendar-of-mr|Adventure Calendar of Mr Timothy Hope], [l:https://soundcloud.com/ruritania/sets/the-apartment-store|The Apartment Store], and [l:https://soundcloud.com/ruritania/sets/an-all-too-magical-christmas|An All Too Magical Christmas] left to listen to. I think I might try to listen to one or two more leading up to December.
 & I also read the [l:https://www.darkhorse.com/Comics/3008-984/Stranger-Things-Winter-Special-one-shot|Stranger Things Winter Special] comic, and it was fantastic! Everyone is explaining various classic Christmas specials to Eleven, but she has no concept of any of it, so it shows what she pictures in her mind, which is a lot more dark and often quite hilarious. It might be my favorite ST comic I've read to date.
 & I was listening to the [l:https://somafm.com/deptstore/|SomaFM Department Store Christmas] station, which I just found this year and love, but it shut down a few days ago and says it'll return on November 25th. I'll be happy to tune in again once it's back up.
-& So anyway, I'm full on into Christmas over here, and I'm going to enjoy it instead of feeling like I'm doing something wrong.
+& I'm looking forward to listening to the [l:https://bethkempton.com/ccpodcast-shownotes/|Calm Christmas Podcast], which starts up again tomorrow, November 8th! (I actually think it might be tonight my time, since the host is in the UK). I've listened to it every year it's been out, and I also love the [l:https://bethkempton.com/calmchristmas/|book of the same name] that it is based on.
+& So anyway, I'm full on into Christmas over here, and I'm going to enjoy it instead of feeling like I'm doing something wrong. [e:christmas]
 * Post 019/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
 
 ~thoughts/sketch-memory : Sketch Memory : Sketch Memory : 2023-11-06

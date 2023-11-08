@@ -41,6 +41,7 @@
 ~changelog/2023-11-07 : 2023-11-07 : Changes from 2023-11-07 : 2023-11-07
 1 2023-11-07
 - [e:green] Added new thought: [l:thoughts/merry-november|A Very Merry November]
+- [e:green] Added new thought: [l:thoughts/default-apps-2023|Default Apps 2023]
 
 ~changelog/2023-11-06 : 2023-11-06 : Changes from 2023-11-06 : 2023-11-06
 1 2023-11-06
@@ -2428,6 +2429,29 @@ _ 2023.02.09
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
 
+~thoughts/default-apps-2023 : Default Apps 2023 : Default Apps 2023 : 2023-11-07
+1 Default Apps 2023
+_ 2023.11.07
+& I saw [l:https://kevquirk.com/my-default-apps-at-the-end-of-2023|this post from Kev Quirk] about a current trend for listing your default apps at the end of the year. There is [l:https://defaults.rknight.me/|a list of people's default lists] managed by [l:https://rknight.me|Robb Knight]. I figured I'd give it a go as well!
+- [e:letter] [b:Mail Service:] Gmail + ProtonMail
+- [e:mail] [b:Mail Client:] [l:https://k9mail.app/|K-9 Mail] + ProtonMail
+- [e:note] [b:Notes:] [l:https://apps.nextcloud.com/apps/notes|Nextcloud Notes]
+- [e:calendar] [b:Calendar:] Google Calendar
+- [e:newspaper] [b:RSS:] [l:https://0xdstn.site/projects/feeds/|Feeds]
+- [e:keyboard] [b:Launcher:] [l:https://f-droid.org/en/packages/app.mlauncher/|mLauncher]
+- [e:cloud] [b:Cloud Storage:] [l:https://nextcloud.com/|Nextcloud]
+- [e:web] [b:Web Browser:] [l:https://www.mozilla.org/en-US/firefox/new/|Firefox]
+- [e:speech] [b:Chat:] Google Messages
+- [e:bookmark] [b:Bookmarks:] [l:https://apps.nextcloud.com/apps/bookmarks|Nextcloud Bookmarks]
+- [e:books] [b:Reading:] Kindle Paperwhite
+- [e:headphones] [b:Music:] [l:https://apps.nextcloud.com/apps/music|Nextcloud Music] + [l:https://github.com/austinried/subtracks|Subtracks]
+- [e:mic] [b:Podcasts:] [l:https://antennapod.org/|AntennaPod] + [l:https://apps.nextcloud.com/apps/gpoddersync|Nextcloud GPodder Sync]
+- [e:lockkey] [b:Password Manager:] [l:https://www.enpass.io/|Enpass]
+- [e:weather] [b:Weather:] [l:https://f-droid.org/es/packages/co.prestosole.clima/|Clima]
+- [e:search] [b:Search:] [l:https://duckduckgo.com|DuckDuckGo]
+- [e:computer] [b:Code Editor:] [l:https://www.vim.org/|vim] + [l:https://code.visualstudio.com/|VS Code]
+* Post 020/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+
 ~thoughts/merry-november : A Very Merry November : A Very Merry November : 2023-11-07
 1 A Very Merry November
 _ 2023.11.07
@@ -2733,4 +2757,5 @@ _ 2023.08.17
 # [i:2023.10.30] [l:thoughts/rpi-raid|Raspberry Pi RAID]
 # [i:2023.10.30] [l:thoughts/reading-goals|Reading Goals]
 # [i:2023.11.06] [l:thoughts/sketch-memory|Sketch Memory]
-# [i:2023.11.06] [l:thoughts/merry-november|A Very Merry November]
+# [i:2023.11.07] [l:thoughts/merry-november|A Very Merry November]
+# [i:2023.11.07] [l:thoughts/default-apps-2023|Default Apps 2023]

@@ -85,7 +85,19 @@ emoji = {
     "ghost": "128123",
     "alien": "128125",
     "clapper": "127916",
-    "christmas": "127876"
+    "christmas": "127876",
+    "letter": "9993",
+    "note": "128221",
+    "newspaper": "128240",
+    "keyboard": "9000",
+    "cloud": "9729",
+    "web": "127760",
+    "bookmark": "128278",
+    "mic": "127908",
+    "lockkey": "128272",
+    "weather": "127780",
+    "search": "128270",
+    "calendar": "128197"
 }
 
 singular = {

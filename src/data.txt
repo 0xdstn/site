@@ -38,6 +38,10 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-11-09 : 2023-11-09 : Changes from 2023-11-09 : 2023-11-09
+1 2023-11-09
+- [e:green] Added new witchcraft wiki page: [l:wiki/witchcraft/power-animal-meditation|Power Animal Meditation]
+
 ~changelog/2023-11-07 : 2023-11-07 : Changes from 2023-11-07 : 2023-11-07
 1 2023-11-07
 - [e:green] Added new thought: [l:thoughts/merry-november|A Very Merry November]
@@ -600,6 +604,17 @@ _ Taken from Year of the Witch by Temperance Alden
 # Filter out high-energy, high-pitched voices such as negative or self doubt thoughts
 # Breathe in and breathe out all of the anxious thoughts
 # Notice what remains, this is your intuition
+
+~wiki/witchcraft/power-animal-meditation : Power Animal Meditation : My experience with the power animal meditation : 2023-11-09
+1 Power Animal Meditation
+& I don't remember where I found the instructions for this meditation, but the idea is you sit in a meditation position, close your eyes, take some deep breaths, and envision yourself walking through a tunnel. As you go through the tunnel you drop your fears and concerns. When you exit the tunnel you will be somewhere and that is where you will meet  your power animal.
+& Here was my experience:
+& I entered the dark cave with thoughts of what I expected to find. After being engulfed in complete darkness, the walls suddenly lit up, emitting a soft blue glow. Along with ornate lines, I found a reflection of my expectations etched into the wall. A crow, a squirrel, and a hummingbird. It is as if my thoughts were absorbed by the wall, now it's to keep.
+& I exited the tunnel into a stunning view of a forest. The trees were thick and you could see a beautiful mountain far away, covered in fog. Right at the edge of the trees was an opening into a clearing. It was shaded and cool with fallen trees and moss everywhere. A stream was flowing to the right.
+& I looked around expectantly, glancing up to see if there were any crows. Everything was silent and I was completely alone. I decided to sit on a log and wait.
+& Not long after I sat and cleared my mind, I saw movement. Fish were jumping out of the stream. I glanced over and found a large grizzly bear catching fish.
+& I walked over and asked the bear if it was my power animal. It looked at me curiously, silent. It moved closer and sat facing me in a meditation pose and gestured for me to do the same. I sat and we both closed our eyes. The bear morphed into a wispy light which shot over and entered my body, becoming part of me. With the power of my animal awoken, I got up and exited back through the tunnel.
+* Post 021/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
 
 ~wiki/development : Development : Notes related to software/web development : 2021-09-30
 1 Development notes 
@@ -2759,3 +2774,4 @@ _ 2023.08.17
 # [i:2023.11.06] [l:thoughts/sketch-memory|Sketch Memory]
 # [i:2023.11.07] [l:thoughts/merry-november|A Very Merry November]
 # [i:2023.11.07] [l:thoughts/default-apps-2023|Default Apps 2023]
+# [i:2023.11.09] [l:wiki/witchcraft/power-animal-meditation|Power Animal Meditation]

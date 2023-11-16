@@ -47,7 +47,9 @@ tplKey = {
     "e": "emoji",
     "r": "recent",
     "z": "books",
-    "p": "posts"
+    "p": "posts",
+    "o": "100daystooffload",
+    "f": "100daystooffload"
 }
 
 emoji = {
@@ -163,6 +165,24 @@ def tpl(line):
                 if page != 'index':
                     posts += generateContent(m[1], page)
             line = line.replace(tag,posts)
+        if k == "o":
+            line = line.replace(tag,'Post ' + m[1] + '/100 of <a href="/thoughts/100-days-to-offload">#100DaysToOffload</a>')
+        if k == "f":
+            out = '<ol>'
+            lis = {}
+            for section in data:
+                if section != 'devnull':
+                    for page in data[section]:
+                        if page != 'index':
+                            for tmpLn in data[section][page]['BODY']:
+                                if tmpLn[2:5] == '[o:':
+                                    lis[tmpLn[5:8]] = '<em>'+data[section][page]['DATE'].replace('-','.')+'</em> ' + '<a href="/'+section+'/'+page+'">'+data[section][page]['NAME']+'</a>'
+            for x in range(1,101):
+                key = "{:03d}".format(x)
+                if key in lis:
+                    out += '<li>'+lis[key]+'</li>'
+            out += '</ol>'
+            line = line.replace(tag,out)
         if k == "l":
             link = m[1].split("|")
             url = link[0]

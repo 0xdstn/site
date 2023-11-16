@@ -38,6 +38,11 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-11-14 : 2023-11-14 : Changes from 2023-11-14 : 2023-11-14
+1 2023-11-14
+- [e:green] Added new thought: [l:thoughts/automating-offload|Automating Offload]
+- [e:green] Added new thought: [l:thoughts/notifications|Notifications]
+
 ~changelog/2023-11-09 : 2023-11-09 : Changes from 2023-11-09 : 2023-11-09
 1 2023-11-09
 - [e:green] Added new witchcraft wiki page: [l:wiki/witchcraft/power-animal-meditation|Power Animal Meditation]
@@ -615,7 +620,7 @@ _ Taken from Year of the Witch by Temperance Alden
 & I looked around expectantly, glancing up to see if there were any crows. Everything was silent and I was completely alone. I decided to sit on a log and wait.
 & Not long after I sat and cleared my mind, I saw movement. Fish were jumping out of the stream. I glanced over and found a large grizzly bear catching fish.
 & I walked over and asked the bear if it was my power animal. It looked at me curiously, silent. It moved closer and sat facing me in a meditation pose and gestured for me to do the same. I sat and we both closed our eyes. The bear morphed into a wispy light which shot over and entered my body, becoming part of me. With the power of my animal awoken, I got up and exited back through the tunnel.
-* Post 021/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:021]
 
 ~wiki/development : Development : Notes related to software/web development : 2021-09-30
 1 Development notes 
@@ -1042,7 +1047,7 @@ _ Taken from Year of the Witch by Temperance Alden
 - Fill in the database details you set up earlier
 - Click [b:Finish Setup]
 & After it finishes, you should have a working Nextcloud instance!
-* Post 008/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:008]
 
 ~wiki/ipod : iPod : Notes on iPod customization : 2023-10-06
 1 iPod
@@ -1076,7 +1081,7 @@ _ Taken from Year of the Witch by Temperance Alden
 - [l:https://www.ifixit.com/products/phillips-00-screwdriver|Phillips #00 Screwdriver]
 - [l:https://www.ifixit.com/products/spudger|Spudger]
 & I will then follow [l:https://www.ifixit.com/Guide/iPod+Classic+Click+Wheel+Replacement/571>|these instructions] and ideally replace everything at once.
-* Post 011/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:011]
 
 ~recipes/index : Recipes : Recipes for food I've made : 2022-05-19
 1 Recipes 
@@ -2445,6 +2450,27 @@ _ 2023.02.09
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
 
+~thoughts/notifications : Notifications : Notifications : 2023-11-14
+1 Notifications
+_ 2023.11.14
+& I have been thinking lately about how to minimize the noise in my life. Not just audible noise, but visual noise as well. In an attempt to achieve this a bit more, I've modified my Android notifications.
+& I have minimized the amount of notifications in the past so I only get ones I care about, but that isn't enough. I have now gone through and done the following:
+- Turned off notifications for all food delivery apps. I check these periodically when I've ordered anyway, so a notification isn't necessary. This also resulted in no advertisements coming through for them anymore.
+- Set notifications for Messages to be silent and not show on the lock screen. I then added special settings for my wife, so that hers come through audibly and visually like they all used to, as she's the only one who's texts are ever important or time sensitive.
+- Set all other notifications to be silent and not show on the lock screen. I can see these when I unlock my phone, as they aren't urgent.
+- I chose to leave Ring notifications on, as those are time sensitive.
+& I'm hoping that this will keep me less bothered throughout the day.
+* [o:023]
+
+~thoughts/automated-offload : Automated Offload : Automated Offload : 2023-11-14
+1 Automated Offload
+_ 2023.11.14
+& I saw [l:https://flower.codes/2023/11/12/over-engineered-jekyll-counter.html|Zach's post] on overengineering the #100DaysToOffload counter in Jekyll, which made me think "Why am I not automating this?".
+& My solution isn't as automated as it could be, but now instead of including the actual text for the "x/100 of #100DaysToOffload" in my post as a line, I just add a tag [c:o:001] and it generates it for me.. This is where it's not as automated as it could be, since I have to provide the number.
+& Using this tag, I also automated the list on my [l:thoughts/100-days-to-offload|100 Days to Offload] post. I just add the tag [c:f:100daystooffload] and it creates an ordered list of all the post.
+& Honestly it's been really annoying to have to add new posts to the list and copy the x/100 line each time, so this will be nice.
+* [o:022]
+
 ~thoughts/default-apps-2023 : Default Apps 2023 : Default Apps 2023 : 2023-11-07
 1 Default Apps 2023
 _ 2023.11.07
@@ -2466,7 +2492,7 @@ _ 2023.11.07
 - [e:weather] [b:Weather:] [l:https://f-droid.org/es/packages/co.prestosole.clima/|Clima]
 - [e:search] [b:Search:] [l:https://duckduckgo.com|DuckDuckGo]
 - [e:computer] [b:Code Editor:] [l:https://www.vim.org/|vim] + [l:https://code.visualstudio.com/|VS Code]
-* Post 020/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:020]
 
 ~thoughts/merry-november : A Very Merry November : A Very Merry November : 2023-11-07
 1 A Very Merry November
@@ -2479,7 +2505,7 @@ _ 2023.11.07
 & I was listening to the [l:https://somafm.com/deptstore/|SomaFM Department Store Christmas] station, which I just found this year and love, but it shut down a few days ago and says it'll return on November 25th. I'll be happy to tune in again once it's back up.
 & I'm looking forward to listening to the [l:https://bethkempton.com/ccpodcast-shownotes/|Calm Christmas Podcast], which starts up again tomorrow, November 8th! (I actually think it might be tonight my time, since the host is in the UK). I've listened to it every year it's been out, and I also love the [l:https://bethkempton.com/calmchristmas/|book of the same name] that it is based on.
 & So anyway, I'm full on into Christmas over here, and I'm going to enjoy it instead of feeling like I'm doing something wrong. [e:christmas]
-* Post 019/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:019]
 
 ~thoughts/sketch-memory : Sketch Memory : Sketch Memory : 2023-11-06
 1 Sketch Memory
@@ -2489,7 +2515,7 @@ _ 2023.11.06
 # It cements the moment in my memory in a way that a photo does not. I tend to remember every day that I've drawn, and I don't usually remember the ones I don't
 # I occasionally look through my sketchbooks and relive the things I drew. I rarely revisit old photos on my phone.
 & Keeping a sketch journal is as much a memory tool as it is an enjoyable hobby for me. I'm documenting my life and enjoying the process. If you are at all artistic, I would highly recommend giving this a go to see if it has similar effects for you. Even if you aren't artistic, maybe still give it a try! The "quality" of the art does not matter, what matters is capturing the feeling and/or the memory.
-* Post 018/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:018]
 
 ~thoughts/reading-goals : Reading Goals : Reading Goals : 2023-10-31
 1 Reading Goals
@@ -2500,7 +2526,7 @@ _ 2023.10.31
 & Right now I'm about a third through [i:A Head Full of Ghosts by Paul Tremblay]. I find it interesting enough, but I don't have that itch to read. I'm thinking that I might set some new rules for myself, such as if I'm about 20% into a fiction book and I'm not trying to read it constantly, and instead just reading it occasionally to get further in it for the sake of making progress, then I will give up on it. I'm going to put down this one. Trying to finish it anyway feels like the [l:https://en.wikipedia.org/wiki/Sunk_cost|sunk-cost fallacy] - the thought that I spent all this time on it so I should see it through, even though that'd be more time spent for something I'm not that interested in.
 & I also have read more fiction books this year than I normally would. I like fiction but I only want to read books I'm really into, and also spend a lot more time reading non-fiction books.
 & I'm going to get back on track with reading, but at my own pace and work on breaking useless habits around tracking.
-* Post 017/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:017]
 
 ~thoughts/rpi-raid : Raspberry Pi RAID : Raspberry Pi RAID : 2023-10-30
 1 Raspberry Pi RAID
@@ -2509,7 +2535,7 @@ _ 2023.10.30
 & Per a conversation on Mastodon, [l:https://82mhz.net|82mhz] explained his RAID 1 setup with 2 USB drives on a Raspberry Pi. He wrote up a [l:https://82mhz.net/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/|post explaining how he did this], which I used to set up the same thing on mine. It was simple and I had no issues! Thanks 82mhz for writing that up!
 & I then needed to move my Nextcloud files to a new location, so it would store on the RAID. Nextcloud doesn't officially support doing this, and the [l:https://help.nextcloud.com/t/howto-change-move-data-directory-after-installation/17170|process for doing so] seems overly complicated. I found it easier to just backup my data and re-install Nextcloud with the new location. This worked and I now have my nextcloud storing to the RAID using 2 USB sticks. This should ensure that if one goes down, or even the SD card fails, I should have a copy of my data that I can restore from when setting up new hardware.
 & It's been a process, but I'm glad I went down this path of hosting my own things. I feel much more in control of my data and it's not stored/owned by some corporation.
-* Post 016/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:016]
 
 ~thoughts/syncretism : Syncretism : Syncretism : 2023-10-23
 1 Syncretism
@@ -2522,7 +2548,7 @@ _ 2023.10.23
 & I normally view things from a secular lens, so I tend to leave more spiritual elements out of what I do. I don't hold the Buddhist belief of rebirth, or call upon goddesses/gods from various Pagan beliefs.
 & I do, however, pull things out such as The [l:wiki/buddhism/#The Eightfold Path|Eightfold Path] from Buddhism, [l:https://en.wikipedia.org/wiki/Memento_mori|Momento Mori] from Stoicism, connecting with nature from Paganism, etc. There is even a lot of overlap with the places I pull my beliefs from, such as carrying yourself with calmness and kindness, being mindful of the earth and caring for it's creatures, self reflection and self awareness, etc.
 & I doubt I will ever fully adopt a religion or belief system as it is, so I suppose the correct term to call myself would be a syncretist? Maybe I'll just continue saying I'm me and I believe what I believe, wherever it comes from.
-* Post 015/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:015]
 
 ~thoughts/nextcloud-music : Nextcloud Music : Nextcloud Music : 2023-10-18
 1 Nextcloud Music
@@ -2531,7 +2557,7 @@ _ 2023.10.18
 & Unfortunately, my iPod is having a lot of issues at the moment. I believe the hard drive is failing, also the play/pause button doesn't work anymore. I have [l:wiki/ipod/|plans] to upgrade/replace some of the parts, but for now I'm holding off. I may try that someday.
 & I was thinking about what about the iPod felt better. I don't think it's necessarily having a dedicated device for music (though that is nice). I think the main thing is that I have to intentionally go select music from a collection that I've put together over the years. Because of that, I think using [b:Nextcloud Music] is a good solution. It will contain the same music I've collected, and I can use the [l:https://github.com/austinried/subtracks|Subtracks] Android app to listen on my phone. This is nice because I can use my bluetooth headphones. I can also listen via the Nextcloud web interface when on my work computer, so that's also nice. It has web radio functionlity built in too, so I can listen to radio stations such as [l:https://somafm.com/defcon/|Defcon Radio], [l:https://tilderadio.org/|Tilderadio], or [l:https://anonradio.net/|aNONradio]. That's a nice added feature.
 & I am currently not able to have my entire music collection on the Raspberry Pi, as it's over 40gb and everything is running on a 32gb pi. Eventually I will probably either replace the SD card itself, or add a USB drive with more space and switch Nextcloud to store files there. I'm leaning more toward the USB drive, because it will then be separate from the server itself, and technically you're not supposed to use an SD card higher than 32gb on the Pi 3B+ (though apparently it usually works anyway even though it's not officially supported).
-* Post 014/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:014]
 
 ~thoughts/urban-sketching : Urban Sketching : Urban Sketching : 2023-10-16
 1 Urban Sketching
@@ -2541,7 +2567,7 @@ _ 2023.10.16
 & I tried to go to a coffee shop one time. I would have liked a corner seat of some sort, but it was really busy and the only option was a seat right in the middle of the place. I glanced around nervously and was about to pull out my sketchbook, when someone sat down at the table next to mine. I got really uneasy and then promptly left. I couldn't do it. I just felt so conspicuous. Like I was about to do something I shouldn't be doing.
 & Even today, I wanted to draw an old doorway on a brick building with ornate elements around it. I just couldn't find it in myself to sit down and draw, despite the fact that there was virtually nobody around, and it isn't a busy area. I instead took a picture of it and drew it in my car.
 & I know that many have said once they got over that initial anxiety surrounding it, it became much easier to do, but that's easier said than done. I would like to push myself to get better at this. I think a good first step would be to draw in a more secluded area where I looks less conspicuous, then try moving on to drawing on the streets, and then maybe head back into a coffee shop someday.
-* Post 013/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:013]
 
 ~thoughts/work-focus : Work Focus : Work Focus : 2023-10-12
 1 Work Focus
@@ -2566,7 +2592,7 @@ _ 2023.10.12
 - Start teaching others to create art
 & To achieve this, I would first simply start drawing as often as I can, and share as much as I can, to organically build a following. As an outcome of this, I should find my artistic voice, and hopefully start inspiring others to create art. Once I have cemented a practice and a following, I can explore what it looks like to teach others. Whether that is creating online classes (Skillshare, Domestika, A custom built site) and/or teaching local in-person classes. That still feels terrifying, and I feel wildly unqualified, but if I can build my confidence, this could become a possibility.
 & The only unfortunate piece of this, is pretty much the only way to build a following from nothing in the art world is to use Instagram, which means playing by their algorithmic rules. I would need to get comfortable creating reels to reach new people. This is something I'm sure I can do, I just need to try.
-* Post 012/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:012]
 
 ~thoughts/phone : Phone : Phone : 2023-10-03
 1 Phone
@@ -2576,7 +2602,7 @@ _ 2023.10.03
 & I do not keep entertainment apps on my phone. This specifically means I don't have [b:social apps] (mastodon, instagram, etc) or [b:games] (only exception is the NYT games app). These are my biggest time sucks on my phone. I don't want to turn on my phone to mindlessly do things for the sake of doing things.
 & I want to only pick up my phone for a [i:purpose]. This is why I am not including streaming apps as "entertainment". When I want to watch something, I use my phone as the tool for that. I also don't really watch much to begin with, so this may be less of an issue for me than others.
 & If I want to use Mastodon, Instagram, or play a game, I will do so with intentionality on a device I don't carry around with me - my computer. This is how it used to be before we all had a tiny computer in our pockets. Everything was a lot simpler, and a lot more intentional, not necessarily because we chose to, but because that was the nature of technology at the time. I miss that. While everyone else will still be in the ever-connected future, I can bring myself back to that time with changes like this.
-* Post 010/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:010]
 
 ~thoughts/archive81 : Archive 81 : Archive 81 : 2023-09-25
 1 Archive 81
@@ -2588,7 +2614,7 @@ _ 2023.09.25
 & There was also the 3 episode mini series, Left of the Dial, which felt like a continuation of season 3, but with it's own little story that started and ended with those episodes.
 & I'm fascinated by the world created by this podcast and I truly hope more will come eventually. The final episode was in 2019, so it's been a while. The creators were working on another podcast, but from what I can tell, that was delayed. Hopefully that one can get released sometime soon (and maybe it'll also be amazing!), and then I hope they return to this world.
 & It can be really out there and also graphic, but if you're into weird things, I'd highly recommend this podcast.
-* Post 009/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:009]
 
 ~thoughts/tales-from-the-crypt : Tales From the Crypt : Tales From the Crypt : 2023-09-18
 1 Tales From the Crypt
@@ -2603,7 +2629,7 @@ _ 2023.09.18
 - [l:https://archive.org/details/tales-from-the-crypt-radio-series|Tales From The Crypt Radio Series]
 & It also looks like Hoopla has many (all? I'm a little unsure here) of the comics.
 & The only thing I don't have access to without paying are the 3 movies, but I'm looking forward to diving into all of this!
-* Post 007/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:007]
 
 ~thoughts/podcast-recommendations : Podcast Recommendations : Podcast Recommendations : 2023-09-13
 1 Podcast Recommendations
@@ -2626,7 +2652,7 @@ _ 2023.09.13
 2 [e:headphones] Misc
 & I recently finished [l:https://radiotopiapresents.fm/the-polybius-conspiracy|The Polybius Conspiracy]. It's a weird mix of a fiction story and presenting information about the myth of Polybius (a mysterious black arcade game that supposedly appeared for a bit in Portland, OR in the 80s and caused adverse effects in the people who played it). I found the ending fairly disappointing, but it was still interesting to listen to. There won't be more seasons.
 & Every year the [l:https://www.ruritania.co.uk/stories|Christmas Stories] podcast has 24 new episodes in the days leading up to Christmas, but unlike 12 Ghosts, this one is a light, enjoyable story. Each year is a single story split across the 24 episodes. This one feels closest to the old radio dramas. I listened to it the last 2 years and really enjoyed each of the stories.
-* Post 006/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:006]
 
 ~thoughts/words : Words : Words : 2023-09-13
 1 Words
@@ -2636,7 +2662,7 @@ _ 2023.09.13
 & It's easy to argue "I can say I will get a million dollars but it won't happen!", but I feel that intent and truly believing it will happen are important factors to go up against that argument. Magic is almost always prefaced with the fact that intent is key. I don't think you could truly believe someone would hand you a million dollars, so you can't manifest it in the world via words and intent.
 & On the supernatural side, what if magic seems to not exist because we've made it not exist? By not truly believing that our words can affect the world around us. Maybe magic is a real supernatural force, but we've forgotten how to harness it. We have used science to dismiss the history of people performing magic as them being unknowledgeable about the world around them, and that they read into things that had no connection, just coincidence.
 & Whether manifesting change turns out to happen because of supernatural forces, or because we are tricking ourselves into subconsciously making small changes that lead up to the larger goal, the end result is still the same. Words have power.
-* Post 005/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:005]
 
 ~thoughts/podcasts-veilid : Podcasts + Veilid : Podcasts + Veilid : 2023-09-11
 1 Podcasts + Veilid 
@@ -2655,7 +2681,7 @@ _ 2023.09.11
 & I started listening to the [l:https://www.2600.com/hook/23-08-2023|2600 Off the Hook episode] where they interview the creators, and that's been really good. It got me thinking about if I wanted to create something, and what I would make.
 & My idea that I may try to tackle sometime is a Knowledge Mangement System with comperable features to Obsidian. One of the issues with Obsidian is that you either need to pay them for sync services, or use a 3rd party file syncing system (Syncthing, Dropbox, etc). If a similar app was built using Veilid, you would no need to use any of this to sync, as it works without a central server. You can just set up a connection of your own data between devices and it would sync from within the app. It would also ensure that your data is encrypted, so nobody would be able to access it other than yourself on your own devices.
 & This would be a big undertaking for me, because I would need to learn how to make mobile/desktop apps (maybe using Flutter), and how to integrate Veilid properly. Still, I think this is something I would use, and I be other people would have the need for something like this as well.
-* Post 004/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:004]
 
 ~thoughts/daily-art : Daily Art : Daily Art : 2023-09-07
 1 Daily Art
@@ -2673,7 +2699,7 @@ _ 2023.09.07
 2 Inktober
 & I am planning to do Inktober again this year. I only ever completed it once (2020) and tried and failed to keep with it every other year since about 2016 or so. I will be following the official prompt list, but maybe try to draw from life for each of them. I'm not quite sure yet, but we'll see when we get there.
 & I want to get my children involved with it this year as well, so I am planning to buy them each a little notebook, so it can be something we do together and also help keep me motivated. I'm looking forward to seeing how they interpret each prompt!
-* Post 003/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:003]
 
 ~thoughts/making-things : Making Things : Making Things : 2023-09-06
 1 Making Things
@@ -2701,7 +2727,7 @@ _ 2023.09.06
 & I've tracked all of this before, but it's time I started creating systems for change in my life. I am reminded of this quote from Epictetus:
 > How long are you going to wait before you demand the best for yourself
 & I deserve to treat myself better, and I won't settle for anything less.
-* Post 002/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:002]
 
 ~thoughts/here-we-go : Here we go! : Here we go! : 2023-09-01
 1 Here we go!
@@ -2715,7 +2741,7 @@ _ 2023.09.01
 & I am really looking forward to autumn. It's my favorite season, and cooler weather has already started rolling in. We've had quite a few rainy and cool days. There was even some beautiful fog with a (nearly) full moon last night!
 & I'm sitting here in my kitchen with a nice cup of coffee, cool air blowing in from an open window, writing this, and all feels great. [e:heart]
 & I'm trying to slow down. This is something I've tried many times, but I always just end up doing too much again, burning out, and feeling stressed all the time. I want a more relaxed, intentional, and slow paced kind of life. Maybe writing things down here will help with that? I guess we'll see.
-* Post 001/100 of [l:thoughts/100-days-to-offload|#100DaysToOffload]
+* [o:001]
 
 ~thoughts/moved : Moved : Moved : 2023-08-29
 1 Moved
@@ -2755,24 +2781,4 @@ _ 2023.08.29
 _ 2023.08.17
 & I decided to add this thoughts section to my site for more unstructured posts. I will be starting [l:https://100daystooffload.com|100 Days to Offload] on [b:September 1st, 2023]. This decision was inspired by [l:https://oldbytes.space/@82mhz/110866819383239430|82mhz's post] saying he is doing it and inviting others to join in.
 & All of my [b:#100DaysToOffload] posts will be in this thoughts section.
-# [i:2023.09.01] [l:thoughts/here-we-go|Here we go!]
-# [i:2023.09.06] [l:thoughts/making-things|Making Things]
-# [i:2023.09.07] [l:thoughts/daily-art|Daily Art]
-# [i:2023.09.11] [l:thoughts/podcasts-veilid|Podcasts + Veilid]
-# [i:2023.09.13] [l:thoughts/words|Words]
-# [i:2023.09.13] [l:thoughts/podcast-recommendations|Podcast Recommendations]
-# [i:2023.09.18] [l:thoughts/tales-from-the-crypt|Tales From the Crypt]
-# [i:2023.09.25] [l:wiki/nextcloud|Nextcloud]
-# [i:2023.09.25] [l:thoughts/archive81|Archive 81]
-# [i:2023.10.03] [l:thoughts/phone|Phone]
-# [i:2023.10.06] [l:wiki/ipod|iPod]
-# [i:2023.10.12] [l:thoughts/work-focus|Work Focus]
-# [i:2023.10.13] [l:thoughts/urban-sketching|Urban Sketching]
-# [i:2023.10.18] [l:thoughts/nextcloud-music|Nextcloud Music]
-# [i:2023.10.23] [l:thoughts/syncretism|Syncretism]
-# [i:2023.10.30] [l:thoughts/rpi-raid|Raspberry Pi RAID]
-# [i:2023.10.30] [l:thoughts/reading-goals|Reading Goals]
-# [i:2023.11.06] [l:thoughts/sketch-memory|Sketch Memory]
-# [i:2023.11.07] [l:thoughts/merry-november|A Very Merry November]
-# [i:2023.11.07] [l:thoughts/default-apps-2023|Default Apps 2023]
-# [i:2023.11.09] [l:wiki/witchcraft/power-animal-meditation|Power Animal Meditation]
+? [f:100daystooffload]

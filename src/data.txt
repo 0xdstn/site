@@ -38,6 +38,10 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-11-27 : 2023-11-27 : Changes from 2023-11-27 : 2023-11-27
+1 2023-11-27
+- [e:green] Added new thought: [l:thoughts/excessive-tech|Excessive Tech]
+
 ~changelog/2023-11-14 : 2023-11-14 : Changes from 2023-11-14 : 2023-11-14
 1 2023-11-14
 - [e:green] Added new thought: [l:thoughts/automating-offload|Automating Offload]
@@ -2449,6 +2453,22 @@ _ 2023.02.09
 1 Thoughts 
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
+
+~thoughts/excessive-tech : Excessive Tech : Excessive Tech : 2023-10-18
+1 Excessive Tech
+_ 2023.11.27
+& I recently switched to my own self-hosted [l:wiki/nextcloud|Nextcloud] instance. I thought a lot about it lately, and have decided to shut it down and seek solutions elsewhere.
+& I had set up [l:thoughts/nextcloud-music|Nextcloud Music] since my [l:wiki/ipod/|iPod] seems to be having issues (probably the HDD, which I'd like to replace someday so I can use it again). This was fine, but I just didn't feel I was getting the same experience I was getting from the iPod, which I wrote about in my piece [l:writing/on-music|On Music]. I decided to not use NextCloud for music, but that made me consider something else: do I need such a large and off the shelf solution to solve my problems?
+& The answer, as it turns out, is no. I [l:writing/digital-minimalism/#Accepting%20technology|decided long ago] that I would build solutions for myself if pre-built apps are excessive and/or distracting. NextCloud is great, but it's just so much when my needs are minimal. What I need is this:
+- A way to transfer files between devices, usually not many
+- A place to store and edit notes
+- A way to listen to my music library
+& NextCloud seems a bit of an overkill for such simple needs. I've decided to try the following:
+- [b:Files:] Using a USB stick to transfer files between devices. I even have a USB-C to USB dongle that I can use to plug it in to my phone
+- [b:Notes:] Editing local notes on my phone using [l:https://github.com/gsantner/markor|Markor], then syncing it to my USB drive each week in case my phone fails
+- [b:Music:] This is the difficult one. I was working on a python based GUI to play music on a Raspberry Pi 3 with a touch screen, but that isn't going so well. The app works great, but the touch screen is giving me troubles. I can't seem to calibrate it properly and it's just not great to work with the interface I created. I may try to update the interface to work better with the screen's limitations, but I may also just abandon the project. I also came up with another solution that I am going to try which is plugging a USB stick with all my music into my phone or my computer, whatever I'm using at the time, and listen to it via offline apps. I just got this idea, so I'll try it out and see how it goes. I feel this may give me a similar feeling to using an iPod by requiring me to physically insert the USB stick and selecting the music I want to listen to. I'm also wondering if my car will allow me to just insert a USB stick, as it has some sort of USB media option in the list on the screen. I'll try that out later today and see how that goes too.
+& These solutions are simple, and really not all that time consuming, so I feel NextCloud was far more than I ever needed.
+* [o:024]
 
 ~thoughts/notifications : Notifications : Notifications : 2023-11-14
 1 Notifications

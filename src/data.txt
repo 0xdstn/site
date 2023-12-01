@@ -38,6 +38,10 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-12-01 : 2023-12-01 : Changes from 2023-12-01 : 2023-12-01
+1 2023-12-01
+- [e:green] Added new thought: [l:thoughts/festive-things|Festive Things]
+
 ~changelog/2023-11-27 : 2023-11-27 : Changes from 2023-11-27 : 2023-11-27
 1 2023-11-27
 - [e:green] Added new thought: [l:thoughts/excessive-tech|Excessive Tech]
@@ -2453,6 +2457,23 @@ _ 2023.02.09
 1 Thoughts 
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
+
+~thoughts/festive-things : Festive Things : Festive Things : 2023-12-01
+1 Festive Things
+_ 2023.12.01
+2 [e:christmas] Christmastime!
+& It's December 1st, so there is no denying that it's Christmas time! We got our decorations put up inside (still need to do outside..) and there is heavy snow today that doesn't seem like it will stop. Feels very cozy and festive!
+2 [e:computer] Advent of Code
+& Each year since 2019 I've done my best on AoC. If you don't know what it is, it's an advent calendar of coding puzzles. 2 per day that tend to get progressively harder throughout the month of December leading up to Christmas. It's really fun and you should try it out if you haven't!
+& I never make it past about day 10, as they just get too difficult and I don't have enough time or mental energy to put in to it, but it's fun for the first few days and I'll always try for as long as I can before deciding to give up. Part B of day 1 was already really annoying, so not off to a great start, but we'll see!
+& I put my code up for all years in this repo if you would like to check that out: [l:https://github.com/0xdstn/aoc]
+& This year I am doing Javascript again, because that's primarily what I work with in my day job, so I'm most comfortable with it. I've done Python in previous years too.
+& Anwyay, looking forward to seeing what else is coming up in it!
+2 [e:headphones] Christmas Stories Podcast
+& The [l:https://www.ruritania.co.uk/stories|Christmas Stories] podcast has started up again! I haven't listened to episode 1 yet, but it's out now. This one is called Secret Satan, and it's another murder mystery. Should be fun!
+2 [e:headphones] Calm Christmas Podcast
+& The [l:https://bethkempton.com/ccpodcast-shownotes/|Calm Christmas Podcast] has been going for a few weeks now. Episode 5 just came out today. I haven't listened to it yet, but I love it just like every year it's been out. It has a lot of good tips, recipes, etc. There is also a free [l:https://dowhatyouloveforlife.com/product/calm-christmas-planner/|Calm Christmas planner] you can download as well that I still need to go through, but it looks like there is a lot in it!
+* [o:025]
 
 ~thoughts/excessive-tech : Excessive Tech : Excessive Tech : 2023-10-18
 1 Excessive Tech

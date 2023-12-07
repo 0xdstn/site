@@ -2458,6 +2458,22 @@ _ 2023.02.09
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
 
+~thoughts/update-20231207 : Update 2023-12-07 : Update 2023-12-07 : 2023-12-07
+1 Update 2023-12-07
+_ 2023.12.07
+2 100 Days to Offload
+& I'm definitely behind a bit. Time off for Thanksgiving is a large part of the reason. I didn't get any posts written that week I believe, and only one last week. Actually, I think I was a week or so ahead, and 2 a week would be more than 100 posts, so maybe I'm just back on track as opposed to ahead. I don't feel like mathing out where I should be. I'm just going to try to get more posts done so I don't actually fall behind or fall behind further.
+2 Mastodon
+& I've just not been feeling Mastodon lately. I think I may just take some time off from it. I don't think I'll even post this there. It just often feels like it doesn't provide a ton given the time I put in to reading every post in my feed. I much prefer emails. Feel free to send me one if you'd like! [l:mailto:0xdstn@protonmail.com|0xdstn@protonmail.com]
+2 Advent of Code
+& Still going on this! I skipped day 5 part 2, because it was incredibly difficult and I don't care enough to put more time into that. I did however finish 6, so all I have left that is available at the time of writing this is today's, day 7. I hear it's difficult, so we'll see if I get it done. I may be getting close to my limit for this year, but I'll stick it out as long as it stays fun.
+2 Toki Pona
+& I've decided to start attempting to learn toki pona again. I am trying out Anki this time. It seems to be going well actually, I think I've learned a couple new words and gotten more confident on the ones that were less automatic for me. I already know most toki pona words, but I have some that are really difficult to get to stick for some reason. Hoping this will result in me knowing all of them. I then will work on reading things such as [l:https://liputenpo.org/|lipu tenpo]. I'd also like to write more in toki pona, either in my journal or on here. I did write a haiku the other day:
+> telo sewi o<br>telo mute lon ale<br>kasi li pona
+& This roughly translates to:
+> rain!<br>a lot of water is on everything<br>the plant is happy
+* [o:026]
+
 ~thoughts/festive-things : Festive Things : Festive Things : 2023-12-01
 1 Festive Things
 _ 2023.12.01

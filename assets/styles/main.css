@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'linjapona';
+    src: url('linja-pona-4.9.otf')  format('opentype');
+}
+
 html, body {
     height: 100%;
 	margin: 0;
@@ -169,4 +174,10 @@ h1 .emoji {
 
 h2 .emoji {
     width: 40px;
+}
+
+.tp {
+    font-family: 'linjapona';
+    font-size: 1.75em;
+    letter-spacing: 0;
 }

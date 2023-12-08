@@ -49,7 +49,8 @@ tplKey = {
     "z": "books",
     "p": "posts",
     "o": "100daystooffload",
-    "f": "100daystooffload"
+    "f": "100daystooffload",
+    "t": "tokipona"
 }
 
 emoji = {
@@ -246,6 +247,8 @@ def tpl(line):
             else:
                 booksOut += '</ol>'
             line = line.replace(tag, booksOut)
+        elif k == "t":
+            line = line.replace(tag, ' <span class="tp">{}</span>'.format(m[1]))
         else:
             line = line.replace(tag, "<{}>{}</{}>".format(tplKey[k],m[1],tplKey[k]))
 

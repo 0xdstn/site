@@ -353,7 +353,7 @@ def createPage(fileName, section, pg):
         data[section][pg]["LINK"] = 'https://0xdstn.site/' + section + '/' + pg
         if section == "changelog" and page != 'index':
             xmlItemsChangelog[data[section][pg]["DATE"]+"_"+pg] = data[section][pg]
-        elif section != "devnull" and page != 'index':
+        elif section != "devnull" and section != "tokipona" and page != 'index':
             xmlItems[data[section][pg]["DATE"]+"_"+pg] = data[section][pg]
 
     f = open(outPath + fileName + ".html", "w")

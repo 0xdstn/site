@@ -12,6 +12,7 @@
 - [e:book] [l:wiki|Wiki] My personal notes
 - [e:bowl] [l:recipes|Recipes] Recipes for food I've made
 - [e:books] [l:wiki/library|Library] A list of books I've read and am reading
+- [e:paper] [l:tokipona|toki pona] A section dedicated to things I've written in toki pona
 - [e:log] [l:changelog|Changelog] A list of changes to this site
 
 2 Latest
@@ -37,6 +38,12 @@
 1 Changelog
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
+
+~changelog/2023-12-08 : 2023-12-08 : Changes from 2023-12-08 : 2023-12-08
+1 2023-12-08
+- [e:green] Added new thought: [l:thoughts/toki-pona-section|Toki Pona Section]
+- [e:green] Added new section: [l:tokipona|Toki Pona]
+- [e:green] Added new toki pona page: [l:tokipona/sitelen-musi-lili|sitelen musi lili]
 
 ~changelog/2023-12-01 : 2023-12-01 : Changes from 2023-12-01 : 2023-12-01
 1 2023-12-01
@@ -2458,6 +2465,15 @@ _ 2023.02.09
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
 
+~thoughts/toki-pona-section : Toki Pona Section : Toki Pona Section : 2023-12-08
+1 Toki Pona Section
+_ 2023.12.08
+& Since I am trying to take my learning toki pona seriously, I've created a [l:tokipona|new section on my site for it]!
+& I will only be writing in toki pona on the pages of that section. I am also using the [l:http://musilili.net/linja-pona/|linja pona font] to display toki pona in [l:https://jan-ne.github.io/tp/sp|sitelen pona]. This would probably look weird in a RSS feed because sometimes you use hyphens and brackets and things to display compound glyphs, so I've excluded it from my RSS feed. At some point I may create a separate toki pona feed that cleans it up a bit, for those that want to follow it. I also didn't want to bog down my RSS feed with a language people may not know.
+& I have only added one page so far, which is where I will keep my toki pona haiku: [l:tokipona/sitelen-musi-lili|sitelen musi lili].
+& I am still learning toki pona, so if anyone reading this has some suggestions on my writing, please [l:mailto:0xdstn@protonmail.com|reach out] and let me know so I can learn from it.
+* [o:027]
+
 ~thoughts/update-20231207 : Update 2023-12-07 : Update 2023-12-07 : 2023-12-07
 1 Update 2023-12-07
 _ 2023.12.07
@@ -2839,3 +2855,15 @@ _ 2023.08.17
 & I decided to add this thoughts section to my site for more unstructured posts. I will be starting [l:https://100daystooffload.com|100 Days to Offload] on [b:September 1st, 2023]. This decision was inspired by [l:https://oldbytes.space/@82mhz/110866819383239430|82mhz's post] saying he is doing it and inviting others to join in.
 & All of my [b:#100DaysToOffload] posts will be in this thoughts section.
 ? [f:100daystooffload]
+
+~tokipona/index : Toki Pona : A collection of posts written in toki pona : 2023-12-08
+1 [t:toki-pona] 
+& [t:toki!]
+& [t:lipu ni jo e lipu pi toki pona. mi pakala tan mi kama sona e toki pona. pona la o toki e mi tan pakala.]
+? [d:tokipona]
+
+~tokipona/sitelen-musi-lili : sitelen musi lili : toki pona la sitelen musi lili : 2023-12-08
+1 [t:sitelen musi lili]
+_ toki pona haiku
+2 [t:telo sewi]
+> [t:telo sewi o<br>telo mute lon ale<br>kasi li pona]

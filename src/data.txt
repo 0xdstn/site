@@ -39,11 +39,19 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2023-12-12 : 2023-12-12 : Changes from 2023-12-12 : 2023-12-12
+1 2023-12-12
+- [e:green] Added new thought: [l:thoughts/update-20231212|Update 2023-12-12]
+
 ~changelog/2023-12-08 : 2023-12-08 : Changes from 2023-12-08 : 2023-12-08
 1 2023-12-08
 - [e:green] Added new thought: [l:thoughts/toki-pona-section|Toki Pona Section]
 - [e:green] Added new section: [l:tokipona|Toki Pona]
 - [e:green] Added new toki pona page: [l:tokipona/sitelen-musi-lili|sitelen musi lili]
+
+~changelog/2023-12-07 : 2023-12-07 : Changes from 2023-12-07 : 2023-12-07
+1 2023-12-07
+- [e:green] Added new thought: [l:thoughts/update-20231207|Update 2023-12-07]
 
 ~changelog/2023-12-01 : 2023-12-01 : Changes from 2023-12-01 : 2023-12-01
 1 2023-12-01
@@ -2464,6 +2472,21 @@ _ 2023.02.09
 1 Thoughts 
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
+
+~thoughts/update-20231212 : Update 2023-12-12 : Update 2023-12-12 : 2023-12-12
+1 Update 2023-12-12
+_ 2023.12.12
+2 SQL Murder Mystery
+& I was linked to this [l:https://mystery.knightlab.com/|SQL Murder Mystery] challenge and it was really fun! It was a good combination of not too challenging, but also not boring. It didn't take me longer than half an hour (probably not even that) to solve it. You don't have to know a ton of SQL to solve it, just the basics will do, so if you're into that kind of thing you should try it out!
+2 Secret Satan + Work
+& As I mentioned before, I'm listening to [l:https://www.ruritania.co.uk/stories|The Christmas Stories Podcast], which is currently running a season called [b:Secret Satan]. It's a workplace murder mystery, and I've found it really entertaining!
+& It all hits close to home because they work in a large company, characters that are backend developers, frontend developers, designers, etc. It often dives into how soul crushing and terrible working in a large corporation can be. In [l:https://soundcloud.com/ruritania/secret-satan-episode-12|today's episode] it went on a little rant about how due to capitalism, we work because we have to, not because we want to, and how we work with all these people that we probably wouldn't choose to know outside the corporate setting. It made me think of my [l:thoughts/work-focus|previous post on work focus] where I talked about not feeling motivated at work and wanting to be doing other things, like making art.
+& Even if you do a job that is something you enjoy (such as writing code), the corporate setting where you're building someone else's dream is the problem. We rarely care about the actual product we're building in the sense that we wouldn't be building it if someone else wasn't paying us to. Even if you like to code, it's [i:what] you're coding that defines if it's enjoyable or not.
+& I really enjoy making little apps for myself, and I tolerate making apps for a company.
+& I don't mean to imply that I'm not happy at my job. I am. I am grateful that I have it. It's very flexible, fairly low stress, and pays well. I wouldn't want to be somewhere else, but I can also acknowledge the feelings that capitalism is terrible and we are all just putting so much energy into something that we don't truly want to be doing.
+2 Advent of code
+& Guess I'm done with this, as I just kind of quit trying. I made it through day 6, minus part 2 of day 5. Maybe I'll get farther next year lol It's fun while it lasts though, and that's always my goal with it. I only want to do it as long as it's fun, and stop when I no longer care to do it without feeling bad for quitting.
+* [o:028]
 
 ~thoughts/toki-pona-section : Toki Pona Section : Toki Pona Section : 2023-12-08
 1 Toki Pona Section

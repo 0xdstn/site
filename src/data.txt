@@ -32,12 +32,20 @@
 1 Feeds
 & This is my [l:https://marcus.io/blog/making-rss-more-visible-again-with-slash-feeds|feeds page], where you can find a list of RSS feeds for my content.
 - [l:index.xml|Main feed]
+- [l:tokipona.xml|toki pona feed]
 - [l:changelog.xml|Changelog feed]
 
 ~changelog/index : Changelog : A changelog for this site : 2023-04-17
 1 Changelog
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
+
+~changelog/2023-12-18 : 2023-12-18 : Changes from 2023-12-18 : 2023-12-18
+1 2023-12-18
+- [e:yellow] Added [l:tokipona.xml|toki pona feed] to the [l:feeds|Feeds] page
+- [e:green] Added new thought: [l:thoughts/technology-usage|Technology Usage]
+- [e:green] Added new thought: [l:thoughts/2024-plans|2024 plans]
+- [e:green] Added new thought: [l:thoughts/update-20231218|Update 2023-12-18]
 
 ~changelog/2023-12-12 : 2023-12-12 : Changes from 2023-12-12 : 2023-12-12
 1 2023-12-12
@@ -2473,6 +2481,61 @@ _ 2023.02.09
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
 
+~thoughts/update-20231218 : Update 2023-12-18 : Update 2023-12-18 : 2023-12-18
+1 Update 2023-12-18
+_ 2023.12.18
+2 Toki pona
+& I have switched my [l:tokipona|toki pona section] to no longer use the sitelen pona font. I decided that others may not have decided to learn sitelen pona, so I would prefer it's more accessible to all toki pona speakers.
+& I also added a [l:tokipona.xml|RSS feed for the toki pona section], so people who are interested in toki pona can follow that specifically.
+& I've been doing anki cards daily for a few weeks now, and it's going great! I've learned a few new words that I struggled to learn before. I have also had an interesting shift happen where I have a kind of recognition for words as opposed to translating them in my mind. So for instance I see "soweli" and don't think "An animal/mammal" I just know what it means. I feel like this is the next step of fluency, which is exciting!
+2 Knowledge Management
+& I've tried many different knowledge management systems / note taking systems and I always end up not sticking with things for one reason or another. A lot of times I try to use something like Obsidian, and go into a mode where I try to cut out everything that isn't open source and just use my own note taking systems, etc. I also have this site, but I want something more personal. This is my plan:
+& I will start using [l:https://obsidian.md/|Obsidian] to take notes on various topics (such as my [l:thoughts/2024-plans#Quarterly focus|quarterly focus topics]). I will probably also transcribe some of my notes either to this site, or to my physical books (Bullet Journal and/or Book of Shadows). I am also going to try to take daily notes so that I can have a history of the things I've read and looked into.
+& I am hoping this will be a good way to help gain value from my focus for each quarter.
+2 Winter break
+& I have winter break coming up in a few days, and I will be completely offline during that time. It will be from December 21, 2023 to January 2, 2024. I am going to write a few posts this week (or more likely just today), that way I am caught up with 100DaysToOffload and can go into the new year ready to continue on that without being behind.
+& I hope you all have a wonderful holiday season and I'll see you all in the new year!
+* [o:031]
+
+~thoughts/2024-plans : 2024 Plans : 2024 Plans : 2023-12-18
+1 2024 Plans
+_ 2023.12.18
+& I want to have some major personal growth next year. I have a few ideas about how I want to do this, but here are some ideas:
+2 Quarterly focus
+& I'm considering setting a focus for each quarter around something I'd like to learn more about. Here is a rough plan:
+- Q1 (JAN-MAR): Witchcraft
+- Q2 (APR-JUN): Buddhism
+- Q3 (JUL-SEP): Bug Bounty
+- Q4 (OCT-DEC): Writing
+& I'm not going to hold myself to these in the sense that I won't learn about anything else during those months, but I'd like to have a more focused plan for learning about specific topics.
+& I will also adjust them if I don't feel like doing one in a particular quarter. It'll be a work in progress as I go.
+& I will also continue learning about other topics throughout these, such as art, nature, etc.
+& As I learn about these things, I will be taking notes in [l:https://obsidian.md/|Obsidian] and sometimes transcribe the notes to this site or my physical notebooks (Bullet Journal and/or Book of Shadows).
+2 Reading
+& As I mentioned in my [l:thoughts/reading-goals|previous post about reading goals], I decided this year to switch to my own [l:books|book tracking system] and not set a goal for myself.
+& With this shift, I ended up not reading very many. If I don't finish anything else in the next two weeks, I will have read 16 books, which is the lowest amount I've ever read since before 2019.
+& I like the fact that I'm managing my books with my own system, so I will keep that up, however I don't like how I did not prioritize reading. While reading goals can cause me to read a bunch of small things to hit the goal, at least I was reading. I just simply have not read as much as I'd like this year.
+& I have decided that in 2024 I will set a goal again. I am going to set it to 30, which I know I can hit, and may even exceed.
+& I am hoping that this will motivate me to read more again, as I'm pretty disappointed with the amount of books I've read this year. This will also hopefully help me abandon books I'm not really into, which has been a challenge for me in the past. If I am not reading something, maybe I'm not actually interested in it and I should switch to something more interesting.
+& I'm looking forward to 2024 being another reading year, as the last few years have been prior to 2023.
+2 Art
+& I tend to get in my own way with art, expecting myself to sit down and do something detailed and focused every time. I would like to switch to doing this sometimes, but mostly just drawing quick things every day. I've tried this before, but I'm going to give it a go again, with a healthier mindset. I will not expect myself to draw every single day, but I will still challenge myself to do it as many days as I can, and get close to every day. I will do a small drawing with a fountain pen of something in my life. It doesn't have to be detailed or painted or written about or laid out in a fancy way. I just want to draw little glimpses of my days.
+& A huge inspiration for this is the Instagram account [l:https://www.instagram.com/carnetsbruns/|carnetsbruns]. They post weekly collections of small and messy ink drawings from life. I'd like to do the same. I will plan to post them in groups (probably not exactly every week though) in my [l:art|art section].
+2 Health
+& I really need to get my health under control, so I will work on making small changes ([l:https://en.wikipedia.org/wiki/Kaizen|Kaizen style]). I want to get in a habit of doing low impact physical activity daily and making more mindful choices about what I eat and how much I eat. I may try [l:https://en.wikipedia.org/wiki/Intermittent_fasting|intermittent fasting] and cutting down sugar again. Both of those have helped me with weight management in the past, as well as making me feel better in general.
+& I am hoping to make 2024 a great year!
+* [o:030]
+
+~thoughts/technology-usage : Technology Usage : Technology Usage : 2023-12-18
+1 Technology Usage
+& I have long struggled with balancing [b:privacy] and [b:convenience]. In an ideal world, I would only use software that is open source and does not track me or have ads. In practice, this is not an easy feat by any means. I have gone through times of attempting to switch everything I use to more privacy conscious and/or FOSS alternatives. Some open source software is great, but some things require so many hoops and a certain level of lost productivity in order to use it over an alternative owned by a company such as Google.
+& I don't want to make privacy my identity, but I would like to specifically choose better options if they work well for me. If they don't, I will use what does, even if it's a system owned by a large corporation.
+& For instance, I am once again using Google Keep for notes on my phone. I have notes saved elsewhere, digitally and physically, but for easy notes without the risk of losing them if my phone dies, I will use Keep.
+& Another thing I've previously tried to abandon, but it's not worth the struggle, is Dropbox and Enpass. I use Dropbox to manage my Enpass vault, and it all just [i:works]. I don't want to struggle with nextcloud and keepass or something similar for very little privacy gain. I will use what works.
+& Because of Dropbox, I've also tended to stay away from Obsidian, but I've decided I would like to use that again for research and getting things down to be filtered into other places (this site, physical bullet journal, physical book of shadows, etc). I think it will work really well for me, and that's what I need, not extra stress of using something subpar or trying to build and manage my own.
+& I know this may not be a popular opinion amongst the people who read my site, but it is what works for me and I value my time more than my ideals when it comes to what technology I use. That doesn't mean that I will just mindlessly accept whatever is available though. I will always carefully pick what technologies I use. Sometimes I will build my own, sometimes I'll select something FOSS, sometimes I'll go with an application owned by a corporation because it works for me and saves me a lot of time and stress.
+* [o:029]
+
 ~thoughts/update-20231212 : Update 2023-12-12 : Update 2023-12-12 : 2023-12-12
 1 Update 2023-12-12
 _ 2023.12.12
@@ -2880,13 +2943,13 @@ _ 2023.08.17
 ? [f:100daystooffload]
 
 ~tokipona/index : Toki Pona : A collection of posts written in toki pona : 2023-12-08
-1 [t:toki-pona] 
-& [t:toki!]
-& [t:lipu ni jo e lipu pi toki pona. mi pakala tan mi kama sona e toki pona. pona la o toki e mi tan pakala.]
+1 toki pona]
+& toki!
+& lipu ni jo e lipu pi toki pona. mi pakala tan mi kama sona e toki pona. pona la o toki e mi tan pakala.
 ? [d:tokipona]
 
 ~tokipona/sitelen-musi-lili : sitelen musi lili : toki pona la sitelen musi lili : 2023-12-08
-1 [t:sitelen musi lili]
+1 sitelen musi lili
 _ toki pona haiku
-2 [t:telo sewi]
-> [t:telo sewi o<br>telo mute lon ale<br>kasi li pona]
+2 telo sewi
+> telo sewi o<br>telo mute lon ale<br>kasi li pona

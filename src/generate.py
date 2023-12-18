@@ -353,6 +353,8 @@ def createPage(fileName, section, pg):
         data[section][pg]["LINK"] = 'https://0xdstn.site/' + section + '/' + pg
         if section == "changelog" and page != 'index':
             xmlItemsChangelog[data[section][pg]["DATE"]+"_"+pg] = data[section][pg]
+        if section == "tokipona" and page != 'index':
+            xmlItemsToki[data[section][pg]["DATE"]+"_"+pg] = data[section][pg]
         elif section != "devnull" and section != "tokipona" and page != 'index':
             xmlItems[data[section][pg]["DATE"]+"_"+pg] = data[section][pg]
 
@@ -391,6 +393,7 @@ def parseData(df):
 
 xmlItems = {}
 xmlItemsChangelog = {}
+xmlItemsToki = {}
 data = {}
 curSection = ""
 curPage = ""
@@ -452,7 +455,7 @@ xmlOutput += '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:
 xmlOutput += '  <channel>\n'
 xmlOutput += '    <title>0xdstn</title>\n'
 xmlOutput += '    <link>https://0xdstn.site' + basePath + '</link>\n'
-xmlOutput += '    <description>Dustin, Software Engineer from Spokane, WA</description>\n'
+xmlOutput += '    <description>~dustin</description>\n'
 xmlOutput += '    <language>en-us</language>\n'
 xmlOutput += '    <atom:link href="https://0xdstn.site' + basePath + 'index.xml" rel="self" type="application/rss+xml" />\n'
 
@@ -485,9 +488,9 @@ xmlKeysChangelog.sort()
 
 xmlOutputChangelog += '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content">\n'
 xmlOutputChangelog += '  <channel>\n'
-xmlOutputChangelog += '    <title>~dustin Changelog</title>\n'
+xmlOutputChangelog += '    <title>0xdstn Changelog</title>\n'
 xmlOutputChangelog += '    <link>https://0xdstn.site' + basePath + '/changelog</link>\n'
-xmlOutputChangelog += '    <description>Dustin, Software Engineer from Spokane, WA</description>\n'
+xmlOutputChangelog += '    <description>0xdstn</description>\n'
 xmlOutputChangelog += '    <language>en-us</language>\n'
 xmlOutputChangelog += '    <atom:link href="https://0xdstn.site' + basePath + 'changelog.xml" rel="self" type="application/rss+xml" />\n'
 
@@ -498,7 +501,7 @@ for i in xmlKeysChangelog:
     xmlOutputChangelog += '        <title>' + item["NAME"] + '</title>\n'
     xmlOutputChangelog += '        <link>' + item["LINK"] + '</link>\n'
     xmlOutputChangelog += '        <guid>' + item["LINK"] + '</guid>\n'
-    xmlOutputChangelog += '        <dc:creator>~dustin</dc:creator>\n'
+    xmlOutputChangelog += '        <dc:creator>0xdstn</dc:creator>\n'
     xmlOutputChangelog += '        <pubDate>' + d.strftime("%a, %d %b %Y %H:%M:%S %z") + '</pubDate>\n'
     xmlOutputChangelog += '        <description>' + item["DESC"] + '</description>\n'
     xmlOutputChangelog += '        <content:encoded>' + html.escape(item["RENDERED"]) + '</content:encoded>\n'
@@ -509,4 +512,39 @@ xmlOutputChangelog += '</rss>'
 
 f = open(outPath + "changelog.xml", "w")
 f.write(xmlOutputChangelog)
+f.close()
+
+xmlOutputToki = ""
+xmlKeysToki = []
+for i in xmlItemsToki:
+    xmlKeysToki.append(i)
+
+xmlKeysToki.sort()
+
+xmlOutputToki += '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content">\n'
+xmlOutputToki += '  <channel>\n'
+xmlOutputToki += '    <title>0xdstn - toki pona</title>\n'
+xmlOutputToki += '    <link>https://0xdstn.site' + basePath + '/tokipona</link>\n'
+xmlOutputToki += '    <description>0xdstn</description>\n'
+xmlOutputToki += '    <language>en-us</language>\n'
+xmlOutputToki += '    <atom:link href="https://0xdstn.site' + basePath + 'tokipona.xml" rel="self" type="application/rss+xml" />\n'
+
+for i in xmlKeysToki:
+    item = xmlItemsToki[i]
+    d = datetime.datetime.strptime(item["DATE"], '%Y-%m-%d')
+    xmlOutputToki += '      <item>\n'
+    xmlOutputToki += '        <title>' + item["NAME"] + '</title>\n'
+    xmlOutputToki += '        <link>' + item["LINK"] + '</link>\n'
+    xmlOutputToki += '        <guid>' + item["LINK"] + '</guid>\n'
+    xmlOutputToki += '        <dc:creator>~dustin</dc:creator>\n'
+    xmlOutputToki += '        <pubDate>' + d.strftime("%a, %d %b %Y %H:%M:%S %z") + '</pubDate>\n'
+    xmlOutputToki += '        <description>' + item["DESC"] + '</description>\n'
+    xmlOutputToki += '        <content:encoded>' + html.escape(item["RENDERED"]) + '</content:encoded>\n'
+    xmlOutputToki += '      </item>\n'
+
+xmlOutputToki += '  </channel>\n'
+xmlOutputToki += '</rss>'
+
+f = open(outPath + "tokipona.xml", "w")
+f.write(xmlOutputToki)
 f.close()

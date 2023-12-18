@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:content="http://purl.org/rss/1.0/modules/content">
+  <channel>
+    <title>0xdstn - toki pona</title>
+    <link>https://0xdstn.site//tokipona</link>
+    <description>0xdstn</description>
+    <language>en-us</language>
+    <atom:link href="https://0xdstn.site/tokipona.xml" rel="self" type="application/rss+xml" />
+      <item>
+        <title>sitelen musi lili</title>
+        <link>https://0xdstn.site/tokipona/sitelen-musi-lili</link>
+        <guid>https://0xdstn.site/tokipona/sitelen-musi-lili</guid>
+        <dc:creator>~dustin</dc:creator>
+        <pubDate>Fri, 08 Dec 2023 00:00:00 </pubDate>
+        <description>toki pona la sitelen musi lili</description>
+        <content:encoded>&lt;h1&gt; sitelen musi lili&lt;/h1&gt;&lt;p&gt;&lt;em&gt;toki pona haiku&lt;/em&gt;&lt;/p&gt;&lt;h2 id=&quot;telo sewi&quot;&gt;telo sewi&lt;/h2&gt;&lt;blockquote&gt;telo sewi o&lt;br&gt;telo mute lon ale&lt;br&gt;kasi li pona&lt;/blockquote&gt;</content:encoded>
+      </item>
+  </channel>
+</rss>

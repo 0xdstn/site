@@ -40,6 +40,11 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2024-01-02 : 2024-01-02 : Changes from 2024-01-02 : 2024-01-02
+1 2024-01-02
+- [e:yellow] Updated [l:wiki/witchcraft/water#Moon Water|Moon Water] notes
+- [e:green] Added new thought: [l:thoughts/moon-planning|Moon Planning]
+
 ~changelog/2023-12-18 : 2023-12-18 : Changes from 2023-12-18 : 2023-12-18
 1 2023-12-18
 - [e:yellow] Added [l:tokipona.xml|toki pona feed] to the [l:feeds|Feeds] page
@@ -600,6 +605,9 @@
 2 Moon Water
 & You can leave a container of water out on a full moon, and it will absorb energy from the moon. The moon water can be used to cleanse magical items.
 & A mason jar works well as it has a lid and is transparent so the moon light can shine through the container.
+& Consume moon water first thing in the morning on an empty stomach. You can also use it to make tea.
+& You can water plants with it. No need to exclusively water the plant with the water, just give it a few tablespoons every once in a while to allow it to gain some of that energy.
+& Even though it's best during the full moon, you can make moon water on any night the moon can be seen. Do not, however, make it on the night of an eclipse. This will result in the water absorbing negative energy.
 
 ~wiki/witchcraft/tarot : Tarot : Notes related to tarot : 2023-08-01
 1 Tarot
@@ -2480,6 +2488,18 @@ _ 2023.02.09
 1 Thoughts 
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
+
+~thoughts/moon-planning : Moon Planning : Moon Planning : 2024-01-02
+1 Moon Planning
+_ 2024.01.02
+& I last wrote in my [l:thoughts/2024-plans|2024 plans] post that I was thinking of focusing on something each quarter (buddhism, witchcraft, etc). I've thought about it since and I have a new plan - set a focus for each moon cycle. This will allow me to switch it up more often (there are 12 full cycles this year). The new moon is a time for planning, and you can harness the moon's energy by setting intentions during a new moon. 
+& This also opens it up so I have check in points (first quarter, full, and last quarter), where I can assess how I'm doing and make sure I'm staying on track.
+& When each new moon comes around I will reflect on the previous cycle, and determine the focus for the next cycle.
+& The first full moon is on January 11th, so I am going to spend this time planning exactly how these rituals will look, and determine what I want my first cycle's focus to be.
+& In addition to setting a focus and checking in on my progress of it on each moon phase, I am going to try out doing a personal reflection with every phase, to give myself a scheduled time to reflect on how things are going in general and make changes.
+& These are the new moons this year:
+& 01/11, 02/09, 03/10, 04/08, 05/07, 06/06, 07/05, 08/04, 09/02, 10/02, 11/01, 11/30, 12/30
+* [o:32]
 
 ~thoughts/update-20231218 : Update 2023-12-18 : Update 2023-12-18 : 2023-12-18
 1 Update 2023-12-18

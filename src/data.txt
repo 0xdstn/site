@@ -40,6 +40,10 @@
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2024-01-03 : 2024-01-03 : Changes from 2024-01-03 : 2024-01-03
+1 2024-01-03
+- [e:green] Added new post: [l:writing/without|Without]
+
 ~changelog/2024-01-02 : 2024-01-02 : Changes from 2024-01-02 : 2024-01-02
 1 2024-01-02
 - [e:yellow] Updated [l:wiki/witchcraft/water#Moon Water|Moon Water] notes
@@ -1938,6 +1942,43 @@ T NAME : Landing room
 1 Writing 
 & I write occasionally about things I care about. Below are the ones I've decided to share.
 ? [d:writing]
+
+~writing/without : Without : A year without (or something like that) : 2024-01-03
+1 Without
+_ 2024.01.03
+& I saw a post by [l:https://kevquirk.com|Kev Quirk] about "living without" and it ended up being a chain of posts based on other posts, so I read them all, including all the recap posts for the various experiments. These are the posts (in order of publish, oldest to newest, recaps are linked within the respective posts):
+- [l:https://zenhabits.net/without/|A Year of Living Without] by zen habits
+- [l:https://manuelmoreale.com/without|My year of living without] by Manu
+- [l:https://manuelmoreale.com/yet-another-year-of-living-without|Yet another year of living without] by Manu
+- [l:https://kevquirk.com/one-month-without|One Month Without] by Kev Quirk
+& There is a lot of interesting information throughout these posts. It got me thinking of some things I'd like to try out. I don't know that I want to go the Manu route and give up a couple things for a whole year. I also don't know that I want to do the giving up something every month thing, but I do want to work on cutting some things out and changing how I consume other things.
+2 Coffee
+& This is a difficult one for me. I hated coffee for years, and in my early 20s, started taking a liking to it. I've since moved into loving coffee, owning multiple manual brewers, and drinking at least a cup a day, but sometimes more. I love coffee, and I do not want to remove it from my life.
+& That being said, I do want to change my relationship with coffee. As of writing this, I am addicted to coffee. Not only that, but I'm specifically addicted to black coffee. Drinking an espresso drink and/or tea does not work for me. Even if I have other drinks, containing the same amount of caffeine, I get a headache and/or don't feel good. Yes that sounds ridiculous, because it is.
+& I do not want to give up coffee entirely, but I would like to give up my addiction to it, and also make it something that I enjoy in the moment, not just something I consume every day. 
+& Previously I exclusively drank tea before starting on coffee. I still love tea. Tea never gave me side effects when I didn't have any, and I feel better in general after drinking tea vs coffee. I would like to drink a tea each morning, and have coffee occasionally as a treat, not as a daily habit.
+& My plan is to slowly wean myself off of coffee so I no longer feel like I need it every day. I'll do this by lowering the amount I drink each day, and when I'm comfortable moving on to skipping days, until I've gotten through the withdrawal. At the same time I will start making a tea every morning, which should help some as I will still get caffeine.
+& Some benefits once I've succeeded in this will be:
+- Making tea is much easier for me than making coffee, as there is a lot of setup and cleanup with my coffee making ritual, so I will be able to have a tea even if I'm pressed for time.
+- I miss drinking tea and I think it will be a calming, enjoyable activity, even if I'm doing it every day. I'll do my best to make a moment of it instead of just taking it on the go. I view this as more of a ritual vs a habit.
+- I will be able to have coffee sometimes as a nice drink, and thus enjoy it more when I do have it.
+2 Sugar
+& A year or so ago my wife and I decided to go no sugar. I avoided foods with added sugars, tried to eat foods with less natural sugar when possible, and ate no sweets at all. This was great for both of us. I felt much better, lost a few pounds, no longer craved sweets, and could even notice the sugar content in foods like fruit, so things tasted better.
+& I will be doing something similar, but not as intense. I will actively work on selecting foods with a low or no sugar content, avoid foods with added sugar, and only have sweets as a small treat. This means not having a giant slice of cake, or multiple cookies, but truly enjoying a piece of dark chocolate. I want my sweet consumption to be small treats that I'm fully present in enjoying, as opposed to just flying through large desserts, making myself sick and not truly enjoying it.
+2 Misc changes
+& Those are the main two things I will be doing, but I have some other things I am starting up as well:
+- [b:Fasting:] This has helped me in the past by preventing me from eating late at night, eating too much, and making unhealthy choices because I don't have time in the morning. I will make a good effort to fast at least 16 hours each day, but I will also allow myself to break it if it makes life much more difficult (like if my family is going out to breakfast or something).
+- [b:Meat and dairy:] Red meat and specifically dairy don't usually sit well with my stomach. I know that being vegan or vegetarian will not be possible with my current life, and I'm okay with that. I will, however, actively choose to limit these things in my diet. I will serve myself less meat and more vegetables when putting food on plates for dinner. I will choose to eat vegetarian when eating on my own, which is usually the case for breakfast and lunch. If I can opt to not have something or substitute something, without making my own food entirely while others have something else, I'll do that.
+- [b:Sitting:] I know sitting is bad for me and I do a lot of it. I already decided that every day I am in the office (weather and other things permitting) I will take a lunch walk. I will also start switching my desk to standing mode at work more often, and work at the counter more when at home.
+2 Recap
+& I know this sounds like a lot, but really the coffee is the difficult/new thing here. I will easily be able to jump in to limiting sugar/meat/dairy in my diet, fasting again, and sitting less. These are just going to be things I have decided so I will do every day, while going easy on myself when I'm not doing perfectly. As long as I continue and do my best, that will be enough and they will turn into habits I don't even need to try to achieve.
+& So these are the things I will be doing:
+- Breaking my coffee habit/starting a tea ritual
+- Limit sugar in my diet
+- Limit meat and dairy in my diet
+- Go on lunch walks
+- Work standing when possible
+* [o:33]
 
 ~writing/on-art : On Art : Thoughts on creating art : 2023-05-04
 1 On Art

@@ -1962,6 +1962,8 @@ _ 2024.01.03
 - Making tea is much easier for me than making coffee, as there is a lot of setup and cleanup with my coffee making ritual, so I will be able to have a tea even if I'm pressed for time.
 - I miss drinking tea and I think it will be a calming, enjoyable activity, even if I'm doing it every day. I'll do my best to make a moment of it instead of just taking it on the go. I view this as more of a ritual vs a habit.
 - I will be able to have coffee sometimes as a nice drink, and thus enjoy it more when I do have it.
+- I won't drink coffee I don't like when I'm in a rush, just for the sake of having coffee.
+- I will likely drink more water. When I go to pick up a drink, I'll have water available instead of coffee.
 2 Sugar
 & A year or so ago my wife and I decided to go no sugar. I avoided foods with added sugars, tried to eat foods with less natural sugar when possible, and ate no sweets at all. This was great for both of us. I felt much better, lost a few pounds, no longer craved sweets, and could even notice the sugar content in foods like fruit, so things tasted better.
 & I will be doing something similar, but not as intense. I will actively work on selecting foods with a low or no sugar content, avoid foods with added sugar, and only have sweets as a small treat. This means not having a giant slice of cake, or multiple cookies, but truly enjoying a piece of dark chocolate. I want my sweet consumption to be small treats that I'm fully present in enjoying, as opposed to just flying through large desserts, making myself sick and not truly enjoying it.
@@ -1978,7 +1980,7 @@ _ 2024.01.03
 - Limit meat and dairy in my diet
 - Go on lunch walks
 - Work standing when possible
-* [o:33]
+* [o:033]
 
 ~writing/on-art : On Art : Thoughts on creating art : 2023-05-04
 1 On Art
@@ -2540,7 +2542,7 @@ _ 2024.01.02
 & In addition to setting a focus and checking in on my progress of it on each moon phase, I am going to try out doing a personal reflection with every phase, to give myself a scheduled time to reflect on how things are going in general and make changes.
 & These are the new moons this year:
 & 01/11, 02/09, 03/10, 04/08, 05/07, 06/06, 07/05, 08/04, 09/02, 10/02, 11/01, 11/30, 12/30
-* [o:32]
+* [o:032]
 
 ~thoughts/update-20231218 : Update 2023-12-18 : Update 2023-12-18 : 2023-12-18
 1 Update 2023-12-18

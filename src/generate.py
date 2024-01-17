@@ -353,7 +353,7 @@ def createPage(fileName, section, pg):
         data[section][pg]["LINK"] = 'https://0xdstn.site/' + section + '/' + pg
         if section == "changelog" and page != 'index':
             xmlItemsChangelog[data[section][pg]["DATE"]+"_"+pg] = data[section][pg]
-        if section == "tokipona" and page != 'index':
+        elif section == "tokipona" and page != 'index':
             xmlItemsToki[data[section][pg]["DATE"]+"_"+pg] = data[section][pg]
         elif section != "devnull" and section != "tokipona" and page != 'index':
             xmlItems[data[section][pg]["DATE"]+"_"+pg] = data[section][pg]
@@ -468,7 +468,7 @@ for i in xmlKeys:
     xmlOutput += '        <guid>' + item["LINK"] + '</guid>\n'
     xmlOutput += '        <dc:creator>~dustin</dc:creator>\n'
     xmlOutput += '        <pubDate>' + d.strftime("%a, %d %b %Y %H:%M:%S %z") + '</pubDate>\n'
-    xmlOutput += '        <description>' + item["DESC"] + '</description>\n'
+    xmlOutput += '        <description><![CDATA[' + item["RENDERED"] + ']]></description>\n'
     xmlOutput += '        <content:encoded>' + html.escape(item["RENDERED"]) + '</content:encoded>\n'
     xmlOutput += '      </item>\n'
 
@@ -503,7 +503,7 @@ for i in xmlKeysChangelog:
     xmlOutputChangelog += '        <guid>' + item["LINK"] + '</guid>\n'
     xmlOutputChangelog += '        <dc:creator>0xdstn</dc:creator>\n'
     xmlOutputChangelog += '        <pubDate>' + d.strftime("%a, %d %b %Y %H:%M:%S %z") + '</pubDate>\n'
-    xmlOutputChangelog += '        <description>' + item["DESC"] + '</description>\n'
+    xmlOutputChangelog += '        <description><![CDATA[' + item["RENDERED"] + ']]></description>\n'
     xmlOutputChangelog += '        <content:encoded>' + html.escape(item["RENDERED"]) + '</content:encoded>\n'
     xmlOutputChangelog += '      </item>\n'
 
@@ -538,7 +538,7 @@ for i in xmlKeysToki:
     xmlOutputToki += '        <guid>' + item["LINK"] + '</guid>\n'
     xmlOutputToki += '        <dc:creator>~dustin</dc:creator>\n'
     xmlOutputToki += '        <pubDate>' + d.strftime("%a, %d %b %Y %H:%M:%S %z") + '</pubDate>\n'
-    xmlOutputToki += '        <description>' + item["DESC"] + '</description>\n'
+    xmlOutputToki += '        <description><![CDATA[' + item["RENDERED"] + ']]></description>\n'
     xmlOutputToki += '        <content:encoded>' + html.escape(item["RENDERED"]) + '</content:encoded>\n'
     xmlOutputToki += '      </item>\n'
 

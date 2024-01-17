@@ -11,7 +11,7 @@
         <guid>https://0xdstn.site/changelog/2023-04-17</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Mon, 17 Apr 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-04-17</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-04-17</h1><ul><li> <span class="emoji">&#129001;</span> Added this changelog!</li><li> <span class="emoji">&#129001;</span> Added emoji for sections</li><li> <span class="emoji">&#129000;</span> Simplified the <a href="/">homepage</a></li><li> <span class="emoji">&#129000;</span> Updated the <a href="/hello">hello page</a>, removed defcon.social mastodon account reference</li><li> <span class="emoji">&#128997;</span> Removed the now page and then section, it wasn't serving me much purpose</li><li> <span class="emoji">&#128997;</span> Removed the feeds page, as it was just one feed and probably won't change</li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-04-17&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added this changelog!&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added emoji for sections&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Simplified the &lt;a href=&quot;/&quot;&gt;homepage&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Updated the &lt;a href=&quot;/hello&quot;&gt;hello page&lt;/a&gt;, removed defcon.social mastodon account reference&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#128997;&lt;/span&gt; Removed the now page and then section, it wasn&#x27;t serving me much purpose&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#128997;&lt;/span&gt; Removed the feeds page, as it was just one feed and probably won&#x27;t change&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -20,7 +20,7 @@
         <guid>https://0xdstn.site/changelog/2023-04-18</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Tue, 18 Apr 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-04-18</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-04-18</h1><ul><li> <span class="emoji">&#129001;</span> Added an <a href="/changelog.xml">RSS feed</a> for the <a href="/changelog">changelog</a></li><li> <span class="emoji">&#129001;</span> Added the <a href="/feeds">feeds</a> page back in since I now have two</li><li> <span class="emoji">&#129000;</span> Switched back to a light theme</li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-04-18&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added an &lt;a href=&quot;/changelog.xml&quot;&gt;RSS feed&lt;/a&gt; for the &lt;a href=&quot;/changelog&quot;&gt;changelog&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added the &lt;a href=&quot;/feeds&quot;&gt;feeds&lt;/a&gt; page back in since I now have two&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Switched back to a light theme&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -29,7 +29,7 @@
         <guid>https://0xdstn.site/changelog/2023-05-04</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Thu, 04 May 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-05-04</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-05-04</h1><ul><li> <span class="emoji">&#129001;</span> Added new post: <a href="/writing/on-art">On Art</a></li><li> <span class="emoji">&#129000;</span> Updated coffee equipment and added grind size  on trhe <a href="/wiki/coffee">coffee page</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-05-04&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new post: &lt;a href=&quot;/writing/on-art&quot;&gt;On Art&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Updated coffee equipment and added grind size  on trhe &lt;a href=&quot;/wiki/coffee&quot;&gt;coffee page&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -38,7 +38,7 @@
         <guid>https://0xdstn.site/changelog/2023-05-09</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Tue, 09 May 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-05-09</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-05-09</h1><ul><li> <span class="emoji">&#129001;</span> Added new project: <a href="/projects/traveler">The Traveler</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-05-09&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new project: &lt;a href=&quot;/projects/traveler&quot;&gt;The Traveler&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -47,7 +47,7 @@
         <guid>https://0xdstn.site/changelog/2023-05-12</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Fri, 12 May 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-05-12</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-05-12</h1><ul><li> <span class="emoji">&#129001;</span> Added new wiki page: <a href="/wiki/witchcraft">Witchcraft</a></li><li> <span class="emoji">&#129000;</span> Fixed hidden webring icon, which was lost when switching to light theme.</li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-05-12&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/wiki/witchcraft&quot;&gt;Witchcraft&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Fixed hidden webring icon, which was lost when switching to light theme.&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -56,7 +56,7 @@
         <guid>https://0xdstn.site/changelog/2023-05-24</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Wed, 24 May 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-05-24</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-05-24</h1><ul><li> <span class="emoji">&#129001;</span> Added new wiki page: <a href="/wiki/osint">OSINT</a></li><li> <span class="emoji">&#129001;</span> Added new wiki page: <a href="/wiki/recon">Recon</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-05-24&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/wiki/osint&quot;&gt;OSINT&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/wiki/recon&quot;&gt;Recon&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -65,7 +65,7 @@
         <guid>https://0xdstn.site/changelog/2023-07-06</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Thu, 06 Jul 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-07-06</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-07-06</h1><ul><li> <span class="emoji">&#129001;</span> Added art section: <a href="/art">Art</a></li><li> <span class="emoji">&#129001;</span> Added new art post: <a href="/art/drawing-everyday-class">Drawing Everyday Class</a></li><li> <span class="emoji">&#129001;</span> Added new art post: <a href="/art/waterfowl">Waterfowl</a></li><li> <span class="emoji">&#129001;</span> Added new art post: <a href="/art/7day-challenge-2022">7 Day Challenge 2022</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-07-06&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added art section: &lt;a href=&quot;/art&quot;&gt;Art&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new art post: &lt;a href=&quot;/art/drawing-everyday-class&quot;&gt;Drawing Everyday Class&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new art post: &lt;a href=&quot;/art/waterfowl&quot;&gt;Waterfowl&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new art post: &lt;a href=&quot;/art/7day-challenge-2022&quot;&gt;7 Day Challenge 2022&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -74,7 +74,7 @@
         <guid>https://0xdstn.site/changelog/2023-07-21</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Fri, 21 Jul 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-07-21</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-07-21</h1><ul><li> <span class="emoji">&#129000;</span> Added Raspberry pi apache + php instructions to <a href="/wiki/development/#Set%20up%20Apache%20+%20PHP">Development</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-07-21&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Added Raspberry pi apache + php instructions to &lt;a href=&quot;/wiki/development/#Set%20up%20Apache%20+%20PHP&quot;&gt;Development&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -83,7 +83,7 @@
         <guid>https://0xdstn.site/changelog/2023-07-25</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Tue, 25 Jul 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-07-25</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-07-25</h1><ul><li> <span class="emoji">&#129000;</span> Added Entity Framework commands to <a href="/wiki/development/#Entity%20Framework">Development</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-07-25&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Added Entity Framework commands to &lt;a href=&quot;/wiki/development/#Entity%20Framework&quot;&gt;Development&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -92,7 +92,7 @@
         <guid>https://0xdstn.site/changelog/2023-07-26</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Wed, 26 Jul 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-07-26</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-07-26</h1><ul><li> <span class="emoji">&#129001;</span> Added new recipe: <a href="/recipes/apple-cinnamon-oats">Apple Cinnamon Oats</a></li><li> <span class="emoji">&#129001;</span> Added new wiki page: <a href="/wiki/ebooks">Ebooks</a></li><li> <span class="emoji">&#129000;</span> Updated contact message at bottom of posts to include "RE: Article Title" as the subject. Inspired by <a href="https://ragamuffinjim.github.io/index.html" target="_blank">James D. Morgan</a>'s website, which he apparently got from <a href="https://kevquirk.com/" target="_blank">Kev Quirk</a>.</li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-07-26&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new recipe: &lt;a href=&quot;/recipes/apple-cinnamon-oats&quot;&gt;Apple Cinnamon Oats&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/wiki/ebooks&quot;&gt;Ebooks&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Updated contact message at bottom of posts to include &quot;RE: Article Title&quot; as the subject. Inspired by &lt;a href=&quot;https://ragamuffinjim.github.io/index.html&quot; target=&quot;_blank&quot;&gt;James D. Morgan&lt;/a&gt;&#x27;s website, which he apparently got from &lt;a href=&quot;https://kevquirk.com/&quot; target=&quot;_blank&quot;&gt;Kev Quirk&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -101,7 +101,7 @@
         <guid>https://0xdstn.site/changelog/2023-07-28</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Fri, 28 Jul 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-07-28</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-07-28</h1><ul><li> <span class="emoji">&#129001;</span> Added new wiki page: <a href="/wiki/rss">RSS</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-07-28&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/wiki/rss&quot;&gt;RSS&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -110,7 +110,7 @@
         <guid>https://0xdstn.site/changelog/2023-08-01</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Tue, 01 Aug 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-08-01</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-08-01</h1><ul><li> <span class="emoji">&#129001;</span> Added ability to have subpages</li><li> <span class="emoji">&#129001;</span> Added new wiki category page: <a href="/wiki/infosec">Infosec</a></li><li> <span class="emoji">&#129000;</span> Moved Recon notes to infosec subcategory: <a href="/wiki/infosec/recon">Recon</a></li><li> <span class="emoji">&#129000;</span> Moved OSINT notes to infosec subcategory: <a href="/wiki/infosec/osint">OSINT</a></li><li> <span class="emoji">&#129000;</span> Updated <a href="/wiki/witchcraft">Witchcraft</a> to be a category page</li><li> <span class="emoji">&#129001;</span> Moved magic notes to it's own subpage: <a href="/wiki/witchcraft/magic">Magic</a></li><li> <span class="emoji">&#129001;</span> Moved stones notes to it's own subpage: <a href="/wiki/witchcraft/stones">Stones</a></li><li> <span class="emoji">&#129001;</span> Moved tarot notes to it's own subpage: <a href="/wiki/witchcraft/tarot">Tarot</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-08-01&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added ability to have subpages&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki category page: &lt;a href=&quot;/wiki/infosec&quot;&gt;Infosec&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Moved Recon notes to infosec subcategory: &lt;a href=&quot;/wiki/infosec/recon&quot;&gt;Recon&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Moved OSINT notes to infosec subcategory: &lt;a href=&quot;/wiki/infosec/osint&quot;&gt;OSINT&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Updated &lt;a href=&quot;/wiki/witchcraft&quot;&gt;Witchcraft&lt;/a&gt; to be a category page&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Moved magic notes to it&#x27;s own subpage: &lt;a href=&quot;/wiki/witchcraft/magic&quot;&gt;Magic&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Moved stones notes to it&#x27;s own subpage: &lt;a href=&quot;/wiki/witchcraft/stones&quot;&gt;Stones&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Moved tarot notes to it&#x27;s own subpage: &lt;a href=&quot;/wiki/witchcraft/tarot&quot;&gt;Tarot&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -119,7 +119,7 @@
         <guid>https://0xdstn.site/changelog/2023-08-03</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Thu, 03 Aug 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-08-03</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-08-03</h1><ul><li> <span class="emoji">&#129001;</span> Added new project: <a href="/projects/reader">Reader</a></li><li> <span class="emoji">&#129001;</span> Added new project: <a href="/projects/feeds">Feeds</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-08-03&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new project: &lt;a href=&quot;/projects/reader&quot;&gt;Reader&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new project: &lt;a href=&quot;/projects/feeds&quot;&gt;Feeds&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -128,7 +128,7 @@
         <guid>https://0xdstn.site/changelog/2023-08-17</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Thu, 17 Aug 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-08-17</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-08-17</h1><ul><li> <span class="emoji">&#129001;</span> Added new microblog section: <a href="/thoughts">Thoughts</a></li><li> <span class="emoji">&#129001;</span> Added thought: <a href="/thoughts/100-days-to-offload">100 Days to Offload</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-08-17&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new microblog section: &lt;a href=&quot;/thoughts&quot;&gt;Thoughts&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added thought: &lt;a href=&quot;/thoughts/100-days-to-offload&quot;&gt;100 Days to Offload&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -137,7 +137,7 @@
         <guid>https://0xdstn.site/changelog/2023-08-20</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Sun, 20 Aug 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-08-20</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-08-20</h1><ul><li> <span class="emoji">&#129000;</span> Added Books-a-Million instructions to <a href="/wiki/ebooks/#Remove%20DRM">Ebooks - Remove DRM</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-08-20&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Added Books-a-Million instructions to &lt;a href=&quot;/wiki/ebooks/#Remove%20DRM&quot;&gt;Ebooks - Remove DRM&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -146,7 +146,7 @@
         <guid>https://0xdstn.site/changelog/2023-08-21</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Mon, 21 Aug 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-08-21</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-08-21</h1><ul><li> <span class="emoji">&#129001;</span> Added new wiki page: <a href="/wiki/podcasts">Podcasts</a></li><li> <span class="emoji">&#129001;</span> Added new witchcraft wiki page: <a href="/wiki/witchcraft/water">Water</a></li><li> <span class="emoji">&#129000;</span> Renamed Gemstones page to Stones: <a href="/wiki/witchcraft/stones">Stones</a></li><li> <span class="emoji">&#129000;</span> Added information on Hagstones to Stones: <a href="/wiki/witchcraft/stones#Hagstones">Hagstones</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-08-21&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/wiki/podcasts&quot;&gt;Podcasts&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new witchcraft wiki page: &lt;a href=&quot;/wiki/witchcraft/water&quot;&gt;Water&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Renamed Gemstones page to Stones: &lt;a href=&quot;/wiki/witchcraft/stones&quot;&gt;Stones&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Added information on Hagstones to Stones: &lt;a href=&quot;/wiki/witchcraft/stones#Hagstones&quot;&gt;Hagstones&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -155,7 +155,7 @@
         <guid>https://0xdstn.site/changelog/2023-08-22</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Tue, 22 Aug 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-08-22</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-08-22</h1><ul><li> <span class="emoji">&#129000;</span> Added <a href="https://libera.chat" target="_blank">Libera.Chat</a> (<strong>dstn</strong>) to the <a href="/hello">hello page</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-08-22&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Added &lt;a href=&quot;https://libera.chat&quot; target=&quot;_blank&quot;&gt;Libera.Chat&lt;/a&gt; (&lt;strong&gt;dstn&lt;/strong&gt;) to the &lt;a href=&quot;/hello&quot;&gt;hello page&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -164,7 +164,7 @@
         <guid>https://0xdstn.site/changelog/2023-08-29</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Tue, 29 Aug 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-08-29</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-08-29</h1><ul><li> <span class="emoji">&#129000;</span> Switched to hosting this site myself!</li><li> <span class="emoji">&#129001;</span> Added thought: <a href="/thoughts/moved">Moved</a></li><li> <span class="emoji">&#129001;</span> Added new page: <a href="/dailyart">Daily Art</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-08-29&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Switched to hosting this site myself!&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added thought: &lt;a href=&quot;/thoughts/moved&quot;&gt;Moved&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new page: &lt;a href=&quot;/dailyart&quot;&gt;Daily Art&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -173,7 +173,7 @@
         <guid>https://0xdstn.site/changelog/2023-09-01</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Fri, 01 Sep 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-09-01</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-09-01</h1><ul><li> <span class="emoji">&#129001;</span> Added thought: <a href="/thoughts/here-we-go">Here we go!</a></li><li> <span class="emoji">&#129000;</span> Updated generator to strip out tags in h1-h6 id property so I can include emoji and other things in a heading</li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-09-01&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added thought: &lt;a href=&quot;/thoughts/here-we-go&quot;&gt;Here we go!&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Updated generator to strip out tags in h1-h6 id property so I can include emoji and other things in a heading&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -182,7 +182,7 @@
         <guid>https://0xdstn.site/changelog/2023-09-06</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Wed, 06 Sep 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-09-06</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-09-06</h1><ul><li> <span class="emoji">&#129001;</span> Added thought: <a href="/thoughts/making-things">Making Things</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-09-06&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added thought: &lt;a href=&quot;/thoughts/making-things&quot;&gt;Making Things&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -191,7 +191,7 @@
         <guid>https://0xdstn.site/changelog/2023-09-07</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Thu, 07 Sep 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-09-07</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-09-07</h1><ul><li> <span class="emoji">&#129001;</span> Added thought: <a href="/thoughts/daily-art">Daily Art</a></li><li> <span class="emoji">&#129001;</span> Added new art post: <a href="/art/art-dump-001">Art Dump 001</a></li><li> <span class="emoji">&#128997;</span> Removed the Daily Art page</li><li> <span class="emoji">&#129000;</span> Removed daily art from the <a href="/feeds">Feeds</a> page</li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-09-07&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added thought: &lt;a href=&quot;/thoughts/daily-art&quot;&gt;Daily Art&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new art post: &lt;a href=&quot;/art/art-dump-001&quot;&gt;Art Dump 001&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#128997;&lt;/span&gt; Removed the Daily Art page&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Removed daily art from the &lt;a href=&quot;/feeds&quot;&gt;Feeds&lt;/a&gt; page&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -200,7 +200,7 @@
         <guid>https://0xdstn.site/changelog/2023-09-11</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Mon, 11 Sep 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-09-11</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-09-11</h1><ul><li> <span class="emoji">&#129001;</span> Added thought: <a href="/thoughts/podcasts-veilid">Podcasts + Veilid</a></li><li> <span class="emoji">&#129000;</span> Marked <strong>The Polybius Conspiracy</strong> and <strong>Blackwood</strong> as listened on the <a href="/wiki/podcasts">Podcasts</a> page</li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-09-11&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added thought: &lt;a href=&quot;/thoughts/podcasts-veilid&quot;&gt;Podcasts + Veilid&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Marked &lt;strong&gt;The Polybius Conspiracy&lt;/strong&gt; and &lt;strong&gt;Blackwood&lt;/strong&gt; as listened on the &lt;a href=&quot;/wiki/podcasts&quot;&gt;Podcasts&lt;/a&gt; page&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -209,7 +209,7 @@
         <guid>https://0xdstn.site/changelog/2023-09-13</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Wed, 13 Sep 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-09-13</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-09-13</h1><ul><li> <span class="emoji">&#129001;</span> Added thought: <a href="/thoughts/words">Words</a></li><li> <span class="emoji">&#129001;</span> Added thought: <a href="/thoughts/podcast-recommendations">Podcast Recommendations</a></li><li> <span class="emoji">&#129000;</span> Updated podcast lists: <a href="/wiki/podcasts">Podcasts</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-09-13&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added thought: &lt;a href=&quot;/thoughts/words&quot;&gt;Words&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added thought: &lt;a href=&quot;/thoughts/podcast-recommendations&quot;&gt;Podcast Recommendations&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Updated podcast lists: &lt;a href=&quot;/wiki/podcasts&quot;&gt;Podcasts&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -218,7 +218,7 @@
         <guid>https://0xdstn.site/changelog/2023-09-18</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Mon, 18 Sep 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-09-18</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-09-18</h1><ul><li> <span class="emoji">&#129001;</span> Added thought: <a href="/thoughts/tales-from-the-crypt">Tales From the Crypt</a></li><li> <span class="emoji">&#129000;</span> Updated podcast lists: <a href="/wiki/podcasts">Podcasts</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-09-18&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added thought: &lt;a href=&quot;/thoughts/tales-from-the-crypt&quot;&gt;Tales From the Crypt&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Updated podcast lists: &lt;a href=&quot;/wiki/podcasts&quot;&gt;Podcasts&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -227,7 +227,7 @@
         <guid>https://0xdstn.site/changelog/2023-09-25</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Mon, 25 Sep 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-09-25</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-09-25</h1><ul><li> <span class="emoji">&#129001;</span> Added new wiki page: <a href="/wiki/nextcloud">Nextcloud</a></li><li> <span class="emoji">&#129001;</span> Added thought: <a href="/thoughts/archive81">Archive 81</a></li><li> <span class="emoji">&#129000;</span> Updated podcast lists: <a href="/wiki/podcasts">Podcasts</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-09-25&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/wiki/nextcloud&quot;&gt;Nextcloud&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added thought: &lt;a href=&quot;/thoughts/archive81&quot;&gt;Archive 81&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Updated podcast lists: &lt;a href=&quot;/wiki/podcasts&quot;&gt;Podcasts&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -236,7 +236,7 @@
         <guid>https://0xdstn.site/changelog/2023-10-03</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Tue, 03 Oct 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-10-03</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-10-03</h1><ul><li> <span class="emoji">&#129001;</span> Added thought: <a href="/thoughts/phone">Phone</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-10-03&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added thought: &lt;a href=&quot;/thoughts/phone&quot;&gt;Phone&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -245,7 +245,7 @@
         <guid>https://0xdstn.site/changelog/2023-10-06</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Fri, 06 Oct 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-10-06</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-10-06</h1><ul><li> <span class="emoji">&#129001;</span> Added wiki page: <a href="/wiki/ipod">iPod</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-10-06&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added wiki page: &lt;a href=&quot;/wiki/ipod&quot;&gt;iPod&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -254,7 +254,7 @@
         <guid>https://0xdstn.site/changelog/2023-10-12</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Thu, 12 Oct 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-10-12</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-10-12</h1><ul><li> <span class="emoji">&#129001;</span> Added thought: <a href="/thoughts/work-focus">Work Focus</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-10-12&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added thought: &lt;a href=&quot;/thoughts/work-focus&quot;&gt;Work Focus&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -263,7 +263,7 @@
         <guid>https://0xdstn.site/changelog/2023-10-16</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Mon, 16 Oct 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-10-16</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-10-16</h1><ul><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/urban-sketching">Urban Sketching</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-10-16&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/urban-sketching&quot;&gt;Urban Sketching&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -272,7 +272,7 @@
         <guid>https://0xdstn.site/changelog/2023-10-18</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Wed, 18 Oct 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-10-18</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-10-18</h1><ul><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/nextcloud-music">Nextcloud Music</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-10-18&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/nextcloud-music&quot;&gt;Nextcloud Music&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -281,7 +281,7 @@
         <guid>https://0xdstn.site/changelog/2023-10-23</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Mon, 23 Oct 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-10-23</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-10-23</h1><ul><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/syncretism">Syncretism</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-10-23&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/syncretism&quot;&gt;Syncretism&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -290,7 +290,7 @@
         <guid>https://0xdstn.site/changelog/2023-10-25</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Wed, 25 Oct 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-10-25</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-10-25</h1><ul><li> <span class="emoji">&#129001;</span> Added new recipe: <a href="/recipes/oatmilk">Oatmilk</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-10-25&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new recipe: &lt;a href=&quot;/recipes/oatmilk&quot;&gt;Oatmilk&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -299,7 +299,7 @@
         <guid>https://0xdstn.site/changelog/2023-10-26</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Thu, 26 Oct 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-10-26</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-10-26</h1><ul><li> <span class="emoji">&#129001;</span> Added new wiki page: <a href="/wiki/kmart">kmart</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-10-26&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new wiki page: &lt;a href=&quot;/wiki/kmart&quot;&gt;kmart&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -308,7 +308,7 @@
         <guid>https://0xdstn.site/changelog/2023-10-30</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Mon, 30 Oct 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-10-30</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-10-30</h1><ul><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/rpi-raid">Raspberry Pi RAID</a></li><li> <span class="emoji">&#129001;</span> Added new witchcraft wiki page: <a href="/wiki/witchcraft/wheel">Wheel of the Year</a></li><li> <span class="emoji">&#129001;</span> Added new witchcraft wiki page: <a href="/wiki/witchcraft/spellcraft">Spellcraft</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-10-30&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/rpi-raid&quot;&gt;Raspberry Pi RAID&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new witchcraft wiki page: &lt;a href=&quot;/wiki/witchcraft/wheel&quot;&gt;Wheel of the Year&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new witchcraft wiki page: &lt;a href=&quot;/wiki/witchcraft/spellcraft&quot;&gt;Spellcraft&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -317,7 +317,7 @@
         <guid>https://0xdstn.site/changelog/2023-10-31</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Tue, 31 Oct 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-10-31</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-10-31</h1><ul><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/reading-goals">Reading Goals</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-10-31&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/reading-goals&quot;&gt;Reading Goals&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -326,7 +326,7 @@
         <guid>https://0xdstn.site/changelog/2023-11-06</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Mon, 06 Nov 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-11-06</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-11-06</h1><ul><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/sketch-memory">Sketch Memory</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-11-06&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/sketch-memory&quot;&gt;Sketch Memory&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -335,7 +335,7 @@
         <guid>https://0xdstn.site/changelog/2023-11-07</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Tue, 07 Nov 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-11-07</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-11-07</h1><ul><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/merry-november">A Very Merry November</a></li><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/default-apps-2023">Default Apps 2023</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-11-07&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/merry-november&quot;&gt;A Very Merry November&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/default-apps-2023&quot;&gt;Default Apps 2023&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -344,7 +344,7 @@
         <guid>https://0xdstn.site/changelog/2023-11-09</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Thu, 09 Nov 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-11-09</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-11-09</h1><ul><li> <span class="emoji">&#129001;</span> Added new witchcraft wiki page: <a href="/wiki/witchcraft/power-animal-meditation">Power Animal Meditation</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-11-09&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new witchcraft wiki page: &lt;a href=&quot;/wiki/witchcraft/power-animal-meditation&quot;&gt;Power Animal Meditation&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -353,7 +353,7 @@
         <guid>https://0xdstn.site/changelog/2023-11-14</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Tue, 14 Nov 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-11-14</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-11-14</h1><ul><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/automating-offload">Automating Offload</a></li><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/notifications">Notifications</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-11-14&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/automating-offload&quot;&gt;Automating Offload&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/notifications&quot;&gt;Notifications&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -362,7 +362,7 @@
         <guid>https://0xdstn.site/changelog/2023-11-27</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Mon, 27 Nov 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-11-27</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-11-27</h1><ul><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/excessive-tech">Excessive Tech</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-11-27&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/excessive-tech&quot;&gt;Excessive Tech&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -371,7 +371,7 @@
         <guid>https://0xdstn.site/changelog/2023-12-01</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Fri, 01 Dec 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-12-01</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-12-01</h1><ul><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/festive-things">Festive Things</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-12-01&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/festive-things&quot;&gt;Festive Things&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -380,7 +380,7 @@
         <guid>https://0xdstn.site/changelog/2023-12-07</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Thu, 07 Dec 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-12-07</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-12-07</h1><ul><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/update-20231207">Update 2023-12-07</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-12-07&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/update-20231207&quot;&gt;Update 2023-12-07&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -389,7 +389,7 @@
         <guid>https://0xdstn.site/changelog/2023-12-08</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Fri, 08 Dec 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-12-08</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-12-08</h1><ul><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/toki-pona-section">Toki Pona Section</a></li><li> <span class="emoji">&#129001;</span> Added new section: <a href="/tokipona">Toki Pona</a></li><li> <span class="emoji">&#129001;</span> Added new toki pona page: <a href="/tokipona/sitelen-musi-lili">sitelen musi lili</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-12-08&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/toki-pona-section&quot;&gt;Toki Pona Section&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new section: &lt;a href=&quot;/tokipona&quot;&gt;Toki Pona&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new toki pona page: &lt;a href=&quot;/tokipona/sitelen-musi-lili&quot;&gt;sitelen musi lili&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -398,7 +398,7 @@
         <guid>https://0xdstn.site/changelog/2023-12-12</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Tue, 12 Dec 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-12-12</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-12-12</h1><ul><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/update-20231212">Update 2023-12-12</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-12-12&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/update-20231212&quot;&gt;Update 2023-12-12&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -407,7 +407,7 @@
         <guid>https://0xdstn.site/changelog/2023-12-18</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Mon, 18 Dec 2023 00:00:00 </pubDate>
-        <description>Changes from 2023-12-18</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2023-12-18</h1><ul><li> <span class="emoji">&#129000;</span> Added <a href="/tokipona.xml">toki pona feed</a> to the <a href="/feeds">Feeds</a> page</li><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/technology-usage">Technology Usage</a></li><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/2024-plans">2024 plans</a></li><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/update-20231218">Update 2023-12-18</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2023-12-18&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Added &lt;a href=&quot;/tokipona.xml&quot;&gt;toki pona feed&lt;/a&gt; to the &lt;a href=&quot;/feeds&quot;&gt;Feeds&lt;/a&gt; page&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/technology-usage&quot;&gt;Technology Usage&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/2024-plans&quot;&gt;2024 plans&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/update-20231218&quot;&gt;Update 2023-12-18&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -416,7 +416,7 @@
         <guid>https://0xdstn.site/changelog/2024-01-02</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Tue, 02 Jan 2024 00:00:00 </pubDate>
-        <description>Changes from 2024-01-02</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2024-01-02</h1><ul><li> <span class="emoji">&#129000;</span> Updated <a href="/wiki/witchcraft/water#Moon Water">Moon Water</a> notes</li><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/moon-planning">Moon Planning</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2024-01-02&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129000;&lt;/span&gt; Updated &lt;a href=&quot;/wiki/witchcraft/water#Moon Water&quot;&gt;Moon Water&lt;/a&gt; notes&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/moon-planning&quot;&gt;Moon Planning&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -425,7 +425,7 @@
         <guid>https://0xdstn.site/changelog/2024-01-03</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Wed, 03 Jan 2024 00:00:00 </pubDate>
-        <description>Changes from 2024-01-03</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2024-01-03</h1><ul><li> <span class="emoji">&#129001;</span> Added new post: <a href="/writing/without">Without</a></li></h1>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2024-01-03&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new post: &lt;a href=&quot;/writing/without&quot;&gt;Without&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
       <item>
@@ -434,7 +434,7 @@
         <guid>https://0xdstn.site/changelog/2024-01-04</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Thu, 04 Jan 2024 00:00:00 </pubDate>
-        <description>Changes from 2024-01-04</description>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2024-01-04</h1><ul><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/just-being">Just Being</a></li><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/sharing-vs-meaning">Sharing vs Meaning</a></li></ul>]]></description>
         <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2024-01-04&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/just-being&quot;&gt;Just Being&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/sharing-vs-meaning&quot;&gt;Sharing vs Meaning&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
       </item>
       <item>
@@ -443,8 +443,17 @@
         <guid>https://0xdstn.site/changelog/2024-01-10</guid>
         <dc:creator>0xdstn</dc:creator>
         <pubDate>Wed, 10 Jan 2024 00:00:00 </pubDate>
-        <description>Changes from 2024-01-10</description>
-        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2024-01-10&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/moon-planning-shift&quot;&gt;Moon planning shift&lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#128218;&lt;/span&gt; Started reading: &lt;strong&gt;Moonology&lt;/strong&gt; by &lt;em&gt;Yasmin Boland&lt;/em&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#128218;&lt;/span&gt; Started reading: &lt;strong&gt;What You Are Looking For Is in the Library&lt;/strong&gt; by &lt;em&gt;Michiko Aoyama&lt;/em&gt;&lt;/li&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#128218;&lt;/span&gt; Started reading: &lt;strong&gt;Getting Things Done&lt;/strong&gt; by &lt;em&gt;David Allen&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;</content:encoded>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2024-01-10</h1><ul><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/moon-planning-shift">Moon planning shift</a></li></h1>]]></description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2024-01-10&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/moon-planning-shift&quot;&gt;Moon planning shift&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
+      </item>
+      <item>
+        <title>2024-01-17</title>
+        <link>https://0xdstn.site/changelog/2024-01-17</link>
+        <guid>https://0xdstn.site/changelog/2024-01-17</guid>
+        <dc:creator>0xdstn</dc:creator>
+        <pubDate>Wed, 17 Jan 2024 00:00:00 </pubDate>
+        <description><![CDATA[<h1><span class="emoji">&#128210;</span> 2024-01-17</h1><ul><li> <span class="emoji">&#129001;</span> Added new thought: <a href="/thoughts/priorities">Priorities</a></li></h1>]]></description>
+        <content:encoded>&lt;h1&gt;&lt;span class=&quot;emoji&quot;&gt;&amp;#128210;&lt;/span&gt; 2024-01-17&lt;/h1&gt;&lt;ul&gt;&lt;li&gt; &lt;span class=&quot;emoji&quot;&gt;&amp;#129001;&lt;/span&gt; Added new thought: &lt;a href=&quot;/thoughts/priorities&quot;&gt;Priorities&lt;/a&gt;&lt;/li&gt;&lt;/h1&gt;</content:encoded>
       </item>
   </channel>
 </rss>

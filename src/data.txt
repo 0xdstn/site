@@ -6,26 +6,21 @@
 
 2 Pages
 - [e:computer] [l:projects|Projects] Various projects I've worked on
-- [e:paper] [l:writing|Writing] Articles I've written 
-- [e:thought] [l:thoughts|Thoughts] A microblog of unstructured thoughts
 - [e:paint] [l:art|Art] Art I've made 
-- [e:book] [l:wiki|Wiki] My personal notes
 - [e:bowl] [l:recipes|Recipes] Recipes for food I've made
-- [e:books] [l:wiki/library|Library] A list of books I've read and am reading
+- [e:books] [l:books|Reading] A list of books I've read, am reading, and plan to read
 - [e:paper] [l:tokipona|toki pona] A section dedicated to things I've written in toki pona
-- [e:log] [l:changelog|Changelog] A list of changes to this site
 
 2 Latest
-? [r:writing,thoughts,projects,art,recipes,changelog]
+? [r:projects,art,recipes]
 
 ~hello/index : Hello : How to contact me : 2022-07-13
 1 Hello
 & This is my [l:https://alastairjohnston.com/introducing-hello-pages/|hello page], where you can find how I prefer to keep in touch, and why.
 - The best way to contact me is via [l:mailto:0xdstn@protonmail.com|email]. I may be a little slow to respond, as I only check that account every once in a while.
 - If you need to send me an encrypted message you can download my [l:public.key|public PGP key].
-- To see some things I've written you can visit the [l:writing|writings section] of this site.
-- I don't use twitter or other social networks as public forms of communication. Reasoning for this can be read in my thoughts [l:writing/social|on social media].
-- I returned to Mastodon in the end of 2022. My thoughts on this can be ready in my post [l:writing/mastodon|Return to Mastodon]. You can message me at [l:https://mastodon.spotek.io/@dustin|@dustin@mastodon.spotek.io], however I only go on there occasionally, so I may be slow to respond.
+- I don't use twitter or other social networks as public forms of communication.
+- You can message me at [l:https://mastodon.spotek.io/@dustin|@dustin@mastodon.spotek.io], however I only go on there occasionally, so I may be slow to respond.
 - I am on [l:https://libera.chat|Libera.Chat] as [b:dstn].
 
 ~feeds/index : Feeds : A list of my RSS feeds : 2022-08-16
@@ -33,19 +28,19 @@
 & This is my [l:https://marcus.io/blog/making-rss-more-visible-again-with-slash-feeds|feeds page], where you can find a list of RSS feeds for my content.
 - [l:index.xml|Main feed]
 - [l:tokipona.xml|toki pona feed]
-- [l:changelog.xml|Changelog feed]
 
 ~changelog/index : Changelog : A changelog for this site : 2023-04-17
 1 Changelog
 & Below is a log of all the changes made to this website since the log was added on 2023-04-17
 ? [p:changelog]
 
+~changelog/2024-01-17 : 2024-01-17 : Changes from 2024-01-17 : 2024-01-17
+1 2024-01-17
+- [e:green] Added new thought: [l:thoughts/priorities|Priorities]
+
 ~changelog/2024-01-10 : 2024-01-10 : Changes from 2024-01-10 : 2024-01-10
 1 2024-01-10
 - [e:green] Added new thought: [l:thoughts/moon-planning-shift|Moon planning shift]
-- [e:books] Started reading: [b:Moonology] by [i:Yasmin Boland]
-- [e:books] Started reading: [b:What You Are Looking For Is in the Library] by [i:Michiko Aoyama]
-- [e:books] Started reading: [b:Getting Things Done] by [i:David Allen]
 
 ~changelog/2024-01-04 : 2024-01-04 : Changes from 2024-01-04 : 2024-01-04
 1 2024-01-04
@@ -2544,6 +2539,17 @@ _ 2023.02.09
 & This section of my site serves as a microblog. These are meant to be less structured ideas as opposed to my [l:writing|writing] section.
 ? [d:thoughts]
 
+~thoughts/priorities : Priorities : Priorities : 2024-01-17
+1 Priorities
+_ 2024.01.17
+& This probably won't make much sense to others, but I have decided for personal reasons to stop writing on this site and to end my #100DaysToOffload challenge. I am finding that sharing here is causing a severe lack in sharing elsewhere in my life, and it is problematic for my relationships.
+& I'm grateful for everyone that has read what I've posted and encouraged me along the way.
+& I will leave the posts in the writing, thoughts, and changelog sections in place so they don't become dead links, but I will be hiding those sections from my navigation. I will still be adding posts to projects, art, recipes, and toki pona.
+& I have also decided to remove the wiki section from the nav as well, and no longer add anything there. I am currently duplicating information between that section, Obsidian, and my physical bullet journal and it's all just too much.
+& Again, I know this may not make sense to everyone, but I know that this is best for myself.
+_ See you space cowboy...
+* [o:037]
+
 ~thoughts/moon-planning-shift : Moon planning shift : Moon planning shift : 2024-01-10
 1 Moon planning shift
 _ 2024.01.10
@@ -3058,10 +3064,17 @@ _ 2023.08.17
 ? [f:100daystooffload]
 
 ~tokipona/index : Toki Pona : A collection of posts written in toki pona : 2023-12-08
-1 toki pona]
+1 toki pona
 & toki!
 & lipu ni jo e lipu pi toki pona. mi pakala tan mi kama sona e toki pona. pona la o toki e mi tan pakala.
+& lipu pi toki pona:
 ? [d:tokipona]
+& ilo pi toki pona:
+- [l:lipu-sona|lipu sona] ilo tawa sona e toki pona
+- [l:ilo-nimi|ilo nimi] ilo tawa sitelen e toki pona (sitelen pona)
+- [l:ilo|ilo] ilo tawa lukin e toki pona
+- [l:https://tilde.town/~dustin/wordle-toki/|musi nimi] musi nimi pi toki pona (wordle)
+
 
 ~tokipona/sitelen-musi-lili : sitelen musi lili : toki pona la sitelen musi lili : 2023-12-08
 1 sitelen musi lili

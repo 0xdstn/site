@@ -6,13 +6,14 @@
 
 2 Pages
 - [e:computer] [l:projects|Projects] Various projects I've worked on
+- [e:book] [l:wiki|Wiki] My personal notes
 - [e:paint] [l:art|Art] Art I've made 
 - [e:bowl] [l:recipes|Recipes] Recipes for food I've made
-- [e:books] [l:books|Reading] A list of books I've read, am reading, and plan to read
+- [e:books] [l:wiki/library|Library] A list of books I've read and am reading
 - [e:paper] [l:tokipona|toki pona] A section dedicated to things I've written in toki pona
 
 2 Latest
-? [r:projects,art,recipes]
+? [r:projects,wiki,art,recipes]
 
 ~hello/index : Hello : How to contact me : 2022-07-13
 1 Hello
@@ -941,7 +942,6 @@ _ Taken from Year of the Witch by Temperance Alden
 - Bridgewater
 - The Banksy Story
 - Command Line Heroes
-- Honey and The Hex
 - Witch (BBC Radio 4)
 - The Magnus Archives
 3 Ongoing
@@ -2544,8 +2544,7 @@ _ 2023.02.09
 _ 2024.01.17
 & This probably won't make much sense to others, but I have decided for personal reasons to stop writing on this site and to end my #100DaysToOffload challenge. I am finding that sharing here is causing a severe lack in sharing elsewhere in my life, and it is problematic for my relationships.
 & I'm grateful for everyone that has read what I've posted and encouraged me along the way.
-& I will leave the posts in the writing, thoughts, and changelog sections in place so they don't become dead links, but I will be hiding those sections from my navigation. I will still be adding posts to projects, art, recipes, and toki pona.
-& I have also decided to remove the wiki section from the nav as well, and no longer add anything there. I am currently duplicating information between that section, Obsidian, and my physical bullet journal and it's all just too much.
+& I will leave the posts in the writing, thoughts, and changelog sections in place so they don't become dead links, but I will be hiding those sections from my navigation. I will still be adding posts to projects, wiki, art, recipes, and toki pona.
 & Again, I know this may not make sense to everyone, but I know that this is best for myself.
 _ See you space cowboy...
 * [o:037]

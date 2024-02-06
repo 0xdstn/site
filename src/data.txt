@@ -419,6 +419,8 @@
 # [l:#Books read prior to 2019|Books read prior to 2019]
 2 Currently reading
 ? [z:current]
+2 Books read in 2024
+? [z:read-2024]
 2 Books read in 2023
 ? [z:read-2023]
 2 Books read in 2022
@@ -673,6 +675,83 @@ _ Taken from Year of the Witch by Temperance Alden
 & I walked over and asked the bear if it was my power animal. It looked at me curiously, silent. It moved closer and sat facing me in a meditation pose and gestured for me to do the same. I sat and we both closed our eyes. The bear morphed into a wispy light which shot over and entered my body, becoming part of me. With the power of my animal awoken, I got up and exited back through the tunnel.
 * [o:021]
 
+~wiki/witchcraft/moon : Moon : Notes on the moon : 2024-01-31
+1 Moon
+& This page contains notes related to the moon as it pertains to magic.
+# [l:#Moon Manifesting|Moon Manifesting]
+# [l:#Relevant Resources|Relevant Resources]
+2 Moon Manifesting
+& The secret to manifesting is that it comes from the heart and that you feel as though it's already happened.
+& Note what you want, not what you don't want.
+& You cannot override the law of physics or someone else's free will.
+& Limited to what we believe is possible.
+& Pay attention to signs from the universe - Synchronicity
+& Don't wish for things, wish for the feelings they evoke.
+& Envy blocks gratitude and being grateful is required to manifest.
+& The future is created in the present.
+& Meditation is crucial. You're like a radio. Your wishes are radio waves, letting the universe know what you want. When you meditate, it boosts your signal.
+& Relaxed + stress free = better manifesting
+& It's not enough to make wishes then continue living a chaotic life.
+& Get clear on what you want, but don't get too attached to your dreams.
+& The universe may decide on something better. Trust.
+3 New Moon Ritual
+# Take a moment to feel gratitude for all you have
+# Write down your plans / wishes / what you want
+# Read through each and **visualize** them as already true. Really feel it
+# Write down affirmations to back them up
+# Go through each and think about how you intend to make it happen. Write them down.
+# Meditate, release your wishes into the universe
+# Release your attachment
+# Carry on
+3 Moon Phases 
+4 🌑 New Moon
+- Plant the seeds of your future dreams
+- Keywords: A clean slate, potential, dreams
+- A time to look forward to, to plan for, to make time for
+- You need to feel the feeling of the wish fulfilled
+4 🌒 Waxing Crescent
+- Explore your dreams
+- Keywords: Courage, moving forward, faith
+- Take a moment to go over the wishes you made at the new moon. Read them aloud, thinka bout them, visualize them.
+- A time to keep faith and have courage
+4 🌓 First Quarter
+- Time to commit
+- Keywords: Challenges, confidence, commitment
+- If you know you're no longer committed to your wish, let it go.
+- Re-read, re-visualize, re-imagine
+4 🌔 Waxing Gibbous
+- Stay on course
+- Keywords: Tweak, hone, adjust
+- It's time for stamina. Don't give up. Don't allow ego or fear spoil your plans.
+- If you need to make changes to achieve your goals, make them now.
+- Get back to good habits or routines you've let slip
+4 🌕 Full Moon
+- Make or break time!
+- Keywords: Results, forgiveness, gratitude
+- Check in with your emotional guidance system
+- A time to forgive, let go, and move on
+- Once you've released, fill up with gratitude
+4 🌖 Waning Gibbous
+- Breathe...
+- Keywords: Relax, accept, regroup
+- A lot of energy has been expended, relax
+- Accept that you are where you are
+4 🌗 Last Quarter
+- Keywords: Re-evaluate, balance, trust
+- Let go
+- Reflect on your progress
+- Decide what you want to take and leave behind in the new cycle
+- A good time to break bad habits
+4 🌘 Waning Crescent
+- Release
+- Keywords: Healing, soothing, surrender
+- Go easy on yourself
+- Let go and move on
+2 Relevant Resources
+- [l:https://www.yasminboland.com/books/moonology/|Moonology] by Yasmin Boland
+- [l:https://play.google.com/store/apps/details?id=com.dafftin.android.moon_phase|Daff Moon Phase app] - Android moon phase app with widgets and no ads
+- [l:https://www.almanac.com/astronomy/moon/calendar|Moon Phase Calendar] - Old Farmer's Almanac 
+
 ~wiki/development : Development : Notes related to software/web development : 2021-09-30
 1 Development notes 
 & This page contains any notes I find useful related to software/web development.
@@ -888,6 +967,22 @@ _ Taken from Year of the Witch by Temperance Alden
 3 Books-a-Million
 # Go to [b:My Download Library] on [l:https://booksamillion.com|Books-a-Million]
 # Click on [b:Download] for each book you want to download (they will be [c:acsm] files)
+# Follow the Remove DRM from ascm files below
+3 Kobo
+4 Automatic
+& I learned of this method from [l:https://infosec.exchange/@drsbaitso/111745462042746064|this post] on Mastodon.
+& Note: I had to downgrade to Calibre 5 to use this plugin
+# Install the [l:https://www.kobo.com/us/en/p/desktop|Kobo Desktop app]
+# Log in to the Kobo app and download each book
+# Download the latest [l:https://github.com/noDRM/DeDRM_tools/releases/|DeDRM_tools] and extract [c:Obok_plugin.zip] from it.
+# In Calibre go to Preferences > Advanced > Plugins > Load plugin from file and select the [c:Obok_plugin.zip] file.
+# In Calibre, click the Obok DeDRM button
+# Select all of your books and click Ok
+4 Manual
+# Go to [l:https://www.kobo.com/us/en/library/books|your Kobo library]
+# Click on the ellipse next to each book
+# Click Download
+# Click Download file (they will be [c:acsm] files)
 # Follow the Remove DRM from ascm files below
 3 Remove DRM from acsm files
 # Download and install [l:https://adobe.com/solutions/ebook/digital-editions/download.html|Adobe Digital Editions]

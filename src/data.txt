@@ -11,6 +11,7 @@
 - [e:bowl] [l:recipes|Recipes] Recipes for food I've made
 - [e:books] [l:wiki/library|Library] A list of books I've read and am reading
 - [e:paper] [l:tokipona|toki pona] A section dedicated to things I've written in toki pona
+- [e:earth] [l:sitemap|Sitemap] A list of all pages on this site
 
 2 Latest
 ? [r:projects,wiki,art,recipes]
@@ -29,6 +30,22 @@
 & This is my [l:https://marcus.io/blog/making-rss-more-visible-again-with-slash-feeds|feeds page], where you can find a list of RSS feeds for my content.
 - [l:index.xml|Main feed]
 - [l:tokipona.xml|toki pona feed]
+
+~sitemap/index : Sitemap : Sitemap : 2024-03-29
+1 Sitemap
+2 General 
+- [l:hello|Hello]
+- [l:feeds|Feeds]
+2 Wiki
+? [d:wiki]
+2 Projects 
+? [d:projects]
+2 Recipes 
+? [d:recipes]
+2 Art 
+? [d:art]
+2 Toki Pona 
+? [d:tokipona]
 
 ~changelog/index : Changelog : A changelog for this site : 2023-04-17
 1 Changelog

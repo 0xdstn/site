@@ -100,7 +100,8 @@ emoji = {
     "lockkey": "128272",
     "weather": "127780",
     "search": "128270",
-    "calendar": "128197"
+    "calendar": "128197",
+    "video": "127909"
 }
 
 singular = {
@@ -547,4 +548,68 @@ xmlOutputToki += '</rss>'
 
 f = open(outPath + "tokipona.xml", "w")
 f.write(xmlOutputToki)
+f.close()
+
+def createLinkdump(output,num,curDate):
+    title = 'Linkdump #'+num + ' (' + curDate + ')'
+    finalOutput = header.replace("[TITLE]",title)
+    finalOutput += '<h1>'+title+'</h1>'
+    finalOutput += '<ul>'
+    finalOutput += output
+    finalOutput += '</ul>'
+    finalOutput += footer
+    f = open(outPath + 'linkdump/' + num + ".html", "w")
+    f.write(finalOutput)
+    f.close()
+
+def linkdumpEmoji(linkType):
+    e = ''
+    if linkType == 'V':
+        e = 'video'
+    elif linkType == 'A':
+        e = 'paper'
+    elif linkType == 'S':
+        e = 'web'
+    elif linkType == 'M':
+        e = 'headphones'
+    else:
+        return ''
+    return '<span class="emoji">&#{};</span>'.format(emoji[e])
+
+linkdumpFile = open(srcPath + "linkdump.txt", "r")
+
+curDump = 1
+padded = '001' 
+curDate = ''
+output = ''
+dumpLinks = ''
+for line in linkdumpFile:
+    print(line)
+    if line != '' and line != '\n':
+        sp = line.split(' | ')
+        dsp = sp[0].split('-')
+        em = ''
+        if curDate == '':
+            curDate = dsp[0]+'-'+dsp[1]
+        if curDate != dsp[0]+'-'+dsp[1]:
+            # TODO: generate html here
+            createLinkdump(output,padded,curDate)
+            dumpLinks += '<li><a href="'+basePath+'linkdump/'+padded+'.html">Linkdump #'+padded+'</a> <em>('+curDate+')</em></li>'
+            curDump += 1
+            curDate = dsp[0]+'-'+dsp[1]
+            padded = str(curDump).zfill(3)
+            output = ''
+        output += '<li>'+linkdumpEmoji(sp[1])+' <a href="'+sp[2]+'" target="_blank">' + sp[3] + '</a> <em>('+sp[0]+')</em><br />'+sp[4]+'</li>'
+createLinkdump(output,padded,curDate)
+dumpLinks += '<li><a href="'+basePath+'linkdump/'+padded+'.html">Linkdump #'+padded+'</a> <em>('+curDate+')</em></li>'
+linkdumpFile.close()
+
+linkdumpIndexOutput = header.replace("[TITLE]","Linkdumps")
+linkdumpIndexOutput += '<h1>Linkdumps</h1>'
+linkdumpIndexOutput += '<ul>'
+linkdumpIndexOutput += dumpLinks
+linkdumpIndexOutput += '</ul>'
+linkdumpIndexOutput += footer
+f = open(outPath + "linkdump/index.html", "w")
+f.write(linkdumpIndexOutput)
 f.close()

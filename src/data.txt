@@ -817,6 +817,20 @@ _ Taken from Year of the Witch by Temperance Alden
 3 Wttr.in
 & View the weather forecast via the command line
 % curl "wttr.in/Spokane?0"
+3 ssh config
+& You can configure SSH servers in your [c:~/.ssh/config] file, to set up easy to remember aliases for complex SSH configurations, for example:
+% Host tilde
+%    HostName tilde.town
+%    User dustin
+%    IdentityFile "~/id_rsa"
+& You can also set a port or an IP for the hostname:
+% Host srv
+%    HostName 123.456.0.1
+%    User dustin
+%    Port 1234
+& You can then SSH using the alias, such as these commands for those two examples above:
+% ssh tilde
+% ssh srv
 2 Tools
 3 CLI
 - [l:https://fishshell.com/|fish] Shell alternative with auto complete

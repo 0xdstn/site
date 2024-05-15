@@ -90,7 +90,6 @@ emoji = {
     "clapper": "127916",
     "christmas": "127876",
     "letter": "9993",
-    "note": "128221",
     "newspaper": "128240",
     "keyboard": "9000",
     "cloud": "9729",
@@ -101,7 +100,8 @@ emoji = {
     "weather": "127780",
     "search": "128270",
     "calendar": "128197",
-    "video": "127909"
+    "video": "127909",
+    "bird": "128038"
 }
 
 singular = {
@@ -572,6 +572,8 @@ def linkdumpEmoji(linkType):
         e = 'web'
     elif linkType == 'M':
         e = 'headphones'
+    elif linkType == 'T':
+        e = 'book'
     else:
         return ''
     return '<span class="emoji">&#{};</span>'.format(emoji[e])
@@ -584,7 +586,6 @@ curDate = ''
 output = ''
 dumpLinks = ''
 for line in linkdumpFile:
-    print(line)
     if line != '' and line != '\n':
         sp = line.split(' | ')
         dsp = sp[0].split('-')

@@ -10,6 +10,7 @@
 - [e:paint] [l:art|Art] Art I've made 
 - [e:bowl] [l:recipes|Recipes] Recipes for food I've made
 - [e:books] [l:wiki/library|Library] A list of books I've read and am reading
+- [e:bird] [l:birds|Birds] Posts related to birds
 - [e:paper] [l:tokipona|toki pona] A section dedicated to things I've written in toki pona
 - [e:earth] [l:sitemap|Sitemap] A list of all pages on this site
 
@@ -44,6 +45,8 @@
 ? [d:recipes]
 2 Art 
 ? [d:art]
+2 Birds 
+? [d:birds]
 2 Toki Pona 
 ? [d:tokipona]
 
@@ -2882,7 +2885,7 @@ _ 2023.11.07
 & I saw [l:https://kevquirk.com/my-default-apps-at-the-end-of-2023|this post from Kev Quirk] about a current trend for listing your default apps at the end of the year. There is [l:https://defaults.rknight.me/|a list of people's default lists] managed by [l:https://rknight.me|Robb Knight]. I figured I'd give it a go as well!
 - [e:letter] [b:Mail Service:] Gmail + ProtonMail
 - [e:mail] [b:Mail Client:] [l:https://k9mail.app/|K-9 Mail] + ProtonMail
-- [e:note] [b:Notes:] [l:https://apps.nextcloud.com/apps/notes|Nextcloud Notes]
+- [e:paper] [b:Notes:] [l:https://apps.nextcloud.com/apps/notes|Nextcloud Notes]
 - [e:calendar] [b:Calendar:] Google Calendar
 - [e:newspaper] [b:RSS:] [l:https://0xdstn.site/projects/feeds/|Feeds]
 - [e:keyboard] [b:Launcher:] [l:https://f-droid.org/en/packages/app.mlauncher/|mLauncher]
@@ -3206,3 +3209,75 @@ _ 2023.08.17
 _ toki pona haiku
 2 telo sewi
 > telo sewi o<br>telo mute lon ale<br>kasi li pona
+
+~birds/index : Birds : A collection of posts related to birds : 2024-05-15
+1 Birds
+& For many years now I've had a growing interest in birding. I'm not very good at bird photography, but sometimes I get a decent shot. This section contains any posts related to birds and posts of photos I've taken.
+? [d:birds]
+
+~birds/life-list : Life List : A list of all the birds I've seen : 2024-05-15
+1 Life List
+& A list of all the birds I've successfully identified, since I started tracking in June 2022
+# [c:2022-06-06] Mallard
+# [c:2022-06-20] Red-winged Blackbird
+# [c:2022-06-20] American White Pelican
+# [c:2022-06-20] Tree Swallow
+# [c:2022-06-20] Marsh Wren
+# [c:2022-06-20] Cinnamon Teal
+# [c:2022-06-27] American Robin
+# [c:2022-07-08] House Sparrow
+# [c:2022-07-09] European Starling
+# [c:2022-07-16] California Quail
+# [c:2022-07-24] Ring-billed Gull
+# [c:2022-07-25] Dark-eyed Junco
+# [c:2022-07-26] American Crow
+# [c:2022-07-27] Great Egret
+# [c:2022-07-28] Western Gull
+# [c:2022-07-28] Semipalmated Sandpiper
+# [c:2022-07-28] Great Blue Heron
+# [c:2022-09-11] Wild Turkey
+# [c:2022-10-05] Ring-necked Pheasant
+# [c:2022-10-17] Rock Pigeon
+# [c:2022-11-19] Northern Flicker
+# [c:2022-11-27] House Finch
+# [c:2023-01-02] Red-tailed Hawk
+# [c:2023-01-02] Black-billed Magpie
+# [c:2023-01-15] Bald Eagle
+# [c:2023-02-10] American Wigeon
+# [c:2023-02-10] Canada Goose
+# [c:2023-02-14] Song Sparrow
+# [c:2023-02-18] Common Raven
+# [c:2023-03-21] American Coot
+# [c:2023-04-01] Brewer's Blackbird
+# [c:2023-04-02] Acorn Woodpecker
+# [c:2023-04-07] Glaucous-winged Gull
+# [c:2023-04-07] Herring Gull
+# [c:2023-04-17] Western Bluebird
+# [c:2023-04-17] Say's Phoebe
+# [c:2023-04-17] Trumpeter Swan
+# [c:2023-04-21] Mountain Chickadee
+# [c:2023-05-07] Eurasian Collared-Dove
+# [c:2023-05-15] Hairy Woodpecker
+# [c:2023-05-30] Downy Woodpecker
+# [c:2023-06-03] House Wren
+# [c:2023-06-03] Great Horned Owl
+# [c:2023-07-01] Golden Eagle
+# [c:2023-07-01] Violet-green Swallow
+# [c:2023-07-01] Western Wood-Pewee
+# [c:2023-08-13] Brown Pelican
+# [c:2023-10-27] Black-capped Chickadee
+# [c:2023-11-04] Cooper's Hawk
+
+~birds/violet-green-swallow : Violet-green Swallow : Photos of a Violet-green Swallow : 2024-05-15
+1 Violet-green Swallow
+_ 2024.05.15
+& I noticed some Violet-green Swallows flying and landing near the top of a parking garage, so I went up there and managed to get pretty close without scaring them away, and I got a few decent shots while flying too!
+@ assets/img/violet-green-swallow-01.jpg|assets/img/violet-green-swallow-01.jpg
+@ assets/img/violet-green-swallow-02.jpg|assets/img/violet-green-swallow-02.jpg
+@ assets/img/violet-green-swallow-03.jpg|assets/img/violet-green-swallow-03.jpg
+@ assets/img/violet-green-swallow-04.jpg|assets/img/violet-green-swallow-04.jpg
+@ assets/img/violet-green-swallow-05.jpg|assets/img/violet-green-swallow-05.jpg
+@ assets/img/violet-green-swallow-06.jpg|assets/img/violet-green-swallow-06.jpg
+@ assets/img/violet-green-swallow-07.jpg|assets/img/violet-green-swallow-07.jpg
+@ assets/img/violet-green-swallow-08.jpg|assets/img/violet-green-swallow-08.jpg
+@ assets/img/violet-green-swallow-09.jpg|assets/img/violet-green-swallow-09.jpg

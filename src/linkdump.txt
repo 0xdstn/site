@@ -1,4 +1,17 @@
 2024-04-24 | V | https://www.youtube.com/watch?v=rha61Y3_Voc | TASBot SM64 speed run | I've long been aware of tool assisted speed runs, but never really looked much into them or watched them. This one was really interesting to watch.
-2024-04-24 | V | https://www.youtube.com/watch?v=wjge1bVobN0 | SM65 TAS world record explained | Super interesting video explaining | Even better, this is a whole explaination video of how the SM64 TAS record works. Really interesting and wild that people have figured these things out.
-
+2024-04-24 | V | https://www.youtube.com/watch?v=wjge1bVobN0 | SM65 TAS world record explained |  Even better, this is a whole explaination video of how the SM64 TAS record works. Really interesting and wild that people have figured these things out.
 2024-04-26 | M | https://mclars.bandcamp.com/album/the-dewey-decibel-system | The Dewey Decibel System by MC Lars & Mega Ran | Somehow I missed this 2019 album of literary songs, and I love it. Walden is my favorite, but they're all good.
+2024-04-29 | M | https://podcasts.apple.com/us/podcast/the-paper-witch/id1668194919?i=1000653158989 | Magenta Presents: The Paper Witch | I love the Magenta Presents podcast. This latest episode was as great as expected!
+2024-04-30 | T | https://archive.org/details/rugrats-comic-adventures-power-play_202107/mode/2up | Rugrats Invasion Of The Baby-Sitters | I just learned that there was a Rugrats x Rocket Power comic. Very strange, but I'm here for it!
+2024-04-30 | M | https://archive.org/details/nickelodeon-classics-fan-album | Nickelodeon Classics (Fan Album) | A fan album I found with tons of songs from old Nickelodeon shows.
+2024-05-01 | T | https://en.m.wikipedia.org/wiki/Law_of_contagion | Law of Contagion | An interesting magical concept where magical links are formed between objects and people.
+2024-05-07 | S | https://sanqui.net/randomizer | Pokemon rom randomizer | This site lets you customize and generate a gbc file that you can actually play. It can even add later generation pokemon to pokemon red. Really interesting and amazing that it could be reverse engineered like this.
+2024-05-07 | T | https://en.wikipedia.org/wiki/Keitai_Denj%C5%AB_Telefang | Keitai Denjū Telefang | A japanese game from 2000 that seems to be very similar to pokemon or digimon. You collect "phone numbers" of creatures that you can summon to battle with. Might need to try it sometime. Apparently it was also poorly translated and sold as Pokemon Diamond and Pokemon Jade.
+2024-05-07 | M | http://tilde.town/~soundstone/illuminate_me.mp3 | Illuminate Me | A great song by ~soundstone (https://tilde.town/~soundstone)
+2024-05-08 | A | https://craigmod.com/roden/091/#digital-reading-in-2024 | Digital Reading in 2024 | An interesting article (well part of an article, there is more than one section in there) talking about eink devices, specifically talking about the Boox Palma and Readwise.
+2024-05-08 | S | https://stephango.com/obsidian-web-clipper | Obsidian Web Clipper | A bookmarklet to send a whole article or a highlight to Obsidian
+2024-05-08 | S | https://github.com/IanC27/lipu_nimi_pi_toki_pona | Toki Pona Dicitionaries | A script for generating toki pona dictionaries for kindle devices.
+
+2024-05-09 | A | https://arstechnica.com/gaming/2024/05/1984s-kontrabant-2-for-zx-spectrum-is-broadcast-on-fm-radio-in-slovenia-today/ | Kontrabant 2 rebroadcast on FM | For the 40th anniversary Kontrabant 2 for the ZX Spectrum was broadcast on actual FM waves.
+2024-05-09 | M | https://retrospec.sgn.net/users/tomcat/yu/ZX/TextAdv/KontraBandMuzika.mp3 | Kontra Band music | Punk music by the Kontra Band that was originally included in the tapes sold with Kontrabant 2 for the ZX Spectrum.
+2024-05-13 | A | https://joanwestenberg.medium.com/fuck-the-cult-of-productivity-49617d18ffaf | Fuck the Cult of Productivity | Thoughts on the unfortunate societal views of productivity and how we can try to change it, starting with ourselves.

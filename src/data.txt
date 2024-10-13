@@ -1,5 +1,6 @@
 ~index/index : Home : Home
 1 0xdstn 
+? <div style="padding:1em; color: #fff; background:red;">This site will no longer exist after August 29th, 2024</div> 
 - [e:wave] Hello friend. My name is [b:Dustin].
 - [e:man] My pronouns are [b:he/him].
 - [e:mail] If you would like to reach out to me, find out how on my [l:hello|hello page].
@@ -3191,6 +3192,22 @@ _ 2023.08.17
 & All of my [b:#100DaysToOffload] posts will be in this thoughts section.
 ? [f:100daystooffload]
 
+~thoughts/site-will-be-deleted : This site will be deleted : This site will be deleted : 2024-07-29
+1 This site will be deleted
+& I had fun working on this site, but I really fell off of caring to update it in the last year or so. My domain is about expired, and I don't want to pay to keep this site around when I'm not using it.
+& If you used any of my projects that are hosted on this site, they will be available on github pages, however you will lose any data you had saved in them. Here is a list:
+- [l:https://0xdstn.github.io/habits|Habits]
+- [l:https://0xdstn.github.io/ilo|ilo]
+- [l:https://0xdstn.github.io/ilo-nimi|ilo nimi]
+- [l:https://0xdstn.github.io/lipu-sona|lipu sona]
+- [l:https://0xdstn.github.io/log|Log]
+- [l:https://0xdstn.github.io/meditations|Meditations]
+- [l:https://0xdstn.github.io/suno|suno]
+- [l:https://0xdstn.github.io/traveler|The Traveler]
+& If you read this in your RSS reader, there will be no more posts, and the feed will eventually 404, so you could remove it from your list now if you want.
+& I appreciate everyone who has visited my site, and subscribed to my feeds over the years. Thank you!
+& I'll still be poking around the internet, and will you can still reach me on [l:https://mastodon.spotek.io/@dustin|mastodon] and [l:mailto:0xdstn@protonmail.com|email].
+
 ~tokipona/index : Toki Pona : A collection of posts written in toki pona : 2023-12-08
 1 toki pona
 & toki!
@@ -3267,6 +3284,13 @@ _ toki pona haiku
 # [c:2023-08-13] Brown Pelican
 # [c:2023-10-27] Black-capped Chickadee
 # [c:2023-11-04] Cooper's Hawk
+# [c:2024-06-01] Yellow-headed Blackbird
+# [c:2024-06-16] Eastern Kingbird
+# [c:2024-06-16] Tundra Swan
+# [c:2024-06-29] Western Tanager
+# [c:2024-06-29] American Dipper
+# [c:2024-06-29] Swainson's Thrush
+# [c:2024-06-30] Cedar Waxwing
 
 ~birds/violet-green-swallow : Violet-green Swallow : Photos of a Violet-green Swallow : 2024-05-15
 1 Violet-green Swallow

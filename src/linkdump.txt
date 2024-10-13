@@ -15,3 +15,22 @@
 2024-05-09 | A | https://arstechnica.com/gaming/2024/05/1984s-kontrabant-2-for-zx-spectrum-is-broadcast-on-fm-radio-in-slovenia-today/ | Kontrabant 2 rebroadcast on FM | For the 40th anniversary Kontrabant 2 for the ZX Spectrum was broadcast on actual FM waves.
 2024-05-09 | M | https://retrospec.sgn.net/users/tomcat/yu/ZX/TextAdv/KontraBandMuzika.mp3 | Kontra Band music | Punk music by the Kontra Band that was originally included in the tapes sold with Kontrabant 2 for the ZX Spectrum.
 2024-05-13 | A | https://joanwestenberg.medium.com/fuck-the-cult-of-productivity-49617d18ffaf | Fuck the Cult of Productivity | Thoughts on the unfortunate societal views of productivity and how we can try to change it, starting with ourselves.
+2024-05-15 | A | https://www.tumblr.com/artwitchpath/166092646066/intro-to-art-witchcraft | Intro to Art Witchcraft | Some beginner information on Art Witchcraft
+2024-05-17 | V | https://www.youtube.com/watch?v=6w54AvFP_70 | Is the Internet DEAD?? 💀🖥️ | A discussion of the Dead Internet Theory, Bots, and AI
+2024-05-17 | S | https://magicmirror.builders/ | Magic Mirror | An open smart mirror platform
+2024-05-17 | S | https://www.floppytotaal.org/book.html | Floppy Disk Fever | A book about floppy disks and how they're used today.
+2024-06-05 | V | https://www.youtube.com/watch?v=5vNLaPnEoqI | Hauntology, Lost Futures, and 80's Nostalgia | An interesting video that goes into what Hauntology is and how it is manifesting in culture.
+2024-06-06 | S | https://app.humanornot.ai/ | Human or Not? | A website where you chat with either a human or a bot, and have to try to determine which they are.
+2024-06-07 | S | https://robinrendle.com/ | Robin Rendle | A personal website with a great design. A large portion of the essays have custom designs, and it's all very well done.
+2024-06-21 | S | https://anhvn.com/ | anhvn | A beautiful website with custom illustrations and layout. Looking forward to diving into this one.
+2024-07-02 | S | https://gbdk-2020.github.io/gbdk-2020-gallery/?categoryTags=All&gameTypeTags=All&platformTags=All&yearReleased=All&openSource=false&linkPlay=false&cartRelease=false&multiPlatform=false&textSearch= | GBDK Showcase | Showcase of games built with GBDK
+2024-07-02 | T | https://www.infosecdiaries.com/ | Infosec Diaries | A series of stories pentesting, blue teaming, and digital forensics.
+2024-07-08 | S | https://lofi.garden/ | LOFI.garden | A curated gallery of pixel art.
+2024-07-08 | S | https://monoli.easy-myshop.jp/c-item-detail?ic=pixelmirror | Pixel Mirror | A crystal cut to make images viewed through it appear pixelated, so cool! It'd be amazing to have, but it's ~$123 lol
+2024-07-08 | A | https://www.usatoday.com/story/news/world/2016/02/05/taxi-drivers-see-ghosts-after-tsunami/79871530/ | Taxi Drivers see Ghosts After Tsunami | Article about taxi drivers in Japan experiencing ghost passengers after a tsunami that killed 16000 people
+2024-07-09 | A | https://www.reddit.com/r/vintageaudio/comments/1cex4z8/it_took_over_40_years_but_i_finally_received_my/ | MTV radio station | Apparently initially MTV also aired the audio over FM, because most televisions were mono. Interesting solution to the problem that I had no idea was a thing.
+2024-07-09 | V | https://archive.org/details/1981.08.01_MTV_First_Four_Hours_12am_Saturday_August_1st_1981 | First 4 hours of MTV | The first 4 hours of MTV, 12am Saturday, August 1, 1981
+2024-07-09 | S | https://www.iamrob.in/ | iamrobin | A beutiful personal website. I particularly like the book and album animations, and the hover effects in the bookmarks. Very nice!
+2024-07-09 | A | https://vitalyparnas.com/posts/scarcity/ | Scarcity in music consumption and more | Thoughts on how we consume music, and how streaming services don't quite cut it, among other things.
+2024-07-09 | M | https://archive.org/details/hackers_town_radio_bumpers | hackers.town radio bumpers | Radio bumpers for hackers.town radio by Russ Sharek and Avalon Woodard
+2024-07-09 | A | https://tilde.town/~zine/issues/7/#tsui-a-(small)-guide-to-indie-internet-radios | A (small) guide to indie internet radios | An article in tilde.town zine #7 with links to various internet radios.
